@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Fuse Design Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Fuse Design Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/soc-fuse-design-engineer/33099/81797300064",
-    "id": "arm-soc-fuse-design-engineer-chandler"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859488/Principal-Program-Manager",
+    "id": "microsoft-principal-program-manager-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Robotics Research Lead",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Technical Architect Salesforce (Agentforce & Data Cloud)",
+    "job_city": "New York",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Robotics Research Lead at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-robotics-research-lead/33099/84960063232",
-    "id": "arm-principal-robotics-research-lead-austin"
+    "job_description": "Hardware Engineering job for the role Technical Architect Salesforce (Agentforce & Data Cloud) at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=33873&source=WEB_Search_NA",
+    "id": "ibm-technical-architect-salesforce-agentforce-data-cloud-new-york"
   }
 ]
