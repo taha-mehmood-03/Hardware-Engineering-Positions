@@ -1,202 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Performance Architect",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
+    "employer_name": "IBM",
+    "job_title": "Quantum Engagement Lead, Channel Partnerships",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Performance Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845387/Senior-Performance-Architect%E2%80%AF",
-    "id": "microsoft-senior-performance-architect-hillsboro"
+    "job_description": "Hardware Engineering job for the role Quantum Engagement Lead, Channel Partnerships at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51935&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-lead-channel-partnerships-multiple-cities"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1836179/Senior-Product-Manager",
-    "id": "microsoft-senior-product-manager-multiple-locations"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Electrical Engineer",
-    "job_city": "Wenatchee",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1788037/Electrical-Engineer",
-    "id": "microsoft-electrical-engineer-wenatchee"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Frontend CAD & Methodology Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Frontend CAD & Methodology Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-frontend-cad-and-methodology-engineer/33099/77558411648",
-    "id": "arm-frontend-cad-methodology-engineer-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Modelling Engineer- C++",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Modelling Engineer- C++ at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/software-modelling-engineer-c/33099/84729455696",
-    "id": "arm-software-modelling-engineer-c-waltham"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Performance Analysis Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Performance Analysis Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-performance-analysis-engineer/33099/74720022336",
-    "id": "arm-software-performance-analysis-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Systems Performance Analysis Engineer",
+    "employer_name": "IBM",
+    "job_title": "Site Realibility Engineer",
     "job_city": "Austin",
-    "job_state": "Texas",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Systems Performance Analysis Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-systems-performance-analysis-engineer/33099/75738045056",
-    "id": "arm-systems-performance-analysis-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Site Realibility Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52140&source=WEB_Search_NA",
+    "id": "ibm-site-realibility-engineer-austin"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Manufacturing Quality Engineer – Hardware",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer – Hardware at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628271-manufacturing-quality-engineer-hardware",
-    "id": "aijobs-manufacturing-quality-engineer-hardware-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Hardware Security Engineer, Trusted Computing and Cryptography",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Hardware Security Engineer, Trusted Computing and Cryptography at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628267-hardware-security-engineer-trusted-computing-and-cryptography",
-    "id": "aijobs-hardware-security-engineer-trusted-computing-and-cryptography-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Data Center - Engineering Operations",
-    "job_city": "Santa Clara",
+    "job_title": "Computer Vision Engineer - Autonomy",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Technical Program Manager, Data Center - Engineering Operations at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/153614923-senior-technical-program-manager-data-center-engineering-operations",
-    "id": "aijobs-technical-program-manager-data-center-engineering-operations-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, ChatGPT Growth",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "42min ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, ChatGPT Growth at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628273-engineering-manager-chatgpt-growth",
-    "id": "aijobs-engineering-manager-chatgpt-growth-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Search Product Infra",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Search Product Infra at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628272-engineering-manager-search-product-infra",
-    "id": "aijobs-engineering-manager-search-product-infra-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager - AI Reliability",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "6h ago",
-    "job_description": "hardware engineering job for the role Engineering Manager - AI Reliability at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/153614761-engineering-manager-ai-reliability",
-    "id": "aijobs-engineering-manager-ai-reliability-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Site Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Site Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628270-site-engineer",
-    "id": "aijobs-site-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Team Lead, GTM Systems Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Team Lead, GTM Systems Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628275-team-lead-gtm-systems-engineering",
-    "id": "aijobs-team-lead-gtm-systems-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Solutions Architect, Generative AI Deployment",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "43min ago",
-    "job_description": "hardware engineering job for the role Solutions Architect, Generative AI Deployment at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628276-solutions-architect-generative-ai-deployment",
-    "id": "aijobs-solutions-architect-generative-ai-deployment-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Procurement Center of Excellence Leader",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "43min ago",
-    "job_description": "hardware engineering job for the role Procurement Center of Excellence Leader at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628277-procurement-center-of-excellence-leader",
-    "id": "aijobs-procurement-center-of-excellence-leader-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Enterprise Identity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "43min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Enterprise Identity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628274-software-engineer-enterprise-identity",
-    "id": "aijobs-software-engineer-enterprise-identity-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Recruiter and Program Manager, Emerging Talent",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Technical Recruiter and Program Manager, Emerging Talent at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153628264-technical-recruiter-and-program-manager-emerging-talent",
-    "id": "aijobs-technical-recruiter-and-program-manager-emerging-talent-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ASIC Power Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Power Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/147269373-senior-asic-power-engineer",
-    "id": "aijobs-asic-power-engineer-santa-clara"
+    "job_posted_at": "12h ago",
+    "job_description": "hardware engineering job for the role Computer Vision Engineer - Autonomy at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153642202-computer-vision-engineer-autonomy",
+    "id": "aijobs-computer-vision-engineer-autonomy-us"
   }
 ]
