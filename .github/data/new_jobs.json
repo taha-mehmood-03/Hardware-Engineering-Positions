@@ -1,22 +1,102 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Security Systems Technician",
-    "job_city": "Nashville",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Isabela’s Award-Winning INROADs Internship",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Security Systems Technician at Nashville, Tennessee, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-security-systems-technician-nashville"
+    "job_description": "Hardware Engineering job for the role Isabela’s Award-Winning INROADs Internship at ",
+    "job_apply_link": "https://careers.arm.com/isabelas-internship",
+    "id": "arm-isabela-s-award-winning-inroads-internship-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Liana's Story",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Liana's Story at ",
+    "job_apply_link": "https://careers.arm.com/why-arm-liana",
+    "id": "arm-liana-s-story-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Sabbatical Stories",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sabbatical Stories at ",
+    "job_apply_link": "https://careers.arm.com/sabbatical-stories",
+    "id": "arm-sabbatical-stories-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Wesley’s Intern Journey",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Wesley’s Intern Journey at ",
+    "job_apply_link": "https://careers.arm.com/wesley-intern-story",
+    "id": "arm-wesley-s-intern-journey-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, RTL Design",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer, RTL Design at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-rtl-design/33099/61839772208",
+    "id": "arm-engineer-rtl-design-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Experienced Hardware Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced Hardware Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hardware-engineer/33099/77284796544",
+    "id": "arm-experienced-hardware-engineer-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, RTL & SoC Interconnect Design Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer, RTL & SoC Interconnect Design Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-rtl-and-soc-interconnect-design-engineer/33099/83606737296",
+    "id": "arm-engineer-rtl-soc-interconnect-design-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer - Interconnect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Design Engineer - Interconnect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/design-engineer-interconnect/33099/84516811056",
+    "id": "arm-design-engineer-interconnect-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "React Frontend Engineer- Kubecost",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior React Frontend Engineer- Kubecost at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA",
+    "id": "ibm-react-frontend-engineer-kubecost-multiple-cities"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Digital Design",
-    "job_city": "3 Locations",
+    "job_title": "Thermal Management System Engineer",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Engineer, Digital Design at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/Principal-Engineer--Digital-Design_R244688-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-digital-design-3-locations"
+    "job_description": "hardware engineering job for the role Thermal Management System Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Thermal-Management-System-Engineer_R253248?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-thermal-management-system-engineer-2-locations"
   }
 ]
