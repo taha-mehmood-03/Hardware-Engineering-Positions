@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Hardware Performance Test Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Senior Principal CPU Design Verification Lead",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Performance Test Engineer, Engineering Labs, Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117449604802192070-hardware-performance-test-engineer-engineering-labs-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-performance-test-engineer-sunnyvale"
+    "job_description": "13 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Principal CPU Design Verification Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91985877575574214-senior-principal-cpu-design-verification-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-principal-cpu-design-verification-lead-austin"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Thermo-Mechanical Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Corporate Paralegal",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Thermo-Mechanical Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-thermo-mechanical-engineer/33099/84709712816",
-    "id": "arm-thermo-mechanical-engineer-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Engineer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Engineer II at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52304&source=WEB_Search_NA",
-    "id": "ibm-sr-engineer-san-francisco"
+    "job_description": "Hardware Engineering job for the role Corporate Paralegal at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/corporate-paralegal/33099/84981888960",
+    "id": "arm-corporate-paralegal-cambridge"
   }
 ]
