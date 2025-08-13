@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Principal CPU Design Verification Lead",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "13 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Principal CPU Design Verification Lead",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91985877575574214-senior-principal-cpu-design-verification-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-principal-cpu-design-verification-lead-austin"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Corporate Paralegal",
+    "job_title": "Software Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Corporate Paralegal at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/corporate-paralegal/33099/84981888960",
-    "id": "arm-corporate-paralegal-cambridge"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer/33099/84984916608",
+    "id": "arm-software-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Applications Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-applications-engineer/33099/77917182368",
+    "id": "arm-applications-engineer-cambridge"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Plymouth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Plymouth, Michigan, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-systems-specialist-plymouth"
   }
 ]
