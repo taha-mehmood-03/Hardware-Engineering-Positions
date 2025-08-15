@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "DC Infra Eng II - AMZ9085047",
-    "employer_name": "Amazon",
-    "job_city": "Umatilla",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9085047 at Umatilla, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057142/dc-infra-eng-ii-amz9085047",
-    "job_posted_at": "2025-08-14T14:18:36.416Z",
-    "job_posted_at_datetime_utc": "2025-08-14T14:18:36.416Z",
-    "id": "amazon-dc-infra-eng-ii-amz9085047-umatilla"
+    "employer_name": "Arm",
+    "job_title": "HPC Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior HPC Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-hpc-engineer/33099/83224737568",
+    "id": "arm-hpc-engineer-cambridge"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Building Automation Service Specialist",
-    "job_city": "Norcross",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Linux Kernel Engineer – Hardware Enablement",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Norcross, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-building-automation-service-specialist-norcross"
+    "job_description": "Hardware Engineering job for the role Senior Linux Kernel Engineer – Hardware Enablement at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-linux-kernel-engineer-hardware-enablement/33099/83027248080",
+    "id": "arm-linux-kernel-engineer-hardware-enablement-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Facilities Software Engineer - SCADA",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Facilities Software Engineer - SCADA at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30766249",
+    "id": "micron-facilities-software-engineer-scada-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Support Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53096&source=WEB_Search_NA",
+    "id": "ibm-sr-support-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Head of State and Local",
+    "job_city": "Phoenix",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Head of State and Local at ProfessionalPhoenix, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53087&source=WEB_Search_NA",
+    "id": "ibm-head-of-state-and-local-phoenix"
   }
 ]
