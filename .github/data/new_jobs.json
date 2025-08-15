@@ -1,202 +1,42 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Physical Design",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Physical Design at Burlington, VT",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Senior-Engineer--Physical-Design_2502004?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-physical-design-burlington"
+    "employer_name": "IBM",
+    "job_title": "Tier 1 Help Desk Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Tier 1 Help Desk Analyst at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52878&source=WEB_Search_NA",
+    "id": "ibm-tier-1-help-desk-analyst-multiple-cities"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Software / Firmware Engineering",
-    "job_city": "Westlake Village",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Engineer, Software / Firmware Engineering at Westlake Village, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Principal-Engineer--Software---Firmware-Engineering_2502003?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-software-firmware-engineering-westlake-village"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Hardware & Silicon Validation",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Hardware & Silicon Validation at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Hardware---Silicon-Validation_2502001?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-hardware-silicon-validation-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "ASIC Design Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role ASIC Design Engineer at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/ASIC-Design-Engineer_2501999?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-asic-design-engineer-westborough"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Design Verification",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Design Verification at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Design-Verification_2501997?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-design-verification-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Product Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Product Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Product-Engineering_2501996?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-product-engineering-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Software / Firmware Engineering Staff Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Software / Firmware Engineering Staff Engineer at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Software---Firmware-Engineering-Staff-Engineer_2501995?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-software-firmware-engineering-staff-engineer-westborough"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Digital IC Design",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer, Digital IC Design at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Digital-IC-Design_2501994?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-digital-ic-design-westborough"
+    "employer_name": "IBM",
+    "job_title": "Help Desk Team Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Help Desk Team Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52899&source=WEB_Search_NA",
+    "id": "ibm-help-desk-team-lead-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Platform Safety Analysis Engineer, DRIVE Platforms - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Platform Safety Analysis Engineer, DRIVE Platforms - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377398-senior-platform-safety-analysis-engineer-drive-platforms-autonomous-vehicles",
-    "id": "aijobs-platform-safety-analysis-engineer-drive-platforms-autonomous-vehicles-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Center Operations Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Data Center Operations Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380410-data-center-operations-lead",
-    "id": "aijobs-data-center-operations-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager – Software Configuration Management",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Engineering Manager – Software Configuration Management at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377408-senior-engineering-manager-software-configuration-management",
-    "id": "aijobs-engineering-manager-software-configuration-management-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Sourcer, Scaling",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Senior Technical Sourcer, Scaling at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380405-senior-technical-sourcer-scaling",
-    "id": "aijobs-technical-sourcer-scaling-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer / Scientist, Interpretability",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Research Engineer / Scientist, Interpretability at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380411-research-engineer-scientist-interpretability",
-    "id": "aijobs-research-engineer-scientist-interpretability-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Evals (API)",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Evals (API) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380414-engineering-manager-evals-api",
-    "id": "aijobs-engineering-manager-evals-api-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Growth Marketing",
+    "job_title": "Computer Vision Engineer",
     "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Growth Marketing at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380417-growth-marketing",
-    "id": "aijobs-growth-marketing-unknown"
+    "job_posted_at": "5h ago",
+    "job_description": "hardware engineering job for the role Computer Vision Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/154386170-computer-vision-engineer",
+    "id": "aijobs-computer-vision-engineer-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Growth Marketing",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Growth Marketing at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380416-growth-marketing",
-    "id": "aijobs-growth-marketing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Platform Software Engineer - OpenBMC Platform Architect",
-    "job_city": "Santa Clara",
+    "job_title": "Machine Learning Researcher",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Principal Platform Software Engineer - OpenBMC Platform Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377409-principal-platform-software-engineer-openbmc-platform-architect",
-    "id": "aijobs-platform-software-engineer-openbmc-platform-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Functional Safety Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Functional Safety Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377400-senior-functional-safety-manager",
-    "id": "aijobs-functional-safety-manager-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Marketing Manager - Start-ups",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Marketing Manager - Start-ups at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380415-marketing-manager-start-ups",
-    "id": "aijobs-marketing-manager-start-ups-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Trust & Safety Operations Analyst",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Trust & Safety Operations Analyst at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380413-trust-safety-operations-analyst",
-    "id": "aijobs-trust-safety-operations-analyst-united-states"
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Machine Learning Researcher at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154389675-machine-learning-researcher",
+    "id": "aijobs-machine-learning-researcher-us"
   }
 ]
