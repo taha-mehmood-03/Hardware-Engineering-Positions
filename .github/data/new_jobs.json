@@ -1,142 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "DC Infra Eng II - AMZ9085047",
+    "employer_name": "Amazon",
+    "job_city": "Umatilla",
+    "job_state": "OR",
+    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9085047 at Umatilla, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057142/dc-infra-eng-ii-amz9085047",
+    "job_posted_at": "2025-08-14T14:18:36.416Z",
+    "job_posted_at_datetime_utc": "2025-08-14T14:18:36.416Z",
+    "id": "amazon-dc-infra-eng-ii-amz9085047-umatilla"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Norcross",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer/33099/80068085408",
-    "id": "arm-verification-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Modelling Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Modelling Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/power-modelling-engineer/33099/85051978000",
-    "id": "arm-power-modelling-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-verification-engineer/33099/84899406848",
-    "id": "arm-verification-engineer-manchester"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Manager, Programs Management",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role Senior Manager, Programs Management at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30070055",
-    "id": "micron-manager-programs-management-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Team Leader - Robotics R&D",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Team Leader - Robotics R&D at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00003111/Team-Leader-Robotics-R-D",
-    "id": "abb-team-leader-robotics-r-d-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Applied Scientist",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Applied Scientist at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/95951038/R-D-Applied-Scientist",
-    "id": "abb-r-d-applied-scientist-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VP Sales, Electrification US Utility",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role VP Sales, Electrification US Utility at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00000425/VP-Sales-Electrification-US-Utility",
-    "id": "abb-vp-sales-electrification-us-utility-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002322/Project-Engineer",
-    "id": "abb-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industrial Sales Specialist - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Industrial Sales Specialist - West at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/96601570/Industrial-Sales-Specialist-West",
-    "id": "abb-industrial-sales-specialist-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00003286/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "HSE Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/96186601/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician (West Region)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician (West Region) at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/95554276/Senior-Field-Service-Technician-West-Region",
-    "id": "abb-senior-field-service-technician-west-region-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Power Systems Engineer",
-    "job_city": "West Sacramento",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sr. Power Systems Engineer at West Sacramento, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96444725/Sr-Power-Systems-Engineer",
-    "id": "abb-sr-power-systems-engineer-west-sacramento"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Inside Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Inside Sales Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006935/Inside-Sales-Specialist",
-    "id": "abb-inside-sales-specialist-multiple"
+    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Norcross, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-norcross"
   }
 ]
