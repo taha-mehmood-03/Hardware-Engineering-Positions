@@ -1,32 +1,42 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Technical Program Manager II",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Engineering Manager",
+    "job_city": "Madison",
+    "job_state": "WI",
     "job_posted_at": "Recently",
-    "job_description": "6 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Partner Engineering, Pixel",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113082325289312966-technical-program-manager-ii-partner-engineering-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-technical-program-manager-ii-kirkland"
+    "job_description": "27 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, MindMeld",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104714715384423110-engineering-manager-mindmeld?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-engineering-manager-madison"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "CPU Architect",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Support Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA",
-    "id": "ibm-technical-support-engineer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Senior CPU Architect at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-cpu-architect/33099/76257729200",
+    "id": "arm-cpu-architect-sophia-antipolis"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator - Plano TX",
-    "job_city": "Plano",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer (Automotive SW)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Plano TX at Entry LevelPlano, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50231&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-plano-tx-plano"
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer (Automotive SW) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-software-engineer-automotive-sw/33099/79556182896",
+    "id": "arm-software-engineer-automotive-sw-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Experienced Hardware Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced Hardware Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/experienced-hardware-engineer/33099/81161101824",
+    "id": "arm-experienced-hardware-engineer-lund"
   }
 ]
