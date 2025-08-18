@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Quality and Reliability Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Quality and Reliability Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-quality-and-reliability-engineer/33099/84729457424",
-    "id": "arm-quality-and-reliability-engineer-hsinchu"
+    "job_description": "6 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Partner Engineering, Pixel",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113082325289312966-technical-program-manager-ii-partner-engineering-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-technical-program-manager-ii-kirkland"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Support Engineer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Plano TX",
+    "job_city": "Plano",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Plano TX at Entry LevelPlano, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50231&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-plano-tx-plano"
   }
 ]
