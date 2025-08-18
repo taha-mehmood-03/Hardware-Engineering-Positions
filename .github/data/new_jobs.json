@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Embedded Software Engineer",
+    "employer_name": "Arm",
+    "job_title": "SoC Architect",
     "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Senior Embedded Software Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30764688",
-    "id": "micron-embedded-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Service Engineer – Paralleling Switchgear",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Service Engineer – Paralleling Switchgear at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002024/Senior-Service-Engineer-Paralleling-Switchgear",
-    "id": "abb-senior-service-engineer-paralleling-switchgear-multiple"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Automation Service HVAC Operations Manager",
-    "job_city": "Houston",
-    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Smart Buildings Automation Service HVAC Operations Manager at Houston, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-automation-service-hvac-operations-manager-houston"
+    "job_description": "Hardware Engineering job for the role SoC Architect at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/soc-architect/33099/79414120512",
+    "id": "arm-soc-architect-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Security Systems Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Security Systems Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/product-security-systems-architect/33099/85172733696",
+    "id": "arm-product-security-systems-architect-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, Standard Cell",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer, Standard Cell at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-standard-cell/33099/85172733312",
+    "id": "arm-engineer-standard-cell-bengaluru"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "AI Infrastructure Engineer - HPC",
+    "job_city": "Offsite",
+    "job_state": "Boulder",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Infrastructure Engineer - HPC at Offsite, Boulder, Colorado, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Infrastructure-Engineer-HPC/1443781",
+    "id": "cisco-ai-infrastructure-engineer-hpc-offsite"
   }
 ]
