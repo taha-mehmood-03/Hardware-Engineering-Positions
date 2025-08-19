@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- Onsite:  C++ & Modeling",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "employer_name": "Google",
+    "job_title": "Solutions Engineer",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer- Onsite:  C++ & Modeling at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-onsite-c-and-modeling/33099/84729455696",
-    "id": "arm-software-engineer-onsite-c-modeling-waltham"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Director, Product, Network & Browser Synthetics - ThousandEyes",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Director, Product, Network & Browser Synthetics - ThousandEyes at San Francisco, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Director-Product-Network-Browser-Synthetics-ThousandEyes/1420579",
-    "id": "cisco-director-product-network-browser-synthetics-thousandeyes-san-francisco"
+    "job_description": "17 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Solutions Engineer, GenAI, Trusted Tester Program, gTech",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125113503642985158-solutions-engineer-genai-trusted-tester-program-gtech?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-solutions-engineer-boulder"
   }
 ]
