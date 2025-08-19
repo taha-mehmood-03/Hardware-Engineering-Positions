@@ -1,44 +1,22 @@
 [
   {
-    "job_title": "Sr. Technical Support Engineer, Amazon Robotics Technical Support",
-    "employer_name": "Amazon",
-    "job_city": "Virtual",
-    "job_state": "USA",
-    "job_description": "hardware engineering job for the role Sr. Technical Support Engineer, Amazon Robotics Technical Support at Virtual, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037315/sr-technical-support-engineer-amazon-robotics-technical-support",
-    "job_posted_at": "2025-08-19T21:17:35.843Z",
-    "job_posted_at_datetime_utc": "2025-08-19T21:17:35.843Z",
-    "id": "amazon-sr-technical-support-engineer-amazon-robotics-technical-support-virtual"
-  },
-  {
-    "job_title": "Software Development Engineer II, Annapurna Labs",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "hardware engineering job for the role Software Development Engineer II, Annapurna Labs at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ii-annapurna-labs",
-    "job_posted_at": "2025-08-19T21:17:35.843Z",
-    "job_posted_at_datetime_utc": "2025-08-19T21:17:35.843Z",
-    "id": "amazon-software-development-engineer-ii-annapurna-labs-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA",
-    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-austin"
-  },
-  {
     "employer_name": "CISCO",
-    "job_title": "Hardware Engineer - Quality & Reliability",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Manager, Strategy & Special Projects",
+    "job_city": "Offsite",
+    "job_state": "Chicago",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Quality & Reliability at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Principal-Hardware-Engineer-Quality-Reliability/1446251",
-    "id": "cisco-hardware-engineer-quality-reliability-san-jose"
+    "job_description": "hardware engineering job for the role Manager, Strategy & Special Projects at Offsite, Chicago, Illinois, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Manager-Strategy-Special-Projects/1438498",
+    "id": "cisco-manager-strategy-special-projects-offsite"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence (AI) Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role Artificial Intelligence (AI) Engineer at Milpitas, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer",
+    "id": "aijobs-artificial-intelligence-ai-engineer-us"
   }
 ]
