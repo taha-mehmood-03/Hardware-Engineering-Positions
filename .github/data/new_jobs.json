@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Digital Circuit Design Engineer",
-    "job_city": "Burlington",
-    "job_state": "VT",
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Cheyenne",
+    "job_state": "Wyoming",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861466/Mechanical-Engineer",
+    "id": "microsoft-mechanical-engineer-cheyenne"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Fab Support Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Fab Support Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30854293",
+    "id": "micron-fab-support-engineer-manassas"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Technician 6, Equipment Engineering",
+    "job_city": "US",
+    "job_state": "NC",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Digital Circuit Design Engineer at Burlington, VT",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Principal-Digital-Circuit-Design-Engineer_2501938?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-digital-circuit-design-engineer-burlington"
+    "job_description": "hardware engineering job for the role Technician 6, Equipment Engineering at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Technician-6--Equipment-Engineering_R254306?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-technician-6-equipment-engineering-us"
   }
 ]
