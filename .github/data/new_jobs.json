@@ -1,72 +1,44 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "RDA/Metrology Shift Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role RDA/Metrology Shift Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482683",
-    "id": "micron-rda-metrology-shift-process-engineer-boise"
+    "job_title": "Sr. Technical Support Engineer, Amazon Robotics Technical Support",
+    "employer_name": "Amazon",
+    "job_city": "Virtual",
+    "job_state": "USA",
+    "job_description": "hardware engineering job for the role Sr. Technical Support Engineer, Amazon Robotics Technical Support at Virtual, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037315/sr-technical-support-engineer-amazon-robotics-technical-support",
+    "job_posted_at": "2025-08-19T21:17:35.843Z",
+    "job_posted_at_datetime_utc": "2025-08-19T21:17:35.843Z",
+    "id": "amazon-sr-technical-support-engineer-amazon-robotics-technical-support-virtual"
+  },
+  {
+    "job_title": "Software Development Engineer II, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "hardware engineering job for the role Software Development Engineer II, Annapurna Labs at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ii-annapurna-labs",
+    "job_posted_at": "2025-08-19T21:17:35.843Z",
+    "job_posted_at_datetime_utc": "2025-08-19T21:17:35.843Z",
+    "id": "amazon-software-development-engineer-ii-annapurna-labs-new-york"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Sr. Engineer",
-    "job_city": "Multiple Cities",
+    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53832&source=WEB_Search_NA",
-    "id": "ibm-sr-engineer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA",
+    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "IT Automation Sales Leader",
-    "job_city": "Cambridge",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer - Quality & Reliability",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IT Automation Sales Leader at ProfessionalCambridge, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53342&source=WEB_Search_NA",
-    "id": "ibm-it-automation-sales-leader-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Subscription and Annuity Representative – Entry Level Sales Program",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Subscription and Annuity Representative – Entry Level Sales Program 2026 at Entry LevelDallas, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53828&source=WEB_Search_NA",
-    "id": "ibm-subscription-and-annuity-representative-entry-level-sales-program-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Brand Technical Specialist - IT Automation",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Brand Technical Specialist - IT Automation at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53539&source=WEB_Search_NA",
-    "id": "ibm-brand-technical-specialist-it-automation-multiple-cities"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Field Applications (Automotive Cabin Electronics)",
-    "job_city": "US",
-    "job_state": "MI",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Field Applications (Automotive Cabin Electronics) at US, MI, Livonia",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MI-Livonia/Staff-Engineer--Field-Applications--Automotive-Cabin-Electronics-_R254789?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-field-applications-automotive-cabin-electronics-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sr. Quality Manager",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "26min ago",
-    "job_description": "hardware engineering job for the role Sr. Quality Manager at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156546839-sr-quality-manager",
-    "id": "aijobs-sr-quality-manager-us"
+    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Quality & Reliability at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Principal-Hardware-Engineer-Quality-Reliability/1446251",
+    "id": "cisco-hardware-engineer-quality-reliability-san-jose"
   }
 ]
