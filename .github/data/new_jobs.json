@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative Chicago, Illinois",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representative Chicago, Illinois at Entry LevelChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-chicago-illinois-chicago"
+    "job_title": "Technical Program Manager, WWGST Retail Infrastructure Services",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Technical Program Manager, WWGST Retail Infrastructure Services at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061265/technical-program-manager-wwgst-retail-infrastructure-services",
+    "job_posted_at": "2025-08-18T19:21:30.891Z",
+    "job_posted_at_datetime_utc": "2025-08-18T19:21:30.891Z",
+    "id": "amazon-technical-program-manager-wwgst-retail-infrastructure-services-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Wet Etch & Clean Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role Wet Etch & Clean Equipment Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/28578489",
+    "id": "micron-wet-etch-clean-equipment-engineer-manassas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data scientists, AI engineering, LLM engineer, Machine Learning Engineers",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "12h ago",
+    "job_description": "hardware engineering job for the role Data scientists, AI engineering, LLM engineer, Machine Learning Engineers at Charlotte, NC, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156345600-data-scientists-ai-engineering-llm-engineer-machine-learning-engineers",
+    "id": "aijobs-data-scientists-ai-engineering-llm-engineer-machine-learning-engineers-us"
   }
 ]
