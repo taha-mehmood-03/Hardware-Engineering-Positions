@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Virtualization Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Virtualization Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-virtualization-engineer/33099/83285894800",
-    "id": "arm-virtualization-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-engineer/33099/83377047600",
-    "id": "arm-engineer-cambridge"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist III, Research, Play",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Data Scientist III, Research, Play at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play",
+    "id": "aijobs-data-scientist-iii-research-play-us"
   }
 ]
