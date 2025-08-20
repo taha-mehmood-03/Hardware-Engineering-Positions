@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Thermal Engineering Technical Leader",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Ops Engineer, MSP CX, Mechatronics & Sustainable Packaging, Customer Experience",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Ops Engineer, MSP CX, Mechatronics & Sustainable Packaging, Customer Experience at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063064/ops-engineer-msp-cx-mechatronics-sustainable-packaging-customer-experience",
+    "job_posted_at": "2025-08-20T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-20T00:00:00.000Z",
+    "id": "amazon-ops-engineer-msp-cx-mechatronics-sustainable-packaging-customer-experience-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Machine Learning Tools",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Thermal Engineering Technical Leader at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Thermal-Engineering-Technical-Leader/1447356",
-    "id": "cisco-thermal-engineering-technical-leader-san-jose"
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Machine Learning Tools at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-machine-learning-tools/33099/76924461376",
+    "id": "arm-software-engineer-machine-learning-tools-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Data Services DevOps Staff Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Services DevOps Staff Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/data-services-devops-staff-engineer/33099/79564931360",
+    "id": "arm-data-services-devops-staff-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-engineer/33099/85244173552",
+    "id": "arm-software-engineer-austin"
   }
 ]
