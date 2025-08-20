@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "System Development Engineer, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Merritt Island",
-    "job_state": "FL",
-    "job_description": "hardware engineering job for the role System Development Engineer, Project Kuiper at Merritt Island, FL, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062828/system-development-engineer-project-kuiper",
-    "job_posted_at": "2025-08-20T15:23:12.891Z",
-    "job_posted_at_datetime_utc": "2025-08-20T15:23:12.891Z",
-    "id": "amazon-system-development-engineer-project-kuiper-merritt-island"
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation HVAC Service Technician",
+    "job_city": "Sandy",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation HVAC Service Technician at Sandy, Utah, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-hvac-service-technician-sandy"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Power Integrity Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Beltsville",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Signal Integrity. Level: All Levels. Posted: Recently. Full Title: Senior Signal Integrity - Power Integrity Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860506/Senior-Signal-Integrity---Power-Integrity-Engineer",
-    "id": "microsoft-power-integrity-engineer-redmond"
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Beltsville, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-systems-specialist-beltsville"
   }
 ]
