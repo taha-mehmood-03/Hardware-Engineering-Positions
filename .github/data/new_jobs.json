@@ -1,63 +1,12 @@
 [
   {
-    "job_title": "Interdisciplinary Systems Engineer, Manufacturing Test Equipment Standardization, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Interdisciplinary Systems Engineer, Manufacturing Test Equipment Standardization, Project Kuiper at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063194/interdisciplinary-systems-engineer-manufacturing-test-equipment-standardization-project-kuiper",
-    "job_posted_at": "2025-08-20T21:16:27.729Z",
-    "job_posted_at_datetime_utc": "2025-08-20T21:16:27.729Z",
-    "id": "amazon-interdisciplinary-systems-engineer-manufacturing-test-equipment-standardization-project-kuiper-bellevue"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Technical Principal Program Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "CISCO",
+    "job_title": "ASIC Timing Engineer",
+    "job_city": "Offsite",
+    "job_state": "Ann Arbor",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Technical Principal Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857053/Technical-Principal-Program-Manager",
-    "id": "microsoft-technical-principal-program-manager-multiple-locations"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Field CTO",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Field CTO at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46091&source=WEB_Search_NA",
-    "id": "ibm-field-cto-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Marketing Manager I- Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Product Marketing Manager I- Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53231&source=WEB_Search_NA",
-    "id": "ibm-product-marketing-manager-i-security-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Marketing Manager II - Infrastructure",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Product Marketing Manager II - Infrastructure at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53228&source=WEB_Search_NA",
-    "id": "ibm-product-marketing-manager-ii-infrastructure-multiple-cities"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Fire/Life Safety Service Senior Sales Executive",
-    "job_city": "Shoreview",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire/Life Safety Service Senior Sales Executive at Shoreview, Minnesota, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-fire-life-safety-service-senior-sales-executive-shoreview"
+    "job_description": "hardware engineering job for the role Senior ASIC Timing Engineer at Offsite, Ann Arbor, Michigan, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-ASIC-Timing-Engineer/1449290",
+    "id": "cisco-asic-timing-engineer-offsite"
   }
 ]
