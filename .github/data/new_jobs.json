@@ -1,22 +1,182 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Manager, Strategy & Special Projects",
-    "job_city": "Offsite",
-    "job_state": "Chicago",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer- C++ & Modeling (Hybrid Onsite)",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manager, Strategy & Special Projects at Offsite, Chicago, Illinois, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Manager-Strategy-Special-Projects/1438498",
-    "id": "cisco-manager-strategy-special-projects-offsite"
+    "job_description": "Hardware Engineering job for the role Software Engineer- C++ & Modeling (Hybrid Onsite) at Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-c-and-modeling-hybrid-onsite/33099/84729455696",
+    "id": "arm-software-engineer-c-modeling-hybrid-onsite-waltham"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Fire Alarm & Life Safety Senior Sales Executive",
+    "job_city": "St. Louis",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Fire Alarm & Life Safety Senior Sales Executive at St. Louis, Missouri, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-alarm-life-safety-senior-sales-executive-st-louis"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Application Engineer, Power Distribution",
+    "job_city": "Grand Prairie",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Application Engineer, Power Distribution at Grand Prairie, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-application-engineer-power-distribution-grand-prairie"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Artificial Intelligence (AI) Engineer",
-    "job_city": "US",
+    "job_title": "Systems Validation Engineer",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "hardware engineering job for the role Artificial Intelligence (AI) Engineer at Milpitas, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer",
-    "id": "aijobs-artificial-intelligence-ai-engineer-us"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Systems Validation Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571496-systems-validation-engineer",
+    "id": "aijobs-systems-validation-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Quality Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Quality Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576643-software-quality-engineer",
+    "id": "aijobs-software-quality-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Verification Engineer - GPU",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "43min ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571499-senior-asic-verification-engineer-gpu",
+    "id": "aijobs-asic-verification-engineer-gpu-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Verification Engineer - GPU",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_posted_at": "43min ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at US, OR, Hillsboro",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571502-senior-asic-verification-engineer-gpu",
+    "id": "aijobs-asic-verification-engineer-gpu-hillsboro"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Coexistence Test Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Systems Coexistence Test Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576642-systems-coexistence-test-engineer",
+    "id": "aijobs-systems-coexistence-test-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager – Adversarial Model Research",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Program Manager – Adversarial Model Research at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576637-technical-program-manager-adversarial-model-research",
+    "id": "aijobs-technical-program-manager-adversarial-model-research-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Power Project Lead, Superintelligence Infrastructure - Stargate",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Power Project Lead, Superintelligence Infrastructure - Stargate at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576638-power-project-lead-superintelligence-infrastructure-stargate",
+    "id": "aijobs-power-project-lead-superintelligence-infrastructure-stargate-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sensor Test Development Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Sensor Test Development Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576644-sensor-test-development-engineer",
+    "id": "aijobs-sensor-test-development-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Designer, Growth",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Designer, Growth at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576635-product-designer-growth",
+    "id": "aijobs-product-designer-growth-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Factory Test Instrumentation Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Factory Test Instrumentation Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576645-factory-test-instrumentation-engineer",
+    "id": "aijobs-factory-test-instrumentation-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - Autonomous Vehicles Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager - Autonomous Vehicles Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571498-senior-technical-program-manager-autonomous-vehicles-platform",
+    "id": "aijobs-technical-program-manager-autonomous-vehicles-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SWE, Applied Evals",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role SWE, Applied Evals at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576639-swe-applied-evals",
+    "id": "aijobs-swe-applied-evals-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Backend Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576641-backend-engineer",
+    "id": "aijobs-backend-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Payments",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "2min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Payments at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576640-software-engineer-payments",
+    "id": "aijobs-software-engineer-payments-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Database Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "2min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Database Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576647-software-engineer-database-systems",
+    "id": "aijobs-software-engineer-database-systems-united-states"
   }
 ]
