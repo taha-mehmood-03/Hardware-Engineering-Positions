@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Z Hardware Product Engineering",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Z Hardware Product Engineering at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52656&source=WEB_Search_NA",
+    "id": "ibm-ibm-z-hardware-product-engineering-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - Database",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer - Database at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45020&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-database-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Networking Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Networking Software Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53240&source=WEB_Search_NA",
+    "id": "ibm-networking-software-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53551&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Managing Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52897&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Analytics Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Analytics Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53115&source=WEB_Search_NA",
+    "id": "ibm-data-analytics-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54144&source=WEB_Search_NA",
+    "id": "ibm-engineer-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "Minneapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelMinneapolis, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54165&source=WEB_Search_NA",
+    "id": "ibm-engineer-minneapolis"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53784&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-multiple-cities"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Engineering Information Developer/Senior Application Engineering Technical Writer",
+    "job_city": "Austin",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Engineering Information Developer/Senior Application Engineering Technical Writer at Austin, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-engineering-information-developer-senior-application-engineering-technical-writer-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Embedded Firmware Developer – Battery Charger",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10min ago",
+    "job_description": "hardware engineering job for the role Embedded Firmware Developer – Battery Charger at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157075607-embedded-firmware-developer-battery-charger",
+    "id": "aijobs-embedded-firmware-developer-battery-charger-us"
+  }
+]
