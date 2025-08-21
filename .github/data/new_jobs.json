@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3028028/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators",
-    "job_posted_at": "2025-08-15T22:18:23.909Z",
-    "job_posted_at_datetime_utc": "2025-08-15T22:18:23.909Z",
-    "id": "amazon-systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators-cupertino"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Lead Principal Engineer Software (Sys)",
-    "job_city": "Irvine",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Software Engineer II - Cloud & Industrial AI",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lead Principal Engineer Software (Sys) at Irvine",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-lead-principal-engineer-software-sys-irvine"
+    "job_description": "hardware engineering job for the role Software Engineer II - Cloud & Industrial AI at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-software-engineer-ii-cloud-industrial-ai-bellevue"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Power Protection & Automation Engineering Development Program (PA EDP)",
-    "job_city": "Wendell",
+    "job_title": "AI Applied Scientist - Cloud & Industrial AI",
+    "job_city": "Bellevue",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (PA EDP) at Wendell, North Carolina, United States of America",
+    "job_description": "hardware engineering job for the role AI Applied Scientist - Cloud & Industrial AI at Bellevue, Washington, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-power-protection-automation-engineering-development-program-pa-edp-wendell"
+    "id": "siemens-ai-applied-scientist-cloud-industrial-ai-bellevue"
   }
 ]
