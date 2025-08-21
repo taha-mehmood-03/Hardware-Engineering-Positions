@@ -1,22 +1,55 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "Charlotte",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelCharlotte, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54170&source=WEB_Search_NA",
-    "id": "ibm-engineer-charlotte"
+    "job_title": "Production Support Engineer, Project Kuiper RF HW",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Production Support Engineer, Project Kuiper RF HW at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042637/production-support-engineer-project-kuiper-rf-hw",
+    "job_posted_at": "2025-08-21T15:31:41.698Z",
+    "job_posted_at_datetime_utc": "2025-08-21T15:31:41.698Z",
+    "id": "amazon-production-support-engineer-project-kuiper-rf-hw-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "New York",
+    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063667/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_posted_at": "2025-08-21T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-21T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-herndon"
+  },
+  {
+    "job_title": "MAC System Integration and Automation Engineer, Kuiper Satellite Communication System - MAC Software Development",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role MAC System Integration and Automation Engineer, Kuiper Satellite Communication System - MAC Software Development at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3009920/mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development",
+    "job_posted_at": "2025-08-15T16:31:41.697Z",
+    "job_posted_at_datetime_utc": "2025-08-15T16:31:41.697Z",
+    "id": "amazon-mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshall",
+    "job_city": "Milwaukee",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855412/Critical-Environment-Energy-Marshall",
+    "id": "microsoft-critical-environment-energy-marshall-milwaukee"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Principal Engineer Product Definition (f/m/div)",
+    "job_city": "Villach (Austria)",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54138&source=WEB_Search_NA",
-    "id": "ibm-engineer-new-york"
+    "job_description": "hardware engineering job for the role Senior Principal Engineer Product Definition (f/m/div) at Villach (Austria)",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-principal-engineer-product-definition-f-m-div-villach-austria"
   }
 ]
