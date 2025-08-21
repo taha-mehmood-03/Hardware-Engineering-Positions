@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer, System and Board Failure Analysis",
-    "job_city": "Milpitas",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "Charlotte",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineer, System and Board Failure Analysis at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-System-and-Board-Failure-Analysis/1448129",
-    "id": "cisco-hardware-engineer-system-and-board-failure-analysis-milpitas"
+    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelCharlotte, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54170&source=WEB_Search_NA",
+    "id": "ibm-engineer-charlotte"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI\\ML lead - Edge Compute",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal AI\\ML lead - Edge Compute at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Algorithm-Engineer---Edge---Emerging-Hardware_R252784?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-ml-lead-edge-compute-us"
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54138&source=WEB_Search_NA",
+    "id": "ibm-engineer-new-york"
   }
 ]
