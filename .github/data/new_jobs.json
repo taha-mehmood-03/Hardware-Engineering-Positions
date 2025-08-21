@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "ASIC Timing Engineer",
-    "job_city": "Offsite",
-    "job_state": "Ann Arbor",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior ASIC Timing Engineer at Offsite, Ann Arbor, Michigan, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-ASIC-Timing-Engineer/1449290",
-    "id": "cisco-asic-timing-engineer-offsite"
+    "employer_name": "AiJobs",
+    "job_title": "AI System Engineer – New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI System Engineer – New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867208-ai-system-engineer-new-college-grad-2025",
+    "id": "aijobs-ai-system-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Technical Program Manager - GPU Communication Libraries",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Technical Program Manager - GPU Communication Libraries at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867210-senior-software-technical-program-manager-gpu-communication-libraries",
+    "id": "aijobs-software-technical-program-manager-gpu-communication-libraries-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC and AI Networking Performance Research and Analysis Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "38min ago",
+    "job_description": "hardware engineering job for the role Senior HPC and AI Networking Performance Research and Analysis Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867206-senior-hpc-and-ai-networking-performance-research-and-analysis-engineer",
+    "id": "aijobs-hpc-and-ai-networking-performance-research-and-analysis-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Site Reliability Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Staff Site Reliability Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867212-principal-staff-site-reliability-engineer",
+    "id": "aijobs-staff-site-reliability-engineer-santa-clara"
   }
 ]
