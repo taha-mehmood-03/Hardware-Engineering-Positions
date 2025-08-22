@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer-Network Services",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Developer-Network Services at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-network-services-austin"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Support Engineer, Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Support Engineer, Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102553-senior-support-engineer-lead",
-    "id": "aijobs-support-engineer-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102550-manufacturing-quality-engineer-datacenter-infrastructure-stargate",
-    "id": "aijobs-manufacturing-quality-engineer-datacenter-infrastructure-stargate-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Security Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Security Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102548-software-engineer-security-products",
-    "id": "aijobs-software-engineer-security-products-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Researcher — Safety Systems, Misalignment Research",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Researcher — Safety Systems, Misalignment Research at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102549-senior-researcher-safety-systems-misalignment-research",
-    "id": "aijobs-researcher-safety-systems-misalignment-research-unknown"
+    "job_title": "Machine Learning / Research Engineer (New Grad)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4h ago",
+    "job_description": "hardware engineering job for the role Machine Learning / Research Engineer (New Grad) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157112976-machine-learning-research-engineer-new-grad",
+    "id": "aijobs-machine-learning-research-engineer-new-grad-us"
   }
 ]
