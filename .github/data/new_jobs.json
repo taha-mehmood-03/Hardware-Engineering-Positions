@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Platform Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Platform Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862416/Principal-Platform-Architect",
+    "id": "microsoft-principal-platform-architect-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineering Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA",
+    "id": "ibm-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Staff Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Staff Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
+    "id": "ibm-staff-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Consultant",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security Consultant at Entry LevelRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54821&source=WEB_Search_NA",
+    "id": "ibm-security-consultant-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader - Northeast - Estee Lauder",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales Leader - Northeast - Estee Lauder at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53625&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-northeast-estee-lauder-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Google Global AM",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Google Global AM at San Francisco, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Google-Global-AM/1448884",
+    "id": "cisco-google-global-am-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Automation Engineer, Manufacturing",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4min ago",
+    "job_description": "hardware engineering job for the role Automation Engineer, Manufacturing at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157275798-automation-engineer-manufacturing",
+    "id": "aijobs-automation-engineer-manufacturing-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quality Engineer, Manufacturing",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4min ago",
+    "job_description": "hardware engineering job for the role Quality Engineer, Manufacturing at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157275797-quality-engineer-manufacturing",
+    "id": "aijobs-quality-engineer-manufacturing-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Test Engineer, Manufacturing",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4min ago",
+    "job_description": "hardware engineering job for the role Test Engineer, Manufacturing at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157275795-test-engineer-manufacturing",
+    "id": "aijobs-test-engineer-manufacturing-us"
+  }
+]
