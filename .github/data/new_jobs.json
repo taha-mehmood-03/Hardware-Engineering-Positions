@@ -1,43 +1,32 @@
 [
   {
-    "job_title": "Electrical Engineer, Colocation Regional Engineering (CRE)",
-    "employer_name": "Amazon",
-    "job_city": "Fernley",
-    "job_state": "NV",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Colocation Regional Engineering (CRE) at Fernley, NV, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981073/electrical-engineer-colocation-regional-engineering-cre",
-    "job_posted_at": "2025-08-22T16:25:04.679Z",
-    "job_posted_at_datetime_utc": "2025-08-22T16:25:04.679Z",
-    "id": "amazon-electrical-engineer-colocation-regional-engineering-cre-fernley"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Hardware",
+    "job_title": "Senior Strategic Sourcing Engineer",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Principal Systems Engineer. Level: All Levels. Posted: Recently. Full Title: Principal Systems Engineer - Hardware",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858302/Principal-Systems-Engineer---Hardware",
-    "id": "microsoft-hardware-redmond"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Strategic Sourcing Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846311/Senior-Strategic-Sourcing-Engineer",
+    "id": "microsoft-senior-strategic-sourcing-engineer-redmond"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "System Architect - IBC Power",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role System Architect - IBC Power at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/System-Architect---IBC-Power_R254128?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-system-architect-ibc-power-2-locations"
+    "employer_name": "Arm",
+    "job_title": "Software Release & Test Engineer (Automotive)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Release & Test Engineer (Automotive) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/principal-software-release-and-test-engineer-automotive/33099/78612045648",
+    "id": "arm-software-release-test-engineer-automotive-munich"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Signal and Power Integrity - Principal Engineer / Technical Manager",
-    "job_city": "US - MA - Westborough",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Signal and Power Integrity - Principal Engineer / Technical Manager at US - MA - Westborough",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---MA---Westborough/Signal-and-Power-Integrity---Principal-Engineer---Technical-Manager_2500955?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-signal-and-power-integrity-principal-engineer-technical-manager-us-ma-westborough"
+    "employer_name": "SIEMENS",
+    "job_title": "Atlas Graduate Program: Associate Product Engineer (2025)",
+    "job_city": "Fremont",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Atlas Graduate Program: Associate Product Engineer (2025) at Fremont, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-atlas-graduate-program-associate-product-engineer-2025-fremont"
   }
 ]
