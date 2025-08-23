@@ -1,62 +1,52 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Team Leader - 2nd Shift",
+    "job_title": "Project Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Project Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006357/Project-Manager",
+    "id": "abb-project-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Supervisor - 2nd Shift",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Production Supervisor - 2nd Shift at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006910/Production-Supervisor-2nd-Shift",
+    "id": "abb-production-supervisor-2nd-shift-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Customer Support Specialist",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Team Leader - 2nd Shift at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004573/Team-Leader-2nd-Shift",
-    "id": "abb-team-leader-2nd-shift-not-specific"
+    "job_description": "hardware engineering job for the role Customer Support Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003491/Customer-Support-Specialist",
+    "id": "abb-customer-support-specialist-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales support specialist",
+    "job_title": "Digital Delivery Manager  – MES",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "hardware engineering job for the role Digital Delivery Manager  – MES at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96852943/Digital-Delivery-Manager-MES",
+    "id": "abb-digital-delivery-manager-mes-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager HVAC - South Central",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales support specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00005061/Sales-support-specialist",
-    "id": "abb-sales-support-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D  Engineer - Hardware",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role R&D  Engineer - Hardware at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00005537/R-D-Engineer-Hardware",
-    "id": "abb-r-d-engineer-hardware-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "APM, Asset Performance Management Business Development",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role APM, Asset Performance Management Business Development at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96232198/APM-Asset-Performance-Management-Business-Development",
-    "id": "abb-apm-asset-performance-management-business-development-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Hoisting Applications Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Hoisting Applications Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96894540/Hoisting-Applications-Engineer",
-    "id": "abb-hoisting-applications-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Application Specialist Sustainable Energy",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Global Application Specialist Sustainable Energy at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00000970/Global-Application-Specialist-Sustainable-Energy",
-    "id": "abb-global-application-specialist-sustainable-energy-not-specific"
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVAC - South Central at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007038/Regional-Sales-Manager-HVAC-South-Central",
+    "id": "abb-regional-sales-manager-hvac-south-central-not-specific"
   }
 ]
