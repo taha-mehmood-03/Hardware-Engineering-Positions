@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "TPR Production Operator-Assembler-1st shift",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role TPR Production Operator-Assembler-1st shift at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008009/TPR-Production-Operator-Assembler-1st-shift",
+    "id": "abb-tpr-production-operator-assembler-1st-shift-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commissioning Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Commissioning Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002551/Commissioning-Engineer",
+    "id": "abb-commissioning-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Front End Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Front End Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Front-End-Developer",
+    "id": "abb-front-end-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Marine & Ports",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Field Service Engineer - Marine & Ports at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95948088/Field-Service-Engineer-Marine-Ports",
+    "id": "abb-field-service-engineer-marine-ports-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - Construction (NYC)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Account Manager - Construction (NYC) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005516/Account-Manager-Construction-NYC",
+    "id": "abb-account-manager-construction-nyc-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D intern-机器学习实习生",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role R&D intern-机器学习实习生 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96003473/R-D-intern-机器学习实习生",
+    "id": "abb-r-d-intern-not-specific"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Design Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Product Design Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157492159-product-design-program-manager",
+    "id": "aijobs-product-design-program-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Manager - Data Center Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2h ago",
+    "job_description": "hardware engineering job for the role Senior Software Manager - Data Center Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157490350-senior-software-manager-data-center-performance",
+    "id": "aijobs-software-manager-data-center-performance-santa-clara"
+  }
+]
