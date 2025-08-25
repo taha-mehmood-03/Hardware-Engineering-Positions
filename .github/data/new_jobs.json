@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Embedded Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Software Embedded Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-software-embedded-engineer/33099/77583637952",
+    "id": "arm-software-embedded-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Specialist - Emerging Talent",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Specialist - Emerging Talent at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-specialist-emerging-talent/33099/79880499680",
+    "id": "arm-specialist-emerging-talent-bengaluru"
+  }
+]
