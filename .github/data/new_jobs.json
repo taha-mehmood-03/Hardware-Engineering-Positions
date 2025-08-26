@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Process Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 14 hours ago",
-    "job_description": "hardware engineering job for the role Intern - Process Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30921309",
-    "id": "micron-intern-process-engineer-manassas"
+    "employer_name": "Arm",
+    "job_title": "Director - ML Tooling",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director - ML Tooling at Cambridge, United Kingdom, Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/director-ml-tooling/33099/77231720704",
+    "id": "arm-director-ml-tooling-cambridge"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Controls Systems Specialist",
-    "job_city": "Milwaukee",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Product Analyst II, R&D Portfolio Strategy",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Controls Systems Specialist at Milwaukee, Wisconsin, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-controls-systems-specialist-milwaukee"
+    "job_description": "Hardware Engineering job for the role Senior Product Analyst II, R&D Portfolio Strategy at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53145&source=WEB_Search_NA",
+    "id": "ibm-product-analyst-ii-r-d-portfolio-strategy-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "AI Software Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Software Engineer at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Software-Engineer/1446847",
+    "id": "cisco-ai-software-engineer-rtp"
   }
 ]
