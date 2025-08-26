@@ -1,22 +1,55 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Mechanical Engineer II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862612/Mechanical-Engineer-II",
-    "id": "microsoft-mechanical-engineer-ii-redmond"
+    "job_title": "Operations Engineer II, MSP CX-DR",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Operations Engineer II, MSP CX-DR at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3004819/operations-engineer-ii-msp-cx-dr",
+    "job_posted_at": "2025-08-26T19:19:55.024Z",
+    "job_posted_at_datetime_utc": "2025-08-26T19:19:55.024Z",
+    "id": "amazon-operations-engineer-ii-msp-cx-dr-bellevue"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer (Automotive)",
-    "job_city": "Munich",
-    "job_state": "Germany",
+    "job_title": "Ops Engineer, Deployment & Ramp, Mechatronics & Sustainable Packaging Customer Experience",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Ops Engineer, Deployment & Ramp, Mechatronics & Sustainable Packaging Customer Experience at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3004809/ops-engineer-deployment-ramp-mechatronics-sustainable-packaging-customer-experience",
+    "job_posted_at": "2025-08-26T19:19:55.024Z",
+    "job_posted_at_datetime_utc": "2025-08-26T19:19:55.024Z",
+    "id": "amazon-ops-engineer-deployment-ramp-mechatronics-sustainable-packaging-customer-experience-bellevue"
+  },
+  {
+    "job_title": "Quality Assurance Engineer II, Echo Platform",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Quality Assurance Engineer II, Echo Platform at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066659/quality-assurance-engineer-ii-echo-platform",
+    "job_posted_at": "2025-08-26T19:19:55.024Z",
+    "job_posted_at_datetime_utc": "2025-08-26T19:19:55.024Z",
+    "id": "amazon-quality-assurance-engineer-ii-echo-platform-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Optical - Hardware Test Development Engineer",
+    "job_city": "Maynard",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer (Automotive) at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/staff-software-engineer-automotive/33099/79648772064",
-    "id": "arm-software-engineer-automotive-munich"
+    "job_description": "hardware engineering job for the role Optical - Hardware Test Development Engineer at Maynard, Massachusetts, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Optical-Hardware-Test-Development-Engineer/1442164",
+    "id": "cisco-optical-hardware-test-development-engineer-maynard"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Zone Sales Manager",
+    "job_city": "Houston",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Zone Sales Manager at Houston, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-zone-sales-manager-houston"
   }
 ]
