@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Device Integration Engineer, SMTS",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Device Integration Engineer, SMTS at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/23457501",
-    "id": "micron-device-integration-engineer-smts-boise"
+    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sparks",
+    "job_state": "NV",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Sparks, NV, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3008621/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_posted_at": "2025-08-26T16:16:21.045Z",
+    "job_posted_at_datetime_utc": "2025-08-26T16:16:21.045Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-sparks"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "AI Network Silicon",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Principal Design Engineer Manager. Level: All Levels. Posted: Recently. Full Title: Principal Design Engineer Manager - AI Network Silicon",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846701/Principal-Design-Engineer-Manager---AI-Network-Silicon",
+    "id": "microsoft-ai-network-silicon-raleigh"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Field Application Engineer - Automotive Ethernet Hardware",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Field Application Engineer - Automotive Ethernet Hardware at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-field-application-engineer-automotive-ethernet-hardware-san-jose"
   }
 ]
