@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Compilers",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Compilers at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-compilers/33099/77051634768",
-    "id": "arm-software-engineer-compilers-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Engineer at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/principal-engineer/33099/78959605056",
-    "id": "arm-engineer-waltham"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Biomedical Machine Learning Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Biomedical Machine Learning Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Machine-Learning-Engineer_R253105?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-biomedical-machine-learning-engineer-us"
   }
 ]
