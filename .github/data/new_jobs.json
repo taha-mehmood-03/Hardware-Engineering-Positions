@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "CMP Equipment Maintenace Technician (N2)",
-    "job_city": "US",
+    "job_title": "Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Hermiston",
     "job_state": "OR",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role CMP Equipment Maintenace Technician (N2) at US, OR, Beaverton",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/CMP-Equipment-Maintenace-Technician--N2-_R252389?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-cmp-equipment-maintenace-technician-n2-us"
+    "job_description": "hardware engineering job for the role Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering at Hermiston, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3067473/cluster-project-design-mechanical-engineer-fleet-remediation-engineering",
+    "job_posted_at": "2025-08-27T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-27T00:00:00.000Z",
+    "id": "amazon-cluster-project-design-mechanical-engineer-fleet-remediation-engineering-hermiston"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - DRAM Design Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Intern - DRAM Design Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30932282",
+    "id": "micron-intern-dram-design-engineer-boise"
   }
 ]
