@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Software Development Engineer, Production Operations, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, Production Operations, Project Kuiper at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037701/software-development-engineer-production-operations-project-kuiper",
-    "job_posted_at": "2025-08-27T14:18:51.568Z",
-    "job_posted_at_datetime_utc": "2025-08-27T14:18:51.568Z",
-    "id": "amazon-software-development-engineer-production-operations-project-kuiper-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Physical Implementation Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Baltimore",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Physical Implementation Engineer at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/senior-physical-implementation-engineer/33099/77284796544",
-    "id": "arm-physical-implementation-engineer-trondheim"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer in System Test",
-    "job_city": "Munich",
-    "job_state": "Germany",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer in System Test at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/software-engineer-in-system-test/33099/85484261296",
-    "id": "arm-software-engineer-in-system-test-munich"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Resident Architect",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Resident Architect at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55282&source=WEB_Search_NA",
-    "id": "ibm-sr-resident-architect-austin"
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Baltimore, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-systems-specialist-baltimore"
   }
 ]
