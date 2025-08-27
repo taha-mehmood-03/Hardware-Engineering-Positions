@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job_title": "Security Systems Eng-HOH 25-3",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Security Systems Eng-HOH 25-3 at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2991259/security-systems-eng-hoh-25-3",
+    "job_posted_at": "2025-08-27T19:16:22.441Z",
+    "job_posted_at_datetime_utc": "2025-08-27T19:16:22.441Z",
+    "id": "amazon-security-systems-eng-hoh-25-3-arlington"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Circuit Design Engineer, DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Principal Circuit Design Engineer, DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30880081",
+    "id": "micron-circuit-design-engineer-dram-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back-End Developer",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back-End Developer at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54829&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer II at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55247&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-lowell"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Application Support Engineer- Advanced",
+    "job_city": "Plano",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Application Support Engineer- Advanced at Plano, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-application-support-engineer-advanced-plano"
+  }
+]
