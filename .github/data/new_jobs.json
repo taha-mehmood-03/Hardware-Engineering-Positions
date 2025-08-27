@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Engineer - Linux Tech Lead",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Engineer - Linux Tech Lead at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-engineer-linux-tech-lead/33099/74482262944",
-    "id": "arm-principal-engineer-linux-tech-lead-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Media IP Modelling",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Media IP Modelling at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-software-engineer-media-ip-modelling/33099/84654857584",
-    "id": "arm-software-engineer-media-ip-modelling-manchester"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Embedded Software",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Embedded Software at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software_R255245?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-2-locations"
   }
 ]
