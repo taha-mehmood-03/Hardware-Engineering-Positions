@@ -1,22 +1,83 @@
 [
   {
+    "job_title": "In-service/Fleet/Field Quality Engineer, Quality Engineering Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role In-service/Fleet/Field Quality Engineer, Quality Engineering Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042051/in-service-fleet-field-quality-engineer-quality-engineering-team",
+    "job_posted_at": "2025-08-26T23:18:30.918Z",
+    "job_posted_at_datetime_utc": "2025-08-26T23:18:30.918Z",
+    "id": "amazon-in-service-fleet-field-quality-engineer-quality-engineering-team-seattle"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Hardware Engineer II",
+    "job_title": "Senior Systems Hardware Architect",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861751/Hardware-Engineer-II",
-    "id": "microsoft-hardware-engineer-ii-redmond"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Systems Hardware Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830255/Senior-Systems-Hardware-Architect",
+    "id": "microsoft-senior-systems-hardware-architect-redmond"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer I (Intern) United States",
+    "employer_name": "Arm",
+    "job_title": "Director, Product Management",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineer I (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1447911",
-    "id": "cisco-hardware-engineer-i-intern-united-states-san-jose"
+    "job_description": "Hardware Engineering job for the role Director, Product Management at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-product-management/33099/85467091296",
+    "id": "arm-director-product-management-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC CAD Flow and EDA Automation Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC CAD Flow and EDA Automation Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-cad-flow-and-eda-automation-engineer/33099/85467074560",
+    "id": "arm-soc-cad-flow-and-eda-automation-engineer-san-diego"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Segment Marketing Director within Datacenter Infrastructure",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Segment Marketing Director within Datacenter Infrastructure at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Segment-Marketing-Director-within-Datacenter-Infrastructure_R254493?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-segment-marketing-director-within-datacenter-infrastructure-3-locations"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System and Scheduling Architect – GPU",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System and Scheduling Architect – GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183183-senior-system-and-scheduling-architect-gpu",
+    "id": "aijobs-system-and-scheduling-architect-gpu-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, TensorRT Specialized Platforms - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183179-software-engineer-tensorrt-specialized-platforms-new-college-grad-2025",
+    "id": "aijobs-software-engineer-tensorrt-specialized-platforms-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Design-For-Test",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "6min ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Design-For-Test at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183182-senior-software-engineer-design-for-test",
+    "id": "aijobs-software-engineer-design-for-test-santa-clara"
   }
 ]
