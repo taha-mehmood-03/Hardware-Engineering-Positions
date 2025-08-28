@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Data Center Logistics Site Lead",
+    "employer_name": "Amazon",
+    "job_city": "Frederick",
+    "job_state": "MD",
+    "job_description": "hardware engineering job for the role Data Center Logistics Site Lead at Frederick, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020480/data-center-logistics-site-lead",
+    "job_posted_at": "2025-08-28T11:35:38.537Z",
+    "job_posted_at_datetime_utc": "2025-08-28T11:35:38.537Z",
+    "id": "amazon-data-center-logistics-site-lead-frederick"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Regional People Partner",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Regional People Partner at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/regional-people-partner/33099/82944585536",
+    "id": "arm-regional-people-partner-san-jose"
+  }
+]
