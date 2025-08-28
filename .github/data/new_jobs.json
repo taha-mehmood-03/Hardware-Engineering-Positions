@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Benchmarking and Performance Verification Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Benchmarking and Performance Verification Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-benchmarking-and-performance-verification-engineer/33099/83868288592",
+    "id": "arm-cpu-benchmarking-and-performance-verification-engineer-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Server Firmware Development Director",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Server Firmware Development Director at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/server-firmware-development-director/33099/85527445088",
+    "id": "arm-server-firmware-development-director-austin"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "IC Design Engineer - RF/Mixed-Signal",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role IC Design Engineer - RF/Mixed-Signal at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/IC-Design-Engineer---RF-Mixed-Signal_R254728?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ic-design-engineer-rf-mixed-signal-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Research Scientist, Biomedical Algorithms (PhD)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Research Scientist, Biomedical Algorithms (PhD) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Research-Scientist_R245210?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-research-scientist-biomedical-algorithms-phd-us"
+  }
+]
