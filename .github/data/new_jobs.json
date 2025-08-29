@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Commissioning Manager",
-    "job_city": "Mount Pleasant",
-    "job_state": "Wisconsin",
+    "employer_name": "Arm",
+    "job_title": "Product Owner",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Commissioning Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863914/Commissioning-Manager",
-    "id": "microsoft-commissioning-manager-mount-pleasant"
+    "job_description": "Hardware Engineering job for the role Product Owner at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/product-owner/33099/84658791776",
+    "id": "arm-product-owner-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Fixed-Term Staff Information Developer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Fixed-Term Staff Information Developer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/fixed-term-staff-information-developer/33099/85555206288",
+    "id": "arm-fixed-term-staff-information-developer-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "CMP Development Engineer",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CMP Development Engineer at ProfessionalAlbany, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52644&source=WEB_Search_NA",
+    "id": "ibm-cmp-development-engineer-albany"
   }
 ]
