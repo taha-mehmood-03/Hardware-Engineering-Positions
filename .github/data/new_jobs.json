@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Tooling Ops Lab Manager, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Tooling Ops Lab Manager, Project Kuiper at Kirkland, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3044997/tooling-ops-lab-manager-project-kuiper",
+    "job_posted_at": "2025-08-28T23:18:05.797Z",
+    "job_posted_at_datetime_utc": "2025-08-28T23:18:05.797Z",
+    "id": "amazon-tooling-ops-lab-manager-project-kuiper-kirkland"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Enablement Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Systems Enablement Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-enablement-engineer/33099/85538302448",
+    "id": "arm-systems-enablement-engineer-austin"
+  }
+]
