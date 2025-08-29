@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "Sr Financial Analyst, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Sr Financial Analyst, Project Kuiper at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069353/sr-financial-analyst-project-kuiper",
-    "job_posted_at": "2025-08-29T17:23:27.323Z",
-    "job_posted_at_datetime_utc": "2025-08-29T17:23:27.323Z",
-    "id": "amazon-sr-financial-analyst-project-kuiper-redmond"
+    "employer_name": "Arm",
+    "job_title": "Director Power Engineering",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director Power Engineering at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-power-engineering/33099/85562517984",
+    "id": "arm-director-power-engineering-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer (Application/Runtime)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer (Application/Runtime) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-software-engineer-application-runtime/33099/85562574816",
+    "id": "arm-software-engineer-application-runtime-munich"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "C++ Software Engineer",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior C++ Software Engineer at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-c-software-engineer/33099/85562572912",
+    "id": "arm-c-software-engineer-munich"
   }
 ]
