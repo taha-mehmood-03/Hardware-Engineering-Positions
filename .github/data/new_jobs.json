@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Hardware Engineer",
+    "job_title": "Sr Financial Analyst, Project Kuiper",
+    "employer_name": "Amazon",
     "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846360/Principal-Hardware-Engineer",
-    "id": "microsoft-principal-hardware-engineer-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Applied Sciences",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Principal Product Manager. Level: All Levels. Posted: Recently. Full Title: Principal Product Manager - Applied Sciences",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863978/Principal-Product-Manager---Applied-Sciences",
-    "id": "microsoft-applied-sciences-redmond"
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Sr Financial Analyst, Project Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069353/sr-financial-analyst-project-kuiper",
+    "job_posted_at": "2025-08-29T17:23:27.323Z",
+    "job_posted_at_datetime_utc": "2025-08-29T17:23:27.323Z",
+    "id": "amazon-sr-financial-analyst-project-kuiper-redmond"
   }
 ]
