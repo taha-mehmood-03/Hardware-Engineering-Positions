@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Front-End Engineer, Kuiper Manufacturing Systems Engineering at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069522/front-end-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-08-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
+    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Asset Senior Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Digital Asset Senior Product Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55100&source=WEB_Search_NA",
+    "id": "ibm-digital-asset-senior-product-manager-multiple-cities"
+  }
+]
