@@ -1,35 +1,23 @@
 [
   {
-    "job_title": "Software Development Engineer, Kuiper Manufacturing Systems Engineering",
+    "job_title": "New Product Introduction (NPI) Engineer, Deployment Readiness",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, Kuiper Manufacturing Systems Engineering at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering",
-    "job_posted_at": "2025-08-29T21:16:17.497Z",
-    "job_posted_at_datetime_utc": "2025-08-29T21:16:17.497Z",
-    "id": "amazon-software-development-engineer-kuiper-manufacturing-systems-engineering-bellevue"
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role New Product Introduction (NPI) Engineer, Deployment Readiness at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037117/new-product-introduction-npi-engineer-deployment-readiness",
+    "job_posted_at": "2025-08-29T22:16:12.853Z",
+    "job_posted_at_datetime_utc": "2025-08-29T22:16:12.853Z",
+    "id": "amazon-new-product-introduction-npi-engineer-deployment-readiness-north-reading"
   },
   {
-    "job_title": "Software Development Engineer, Kuiper Production Operations",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, Kuiper Production Operations at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069543/software-development-engineer-kuiper-production-operations",
-    "job_posted_at": "2025-08-29T21:16:17.497Z",
-    "job_posted_at_datetime_utc": "2025-08-29T21:16:17.497Z",
-    "id": "amazon-software-development-engineer-kuiper-production-operations-bellevue"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS Hardware Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Hardware Engineering at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering",
-    "job_posted_at": "2025-08-29T21:16:17.496Z",
-    "job_posted_at_datetime_utc": "2025-08-29T21:16:17.496Z",
-    "id": "amazon-software-development-engineer-aws-hardware-engineering-cupertino"
+    "employer_name": "Microsoft",
+    "job_title": "Senior AI Hardware Quality Engineer",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior AI Hardware Quality Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859824/Senior-AI-Hardware-Quality-Engineer",
+    "id": "microsoft-senior-ai-hardware-quality-engineer-atlanta"
   }
 ]
