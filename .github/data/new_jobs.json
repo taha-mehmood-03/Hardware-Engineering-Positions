@@ -1,53 +1,192 @@
 [
   {
-    "job_title": "Software Development Engineer, Kuiper Manufacturing Systems Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, Kuiper Manufacturing Systems Engineering at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069787/software-development-engineer-kuiper-manufacturing-systems-engineering",
-    "job_posted_at": "2025-08-29T23:14:33.403Z",
-    "job_posted_at_datetime_utc": "2025-08-29T23:14:33.403Z",
-    "id": "amazon-software-development-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Strategic Network Sourcing Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Strategic Network Sourcing Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863630/Strategic-Network-Sourcing-Manager",
-    "id": "microsoft-strategic-network-sourcing-manager-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "DFT Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal DFT Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-dft-architect/33099/85573344704",
-    "id": "arm-dft-architect-austin"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Senior Staff Engineer Product",
-    "job_city": "Andover",
+    "employer_name": "IBM",
+    "job_title": "Associate Product Manager",
+    "job_city": "Dallas",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer Product at Andover",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-senior-staff-engineer-product-andover"
+    "job_description": "Hardware Engineering job for the role Associate Product Manager at Entry LevelDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54139&source=WEB_Search_NA",
+    "id": "ibm-associate-product-manager-dallas"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Artificial Intelligence Engineer",
+    "job_title": "Technical Program Manager, EDA Chip Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager, EDA Chip Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834196-senior-technical-program-manager-eda-chip-infrastructure",
+    "id": "aijobs-technical-program-manager-eda-chip-infrastructure-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Robotics Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, Robotics Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834205-senior-research-engineer-robotics-systems",
+    "id": "aijobs-research-engineer-robotics-systems-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Delivery Engineering",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Delivery Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835784-engineering-manager-delivery-engineering",
+    "id": "aijobs-engineering-manager-delivery-engineering-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Operations Manager, ChatGPT",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Operations Manager, ChatGPT at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835774-product-operations-manager-chatgpt",
+    "id": "aijobs-product-operations-manager-chatgpt-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Global Deal Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "48min ago",
+    "job_description": "hardware engineering job for the role Head of Global Deal Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835785-head-of-global-deal-operations",
+    "id": "aijobs-head-of-global-deal-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Operations Manager, Developer Platform",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Operations Manager, Developer Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835771-product-operations-manager-developer-platform",
+    "id": "aijobs-product-operations-manager-developer-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Mechanical Engineer - TeleOp",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "48min ago",
+    "job_description": "hardware engineering job for the role Mechanical Engineer - TeleOp at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop",
+    "id": "aijobs-mechanical-engineer-teleop-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Systems High-Speed IO Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Hardware Systems High-Speed IO Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834204-hardware-systems-high-speed-io-architect",
+    "id": "aijobs-hardware-systems-high-speed-io-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Simulation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, Simulation at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834203-senior-research-engineer-simulation",
+    "id": "aijobs-research-engineer-simulation-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Operations Manager, Codex",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Operations Manager, Codex at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835772-product-operations-manager-codex",
+    "id": "aijobs-product-operations-manager-codex-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Capture and Proposal Lead",
     "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "2d ago",
-    "job_description": "hardware engineering job for the role Artificial Intelligence Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/158382405-artificial-intelligence-engineer",
-    "id": "aijobs-artificial-intelligence-engineer-unknown"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Capture and Proposal Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835787-capture-and-proposal-lead",
+    "id": "aijobs-capture-and-proposal-lead-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-stack Software Engineer – Web Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full-stack Software Engineer – Web Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834197-full-stack-software-engineer-web-infrastructure",
+    "id": "aijobs-full-stack-software-engineer-web-infrastructure-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Integrity",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Data Scientist, Integrity at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835781-data-scientist-integrity",
+    "id": "aijobs-data-scientist-integrity-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Global Revenue",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "48min ago",
+    "job_description": "hardware engineering job for the role Head of Global Revenue at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835786-head-of-global-revenue",
+    "id": "aijobs-head-of-global-revenue-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-stack Software Engineer – Verification Data Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full-stack Software Engineer – Verification Data Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158834198-full-stack-software-engineer-verification-data-platform",
+    "id": "aijobs-full-stack-software-engineer-verification-data-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Content Strategist, Chatgpt.com",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Content Strategist, Chatgpt.com at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835775-content-strategist-chatgpt-com",
+    "id": "aijobs-content-strategist-chatgpt-com-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Deployment Manager - San Francisco",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Deployment Manager - San Francisco at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835788-ai-deployment-manager-san-francisco",
+    "id": "aijobs-ai-deployment-manager-san-francisco-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Operations Manager, Integrity",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Operations Manager, Integrity at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835769-product-operations-manager-integrity",
+    "id": "aijobs-product-operations-manager-integrity-united-states"
   }
 ]
