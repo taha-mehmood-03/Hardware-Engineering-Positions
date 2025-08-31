@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "DDR Subsystem Architecture Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role DDR Subsystem Architecture Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ddr-subsystem-architecture-engineer/33099/76290019520",
+    "id": "arm-ddr-subsystem-architecture-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "University Engagement & Campus Strategy Specialist - Emerging Talent",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role University Engagement & Campus Strategy Specialist - Emerging Talent at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/university-engagement-and-campus-strategy-specialist-emerging-talent/33099/80452303984",
+    "id": "arm-university-engagement-campus-strategy-specialist-emerging-talent-austin"
+  }
+]
