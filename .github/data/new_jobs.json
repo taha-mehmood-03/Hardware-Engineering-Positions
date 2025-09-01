@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "31 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, AI Data Generation",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132104195351159494-engineering-manager-ai-data-generation?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-engineering-manager-mountain-view"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Software Firmware Validation Engineer",
+    "job_title": "Embedded  Engineer",
     "job_city": "Bengaluru",
     "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Firmware Validation Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-software-firmware-validation-engineer/33099/66582737344",
-    "id": "arm-software-firmware-validation-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "GPU Software Applications Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal GPU Software Applications Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-gpu-software-applications-engineer/33099/77361105984",
-    "id": "arm-gpu-software-applications-engineer-hsinchu"
+    "job_description": "Hardware Engineering job for the role Embedded  Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/embedded-engineer/33099/85653044512",
+    "id": "arm-embedded-engineer-bengaluru"
   }
 ]
