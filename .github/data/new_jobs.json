@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "DRAM Product Development Quality Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 14 hours ago",
-    "job_description": "hardware engineering job for the role DRAM Product Development Quality Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30955686",
-    "id": "micron-dram-product-development-quality-engineer-boise"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer in Test at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-software-engineer-in-test/33099/83337687408",
+    "id": "arm-software-engineer-in-test-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Digital Learning",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Digital Learning at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-digital-learning/33099/83959009456",
+    "id": "arm-manager-digital-learning-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Performance Applications Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-performance-applications-engineer/33099/85695184192",
+    "id": "arm-performance-applications-engineer-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Administrative Assistant, Sr Directors, Hardware Engineering",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Administrative Assistant, Sr Directors, Hardware Engineering at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Administrative-Assistant-Sr-Directors-Hardware-Engineering/1447539",
+    "id": "cisco-administrative-assistant-sr-directors-hardware-engineering-san-jose"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Engineering Information Developer/Application Engineering Technical Writer",
-    "job_city": "Austin",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Bellevue",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineering Information Developer/Application Engineering Technical Writer at Austin, Texas, United States of America",
+    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at Bellevue, Washington, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-engineering-information-developer-application-engineering-technical-writer-austin"
+    "id": "siemens-senior-electrical-services-specialist-bellevue"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Algorithm Development",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Algorithm Development at US, CA, San Diego, Avenue of Science",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development_R254718?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithm-development-us"
   }
 ]
