@@ -1,33 +1,42 @@
 [
   {
-    "job_title": "DevOps Engineer, Customer Terminal Device Management",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role DevOps Engineer, Customer Terminal Device Management at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071124/devops-engineer-customer-terminal-device-management",
-    "job_posted_at": "2025-09-02T18:13:56.975Z",
-    "job_posted_at_datetime_utc": "2025-09-02T18:13:56.975Z",
-    "id": "amazon-devops-engineer-customer-terminal-device-management-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Linux Kernel",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Software Engineer - Linux Kernel at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-software-engineer-linux-kernel/33099/84081698816",
-    "id": "arm-software-engineer-linux-kernel-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "System Level Product Engineer",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Fabric IP Verification Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff System Level Product Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-system-level-product-engineer/33099/85702733840",
-    "id": "arm-system-level-product-engineer-austin"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Fabric IP Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864545/Senior-Fabric-IP-Verification-Engineer",
+    "id": "microsoft-senior-fabric-ip-verification-engineer-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Specialist",
+    "job_city": "Tallahassee",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Service Specialist at Tallahassee, Florida, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-specialist-tallahassee"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Lead Integrated Security Systems Technician",
+    "job_city": "Plymouth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Lead Integrated Security Systems Technician at Plymouth, Michigan, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-lead-integrated-security-systems-technician-plymouth"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Field System Platform Application Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Field System Platform Application Engineer at US, TX, Dallas, Tollway",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Field-System-Platform-Application-Engineer_R255293?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-field-system-platform-application-engineer-us"
   }
 ]
