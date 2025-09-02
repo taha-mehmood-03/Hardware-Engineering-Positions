@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer, Metrology DRAM",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Staff Engineer, Metrology DRAM at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30948225",
-    "id": "micron-engineer-metrology-dram-boise"
+    "job_title": "DevOps Engineer, Customer Terminal Device Management",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role DevOps Engineer, Customer Terminal Device Management at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071124/devops-engineer-customer-terminal-device-management",
+    "job_posted_at": "2025-09-02T18:13:56.975Z",
+    "job_posted_at_datetime_utc": "2025-09-02T18:13:56.975Z",
+    "id": "amazon-devops-engineer-customer-terminal-device-management-redmond"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "FPGA Systems Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role FPGA Systems Development Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/FPGA-Systems-Development-Engineer_R254215?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-fpga-systems-development-engineer-2-locations"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Linux Kernel",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer - Linux Kernel at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-software-engineer-linux-kernel/33099/84081698816",
+    "id": "arm-software-engineer-linux-kernel-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Level Product Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff System Level Product Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-system-level-product-engineer/33099/85702733840",
+    "id": "arm-system-level-product-engineer-austin"
   }
 ]
