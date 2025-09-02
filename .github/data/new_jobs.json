@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "SDE - BIOS, AWS Hardware Engineering, Firmware Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role SDE - BIOS, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/sde-bios-aws-hardware-engineering-firmware-development",
+    "job_posted_at": "2025-09-02T21:15:42.909Z",
+    "job_posted_at_datetime_utc": "2025-09-02T21:15:42.909Z",
+    "id": "amazon-sde-bios-aws-hardware-engineering-firmware-development-cupertino"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Global Quality Process Control System (PCS) Senior Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Global Quality Process Control System (PCS) Senior Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30185992",
+    "id": "micron-global-quality-process-control-system-pcs-senior-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Engineering Innovation Designer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Client Engineering Innovation Designer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54096&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-innovation-designer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Apptio -  Solutions Consultant - Digital Sales",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Apptio -  Solutions Consultant - Digital Sales at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
+    "id": "ibm-apptio-solutions-consultant-digital-sales-austin"
+  }
+]
