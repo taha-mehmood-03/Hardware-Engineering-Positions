@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer/33099/85732810304",
+    "id": "arm-software-engineer-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Postdoctoral Researcher",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Postdoctoral Researcher at Entry LevelSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
+    "id": "ibm-postdoctoral-researcher-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer PhD (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer PhD (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
+    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Capacity Planner - ASIC, Silicon One",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Capacity Planner - ASIC, Silicon One 1446938 at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Capacity-Planner-ASIC-Silicon-One-1446938/1446938",
+    "id": "cisco-capacity-planner-asic-silicon-one-san-jose"
+  }
+]
