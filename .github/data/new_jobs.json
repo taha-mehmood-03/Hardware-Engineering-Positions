@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Test Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865074/Senior-Product-Manager",
-    "id": "microsoft-senior-product-manager-redmond"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager, Service",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Business Development Manager, Service at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009100/Business-Development-Manager-Service",
-    "id": "abb-business-development-manager-service-multiple"
+    "job_description": "hardware engineering job for the role Test Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006988/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-test-engineer-"
   }
 ]
