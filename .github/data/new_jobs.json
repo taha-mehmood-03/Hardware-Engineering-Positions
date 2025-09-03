@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Product Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer/33099/85732810304",
-    "id": "arm-software-engineer-bengaluru"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865074/Senior-Product-Manager",
+    "id": "microsoft-senior-product-manager-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Postdoctoral Researcher",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Postdoctoral Researcher at Entry LevelSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
-    "id": "ibm-postdoctoral-researcher-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer PhD (Intern) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer PhD (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
-    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Capacity Planner - ASIC, Silicon One",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Capacity Planner - ASIC, Silicon One 1446938 at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Capacity-Planner-ASIC-Silicon-One-1446938/1446938",
-    "id": "cisco-capacity-planner-asic-silicon-one-san-jose"
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, Service",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Business Development Manager, Service at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009100/Business-Development-Manager-Service",
+    "id": "abb-business-development-manager-service-multiple"
   }
 ]
