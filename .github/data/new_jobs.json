@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Architect Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Systems Architect Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/systems-architect-engineer/33099/85751639712",
+    "id": "arm-systems-architect-engineer-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "intern-Technician, Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role intern-Technician, Equipment at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/37808232",
+    "id": "micron-intern-technician-equipment-boise"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Sales Executive",
+    "job_city": "Cypress",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Service Sales Executive at Cypress, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-sales-executive-cypress"
+  }
+]
