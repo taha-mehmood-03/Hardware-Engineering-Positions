@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Manager, High Performance Computing Lab & Data Center",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Design Verification Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager, High Performance Computing Lab & Data Center at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-high-performance-computing-lab-and-data-center/33099/83658645696",
-    "id": "arm-manager-high-performance-computing-lab-data-center-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer - Embedded Linux",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff DevOps Engineer - Embedded Linux at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-devops-engineer-embedded-linux/33099/84984916608",
-    "id": "arm-devops-engineer-embedded-linux-cambridge"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Hardware Design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Design-Engineer_2502089?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-design-engineer-santa-clara"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863489/Principal-Design-Verification-Engineer",
+    "id": "microsoft-principal-design-verification-engineer-redmond"
   }
 ]
