@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Systems Architect Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Director – Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Systems Architect Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/systems-architect-engineer/33099/85751639712",
-    "id": "arm-systems-architect-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Director – Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53143&source=WEB_Search_NA",
+    "id": "ibm-director-engineering-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "intern-Technician, Equipment",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role intern-Technician, Equipment at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/37808232",
-    "id": "micron-intern-technician-equipment-boise"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service Sales Executive",
-    "job_city": "Cypress",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Service Sales Executive at Cypress, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-sales-executive-cypress"
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Engineer, Gov",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Forward Deployed Engineer, Gov at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/160646092-forward-deployed-engineer-gov",
+    "id": "aijobs-forward-deployed-engineer-gov-unknown"
   }
 ]
