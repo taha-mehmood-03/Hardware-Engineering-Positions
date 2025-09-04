@@ -1,22 +1,92 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Reliability Engineer III",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Reliability Engineer III",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83095852544860870-hardware-reliability-engineer-iii?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-reliability-engineer-iii-mountain-view"
+    "employer_name": "ABB",
+    "job_title": "Local R&D Department Lead (f/m/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Local R&D Department Lead (f/m/d) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003214/Local-R-D-Department-Lead-f-m-d",
+    "id": "abb-local-r-d-department-lead-f-m-d-not-specific"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Project Manager",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Technical Project Manager at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-technical-project-manager/33099/85758088480",
-    "id": "arm-technical-project-manager-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "ELDS Sales Specialist - PB",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS Sales Specialist - PB at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005110/ELDS-Sales-Specialist-PB",
+    "id": "abb-elds-sales-specialist-pb-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Solution Architect- Distribution and Transportation",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role IS Solution Architect- Distribution and Transportation at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96997654/IS-Solution-Architect-Distribution-and-Transportation",
+    "id": "abb-is-solution-architect-distribution-and-transportation-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Winder",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Winder at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007079/Winder",
+    "id": "abb-winder-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Agreement Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Service Agreement Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96978661/Service-Agreement-Specialist",
+    "id": "abb-service-agreement-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PAEN Market and Account Development Manager UK Cluster",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role PAEN Market and Account Development Manager UK Cluster at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002427/PAEN-Market-and-Account-Development-Manager-UK-Cluster",
+    "id": "abb-paen-market-and-account-development-manager-uk-cluster-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006148/Product-Manager",
+    "id": "abb-product-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008900/Sales-Specialist",
+    "id": "abb-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, Service",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Business Development Manager, Service at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009100/Business-Development-Manager-Service",
+    "id": "abb-business-development-manager-service-not-specific"
   }
 ]
