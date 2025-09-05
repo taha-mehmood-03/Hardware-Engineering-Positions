@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Director Engineering Solution Architecture",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director Engineering Solution Architecture at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/director-engineering-solution-architecture/33099/85798160000",
+    "id": "arm-director-engineering-solution-architecture-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Register Your Interest - Graduate Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Register Your Interest - Graduate Engineer at Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/register-your-interest-graduate-engineer/33099/85798101056",
+    "id": "arm-register-your-interest-graduate-engineer-manchester"
+  }
+]
