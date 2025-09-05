@@ -1,32 +1,43 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "AI Delivery Acceleration Senior Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - AI Delivery Acceleration Senior Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871895/AI-Delivery-Acceleration-Senior-Program-Manager",
-    "id": "microsoft-ai-delivery-acceleration-senior-program-manager-redmond"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineer 1449426 at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-1449426/1449426",
-    "id": "cisco-hardware-engineer-rtp"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Engineer - Board Design",
-    "job_city": "Santa Clara",
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
     "job_state": "CA",
+    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/embedded-software-development-engineer-ii-aws-hardware-engineering",
+    "job_posted_at": "2025-09-05T18:14:15.323Z",
+    "job_posted_at_datetime_utc": "2025-09-05T18:14:15.323Z",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-cupertino"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "RF Hardware Engineer",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Board Design at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Engineer---Board-Design_2501753?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-engineer-board-design-santa-clara"
+    "job_description": "hardware engineering job for the role Lead RF Hardware Engineer at US, MA, Chelmsford, Elizabeth",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Staff-Engineer--RF-Design-Engineer_R252164?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-rf-hardware-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Mixed-Signal Design Engineering",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Mixed-Signal Design Engineering at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Principal-Engineer--Mixed-Signal-Design-Engineering_R254999-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-mixed-signal-design-engineering-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr Manager – Healthcare Solutions",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr Manager – Healthcare Solutions at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Research-Scientist---Healthcare-Algorithms_R242724?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-manager-healthcare-solutions-us"
   }
 ]
