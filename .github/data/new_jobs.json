@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Dry Etch Process Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Intern - Dry Etch Process Development at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37834787",
-    "id": "micron-intern-dry-etch-process-development-boise"
+    "job_title": "ML Compiler Engineer I, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role ML Compiler Engineer I, Annapurna Labs at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2955921/ml-compiler-engineer-i-annapurna-labs",
+    "job_posted_at": "2025-09-05T19:15:32.482Z",
+    "job_posted_at_datetime_utc": "2025-09-05T19:15:32.482Z",
+    "id": "amazon-ml-compiler-engineer-i-annapurna-labs-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Modeling Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate GPU Modeling Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248",
+    "id": "arm-graduate-gpu-modeling-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Consultant",
+    "job_city": "Charlotte",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security Consultant at Entry LevelCharlotte, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57321&source=WEB_Search_NA",
+    "id": "ibm-security-consultant-charlotte"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Veeva Technical Architect (Commercial Cloud Expert)",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Veeva Technical Architect (Commercial Cloud Expert) at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57296&source=WEB_Search_NA",
+    "id": "ibm-veeva-technical-architect-commercial-cloud-expert-new-york"
   }
 ]
