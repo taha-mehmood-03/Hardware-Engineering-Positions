@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Power Analysis Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Power Analysis Engineer at San Diego, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-engineer/33099/64317506576",
+    "id": "arm-power-analysis-engineer-san-diego"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Product Manager - Neocloud",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Product Manager - Neocloud at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Product-Manager-Neocloud/1446268",
+    "id": "cisco-product-manager-neocloud-offsite"
+  }
+]
