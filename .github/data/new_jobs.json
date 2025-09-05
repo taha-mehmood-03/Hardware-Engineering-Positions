@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Career Accelerator Program - Test Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
+    "employer_name": "Microsoft",
+    "job_title": "Devices",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Career Accelerator Program - Test Engineer at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007075/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-test-engineer-dallas"
+    "job_description": "Category: Principal Sourcing Engineer. Level: All Levels. Posted: Recently. Full Title: Principal Sourcing Engineer - Devices",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863874/Principal-Sourcing-Engineer---Devices",
+    "id": "microsoft-devices-redmond"
   },
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Cybersecurity Development Program",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Cybersecurity Development Program at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007050/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-cybersecurity-development-program-dallas"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "RF Hardware Sustainment Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff RF Hardware Sustainment Engineer at US, MA, Chelmsford, Elizabeth",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Staff-Engineer--RF-Design-Engineer_R252164?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-rf-hardware-sustainment-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "DCI Segment Marketing",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role DCI Segment Marketing at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/DCI-Segment-Marketing_R254998?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-dci-segment-marketing-2-locations"
   }
 ]
