@@ -1,22 +1,92 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Analysis Engineer",
-    "job_city": "San Diego",
+    "employer_name": "AiJobs",
+    "job_title": "Technical Hardware Sourcer, Consumer Products",
+    "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Power Analysis Engineer at San Diego, California, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-engineer/33099/64317506576",
-    "id": "arm-power-analysis-engineer-san-diego"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Hardware Sourcer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857933-technical-hardware-sourcer-consumer-products",
+    "id": "aijobs-technical-hardware-sourcer-consumer-products-united-states"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Product Manager - Neocloud",
-    "job_city": "Offsite",
-    "job_state": "San Jose",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Product Manager - Neocloud at Offsite, San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Product-Manager-Neocloud/1446268",
-    "id": "cisco-product-manager-neocloud-offsite"
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855980-senior-system-software-engineer-performance",
+    "id": "aijobs-system-software-engineer-performance-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Enterprise MODS Technical Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Enterprise MODS Technical Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855986-enterprise-mods-technical-program-manager",
+    "id": "aijobs-enterprise-mods-technical-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Firmware Engineer – CSP Engagements",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Firmware Engineer – CSP Engagements at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855988-senior-firmware-engineer-csp-engagements",
+    "id": "aijobs-firmware-engineer-csp-engagements-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Data Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Systems Data Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855981-systems-data-engineer",
+    "id": "aijobs-systems-data-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Distributed Data Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Distributed Data Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857923-software-engineer-distributed-data-systems",
+    "id": "aijobs-software-engineer-distributed-data-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Program Manager, Interviewer Programs",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Program Manager, Interviewer Programs at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857925-program-manager-interviewer-programs",
+    "id": "aijobs-program-manager-interviewer-programs-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Executive Business Partner, C-Level",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Executive Business Partner, C-Level at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857932-executive-business-partner-c-level",
+    "id": "aijobs-executive-business-partner-c-level-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Program Manager, Automation and Optimization",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Program Manager, Automation and Optimization at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857926-program-manager-automation-and-optimization",
+    "id": "aijobs-program-manager-automation-and-optimization-united-states"
   }
 ]
