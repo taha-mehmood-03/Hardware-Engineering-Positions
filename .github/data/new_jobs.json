@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "AI Delivery Acceleration Senior Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - AI Delivery Acceleration Senior Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871895/AI-Delivery-Acceleration-Senior-Program-Manager",
+    "id": "microsoft-ai-delivery-acceleration-senior-program-manager-redmond"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Engineer 1449426 at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-1449426/1449426",
+    "id": "cisco-hardware-engineer-rtp"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Engineer - Board Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Board Design at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Engineer---Board-Design_2501753?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-engineer-board-design-santa-clara"
+  }
+]
