@@ -1,43 +1,102 @@
 [
   {
-    "job_title": "Applied Scientist",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "hardware engineering job for the role Applied Scientist at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042079/applied-scientist",
-    "job_posted_at": "2025-09-06T00:14:33.855Z",
-    "job_posted_at_datetime_utc": "2025-09-06T00:14:33.855Z",
-    "id": "amazon-applied-scientist-new-york"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager, Software Ecosystem",
-    "job_city": "San Jose",
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Program Specialist",
+    "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager, Software Ecosystem at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-software-ecosystem/33099/85824524816",
-    "id": "arm-manager-software-ecosystem-san-jose"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Graduate AI Engineer",
-    "job_city": "US",
-    "job_state": "MD",
-    "job_posted_at": "6h ago",
-    "job_description": "hardware engineering job for the role Graduate AI Engineer at Columbia, MD, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161132804-graduate-ai-engineer",
-    "id": "aijobs-graduate-ai-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role AI Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/161132801-ai-engineer",
-    "id": "aijobs-ai-engineer-unknown"
+    "job_description": "hardware engineering job for the role Engineering Program Specialist at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161147677-engineering-program-specialist",
+    "id": "aijobs-engineering-program-specialist-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Engineering Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role System Engineering Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161147675-system-engineering-program-manager",
+    "id": "aijobs-system-engineering-program-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, AI Developer Technology",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "50min ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, AI Developer Technology at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144517-engineering-manager-ai-developer-technology",
+    "id": "aijobs-engineering-manager-ai-developer-technology-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Platform Technical Program Manager, AI Computing Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "51min ago",
+    "job_description": "hardware engineering job for the role Platform Technical Program Manager, AI Computing Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144503-platform-technical-program-manager-ai-computing-infrastructure",
+    "id": "aijobs-platform-technical-program-manager-ai-computing-infrastructure-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software R&D Engineer, VLSI Physical Design",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "50min ago",
+    "job_description": "hardware engineering job for the role Senior Software R&D Engineer, VLSI Physical Design at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144519-senior-software-r-d-engineer-vlsi-physical-design",
+    "id": "aijobs-software-r-d-engineer-vlsi-physical-design-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "NPI Technical Program Manager - Operations",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior NPI Technical Program Manager - Operations at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144514-senior-npi-technical-program-manager-operations",
+    "id": "aijobs-npi-technical-program-manager-operations-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Perception Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Perception Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161147676-perception-engineer",
+    "id": "aijobs-perception-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Hardware Product Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "50min ago",
+    "job_description": "hardware engineering job for the role Manager, Hardware Product Engineering at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144507-manager-hardware-product-engineering",
+    "id": "aijobs-manager-hardware-product-engineering-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Supply Chain Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director of Supply Chain Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161147679-director-of-supply-chain-systems",
+    "id": "aijobs-director-of-supply-chain-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer - 6G Chief Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Distinguished Engineer - 6G Chief Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161144504-distinguished-engineer-6g-chief-architect",
+    "id": "aijobs-distinguished-engineer-6g-chief-architect-santa-clara"
   }
 ]
