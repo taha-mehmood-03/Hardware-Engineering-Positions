@@ -1,102 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Program Specialist",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Program Specialist at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147677-engineering-program-specialist",
-    "id": "aijobs-engineering-program-specialist-united-states"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Mainframe (Z) Hardware – US Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales Engineer - Mainframe (Z) Hardware – US Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55529&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-mainframe-z-hardware-us-industry-market-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "System Engineering Program Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role System Engineering Program Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147675-system-engineering-program-manager",
-    "id": "aijobs-system-engineering-program-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, AI Developer Technology",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "50min ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, AI Developer Technology at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144517-engineering-manager-ai-developer-technology",
-    "id": "aijobs-engineering-manager-ai-developer-technology-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Platform Technical Program Manager, AI Computing Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "51min ago",
-    "job_description": "hardware engineering job for the role Platform Technical Program Manager, AI Computing Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144503-platform-technical-program-manager-ai-computing-infrastructure",
-    "id": "aijobs-platform-technical-program-manager-ai-computing-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software R&D Engineer, VLSI Physical Design",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "50min ago",
-    "job_description": "hardware engineering job for the role Senior Software R&D Engineer, VLSI Physical Design at US, TX, Austin",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144519-senior-software-r-d-engineer-vlsi-physical-design",
-    "id": "aijobs-software-r-d-engineer-vlsi-physical-design-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "NPI Technical Program Manager - Operations",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior NPI Technical Program Manager - Operations at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144514-senior-npi-technical-program-manager-operations",
-    "id": "aijobs-npi-technical-program-manager-operations-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Perception Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Perception Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147676-perception-engineer",
-    "id": "aijobs-perception-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Hardware Product Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "50min ago",
-    "job_description": "hardware engineering job for the role Manager, Hardware Product Engineering at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144507-manager-hardware-product-engineering",
-    "id": "aijobs-manager-hardware-product-engineering-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Supply Chain Systems",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Director of Supply Chain Systems at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147679-director-of-supply-chain-systems",
-    "id": "aijobs-director-of-supply-chain-systems-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Distinguished Engineer - 6G Chief Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Distinguished Engineer - 6G Chief Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161144504-distinguished-engineer-6g-chief-architect",
-    "id": "aijobs-distinguished-engineer-6g-chief-architect-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader for Progressive",
+    "job_city": "Cleveland",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Account Technical Leader for Progressive at ProfessionalCleveland, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56878&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-for-progressive-cleveland"
   }
 ]
