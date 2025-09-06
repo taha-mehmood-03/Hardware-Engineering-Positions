@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "Applied Scientist",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "hardware engineering job for the role Applied Scientist at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042079/applied-scientist",
+    "job_posted_at": "2025-09-06T00:14:33.855Z",
+    "job_posted_at_datetime_utc": "2025-09-06T00:14:33.855Z",
+    "id": "amazon-applied-scientist-new-york"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Software Ecosystem",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Software Ecosystem at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-software-ecosystem/33099/85824524816",
+    "id": "arm-manager-software-ecosystem-san-jose"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Graduate AI Engineer",
+    "job_city": "US",
+    "job_state": "MD",
+    "job_posted_at": "6h ago",
+    "job_description": "hardware engineering job for the role Graduate AI Engineer at Columbia, MD, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132804-graduate-ai-engineer",
+    "id": "aijobs-graduate-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132801-ai-engineer",
+    "id": "aijobs-ai-engineer-unknown"
+  }
+]
