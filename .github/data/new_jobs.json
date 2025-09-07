@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Logic Design Engineer",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Logic Design Engineer at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/staff-logic-design-engineer/33099/81896306144",
+    "id": "arm-logic-design-engineer-raanana"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Front of House, Reception",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Front of House, Reception at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/front-of-house-reception/33099/85762035264",
+    "id": "arm-front-of-house-reception-cambridge"
+  }
+]
