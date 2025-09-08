@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Developer Advocate",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Developer Advocate at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56884&source=WEB_Search_NA",
-    "id": "ibm-developer-advocate-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelHouston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55389&source=WEB_Search_NA",
-    "id": "ibm-engineer-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategy Principal, Pursuits",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Strategy Principal, Pursuits at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56046&source=WEB_Search_NA",
-    "id": "ibm-strategy-principal-pursuits-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Client Excellence Program Leader, IBM Cloud",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Client Excellence Program Leader, IBM Cloud at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57073&source=WEB_Search_NA",
-    "id": "ibm-client-excellence-program-leader-ibm-cloud-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37816467",
+    "id": "micron-machine-learning-engineer-boise"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Building Automation Associate Project Manager",
-    "job_city": "Harleysville",
+    "job_title": "Senior Security Systems Service Technician",
+    "job_city": "San Diego",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Associate Project Manager at Harleysville, Pennsylvania, United States of America",
+    "job_description": "hardware engineering job for the role Senior Security Systems Service Technician at San Diego, California, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-associate-project-manager-harleysville"
+    "id": "siemens-senior-security-systems-service-technician-san-diego"
   }
 ]
