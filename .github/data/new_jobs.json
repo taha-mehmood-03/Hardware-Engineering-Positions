@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software Technical Program Management - Datacenter Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "53min ago",
+    "job_description": "hardware engineering job for the role Manager, Software Technical Program Management - Datacenter Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161547144-manager-software-technical-program-management-datacenter-systems",
+    "id": "aijobs-manager-software-technical-program-management-datacenter-systems-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Research Scientist - Agent Robustness and Control",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "13min ago",
+    "job_description": "hardware engineering job for the role Research Engineer / Research Scientist - Agent Robustness and Control at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161552896-research-engineer-research-scientist-agent-robustness-and-control",
+    "id": "aijobs-research-engineer-research-scientist-agent-robustness-and-control-united-states"
+  }
+]
