@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Design Engineer",
-    "job_city": "Allentown",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Design Engineer at Allentown, Pennsylvania, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Design-Engineer/1442123",
-    "id": "cisco-design-engineer-allentown"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "HVAC Building Automation Service Specialist",
-    "job_city": "Syracuse",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role HVAC Building Automation Service Specialist at Syracuse, New York, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-hvac-building-automation-service-specialist-syracuse"
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering Services at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2916518/embedded-software-development-engineer-ii-aws-hardware-engineering-services",
+    "job_posted_at": "2025-09-08T17:15:16.610Z",
+    "job_posted_at_datetime_utc": "2025-09-08T17:15:16.610Z",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-services-austin"
   }
 ]
