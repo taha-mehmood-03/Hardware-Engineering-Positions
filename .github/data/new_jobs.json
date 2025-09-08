@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Intern - Spring",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Power Electronics Intern - Spring 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026",
+    "id": "abb-power-electronics-intern-spring-raleigh"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Research Scientist, Artificial Intelligence",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Research Scientist, Artificial Intelligence at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Research-Scientist--Artificial-Intelligence_R255393-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-research-scientist-artificial-intelligence-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Director, Systems Design/Architecture Engineering",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Director, Systems Design/Architecture Engineering at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Director--Systems-Design-Architecture-Engineering_R255039?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-director-systems-design-architecture-engineering-us"
+  }
+]
