@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer -CPU Architect",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer -CPU Architect at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-cpu-architect/33099/76890966592",
+    "id": "arm-engineer-cpu-architect-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Program Manager at Austin, Texas, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
+    "id": "arm-principal-program-manager-austin"
+  }
+]
