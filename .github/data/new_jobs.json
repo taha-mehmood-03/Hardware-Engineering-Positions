@@ -1,42 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Technical Program Manager II",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Principal Design Verification Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Technical Program Manager II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870586/Technical-Program-Manager-II",
-    "id": "microsoft-technical-program-manager-ii-multiple-locations"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873268/Principal-Design-Verification-Engineer",
+    "id": "microsoft-principal-design-verification-engineer-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator Dal0907 - CLD2079",
-    "job_city": "Richardson",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Design Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872813/Principal-Design-Engineer",
+    "id": "microsoft-principal-design-engineer-mountain-view"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Graduate - Test Engineer",
+    "job_city": "Leominster",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator Dal0907 - CLD2079 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55809&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0907-cld2079-richardson"
+    "job_description": "hardware engineering job for the role Graduate - Test Engineer at Leominster",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-graduate-test-engineer-leominster"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Apptio - Solutions Consultant (Digital Technical Specialist)",
-    "job_city": "Austin",
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Product Engineer",
+    "job_city": "Leominster",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Apptio - Solutions Consultant (Digital Technical Specialist) at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
-    "id": "ibm-apptio-solutions-consultant-digital-technical-specialist-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Firmware Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Firmware Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Firmware-Engineer_2501989?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-firmware-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Internship - Product Engineer at Leominster",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-product-engineer-leominster"
   }
 ]
