@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "Software Dev Engineer, Payload Antennas, Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Dev Engineer, Payload Antennas, Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078191/software-dev-engineer-payload-antennas-kuiper",
+    "job_posted_at": "2025-09-09T00:17:37.359Z",
+    "job_posted_at_datetime_utc": "2025-09-09T00:17:37.359Z",
+    "id": "amazon-software-dev-engineer-payload-antennas-kuiper-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Labs Program Manager - Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Labs Program Manager - Lead at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/labs-program-manager-lead/33099/85932563952",
+    "id": "arm-labs-program-manager-lead-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Project Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Project Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-project-manager/33099/85932548176",
+    "id": "arm-project-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Packaging Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Packaging Architect at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-packaging-architect/33099/85932548160",
+    "id": "arm-packaging-architect-san-jose"
+  }
+]
