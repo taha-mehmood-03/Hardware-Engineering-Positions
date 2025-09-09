@@ -1,12 +1,62 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Biomedical Engineer PhD Intern",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Biomedical Engineer PhD Intern at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Engineer-Intern_R255238?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-biomedical-engineer-phd-intern-us"
+    "employer_name": "IBM",
+    "job_title": "2026 Brand Technical Specialist Co-Op - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Brand Technical Specialist Co-Op - Entry Level Sales Program at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57382&source=WEB_Search_NA",
+    "id": "ibm-2026-brand-technical-specialist-co-op-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Platform Engineer Co-Op - Entry Level Sales Program at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA",
+    "id": "ibm-2026-platform-engineer-co-op-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Brand Sales Specialist Co-Op - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Brand Sales Specialist Co-Op - Entry Level Sales Program at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57380&source=WEB_Search_NA",
+    "id": "ibm-2026-brand-sales-specialist-co-op-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 AI Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 AI Engineer Co-Op - Entry Level Sales Program at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57383&source=WEB_Search_NA",
+    "id": "ibm-2026-ai-engineer-co-op-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Customer Success Manager Co-Op - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Customer Success Manager Co-Op - Entry Level Sales Program at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57376&source=WEB_Search_NA",
+    "id": "ibm-2026-customer-success-manager-co-op-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Engineering Test Technician - Switchboards (2nd Shift)",
+    "job_city": "Fort Worth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Engineering Test Technician - Switchboards (2nd Shift) at Fort Worth, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-engineering-test-technician-switchboards-2nd-shift-fort-worth"
   }
 ]
