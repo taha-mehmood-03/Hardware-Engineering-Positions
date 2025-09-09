@@ -1,92 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Business Development (M&A) Executive",
-    "job_city": "New York",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Development (M&A) Executive at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53852&source=WEB_Search_NA",
-    "id": "ibm-business-development-m-a-executive-new-york"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Technical Program Manager II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870586/Technical-Program-Manager-II",
+    "id": "microsoft-technical-program-manager-ii-multiple-locations"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Manufacturing Production Technician",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manufacturing Production Technician at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57363&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-production-technician-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "TPM (Technical Program Manager)",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role TPM (Technical Program Manager) at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45013&source=WEB_Search_NA",
-    "id": "ibm-tpm-technical-program-manager-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator - Dal0900 CLD2242",
+    "job_title": "Computer Operator Dal0907 - CLD2079",
     "job_city": "Richardson",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2242 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55820&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0900-cld2242-richardson"
+    "job_description": "Hardware Engineering job for the role Computer Operator Dal0907 - CLD2079 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55809&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0907-cld2079-richardson"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Computer Operator - Dal0907 CLD2058",
-    "job_city": "Richardson",
+    "job_title": "Apptio - Solutions Consultant (Digital Technical Specialist)",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0907 CLD2058 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55810&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0907-cld2058-richardson"
+    "job_description": "Hardware Engineering job for the role Apptio - Solutions Consultant (Digital Technical Specialist) at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
+    "id": "ibm-apptio-solutions-consultant-digital-technical-specialist-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator - Dal0900 CLD2241",
-    "job_city": "Richardson",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2241 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55816&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0900-cld2241-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator - Dal0900 CLD2162",
-    "job_city": "Richardson",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2162 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55812&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0900-cld2162-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Computer Operator - Dal0907 CLD2059",
-    "job_city": "Richardson",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0907 CLD2059 at Entry LevelRichardson, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55813&source=WEB_Search_NA",
-    "id": "ibm-computer-operator-dal0907-cld2059-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Software Engineer",
-    "job_city": "Irvine",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Software Engineer at ProfessionalIrvine, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57611&source=WEB_Search_NA",
-    "id": "ibm-full-stack-software-engineer-irvine"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Firmware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Firmware Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Firmware-Engineer_2501989?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-firmware-engineer-santa-clara"
   }
 ]
