@@ -1,23 +1,92 @@
 [
   {
-    "job_title": "BIOS Software Development Engineer II, AWS Hardware Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role BIOS Software Development Engineer II, AWS Hardware Engineering at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/bios-software-development-engineer-ii-aws-hardware-engineering",
-    "job_posted_at": "2025-09-09T19:19:03.355Z",
-    "job_posted_at_datetime_utc": "2025-09-09T19:19:03.355Z",
-    "id": "amazon-bios-software-development-engineer-ii-aws-hardware-engineering-cupertino"
+    "employer_name": "IBM",
+    "job_title": "Business Development (M&A) Executive",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Development (M&A) Executive at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53852&source=WEB_Search_NA",
+    "id": "ibm-business-development-m-a-executive-new-york"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Software Engineering Internship",
-    "job_city": "Chicago",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Production Technician",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineering Internship at Chicago, Illinois, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-software-engineering-internship-chicago"
+    "job_description": "Hardware Engineering job for the role Manufacturing Production Technician at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57363&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-production-technician-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "TPM (Technical Program Manager)",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role TPM (Technical Program Manager) at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45013&source=WEB_Search_NA",
+    "id": "ibm-tpm-technical-program-manager-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2242",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2242 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55820&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2242-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0907 CLD2058",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0907 CLD2058 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55810&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0907-cld2058-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2241",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2241 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55816&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2241-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2162",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0900 CLD2162 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55812&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2162-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0907 CLD2059",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Operator - Dal0907 CLD2059 at Entry LevelRichardson, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55813&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0907-cld2059-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full Stack Software Engineer",
+    "job_city": "Irvine",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Full Stack Software Engineer at ProfessionalIrvine, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57611&source=WEB_Search_NA",
+    "id": "ibm-full-stack-software-engineer-irvine"
   }
 ]
