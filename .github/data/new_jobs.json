@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer -CPU Architect",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer -CPU Architect at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-cpu-architect/33099/76890966592",
-    "id": "arm-engineer-cpu-architect-bengaluru"
+    "job_title": "BIOS Software Development Engineer II, AWS Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role BIOS Software Development Engineer II, AWS Hardware Engineering at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/bios-software-development-engineer-ii-aws-hardware-engineering",
+    "job_posted_at": "2025-09-09T19:19:03.355Z",
+    "job_posted_at_datetime_utc": "2025-09-09T19:19:03.355Z",
+    "id": "amazon-bios-software-development-engineer-ii-aws-hardware-engineering-cupertino"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "SIEMENS",
+    "job_title": "Software Engineering Internship",
+    "job_city": "Chicago",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Program Manager at Austin, Texas, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
-    "id": "arm-principal-program-manager-austin"
+    "job_description": "hardware engineering job for the role Software Engineering Internship at Chicago, Illinois, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-software-engineering-internship-chicago"
   }
 ]
