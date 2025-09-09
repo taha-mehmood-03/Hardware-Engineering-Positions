@@ -1,43 +1,62 @@
 [
   {
-    "job_title": "Software Dev Engineer, Payload Antennas, Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Dev Engineer, Payload Antennas, Kuiper at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078191/software-dev-engineer-payload-antennas-kuiper",
-    "job_posted_at": "2025-09-09T00:17:37.359Z",
-    "job_posted_at_datetime_utc": "2025-09-09T00:17:37.359Z",
-    "id": "amazon-software-dev-engineer-payload-antennas-kuiper-redmond"
+    "employer_name": "AiJobs",
+    "job_title": "Test Development Engineer – Datacenter GPU Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Test Development Engineer – Datacenter GPU Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161720273-senior-test-development-engineer-datacenter-gpu-systems",
+    "id": "aijobs-test-development-engineer-datacenter-gpu-systems-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Labs Program Manager - Lead",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Labs Program Manager - Lead at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/labs-program-manager-lead/33099/85932563952",
-    "id": "arm-labs-program-manager-lead-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Post-Silicon Hardware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Post-Silicon Hardware Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161720274-post-silicon-hardware-engineer",
+    "id": "aijobs-post-silicon-hardware-engineer-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Project Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Project Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-project-manager/33099/85932548176",
-    "id": "arm-project-manager-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Design for Debug Architect and Methodology Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "43min ago",
+    "job_description": "hardware engineering job for the role Senior Design for Debug Architect and Methodology Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161720271-senior-design-for-debug-architect-and-methodology-engineer",
+    "id": "aijobs-design-for-debug-architect-and-methodology-engineer-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Packaging Architect",
-    "job_city": "San Jose",
+    "employer_name": "AiJobs",
+    "job_title": "Director, Programmable Vision Accelerator Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "43min ago",
+    "job_description": "hardware engineering job for the role Director, Programmable Vision Accelerator Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161720278-director-programmable-vision-accelerator-software",
+    "id": "aijobs-director-programmable-vision-accelerator-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Enterprise Product Manager, Order to Cash",
+    "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Packaging Architect at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-packaging-architect/33099/85932548160",
-    "id": "arm-packaging-architect-san-jose"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Enterprise Product Manager, Order to Cash at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161734937-enterprise-product-manager-order-to-cash",
+    "id": "aijobs-enterprise-product-manager-order-to-cash-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Systems, Order to Cash",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Business Systems, Order to Cash at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/161734936-business-systems-order-to-cash",
+    "id": "aijobs-business-systems-order-to-cash-united-states"
   }
 ]
