@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Critical Environment Electrical Engineer",
-    "job_city": "Des Moines",
-    "job_state": "Iowa",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874802/Critical-Environment-Electrical-Engineer",
-    "id": "microsoft-critical-environment-electrical-engineer-des-moines"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Manufacturing Diagnostic Engineer",
+    "job_title": "Graduate Hardware Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manufacturing Diagnostic Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manufacturing-diagnostic-engineer/33099/85995358816",
-    "id": "arm-manufacturing-diagnostic-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Graduate Hardware Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
+    "id": "arm-graduate-hardware-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Implementation Engineer - CPU",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Implementation Engineer - CPU at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
+    "id": "arm-graduate-implementation-engineer-cpu-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Performance Architecture & PnP Modeling Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Performance Architecture & PnP Modeling Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/intern-performance-architecture-and-pnp-modeling-engineer/33099/85997348752",
+    "id": "arm-intern-performance-architecture-pnp-modeling-engineer-san-diego"
   }
 ]
