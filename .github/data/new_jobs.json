@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sales Rotational Program",
-    "job_city": "9 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Sales Rotational Program at 9 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sales-Rotational-Program_R255617?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sales-rotational-program-9-locations"
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineering Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Printed Circuit Board Supplier Development Engineer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Printed Circuit Board Supplier Development Engineer 2026 at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57933&source=WEB_Search_NA",
+    "id": "ibm-entry-level-printed-circuit-board-supplier-development-engineer-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Engineer  2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Architect / Lead Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Architect / Lead Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57563&source=WEB_Search_NA",
+    "id": "ibm-application-architect-lead-developer-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer, Enterprise MODS",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Development Diligence & Site Planning Lead",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer, Enterprise MODS at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161993998-senior-system-software-engineer-enterprise-mods",
-    "id": "aijobs-system-software-engineer-enterprise-mods-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Developer Technology Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "32min ago",
-    "job_description": "hardware engineering job for the role Senior Developer Technology Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161994001-senior-developer-technology-engineer",
-    "id": "aijobs-developer-technology-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer, Cloud Services",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer, Cloud Services at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161993993-senior-system-software-engineer-cloud-services",
-    "id": "aijobs-system-software-engineer-cloud-services-santa-clara"
+    "job_description": "hardware engineering job for the role Development Diligence & Site Planning Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162006561-development-diligence-site-planning-lead",
+    "id": "aijobs-development-diligence-site-planning-lead-united-states"
   }
 ]
