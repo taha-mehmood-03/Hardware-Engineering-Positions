@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Switch",
+    "job_title": "Optics",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Principal Strategic Sourcing Manager. Level: All Levels. Posted: Recently. Full Title: Principal Strategic Sourcing Manager - Switch",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863712/Principal-Strategic-Sourcing-Manager---Switch",
-    "id": "microsoft-switch-redmond"
+    "job_description": "Category: Principal Strategic Sourcing Manager. Level: All Levels. Posted: Recently. Full Title: Principal Strategic Sourcing Manager - Optics",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863713/Principal-Strategic-Sourcing-Manager---Optics",
+    "id": "microsoft-optics-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Software Performance Analyst",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Design Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Performance Analyst at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57550&source=WEB_Search_NA",
-    "id": "ibm-software-performance-analyst-poughkeepsie"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873456/Senior-Design-Engineer",
+    "id": "microsoft-senior-design-engineer-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Data Engineer Intern:",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Fire/Life Safety Service Senior Sales Executive",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Federal Data Engineer Intern: 2026 at InternshipWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
-    "id": "ibm-federal-data-engineer-intern-washington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "OpenSearch Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role OpenSearch Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57955&source=WEB_Search_NA",
-    "id": "ibm-opensearch-engineer-multiple-cities"
+    "job_description": "hardware engineering job for the role Fire/Life Safety Service Senior Sales Executive at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-life-safety-service-senior-sales-executive-bellevue"
   }
 ]
