@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Hardware Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Switch",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Hardware Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
-    "id": "arm-graduate-hardware-engineer-austin"
+    "job_description": "Category: Principal Strategic Sourcing Manager. Level: All Levels. Posted: Recently. Full Title: Principal Strategic Sourcing Manager - Switch",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863712/Principal-Strategic-Sourcing-Manager---Switch",
+    "id": "microsoft-switch-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Implementation Engineer - CPU",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Software Performance Analyst",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Implementation Engineer - CPU at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
-    "id": "arm-graduate-implementation-engineer-cpu-austin"
+    "job_description": "Hardware Engineering job for the role Software Performance Analyst at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57550&source=WEB_Search_NA",
+    "id": "ibm-software-performance-analyst-poughkeepsie"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Intern Performance Architecture & PnP Modeling Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineer Intern:",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Performance Architecture & PnP Modeling Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/intern-performance-architecture-and-pnp-modeling-engineer/33099/85997348752",
-    "id": "arm-intern-performance-architecture-pnp-modeling-engineer-san-diego"
+    "job_description": "Hardware Engineering job for the role Federal Data Engineer Intern: 2026 at InternshipWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineer-intern-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "OpenSearch Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role OpenSearch Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57955&source=WEB_Search_NA",
+    "id": "ibm-opensearch-engineer-multiple-cities"
   }
 ]
