@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Watsonx.data intelligence Product Manager",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Watsonx.data intelligence Product Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57629&source=WEB_Search_NA",
+    "id": "ibm-watsonx-data-intelligence-product-manager-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Test Technician (Apprentice Conversion)",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Manufacturing Test Technician (Apprentice Conversion) at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55376&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-test-technician-apprentice-conversion-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Commercial Strategist, Open Platform",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Commercial Strategist, Open Platform at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57628&source=WEB_Search_NA",
+    "id": "ibm-commercial-strategist-open-platform-san-jose"
+  }
+]
