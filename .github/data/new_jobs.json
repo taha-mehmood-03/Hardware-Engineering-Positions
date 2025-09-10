@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/graduate-engineer/33099/85941962064",
+    "id": "arm-graduate-engineer-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Scientist Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate X-Force Cyber Range Consultant Intern",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate X-Force Cyber Range Consultant Intern 2026 at InternshipWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Search_NA",
+    "id": "ibm-associate-x-force-cyber-range-consultant-intern-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - IBM Automation Asset Lifecycle Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales Engineer - IBM Automation Asset Lifecycle Management at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57544&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-ibm-automation-asset-lifecycle-management-multiple-cities"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Application Engineering Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Application Engineering Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-application-engineering-intern-bachelor-s-degree-santa-clara"
+  }
+]
