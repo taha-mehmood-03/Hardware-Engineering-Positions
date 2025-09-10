@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Microsoft",
+    "job_title": "Principal ML Architect",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/graduate-engineer/33099/85941962064",
-    "id": "arm-graduate-engineer-bengaluru"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal ML Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872918/Principal-ML-Architect",
+    "id": "microsoft-principal-ml-architect-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Scientist Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Cypress",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Scientist Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA",
-    "id": "ibm-associate-data-scientist-intern-multiple-cities"
+    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Cypress, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-cypress"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Associate X-Force Cyber Range Consultant Intern",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Software Engineer - Cloud & Industrial AI",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate X-Force Cyber Range Consultant Intern 2026 at InternshipWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Search_NA",
-    "id": "ibm-associate-x-force-cyber-range-consultant-intern-washington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Engineer - IBM Automation Asset Lifecycle Management",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technology Sales Engineer - IBM Automation Asset Lifecycle Management at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57544&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-engineer-ibm-automation-asset-lifecycle-management-multiple-cities"
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Cloud & Industrial AI at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-software-engineer-cloud-industrial-ai-bellevue"
   },
   {
     "employer_name": "MARVELL",
-    "job_title": "Application Engineering Intern - Bachelor's Degree",
+    "job_title": "Hardware Design Engineer Intern - Master's Degree",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Hardware Design Engineer Intern - Master's Degree at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Hardware-Design-Engineer-Intern---Master-s-Degree_2502449-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-design-engineer-intern-master-s-degree-irvine"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Software Design Intern - Bachelor's Degree",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Application Engineering Intern - Bachelor's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-application-engineering-intern-bachelor-s-degree-santa-clara"
+    "job_description": "hardware engineering job for the role Software Design Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Design-Intern---Bachelor-s-Degree_2502392-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-software-design-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Application Engineer Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Application Engineer Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer-Intern---Master-s-Degree_2502391-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-application-engineer-intern-master-s-degree-santa-clara"
   }
 ]
