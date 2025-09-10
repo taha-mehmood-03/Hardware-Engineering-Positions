@@ -1,42 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Design Verification Engineer",
-    "job_city": "Mountain View",
+    "job_title": "Senior Camera System Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Camera System Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872386/Senior-Camera-System-Architect",
+    "id": "microsoft-senior-camera-system-architect-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior CPU Physical Design Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "14 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior CPU Physical Design Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136750538216612550-senior-cpu-physical-design-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-cpu-physical-design-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Interconnect Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Interconnect Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-interconnect-architect/33099/79414119904",
+    "id": "arm-soc-interconnect-architect-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Principal Electrical Design Engineer",
+    "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Verification Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873268/Principal-Design-Verification-Engineer",
-    "id": "microsoft-principal-design-verification-engineer-mountain-view"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Design Engineer",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872813/Principal-Design-Engineer",
-    "id": "microsoft-principal-design-engineer-mountain-view"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Graduate - Test Engineer",
-    "job_city": "Leominster",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Graduate - Test Engineer at Leominster",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-graduate-test-engineer-leominster"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Product Engineer",
-    "job_city": "Leominster",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Internship - Product Engineer at Leominster",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-product-engineer-leominster"
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Lead Principal Electrical Design Engineer at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30791841",
+    "id": "micron-principal-electrical-design-engineer-san-jose"
   }
 ]
