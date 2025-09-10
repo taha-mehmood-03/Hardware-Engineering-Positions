@@ -1,52 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Silicon Applications Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Silicon Applications Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-silicon-applications-engineer/33099/74671715296",
-    "id": "arm-silicon-applications-engineer-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance Solution Engineer",
+    "job_title": "Software Engineer - Graphics and ML",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Performance Solution Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-performance-solution-engineer/33099/75645072992",
-    "id": "arm-performance-solution-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director, GPU Product Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, GPU Product Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-gpu-product-manager/33099/82080684640",
-    "id": "arm-director-gpu-product-manager-cambridge"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Emulation Hardware Support Engineer",
-    "job_city": "Newbury",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Emulation Hardware Support Engineer at Newbury, West Berkshire, United Kingdom",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-emulation-hardware-support-engineer-newbury"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Embedded Software",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Embedded Software at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Embedded-Software-Engineer---Product-Owner-Software-Development-Kit_R253066?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-embedded-software-3-locations"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer - Graphics and ML at Cambridge, United Kingdom, Trondheim, Norway, Oslo, Norway",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-graphics-and-ml/33099/85969516928",
+    "id": "arm-software-engineer-graphics-and-ml-cambridge"
   }
 ]
