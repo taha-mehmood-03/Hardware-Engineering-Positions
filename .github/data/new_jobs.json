@@ -1,12 +1,53 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "job_title": "Infrastructure TPM, Infra Capacity Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2940787/infrastructure-tpm-infra-capacity-delivery",
+    "job_posted_at": "2025-09-11T19:16:53.583Z",
+    "job_posted_at_datetime_utc": "2025-09-11T19:16:53.583Z",
+    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-herndon"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Indirect Category Supplier Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 3 days ago",
+    "job_description": "hardware engineering job for the role Senior Indirect Category Supplier Manager at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30948762",
+    "id": "micron-indirect-category-supplier-manager-boise"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Fire Alarm Systems Service Technician",
+    "job_city": "San Diego",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Verification Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/chandler/staff-verification-engineer/33099/86032470160",
-    "id": "arm-verification-engineer-multiple"
+    "job_description": "hardware engineering job for the role Fire Alarm Systems Service Technician at San Diego, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-alarm-systems-service-technician-san-diego"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Design Evaluation Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Design Evaluation Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Design-Evaluation-Engineering_R255728?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-design-evaluation-engineering-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Test Hardware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Test Hardware Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Hardware-Engineer_2502222?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-test-hardware-engineer-santa-clara"
   }
 ]
