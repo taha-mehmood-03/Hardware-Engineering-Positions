@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering (CRE)",
-    "employer_name": "Amazon",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering (CRE) at Phoenix, AZ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999992/electrical-engineer-data-center-colocation-regional-engineering-cre",
-    "job_posted_at": "2025-09-11T21:16:16.898Z",
-    "job_posted_at_datetime_utc": "2025-09-11T21:16:16.898Z",
-    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-cre-phoenix"
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Device Technology",
+    "job_city": "Andover",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - Device Technology at Andover",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-device-technology-andover"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Systems Hardware Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Systems Hardware Engineer at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Systems-Hardware-Engineer/1449597",
-    "id": "cisco-systems-hardware-engineer-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Electrical Product Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electrical Product Engineer at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Electrical-Product-Engineer/1446343",
-    "id": "cisco-electrical-product-engineer-san-jose"
+    "employer_name": "AiJobs",
+    "job_title": "Quality Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "30min ago",
+    "job_description": "hardware engineering job for the role Lead Quality Engineer at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162421430-lead-quality-engineer",
+    "id": "aijobs-quality-engineer-us"
   }
 ]
