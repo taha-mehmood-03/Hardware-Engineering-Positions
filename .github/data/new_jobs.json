@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Graduate - Product Engineer",
+    "job_city": "Leominster",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Graduate - Product Engineer at Leominster",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-graduate-product-engineer-leominster"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Electrical Engineer",
+    "job_city": "Leominster",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - Electrical Engineer at Leominster",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-electrical-engineer-leominster"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI / ML Engineer",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "13h ago",
+    "job_description": "hardware engineering job for the role AI / ML Engineer at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162315124-ai-ml-engineer",
+    "id": "aijobs-ai-ml-engineer-us"
+  }
+]
