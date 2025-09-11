@@ -1,52 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Hardware Test Engineer",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Test Engineer at ProfessionalHouston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57911&source=WEB_Search_NA",
-    "id": "ibm-hardware-test-engineer-houston"
+    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering (CRE)",
+    "employer_name": "Amazon",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering (CRE) at Phoenix, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999992/electrical-engineer-data-center-colocation-regional-engineering-cre",
+    "job_posted_at": "2025-09-11T21:16:16.898Z",
+    "job_posted_at_datetime_utc": "2025-09-11T21:16:16.898Z",
+    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-cre-phoenix"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Data Analytics Engineer - HashiCorp",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Systems Hardware Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Data Analytics Engineer - HashiCorp at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57968&source=WEB_Search_NA",
-    "id": "ibm-sr-data-analytics-engineer-hashicorp-multiple-cities"
+    "job_description": "hardware engineering job for the role Systems Hardware Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Systems-Hardware-Engineer/1449597",
+    "id": "cisco-systems-hardware-engineer-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Field CTO (West Coast)",
-    "job_city": "San Francisco",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Electrical Product Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Field CTO (West Coast) at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45839&source=WEB_Search_NA",
-    "id": "ibm-field-cto-west-coast-san-francisco"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Z Systems Support Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Z Systems Support Intern 2026 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58199&source=WEB_Search_NA",
-    "id": "ibm-z-systems-support-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior SAP Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56046&source=WEB_Search_NA",
-    "id": "ibm-sap-consultant-multiple-cities"
+    "job_description": "hardware engineering job for the role Electrical Product Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Electrical-Product-Engineer/1446343",
+    "id": "cisco-electrical-product-engineer-san-jose"
   }
 ]
