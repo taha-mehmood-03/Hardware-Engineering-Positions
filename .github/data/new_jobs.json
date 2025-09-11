@@ -1,92 +1,82 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer, Cloud Platform Services",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer, Cloud Platform Services at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
-    "id": "ibm-engineer-cloud-platform-services-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Physical Design Engineer Intern - Master's Degree",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Physical Design Engineer Intern - Master's Degree at Boise, ID",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Physical-Design-Engineer-Intern---Master-s-Degree_2502385-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-physical-design-engineer-intern-master-s-degree-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Research Scientist - AI for Code",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Research Scientist - AI for Code at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55698&source=WEB_Search_NA",
-    "id": "ibm-research-scientist-ai-for-code-yorktown-heights"
+    "employer_name": "MARVELL",
+    "job_title": "Test Engineer Intern - Master's Degree",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Test Engineer Intern - Master's Degree at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Test-Engineer-Intern---Master-s-Degree_2502283-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-test-engineer-intern-master-s-degree-westlake-village"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Application Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Application Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Application-Engineer_2502096?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-application-engineer-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "32min ago",
-    "job_description": "hardware engineering job for the role Senior Software Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220517-senior-software-architect",
-    "id": "aijobs-software-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Computer Vision Algorithms and SDK",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Metrology & Display Test Engineer, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer - Computer Vision Algorithms and SDK at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220528-senior-system-software-engineer-computer-vision-algorithms-and-sdk",
-    "id": "aijobs-system-software-engineer-computer-vision-algorithms-and-sdk-santa-clara"
+    "job_description": "hardware engineering job for the role Metrology & Display Test Engineer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231172-metrology-display-test-engineer-consumer-products",
+    "id": "aijobs-metrology-display-test-engineer-consumer-products-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer – Autonomous Vehicles Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Growth Paid Marketing Platform Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Systems Software Engineer – Autonomous Vehicles Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220523-senior-systems-software-engineer-autonomous-vehicles-infrastructure",
-    "id": "aijobs-systems-software-engineer-autonomous-vehicles-infrastructure-santa-clara"
+    "job_description": "hardware engineering job for the role Growth Paid Marketing Platform Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231174-growth-paid-marketing-platform-engineer",
+    "id": "aijobs-growth-paid-marketing-platform-engineer-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, CAD Tool Development",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "32min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, CAD Tool Development at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220520-senior-software-engineer-cad-tool-development",
-    "id": "aijobs-software-engineer-cad-tool-development-santa-clara"
+    "job_title": "Reliability Engineer - PCBA, Harness & Connectors",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Senior Reliability Engineer - PCBA, Harness & Connectors at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231199-senior-reliability-engineer-pcba-harness-connectors",
+    "id": "aijobs-reliability-engineer-pcba-harness-connectors-ca"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "ASIC Front End Infrastructure Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Front End Infrastructure Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220515-senior-asic-front-end-infrastructure-engineer",
-    "id": "aijobs-asic-front-end-infrastructure-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer – Holoscan Sensor AI Platform",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Enterprise Product Manager, Procure to Pay",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer – Holoscan Sensor AI Platform at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220525-senior-software-engineer-holoscan-sensor-ai-platform",
-    "id": "aijobs-software-engineer-holoscan-sensor-ai-platform-santa-clara"
+    "job_description": "hardware engineering job for the role Enterprise Product Manager, Procure to Pay at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231187-enterprise-product-manager-procure-to-pay",
+    "id": "aijobs-enterprise-product-manager-procure-to-pay-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Architect, Advanced Development",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "33min ago",
-    "job_description": "hardware engineering job for the role Senior Software Architect, Advanced Development at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220516-senior-software-architect-advanced-development",
-    "id": "aijobs-software-architect-advanced-development-santa-clara"
+    "job_title": "Business Systems, Procure to Pay",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Business Systems, Procure to Pay at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231171-business-systems-procure-to-pay",
+    "id": "aijobs-business-systems-procure-to-pay-united-states"
   }
 ]
