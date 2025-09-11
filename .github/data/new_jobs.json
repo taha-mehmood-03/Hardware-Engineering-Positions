@@ -1,43 +1,92 @@
 [
   {
-    "job_title": "Manufacturing Engineer - Hardware Engineering, Hardware Engineering - Manufacturing",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Manufacturing Engineer - Hardware Engineering, Hardware Engineering - Manufacturing at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3080095/manufacturing-engineer-hardware-engineering-hardware-engineering-manufacturing",
-    "job_posted_at": "2025-09-10T23:17:32.433Z",
-    "job_posted_at_datetime_utc": "2025-09-10T23:17:32.434Z",
-    "id": "amazon-manufacturing-engineer-hardware-engineering-hardware-engineering-manufacturing-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance Engineer - EDA workloads",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Performance Engineer - EDA workloads at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/performance-engineer-eda-workloads/33099/86006621520",
-    "id": "arm-performance-engineer-eda-workloads-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance Engineer - EDA platform & workloads",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Performance Engineer - EDA platform & workloads at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-performance-engineer-eda-platform-and-workloads/33099/86006621552",
-    "id": "arm-performance-engineer-eda-platform-workloads-austin"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Manager, Foundry Quality Management (SQE)",
-    "job_city": "Austin",
+    "employer_name": "IBM",
+    "job_title": "Engineer, Cloud Platform Services",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manager, Foundry Quality Management (SQE) at Austin",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-manager-foundry-quality-management-sqe-austin"
+    "job_description": "Hardware Engineering job for the role Staff Engineer, Cloud Platform Services at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
+    "id": "ibm-engineer-cloud-platform-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research Scientist - AI for Code",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Research Scientist - AI for Code at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55698&source=WEB_Search_NA",
+    "id": "ibm-research-scientist-ai-for-code-yorktown-heights"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "32min ago",
+    "job_description": "hardware engineering job for the role Senior Software Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220517-senior-software-architect",
+    "id": "aijobs-software-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Computer Vision Algorithms and SDK",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Computer Vision Algorithms and SDK at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220528-senior-system-software-engineer-computer-vision-algorithms-and-sdk",
+    "id": "aijobs-system-software-engineer-computer-vision-algorithms-and-sdk-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer – Autonomous Vehicles Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Systems Software Engineer – Autonomous Vehicles Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220523-senior-systems-software-engineer-autonomous-vehicles-infrastructure",
+    "id": "aijobs-systems-software-engineer-autonomous-vehicles-infrastructure-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, CAD Tool Development",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "32min ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, CAD Tool Development at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220520-senior-software-engineer-cad-tool-development",
+    "id": "aijobs-software-engineer-cad-tool-development-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Front End Infrastructure Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "33min ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Front End Infrastructure Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220515-senior-asic-front-end-infrastructure-engineer",
+    "id": "aijobs-asic-front-end-infrastructure-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer – Holoscan Sensor AI Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer – Holoscan Sensor AI Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220525-senior-software-engineer-holoscan-sensor-ai-platform",
+    "id": "aijobs-software-engineer-holoscan-sensor-ai-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Architect, Advanced Development",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "33min ago",
+    "job_description": "hardware engineering job for the role Senior Software Architect, Advanced Development at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/162220516-senior-software-architect-advanced-development",
+    "id": "aijobs-software-architect-advanced-development-santa-clara"
   }
 ]
