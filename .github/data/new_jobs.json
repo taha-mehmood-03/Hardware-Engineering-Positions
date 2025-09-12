@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer (Drivers and Firmware)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer (Drivers and Firmware) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-software-engineer-drivers-and-firmware/33099/78612045584",
+    "id": "arm-software-engineer-drivers-and-firmware-munich"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Performance Analysis Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Performance Analysis Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-performance-analysis-engineer/33099/86055976592",
+    "id": "arm-graduate-performance-analysis-engineer-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Tools Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Software Tools Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-software-tools-engineer/33099/86055976576",
+    "id": "arm-graduate-software-tools-engineer-trondheim"
+  }
+]
