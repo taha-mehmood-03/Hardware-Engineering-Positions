@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Embeded Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Micron",
+    "job_title": "Quality Technician",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Quality Technician at Longmont, Colorado, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27273578",
+    "id": "micron-quality-technician-longmont"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Logic Design Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Embeded Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-embeded-software-engineer/33099/66037111824",
-    "id": "arm-embeded-software-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Logic Design Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57387&source=WEB_Search_NA",
+    "id": "ibm-logic-design-engineer-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Development Engineer in Test",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Development Engineer in Test at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157297387-senior-software-development-engineer-in-test",
+    "id": "aijobs-software-development-engineer-in-test-santa-clara"
   }
 ]
