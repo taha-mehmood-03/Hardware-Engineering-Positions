@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Solutions HVAC Operations Manager",
-    "job_city": "Las Vegas",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Electronics Hardware Lead Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Smart Buildings Solutions HVAC Operations Manager at Las Vegas, Nevada, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-solutions-hvac-operations-manager-las-vegas"
+    "job_description": "Hardware Engineering job for the role Electronics Hardware Lead Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/electronics-hardware-lead-engineer/33099/86070307440",
+    "id": "arm-electronics-hardware-lead-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Edge AI Solution Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Edge AI Solution Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/edge-ai-solution-manager/33099/81282657056",
+    "id": "arm-edge-ai-solution-manager-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "RTL Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior RTL Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-rtl-engineer/33099/86070309344",
+    "id": "arm-rtl-engineer-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer, Advanced Modeling & AI Solutions",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Staff Engineer, Advanced Modeling & AI Solutions at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37951327",
+    "id": "micron-engineer-advanced-modeling-ai-solutions-boise"
   }
 ]
