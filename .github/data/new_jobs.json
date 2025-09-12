@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Device Technology",
-    "job_city": "Andover",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Embeded Software Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Internship - Device Technology at Andover",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-device-technology-andover"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quality Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "30min ago",
-    "job_description": "hardware engineering job for the role Lead Quality Engineer at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162421430-lead-quality-engineer",
-    "id": "aijobs-quality-engineer-us"
+    "job_description": "Hardware Engineering job for the role Staff Embeded Software Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-embeded-software-engineer/33099/66037111824",
+    "id": "arm-embeded-software-engineer-bengaluru"
   }
 ]
