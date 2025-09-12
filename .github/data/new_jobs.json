@@ -1,42 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Electronics Hardware Lead Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Silicon IP Program Manager",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Electronics Hardware Lead Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/electronics-hardware-lead-engineer/33099/86070307440",
-    "id": "arm-electronics-hardware-lead-engineer-chandler"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon IP Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874870/Principal-Silicon-IP-Program-Manager",
+    "id": "microsoft-principal-silicon-ip-program-manager-hillsboro"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Edge AI Solution Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Graduate Graphics Software Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Edge AI Solution Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/edge-ai-solution-manager/33099/81282657056",
-    "id": "arm-edge-ai-solution-manager-cambridge"
+    "job_description": "Hardware Engineering job for the role Graduate Graphics Software Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer/33099/86072349568",
+    "id": "arm-graduate-graphics-software-engineer-trondheim"
   },
   {
     "employer_name": "Arm",
-    "job_title": "RTL Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Graphics Software Intern, Direct3D",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior RTL Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-rtl-engineer/33099/86070309344",
-    "id": "arm-rtl-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Graphics Software Intern, Direct3D at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graphics-software-intern-direct3d/33099/86072346848",
+    "id": "arm-graphics-software-intern-direct3d-trondheim"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Engineer, Advanced Modeling & AI Solutions",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role Staff Engineer, Advanced Modeling & AI Solutions at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37951327",
-    "id": "micron-engineer-advanced-modeling-ai-solutions-boise"
+    "job_title": "Technician - Global Engineering Labs (GEL)",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "hardware engineering job for the role Principal Technician - Global Engineering Labs (GEL) at Longmont, Colorado, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37875016",
+    "id": "micron-technician-global-engineering-labs-gel-longmont"
   }
 ]
