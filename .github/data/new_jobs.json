@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Electrical  Engineer CO-OP- Spring",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Electrical  Engineer CO-OP- Spring 2026 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007975/Electrical-Engineer-CO-OP-Spring-2026",
-    "id": "abb-electrical-engineer-co-op-spring-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Senior Application Performance Monitoring Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role IS Senior Application Performance Monitoring Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00000386/IS-Senior-Application-Performance-Monitoring-Specialist",
-    "id": "abb-is-senior-application-performance-monitoring-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Proposal Engineer Intern - Spring",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Proposal Engineer Intern - Spring 2026 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026",
-    "id": "abb-proposal-engineer-intern-spring-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Intern",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Intern at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001615/Intern",
-    "id": "abb-intern-not-specific"
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Hardware Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/86055976512",
+    "id": "arm-graduate-hardware-engineer-trondheim"
   }
 ]
