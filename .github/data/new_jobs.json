@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer Platform - Server Embedded Firmware",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "8min ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer Platform - Server Embedded Firmware at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/162632987-senior-system-software-engineer-platform-server-embedded-firmware",
-    "id": "aijobs-system-software-engineer-platform-server-embedded-firmware-santa-clara"
+    "job_title": "Firmware Engineering Intern [Winter]",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "8h ago",
+    "job_description": "hardware engineering job for the role Firmware Engineering Intern [Winter] at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634635-firmware-engineering-intern-winter",
+    "id": "aijobs-firmware-engineering-intern-winter-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ML Infrastructure Generalist",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "3h ago",
+    "job_description": "hardware engineering job for the role ML Infrastructure Generalist at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634734-ml-infrastructure-generalist",
+    "id": "aijobs-ml-infrastructure-generalist-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Infrastructure Generalist",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "3h ago",
+    "job_description": "hardware engineering job for the role Infrastructure Generalist at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634735-infrastructure-generalist",
+    "id": "aijobs-infrastructure-generalist-united-states"
   }
 ]
