@@ -1,12 +1,194 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Director, Global Environmental Compliance & Sustainability",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role Director, Global Environmental Compliance & Sustainability at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30085428",
-    "id": "micron-director-global-environmental-compliance-sustainability-boise"
+    "job_title": "Cleared Data Center Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cleared Data Center Electrical Engineer, Field Engineering at San Antonio, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2976064/cleared-data-center-electrical-engineer-field-engineering",
+    "job_posted_at": "2025-09-15T16:24:47.009Z",
+    "job_posted_at_datetime_utc": "2025-09-15T16:24:47.009Z",
+    "id": "amazon-cleared-data-center-electrical-engineer-field-engineering-san-antonio"
+  },
+  {
+    "job_title": "Cleared Data Center Mechanical Field Engineer, ADC Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cleared Data Center Mechanical Field Engineer, ADC Field Engineering at San Antonio, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021067/cleared-data-center-mechanical-field-engineer-adc-field-engineering",
+    "job_posted_at": "2025-09-15T16:24:47.009Z",
+    "job_posted_at_datetime_utc": "2025-09-15T16:24:47.009Z",
+    "id": "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-san-antonio"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Performance Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior CPU Performance Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-performance-engineer/33099/70595274672",
+    "id": "arm-cpu-performance-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Kernel Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Kernel Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/kernel-engineer/33099/77689774992",
+    "id": "arm-kernel-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Machine Learning Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-machine-learning-engineer/33099/77017825472",
+    "id": "arm-machine-learning-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Machine Learning  Performance Kernel Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Machine Learning  Performance Kernel Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-machine-learning-performance-kernel-engineer/33099/83571743920",
+    "id": "arm-machine-learning-performance-kernel-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Design Hardware Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Design Hardware Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-design-hardware-engineer/33099/84349465808",
+    "id": "arm-senior-staff-design-hardware-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Physical Implementation Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Physical Implementation Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-physical-implementation-engineer/33099/79361260672",
+    "id": "arm-physical-implementation-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - System IP",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Verification Engineer - System IP at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/verification-engineer-system-ip/33099/84349461952",
+    "id": "arm-verification-engineer-system-ip-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "GPU Hardware Verification Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior GPU Hardware Verification Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-gpu-hardware-verification-engineer/33099/83018441584",
+    "id": "arm-gpu-hardware-verification-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance Engineer - Pre-Silicon",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Performance Engineer - Pre-Silicon at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/performance-engineer-pre-silicon/33099/83389422880",
+    "id": "arm-performance-engineer-pre-silicon-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Design Engineer - Video",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff/Principal Design Engineer - Video at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/manchester/staff-principal-design-engineer-video/33099/84401269216",
+    "id": "arm-staff-principal-design-engineer-video-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "/ Principal Implementation Engineer",
+    "job_city": "Sheffield",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff / Principal Implementation Engineer at Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/staff-principal-implementation-engineer/33099/84177006848",
+    "id": "arm-principal-implementation-engineer-sheffield"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Media IP Modelling",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Media IP Modelling at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-software-engineer-media-ip-modelling/33099/84654857584",
+    "id": "arm-software-engineer-media-ip-modelling-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Arm in Bristol: Stories from Alex, Dan, and Mario",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Arm in Bristol: Stories from Alex, Dan, and Mario at ",
+    "job_apply_link": "https://careers.arm.com/alex-dan-and-mario-bristol-stories",
+    "id": "arm-arm-in-bristol-stories-from-alex-dan-and-mario-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Josiah's Story",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Josiah's Story at ",
+    "job_apply_link": "https://careers.arm.com/josiah-mendes-cpu-graduate",
+    "id": "arm-josiah-s-story-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Toby's Story",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Toby's Story at ",
+    "job_apply_link": "https://careers.arm.com/toby-gpu-story",
+    "id": "arm-toby-s-story-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Will's Story",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Will's Story at ",
+    "job_apply_link": "https://careers.arm.com/will-bonsmann-gpu-story",
+    "id": "arm-will-s-story-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "CMP Equipment Engineering Technician, Night",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role CMP Equipment Engineering Technician, Night at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/CMP-Equipment-Engineering-Technician--Night_R255649?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-cmp-equipment-engineering-technician-night-us"
   }
 ]
