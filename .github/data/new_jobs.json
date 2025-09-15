@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "SIEMENS",
+    "job_title": "Fire Alarm Systems Technician",
+    "job_city": "Austin",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Product Manager at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/seattle/staff-product-manager/33099/78973722336",
-    "id": "arm-product-manager-multiple"
+    "job_description": "hardware engineering job for the role Fire Alarm Systems Technician at Austin, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-alarm-systems-technician-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Fire/Life Safety & Security Systems Project Manager",
+    "job_city": "Las Vegas",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Fire/Life Safety & Security Systems Project Manager at Las Vegas, Nevada, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-fire-life-safety-security-systems-project-manager-las-vegas"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineering Sales Rotational Program",
+    "job_city": "9 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Engineering Sales Rotational Program at 9 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sales-Rotational-Program_R255617?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineering-sales-rotational-program-9-locations"
   }
 ]
