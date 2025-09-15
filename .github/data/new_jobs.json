@@ -1,22 +1,52 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "FPGA Engineer",
-    "job_city": "Sunnyvale",
+    "job_title": "Hardware Engineering Intern",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: FPGA Engineer, Platforms, Hardware",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134204079487230662-fpga-engineer-platforms-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-fpga-engineer-sunnyvale"
+    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Engineering Intern, BS/MS, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-engineering-intern-mountain-view"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Graduate Software and Automation / DevOps Engineer - CPU",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "job_title": "Verification Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Software and Automation / DevOps Engineer - CPU at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-software-and-automation-devops-engineer-cpu/33099/83226831648",
-    "id": "arm-graduate-software-and-automation-devops-engineer-cpu-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role Staff Verification Engineer at Chandler, Arizona, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-verification-engineer/33099/86032470160",
+    "id": "arm-verification-engineer-chandler"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Facilities SCADA Engineer Lead",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Facilities SCADA Engineer Lead at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30766249",
+    "id": "micron-facilities-scada-engineer-lead-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Support Escalation Manager",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Support Escalation Manager at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57842&source=WEB_Search_NA",
+    "id": "ibm-support-escalation-manager-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Development Engineer",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Development Engineer at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Development-Engineer/1446739",
+    "id": "cisco-software-development-engineer-milpitas"
   }
 ]
