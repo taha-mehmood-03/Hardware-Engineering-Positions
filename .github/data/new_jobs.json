@@ -1,52 +1,44 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Engineering Intern",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Engineering Intern, BS/MS, Summer 2026",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-engineering-intern-mountain-view"
+    "job_title": "Supply Planning Mgr, AWS Supply Chain - IPS",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Supply Planning Mgr, AWS Supply Chain - IPS at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083097/supply-planning-mgr-aws-supply-chain-ips",
+    "job_posted_at": "2025-09-15T15:21:45.112Z",
+    "job_posted_at_datetime_utc": "2025-09-15T15:21:45.112Z",
+    "id": "amazon-supply-planning-mgr-aws-supply-chain-ips-herndon"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Verification Engineer at Chandler, Arizona, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/chandler/staff-verification-engineer/33099/86032470160",
-    "id": "arm-verification-engineer-chandler"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Facilities SCADA Engineer Lead",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "hardware engineering job for the role Facilities SCADA Engineer Lead at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30766249",
-    "id": "micron-facilities-scada-engineer-lead-boise"
+    "job_title": "Technical Support Engineer, Grocery Robotics & Automation",
+    "employer_name": "Amazon",
+    "job_city": "Virtual",
+    "job_state": "USA",
+    "job_description": "hardware engineering job for the role Technical Support Engineer, Grocery Robotics & Automation at Virtual, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083159/technical-support-engineer-grocery-robotics-automation",
+    "job_posted_at": "2025-09-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
+    "id": "amazon-technical-support-engineer-grocery-robotics-automation-virtual"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Support Escalation Manager",
-    "job_city": "Austin",
+    "job_title": "Brand Technical Specialist - Automation - Network Management",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Support Escalation Manager at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57842&source=WEB_Search_NA",
-    "id": "ibm-support-escalation-manager-austin"
+    "job_description": "Hardware Engineering job for the role Brand Technical Specialist - Automation - Network Management at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58441&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-automation-network-management-multiple-cities"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Development Engineer",
-    "job_city": "Milpitas",
-    "job_state": "California",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Baltimore",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Development Engineer at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Development-Engineer/1446739",
-    "id": "cisco-software-development-engineer-milpitas"
+    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Baltimore, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-baltimore"
   }
 ]
