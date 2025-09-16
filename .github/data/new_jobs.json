@@ -1,32 +1,72 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Process Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Intern - Process Development at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30947665",
-    "id": "micron-intern-process-development-boise"
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Solutions Engineer at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58467&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineer-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Security Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Security Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58146&source=WEB_Search_NA",
+    "id": "ibm-product-security-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Product Security Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Product Security Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58160&source=WEB_Search_NA",
+    "id": "ibm-sr-product-security-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Manager at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58173&source=WEB_Search_NA",
+    "id": "ibm-product-manager-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager Architect",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Manager Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58186&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Backend Software Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Backend Software Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57108&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-lowell"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Protection & Automation Electrical Engineering Summer - Fall 2026 Internship",
+    "job_title": "Power Protection & Automation Engineering Development Program (June 2026 Cohort)",
     "job_city": "Wendell",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Protection & Automation Electrical Engineering Summer - Fall 2026 Internship at Wendell, North Carolina, United States of America",
+    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (June 2026 Cohort) at Wendell, North Carolina, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-protection-automation-electrical-engineering-summer-fall-2026-internship-wendell"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Power Protection & Automation Engineering Development Program (January 2026 Cohort)",
-    "job_city": "Wendell",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (January 2026 Cohort) at Wendell, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-power-protection-automation-engineering-development-program-january-2026-cohort-wendell"
+    "id": "siemens-power-protection-automation-engineering-development-program-june-2026-cohort-wendell"
   }
 ]
