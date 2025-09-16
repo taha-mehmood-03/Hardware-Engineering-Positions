@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Solutions Engineer",
-    "job_city": "San Francisco",
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Modeling Engineer - Summer",
+    "job_city": "Lexington",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Solutions Engineer at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58467&source=WEB_Search_NA",
-    "id": "ibm-solutions-engineer-san-francisco"
+    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Summer 2026 at Lexington",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-modeling-engineer-summer-lexington"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Product Security Engineer",
-    "job_city": "Multiple Cities",
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Modeling Engineer - Spring",
+    "job_city": "Lexington",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Security Engineer II at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58146&source=WEB_Search_NA",
-    "id": "ibm-product-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Product Security Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Product Security Engineer II at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58160&source=WEB_Search_NA",
-    "id": "ibm-sr-product-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Manager at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58173&source=WEB_Search_NA",
-    "id": "ibm-product-manager-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Manager Architect",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Manager Architect at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58186&source=WEB_Search_NA",
-    "id": "ibm-customer-success-manager-architect-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Backend Software Developer",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Backend Software Developer at ProfessionalLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57108&source=WEB_Search_NA",
-    "id": "ibm-backend-software-developer-lowell"
+    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Spring 2026 at Lexington",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-modeling-engineer-spring-lexington"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Power Protection & Automation Engineering Development Program (June 2026 Cohort)",
-    "job_city": "Wendell",
+    "job_title": "Security Systems Technician",
+    "job_city": "Memphis",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (June 2026 Cohort) at Wendell, North Carolina, United States of America",
+    "job_description": "hardware engineering job for the role Security Systems Technician at Memphis, Tennessee, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-power-protection-automation-engineering-development-program-june-2026-cohort-wendell"
+    "id": "siemens-security-systems-technician-memphis"
   }
 ]
