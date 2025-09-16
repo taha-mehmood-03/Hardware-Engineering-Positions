@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr Equipment Development Engineer - Advanced Packaging",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 2 months ago",
-    "job_description": "hardware engineering job for the role Sr Equipment Development Engineer - Advanced Packaging at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30070832",
-    "id": "micron-sr-equipment-development-engineer-advanced-packaging-boise"
+    "employer_name": "Arm",
+    "job_title": "SoC / SoC subsystem Design Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC / SoC subsystem Design Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-soc-soc-subsystem-design-engineer/33099/86199942480",
+    "id": "arm-soc-soc-subsystem-design-engineer-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Architecture Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Solutions Architecture Specialist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58459&source=WEB_Search_NA",
+    "id": "ibm-solutions-architecture-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Semiconductor Software Product Manager",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Semiconductor Software Product Manager at ProfessionalAlbany, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57841&source=WEB_Search_NA",
+    "id": "ibm-semiconductor-software-product-manager-albany"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Integration Technical Sales Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Integration Technical Sales Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57313&source=WEB_Search_NA",
+    "id": "ibm-application-integration-technical-sales-engineer-multiple-cities"
   }
 ]
