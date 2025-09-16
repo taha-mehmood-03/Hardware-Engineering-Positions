@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Sourcing Engineering Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "Compute Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Sourcing Engineering Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876525/Principal-Sourcing-Engineering-Manager",
-    "id": "microsoft-principal-sourcing-engineering-manager-redmond"
+    "job_description": "Hardware Engineering job for the role Staff Compute Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-compute-architect/33099/79481277824",
+    "id": "arm-compute-architect-cambridge"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Technical PM Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "Arm",
+    "job_title": "Principal Systems Engineer – Network Interconnects",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Technical PM Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871158/Principal-Technical-PM-Manager",
-    "id": "microsoft-principal-technical-pm-manager-multiple-locations"
+    "job_description": "Hardware Engineering job for the role Senior Principal Systems Engineer – Network Interconnects at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-systems-engineer-network-interconnects/33099/84462421856",
+    "id": "arm-principal-systems-engineer-network-interconnects-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Fire Alarm Systems Technician",
+    "job_city": "Mechanicsburg",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Fire Alarm Systems Technician at Mechanicsburg, Pennsylvania, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-alarm-systems-technician-mechanicsburg"
   }
 ]
