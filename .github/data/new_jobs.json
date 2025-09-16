@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Process Mechanical Design Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role Process Mechanical Design Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30765217",
-    "id": "micron-process-mechanical-design-engineer-boise"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Power Systems Consultant",
-    "job_city": "Boston",
-    "job_state": "United States of America",
+    "employer_name": "INFINEON",
+    "job_title": "Staff Engineer - Layout Design",
+    "job_city": "El Segundo",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Power Systems Consultant at Boston, Massachusetts, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-power-systems-consultant-boston"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Offsite Improvements Lead, Superintelligence Infrastructure - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Offsite Improvements Lead, Superintelligence Infrastructure - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163128142-offsite-improvements-lead-superintelligence-infrastructure-stargate",
-    "id": "aijobs-offsite-improvements-lead-superintelligence-infrastructure-stargate-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Specialist, BizOps",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Specialist, BizOps at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163128145-product-specialist-bizops",
-    "id": "aijobs-product-specialist-bizops-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Solution Architect Manager, Digital Natives",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "4h ago",
-    "job_description": "hardware engineering job for the role Solution Architect Manager, Digital Natives at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163128147-solution-architect-manager-digital-natives",
-    "id": "aijobs-solution-architect-manager-digital-natives-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Emerging Risk Operations Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Emerging Risk Operations Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163128148-emerging-risk-operations-manager",
-    "id": "aijobs-emerging-risk-operations-manager-united-states"
+    "job_description": "hardware engineering job for the role Staff Engineer - Layout Design at El Segundo",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-staff-engineer-layout-design-el-segundo"
   }
 ]
