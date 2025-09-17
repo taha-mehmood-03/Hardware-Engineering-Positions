@@ -1,24 +1,12 @@
 [
   {
-    "job_title": "Satellite Test HW Engineer, Integrated Vehicle Test",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Satellite Test HW Engineer, Integrated Vehicle Test at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086576/satellite-test-hw-engineer-integrated-vehicle-test",
-    "job_posted_at": "2025-09-17T17:13:59.679Z",
-    "job_posted_at_datetime_utc": "2025-09-17T17:13:59.679Z",
-    "id": "amazon-satellite-test-hw-engineer-integrated-vehicle-test-redmond"
-  },
-  {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Columbus, OH, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086602/critical-infrastructure-electrical-engineer-field-engineering",
-    "job_posted_at": "2025-09-17T17:13:59.679Z",
-    "job_posted_at_datetime_utc": "2025-09-17T17:13:59.679Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-columbus"
+    "employer_name": "Microsoft",
+    "job_title": "Principal Logic Design Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Logic Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879163/Principal-Logic-Design-Engineer",
+    "id": "microsoft-principal-logic-design-engineer-mountain-view"
   }
 ]
