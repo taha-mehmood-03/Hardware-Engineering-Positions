@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - BSP",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer - BSP at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/software-engineer-bsp/33099/86245662400",
-    "id": "arm-software-engineer-bsp-trondheim"
+    "job_title": "Amazon Robotics - Hardware Engineer Co-op - January to June 2026",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Amazon Robotics - Hardware Engineer Co-op - January to June 2026 at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086487/amazon-robotics-hardware-engineer-co-op-january-to-june-2026",
+    "job_posted_at": "2025-09-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-17T00:00:00.000Z",
+    "id": "amazon-amazon-robotics-hardware-engineer-co-op-january-to-june-2026-north-reading"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Facilities Quality Coordinator",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "hardware engineering job for the role Facilities Quality Coordinator at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28401880",
-    "id": "micron-facilities-quality-coordinator-boise"
+    "employer_name": "Microsoft",
+    "job_title": "Corporate Counsel",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Corporate Counsel",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871786/Corporate-Counsel",
+    "id": "microsoft-corporate-counsel-multiple-locations"
   }
 ]
