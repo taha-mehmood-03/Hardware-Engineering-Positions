@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Modeling Engineer - Summer",
-    "job_city": "Lexington",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Security Strategy",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Summer 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-modeling-engineer-summer-lexington"
+    "job_description": "Category: Principal Technical Program Manager. Level: All Levels. Posted: Recently. Full Title: Principal Technical Program Manager - Security Strategy",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874240/Principal-Technical-Program-Manager---Security-Strategy",
+    "id": "microsoft-security-strategy-multiple-locations"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Modeling Engineer - Spring",
-    "job_city": "Lexington",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Rack and Blade Level Validation -Director",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Spring 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-modeling-engineer-spring-lexington"
+    "job_description": "Hardware Engineering job for the role Rack and Blade Level Validation -Director at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/rack-and-blade-level-validation-director/33099/84667892928",
+    "id": "arm-rack-and-blade-level-validation-director-austin"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Security Systems Technician",
-    "job_city": "Memphis",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "CPU Power Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Security Systems Technician at Memphis, Tennessee, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-security-systems-technician-memphis"
+    "job_description": "Hardware Engineering job for the role Senior CPU Power Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-cpu-power-engineer/33099/76646696096",
+    "id": "arm-cpu-power-engineer-austin"
   }
 ]
