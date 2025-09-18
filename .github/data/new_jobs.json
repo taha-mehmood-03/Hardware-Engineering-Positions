@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Procurement Manager - Corporate Services",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Procurement Manager - Corporate Services at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-procurement-manager-corporate-services/33099/86283357680",
-    "id": "arm-procurement-manager-corporate-services-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Modeling Engineer",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Modeling Engineer at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/senior-software-modeling-engineer/33099/86062435008",
-    "id": "arm-software-modeling-engineer-waltham"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Manager Intern – Entry Level Sales Program",
-    "job_city": "Multiple Cities",
+    "employer_name": "INFINEON",
+    "job_title": "Principal Engineer Systems/Applications",
+    "job_city": "Andover",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Manager Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59847&source=WEB_Search_NA",
-    "id": "ibm-customer-success-manager-intern-entry-level-sales-program-multiple-cities"
+    "job_description": "hardware engineering job for the role Principal Engineer Systems/Applications at Andover",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-principal-engineer-systems-applications-andover"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Manager - Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Wireless Compliance Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Manager - Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59682&source=WEB_Search_NA",
-    "id": "ibm-customer-success-manager-entry-level-sales-program-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer FileNet Content Manager",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer FileNet Content Manager at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59286&source=WEB_Search_NA",
-    "id": "ibm-software-developer-filenet-content-manager-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Email Security Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Email Security Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59694&source=WEB_Search_NA",
-    "id": "ibm-email-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation  HVAC Solutions Operations Supervisor",
-    "job_city": "Austin",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation  HVAC Solutions Operations Supervisor at Austin, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-hvac-solutions-operations-supervisor-austin"
+    "job_description": "hardware engineering job for the role Wireless Compliance Engineer at San Francisco, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Wireless-Compliance-Engineer/1448920",
+    "id": "cisco-wireless-compliance-engineer-san-francisco"
   }
 ]
