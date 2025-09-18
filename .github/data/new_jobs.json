@@ -1,52 +1,72 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Research Scientist (Analog and Mixed-Signal Design)",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Research Scientist (Analog and Mixed-Signal Design) at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59116&source=WEB_Search_NA",
-    "id": "ibm-research-scientist-analog-and-mixed-signal-design-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "P-TECH at IBM University Co-op",
+    "job_title": "Software Engineer Intern- Entry Level Sales Program",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role P-TECH at IBM University Co-op at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46399&source=WEB_Search_NA",
-    "id": "ibm-p-tech-at-ibm-university-co-op-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Software Engineer Intern- Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58481&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-entry-level-sales-program-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Solution Architect Intern - Entry Level Sales Program",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Solution Architect Intern - Entry Level Sales Program 2026 at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58163&source=WEB_Search_NA",
-    "id": "ibm-solution-architect-intern-entry-level-sales-program-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Design Verification Intern - Bachelors Degree",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Design Verification Intern - Bachelors Degree at Boise, ID",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Design-Verification-Intern---Bachelors-Degree_2502715?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-design-verification-intern-bachelors-degree-boise"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Test Equipment Engineer Intern - Bachelors Degree",
+    "employer_name": "AiJobs",
+    "job_title": "Database Engineer, Apache Cassandra - Cloud Services",
     "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Test Equipment Engineer Intern - Bachelors Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern---Bachelors-Degree_2502763-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-test-equipment-engineer-intern-bachelors-degree-santa-clara"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Database Engineer, Apache Cassandra - Cloud Services at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163423170-senior-database-engineer-apache-cassandra-cloud-services",
+    "id": "aijobs-database-engineer-apache-cassandra-cloud-services-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Recipe Pathfinding",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer, Recipe Pathfinding at US, WA, Redmond",
+    "job_apply_link": "https://www.aijobs.com/jobs/163423168-senior-machine-learning-engineer-recipe-pathfinding",
+    "id": "aijobs-machine-learning-engineer-recipe-pathfinding-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ML Platform Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior ML Platform Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163423164-senior-ml-platform-engineer",
+    "id": "aijobs-ml-platform-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Infrastructure Software Engineer, Deep Learning Libraries",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Infrastructure Software Engineer, Deep Learning Libraries at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/160170610-senior-infrastructure-software-engineer-deep-learning-libraries",
+    "id": "aijobs-infrastructure-software-engineer-deep-learning-libraries-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Hardware Design Engineer - New College Grad",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "23min ago",
+    "job_description": "hardware engineering job for the role ASIC Hardware Design Engineer - New College Grad 2025 at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/163423167-asic-hardware-design-engineer-new-college-grad-2025",
+    "id": "aijobs-asic-hardware-design-engineer-new-college-grad-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-Stack Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Full-Stack Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098862-senior-full-stack-software-engineer",
+    "id": "aijobs-full-stack-software-engineer-santa-clara"
   }
 ]
