@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer at Bristol, United Kingdom, Cambridge, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/senior-verification-engineer/33099/70349042848",
-    "id": "arm-verification-engineer-bristol"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer in Test",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer in Test at Bristol, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/staff-software-engineer-in-test/33099/86279332928",
-    "id": "arm-software-engineer-in-test-bristol"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "22h ago",
+    "job_description": "hardware engineering job for the role Data Scientist, Product Analytics at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163449899-data-scientist-product-analytics",
+    "id": "aijobs-data-scientist-product-analytics-us"
   }
 ]
