@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Product Analytics",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "22h ago",
-    "job_description": "hardware engineering job for the role Data Scientist, Product Analytics at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/163449899-data-scientist-product-analytics",
-    "id": "aijobs-data-scientist-product-analytics-us"
+    "employer_name": "Microsoft",
+    "job_title": "Senior Physical Design Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Physical Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876452/Senior-Physical-Design-Engineer",
+    "id": "microsoft-senior-physical-design-engineer-raleigh"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Microelectronics Numerical Simulation Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "34 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Microelectronics Numerical Simulation Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81783724466676422-microelectronics-numerical-simulation-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-microelectronics-numerical-simulation-engineer-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Specialist",
+    "job_city": "Norcross",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Service Specialist at Norcross, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-specialist-norcross"
   }
 ]
