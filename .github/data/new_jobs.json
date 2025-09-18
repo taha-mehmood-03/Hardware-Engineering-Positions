@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 Reuse Tool Install Program Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role ID1 Reuse Tool Install Program Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28846505",
-    "id": "micron-id1-reuse-tool-install-program-manager-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Engineer",
-    "job_city": "Mount Juliet",
-    "job_state": "Tennessee",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Quality Engineer at Mount Juliet, Tennessee, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008605/Quality-Engineer",
-    "id": "abb-quality-engineer-mount-juliet"
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Columbus, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3001197/critical-infrastructure-mechanical-engineer-field-engineering",
+    "job_posted_at": "2025-09-17T21:16:21.794Z",
+    "job_posted_at_datetime_utc": "2025-09-17T21:16:21.794Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-columbus"
   }
 ]
