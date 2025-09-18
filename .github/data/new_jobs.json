@@ -1,13 +1,162 @@
 [
   {
-    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Columbus, OH, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3001197/critical-infrastructure-mechanical-engineer-field-engineering",
-    "job_posted_at": "2025-09-17T21:16:21.794Z",
-    "job_posted_at_datetime_utc": "2025-09-17T21:16:21.794Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-columbus"
+    "employer_name": "Micron",
+    "job_title": "Fab Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Fab Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38051548",
+    "id": "micron-fab-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "DRAM Design Engineer - Node Development",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role DRAM Design Engineer - Node Development at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30894283",
+    "id": "micron-dram-design-engineer-node-development-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software/Hardware Developer - Supply Chain",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software/Hardware Developer - Supply Chain at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59402&source=WEB_Search_NA",
+    "id": "ibm-software-hardware-developer-supply-chain-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - San Antonio TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - San Antonio TX at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-san-antonio-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern:  Research Scientist – AI-powered Automation at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-research-scientist-ai-powered-automation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Software Engineer – AI-powered Automation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern: Software Engineer – AI-powered Automation at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-software-engineer-ai-powered-automation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SWE: Toward Autonomous Data Management with AI Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SWE: Toward Autonomous Data Management with AI Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA",
+    "id": "ibm-swe-toward-autonomous-data-management-with-ai-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026:  AI Hybrid Cloud Platforms Research Developer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platforms-research-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI and Agentic Security Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: AI and Agentic Security Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-and-agentic-security-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research AI Engineer, Intern:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Research AI Engineer, Intern: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA",
+    "id": "ibm-research-ai-engineer-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: AI Hybrid Cloud Platform Research Scientist at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platform-research-scientist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Platform Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: AI Platform Research Scientist at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58818&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-platform-research-scientist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Marketing Development Representative",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Marketing Development Representative at Entry LevelDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58082&source=WEB_Search_NA",
+    "id": "ibm-marketing-development-representative-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Software Engineer - Research Internship:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Foundations - Software Engineer - Research Internship: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-software-engineer-research-internship-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "RS: Toward Autonomous Data Management with FMs and AI Agents Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA",
+    "id": "ibm-rs-toward-autonomous-data-management-with-fms-and-ai-agents-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Research Scientist - Research Internship:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Foundations - Research Scientist - Research Internship: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-scientist-research-internship-multiple-cities"
   }
 ]
