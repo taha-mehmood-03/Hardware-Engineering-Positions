@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer Intern- Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer Intern- Entry Level Sales Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58481&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-intern-entry-level-sales-program-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Robotics",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "4h ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Robotics at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424758-engineering-manager-robotics",
+    "id": "aijobs-engineering-manager-robotics-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Database Engineer, Apache Cassandra - Cloud Services",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Strategic Sourcing & Partnerships - Software Tools & Licenses",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Database Engineer, Apache Cassandra - Cloud Services at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423170-senior-database-engineer-apache-cassandra-cloud-services",
-    "id": "aijobs-database-engineer-apache-cassandra-cloud-services-santa-clara"
+    "job_description": "hardware engineering job for the role Strategic Sourcing & Partnerships - Software Tools & Licenses at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424760-strategic-sourcing-partnerships-software-tools-licenses",
+    "id": "aijobs-strategic-sourcing-partnerships-software-tools-licenses-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer, Recipe Pathfinding",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_title": "Reliability/DFX Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer, Recipe Pathfinding at US, WA, Redmond",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423168-senior-machine-learning-engineer-recipe-pathfinding",
-    "id": "aijobs-machine-learning-engineer-recipe-pathfinding-redmond"
+    "job_description": "hardware engineering job for the role Reliability/DFX Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424764-reliability-dfx-engineer",
+    "id": "aijobs-reliability-dfx-engineer-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "ML Platform Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Technical Lead, Multimodal Infrastructure",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior ML Platform Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423164-senior-ml-platform-engineer",
-    "id": "aijobs-ml-platform-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Infrastructure Software Engineer, Deep Learning Libraries",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Infrastructure Software Engineer, Deep Learning Libraries at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160170610-senior-infrastructure-software-engineer-deep-learning-libraries",
-    "id": "aijobs-infrastructure-software-engineer-deep-learning-libraries-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ASIC Hardware Design Engineer - New College Grad",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "23min ago",
-    "job_description": "hardware engineering job for the role ASIC Hardware Design Engineer - New College Grad 2025 at US, TX, Austin",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423167-asic-hardware-design-engineer-new-college-grad-2025",
-    "id": "aijobs-asic-hardware-design-engineer-new-college-grad-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Full-Stack Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Full-Stack Software Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098862-senior-full-stack-software-engineer",
-    "id": "aijobs-full-stack-software-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Technical Lead, Multimodal Infrastructure at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424756-technical-lead-multimodal-infrastructure",
+    "id": "aijobs-technical-lead-multimodal-infrastructure-united-states"
   }
 ]
