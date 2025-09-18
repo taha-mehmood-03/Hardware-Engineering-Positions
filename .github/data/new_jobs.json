@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Global Hardware and Quality Program Manager",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Arm",
+    "job_title": "DFT Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Global Hardware and Quality Program Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113411751965270726-global-hardware-and-quality-program-manager?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-global-hardware-and-quality-program-manager-austin"
+    "job_description": "Hardware Engineering job for the role Staff DFT Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-dft-engineer/33099/84732934848",
+    "id": "arm-dft-engineer-bengaluru"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Test Engineer, Product Development",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Test Engineer, Product Development at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Test-Engineer--Product-Development_R256018?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-test-engineer-product-development-us"
   }
 ]
