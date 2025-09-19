@@ -1,13 +1,83 @@
 [
   {
-    "job_title": "Project Design Electrical Engineer, Fleet Remediation Engineering",
+    "job_title": "Hardware Development Engineer, Mechanical/Thermal/Robotics, Hardware Engineering Services",
     "employer_name": "Amazon",
-    "job_city": "Hermiston",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role Project Design Electrical Engineer, Fleet Remediation Engineering at Hermiston, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3088806/project-design-electrical-engineer-fleet-remediation-engineering",
-    "job_posted_at": "2025-09-19T19:18:50.888Z",
-    "job_posted_at_datetime_utc": "2025-09-19T19:18:50.888Z",
-    "id": "amazon-project-design-electrical-engineer-fleet-remediation-engineering-hermiston"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Mechanical/Thermal/Robotics, Hardware Engineering Services at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3089029/hardware-development-engineer-mechanical-thermal-robotics-hardware-engineering-services",
+    "job_posted_at": "2025-09-19T20:15:31.695Z",
+    "job_posted_at_datetime_utc": "2025-09-19T20:15:31.695Z",
+    "id": "amazon-hardware-development-engineer-mechanical-thermal-robotics-hardware-engineering-services-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Cloud Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Quantum Cloud Engineering at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60200&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-cloud-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Firmware Developer - Host Boot",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Power Firmware Developer - Host Boot at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59686&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-host-boot-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Warehouse Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Warehouse Production Operator at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA",
+    "id": "ibm-warehouse-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Inference Optimization Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: AI Inference Optimization Engineer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-inference-optimization-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "CORAL GABLES",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Solutions Engineer at ProfessionalCORAL GABLES, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58878&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-coral-gables"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Backend Engineer II - Core Data (HashiCorp)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Backend Engineer II - Core Data (HashiCorp) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57926&source=WEB_Search_NA",
+    "id": "ibm-backend-engineer-ii-core-data-hashicorp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Architect FileNet Content Manager",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Architect FileNet Content Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59243&source=WEB_Search_NA",
+    "id": "ibm-software-architect-filenet-content-manager-san-jose"
   }
 ]
