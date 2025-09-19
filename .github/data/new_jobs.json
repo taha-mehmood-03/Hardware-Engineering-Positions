@@ -1,22 +1,102 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Unit Process Engineer: Wafer Bonding and Debonding",
-    "job_city": "Albany",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Unit Process Engineer: Wafer Bonding and Debonding at ProfessionalAlbany, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59406&source=WEB_Search_NA",
-    "id": "ibm-unit-process-engineer-wafer-bonding-and-debonding-albany"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Site Reliability Engineer",
+    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern 2026: Site Reliability Engineer at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59673&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-site-reliability-engineer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Intern 2026: Hardware Engineer - Semiconductor at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-hardware-engineer-semiconductor-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Software Engineer - Semiconductor at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intellectual Property Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Research Scientist - Semiconductor",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Research Scientist - Semiconductor at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-research-scientist-semiconductor-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Architect, Agentic AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Architect, Agentic AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525130-senior-software-architect-agentic-ai",
+    "id": "aijobs-software-architect-agentic-ai-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architect, AI-assisted Code Development",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Architect, AI-assisted Code Development at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525129-senior-architect-ai-assisted-code-development",
+    "id": "aijobs-architect-ai-assisted-code-development-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compiler Engineer – Networking Compiler Technology",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Senior Compiler Engineer – Networking Compiler Technology at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525139-senior-compiler-engineer-networking-compiler-technology",
+    "id": "aijobs-compiler-engineer-networking-compiler-technology-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Advanced Developer",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Software Advanced Developer at US, WA, Redmond",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525133-software-advanced-developer",
+    "id": "aijobs-software-advanced-developer-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Cloud Platform Software Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Cloud Platform Software Engineer at US, WA, Seattle",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525136-senior-cloud-platform-software-engineer",
+    "id": "aijobs-cloud-platform-software-engineer-seattle"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Cloud Networking",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Cloud Networking at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525138-senior-system-software-engineer-cloud-networking",
+    "id": "aijobs-system-software-engineer-cloud-networking-santa-clara"
   }
 ]
