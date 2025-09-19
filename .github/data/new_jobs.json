@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SAP CPI Analyst",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Verification Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP CPI Analyst at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-cpi-analyst/33099/86321259616",
-    "id": "arm-sap-cpi-analyst-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "ML Applications Engineer - Conversational AI",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ML Applications Engineer - Conversational AI at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/ml-applications-engineer-conversational-ai/33099/86321257968",
-    "id": "arm-ml-applications-engineer-conversational-ai-cambridge"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879239/Senior-Verification-Engineer",
+    "id": "microsoft-senior-verification-engineer-mountain-view"
   }
 ]
