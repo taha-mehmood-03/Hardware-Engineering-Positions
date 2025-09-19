@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Customer Quality Assurance Specialist",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Quality Assurance Specialist at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/customer-quality-assurance-specialist/33099/86317161280",
-    "id": "arm-customer-quality-assurance-specialist-cambridge"
+    "job_title": "Program Engineer, Colo Data Center Engineering, Colocation Region Engineering- AMER",
+    "employer_name": "Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Program Engineer, Colo Data Center Engineering, Colocation Region Engineering- AMER at Dallas, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083466/program-engineer-colo-data-center-engineering-colocation-region-engineering-amer",
+    "job_posted_at": "2025-09-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
+    "id": "amazon-program-engineer-colo-data-center-engineering-colocation-region-engineering-amer-dallas"
   }
 ]
