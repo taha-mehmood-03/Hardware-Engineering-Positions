@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Graduate Engineer – Design Implementation Readiness",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "job_title": "SAP CPI Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Engineer – Design Implementation Readiness at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-engineer-design-implementation-readiness/33099/86319019488",
-    "id": "arm-graduate-engineer-design-implementation-readiness-trondheim"
+    "job_description": "Hardware Engineering job for the role SAP CPI Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-cpi-analyst/33099/86321259616",
+    "id": "arm-sap-cpi-analyst-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "ML Applications Engineer - Conversational AI",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role ML Applications Engineer - Conversational AI at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ml-applications-engineer-conversational-ai/33099/86321257968",
+    "id": "arm-ml-applications-engineer-conversational-ai-cambridge"
   }
 ]
