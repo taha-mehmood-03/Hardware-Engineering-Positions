@@ -1,102 +1,162 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern 2026: Hardware Engineer - Semiconductor at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-hardware-engineer-semiconductor-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Software Engineer - Semiconductor",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern 2026: Software Engineer - Semiconductor at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-software-engineer-semiconductor-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intellectual Property Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intellectual Property Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
-    "id": "ibm-intellectual-property-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Research Scientist - Semiconductor",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern 2026: Research Scientist - Semiconductor at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-research-scientist-semiconductor-multiple-cities"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Software Architect, Agentic AI",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Electrical Commissioning Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Architect, Agentic AI at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525130-senior-software-architect-agentic-ai",
-    "id": "aijobs-software-architect-agentic-ai-santa-clara"
+    "job_description": "hardware engineering job for the role Electrical Commissioning Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527130-electrical-commissioning-engineer",
+    "id": "aijobs-electrical-commissioning-engineer-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Architect, AI-assisted Code Development",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Mechanical Commissioning Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Architect, AI-assisted Code Development at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525129-senior-architect-ai-assisted-code-development",
-    "id": "aijobs-architect-ai-assisted-code-development-santa-clara"
+    "job_description": "hardware engineering job for the role Mechanical Commissioning Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527129-mechanical-commissioning-engineer",
+    "id": "aijobs-mechanical-commissioning-engineer-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Compiler Engineer – Networking Compiler Technology",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "24min ago",
-    "job_description": "hardware engineering job for the role Senior Compiler Engineer – Networking Compiler Technology at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525139-senior-compiler-engineer-networking-compiler-technology",
-    "id": "aijobs-compiler-engineer-networking-compiler-technology-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Advanced Developer",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "24min ago",
-    "job_description": "hardware engineering job for the role Software Advanced Developer at US, WA, Redmond",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525133-software-advanced-developer",
-    "id": "aijobs-software-advanced-developer-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Cloud Platform Software Engineer",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Growth - Performance Marketing & Growth Optimizations",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Cloud Platform Software Engineer at US, WA, Seattle",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525136-senior-cloud-platform-software-engineer",
-    "id": "aijobs-cloud-platform-software-engineer-seattle"
+    "job_description": "hardware engineering job for the role Growth - Performance Marketing & Growth Optimizations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527144-growth-performance-marketing-growth-optimizations",
+    "id": "aijobs-growth-performance-marketing-growth-optimizations-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Cloud Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Growth - Performance Marketing & Growth Optimizations",
+    "job_city": "Unknown",
+    "job_state": "US",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer - Cloud Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163525138-senior-system-software-engineer-cloud-networking",
-    "id": "aijobs-system-software-engineer-cloud-networking-santa-clara"
+    "job_description": "hardware engineering job for the role Growth - Performance Marketing & Growth Optimizations at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527143-growth-performance-marketing-growth-optimizations",
+    "id": "aijobs-growth-performance-marketing-growth-optimizations-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - B2B / B2C Funnel Optimizations at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527140-growth-b2b-b2c-funnel-optimizations",
+    "id": "aijobs-growth-b2b-b2c-funnel-optimizations-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - B2B / B2C Funnel Optimizations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527147-growth-b2b-b2c-funnel-optimizations",
+    "id": "aijobs-growth-b2b-b2c-funnel-optimizations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer (Evals) – Support Automation Engineering",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "4h ago",
+    "job_description": "hardware engineering job for the role Backend Software Engineer (Evals) – Support Automation Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527133-backend-software-engineer-evals-support-automation-engineering",
+    "id": "aijobs-backend-software-engineer-evals-support-automation-engineering-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - SEO, CRO and Web Strategy",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - SEO, CRO and Web Strategy at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527141-growth-seo-cro-and-web-strategy",
+    "id": "aijobs-growth-seo-cro-and-web-strategy-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - SEO, CRO and Web Strategy",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - SEO, CRO and Web Strategy at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527142-growth-seo-cro-and-web-strategy",
+    "id": "aijobs-growth-seo-cro-and-web-strategy-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - AI Workflows, Martech, Creative Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527149-growth-ai-workflows-martech-creative-systems",
+    "id": "aijobs-growth-ai-workflows-martech-creative-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - AI Workflows, Martech, Creative Systems at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527148-growth-ai-workflows-martech-creative-systems",
+    "id": "aijobs-growth-ai-workflows-martech-creative-systems-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - Emails, Notifications and Lifecycle",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - Emails, Notifications and Lifecycle at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527145-growth-emails-notifications-and-lifecycle",
+    "id": "aijobs-growth-emails-notifications-and-lifecycle-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth - Emails, Notifications and Lifecycle",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Growth - Emails, Notifications and Lifecycle at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527146-growth-emails-notifications-and-lifecycle",
+    "id": "aijobs-growth-emails-notifications-and-lifecycle-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect, Public Sector",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "33min ago",
+    "job_description": "hardware engineering job for the role Solutions Architect, Public Sector at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527135-solutions-architect-public-sector",
+    "id": "aijobs-solutions-architect-public-sector-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Data Infrastructure - Research",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Data Infrastructure - Research at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527131-software-engineer-data-infrastructure-research",
+    "id": "aijobs-software-engineer-data-infrastructure-research-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Fullstack Engineer, Intelligence Systems",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Fullstack Engineer, Intelligence Systems at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527137-fullstack-engineer-intelligence-systems",
+    "id": "aijobs-fullstack-engineer-intelligence-systems-unknown"
   }
 ]
