@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Power Analysis Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Power Analysis Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/staff-power-analysis-engineer/33099/64317506576",
+    "id": "arm-power-analysis-engineer-san-jose"
+  }
+]
