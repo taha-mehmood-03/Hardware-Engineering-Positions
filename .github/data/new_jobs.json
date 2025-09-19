@@ -1,72 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DCIM Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal DCIM Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-dcim-engineer/33099/83212077936",
-    "id": "arm-dcim-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff/Principle SoC Design Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff/Principle SoC Design Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-principle-soc-design-engineer/33099/84085082208",
-    "id": "arm-senior-staff-principle-soc-design-engineer-cambridge"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "FAB Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 days ago",
-    "job_description": "hardware engineering job for the role FAB Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30934370",
-    "id": "micron-fab-engineer-boise"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Lead Building Automation Systems Specialist",
-    "job_city": "Norcross",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lead Building Automation Systems Specialist at Norcross, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-lead-building-automation-systems-specialist-norcross"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principle Application Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principle Application Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Application-Engineer_2502590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principle-application-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Application Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Application Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Application-Engineer_2502591?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-application-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Software Engineer Intern - Master's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Software Engineer Intern - Master's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern---Master-s-Degree_2502348-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-software-engineer-intern-master-s-degree-santa-clara"
+    "job_title": "Project Design Electrical Engineer, Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Hermiston",
+    "job_state": "OR",
+    "job_description": "hardware engineering job for the role Project Design Electrical Engineer, Fleet Remediation Engineering at Hermiston, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3088806/project-design-electrical-engineer-fleet-remediation-engineering",
+    "job_posted_at": "2025-09-19T19:18:50.888Z",
+    "job_posted_at_datetime_utc": "2025-09-19T19:18:50.888Z",
+    "id": "amazon-project-design-electrical-engineer-fleet-remediation-engineering-hermiston"
   }
 ]
