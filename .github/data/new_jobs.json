@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Physical Network & Structured Cabling Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Physical Network & Structured Cabling Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671750-physical-network-structured-cabling-engineer",
-    "id": "aijobs-physical-network-structured-cabling-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Structural Engineer – Data Center Design",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Structural Engineer – Data Center Design at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671747-structural-engineer-data-center-design",
-    "id": "aijobs-structural-engineer-data-center-design-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Center Controls Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Data Center Controls Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671748-data-center-controls-engineer",
-    "id": "aijobs-data-center-controls-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Fullstack Engineer, Child Safety Tools & Systems",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Fullstack Engineer, Child Safety Tools & Systems at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671758-fullstack-engineer-child-safety-tools-systems",
-    "id": "aijobs-fullstack-engineer-child-safety-tools-systems-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Manager, Education & Learning",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Manager, Education & Learning at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671746-product-manager-education-learning",
-    "id": "aijobs-product-manager-education-learning-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Social Media Manager, Developers",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Social Media Manager, Developers at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/163671751-social-media-manager-developers",
-    "id": "aijobs-social-media-manager-developers-united-states"
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Specialist",
+    "job_city": "Lenexa",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Service Specialist at Lenexa, Kansas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-specialist-lenexa"
   }
 ]
