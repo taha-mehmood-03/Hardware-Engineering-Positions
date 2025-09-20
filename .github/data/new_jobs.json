@@ -1,12 +1,132 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service Specialist",
-    "job_city": "Lenexa",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Service Specialist at Lenexa, Kansas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-specialist-lenexa"
+    "employer_name": "ABB",
+    "job_title": "Solution architect data center electrification",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Solution architect data center electrification at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00000995/Solution-architect-data-center-electrification",
+    "id": "abb-solution-architect-data-center-electrification-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Quality Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001211/Quality-Engineer",
+    "id": "abb-quality-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Ausbildung Fachkraft für Lagerlogistik 2026 (m/w/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Ausbildung Fachkraft für Lagerlogistik 2026 (m/w/d) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009390/Ausbildung-Fachkraft-für-Lagerlogistik-2026-m-w-d",
+    "id": "abb-ausbildung-fachkraft-f-r-lagerlogistik-2026-m-w-d-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Contract and Risk Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Contract and Risk Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93823427/Contract-and-Risk-Manager",
+    "id": "abb-contract-and-risk-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Early Talent Trainee - Electrification",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Early Talent Trainee - Electrification at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010246/Early-Talent-Trainee-Electrification",
+    "id": "abb-early-talent-trainee-electrification-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Health, Safety & Environment Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005924/Health-Safety-Environment-Specialist",
+    "id": "abb-health-safety-environment-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Corporate Communications Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Corporate Communications Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005922/Corporate-Communications-Specialist",
+    "id": "abb-corporate-communications-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Lifecycle Services Account Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "hardware engineering job for the role Lifecycle Services Account Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001478/Lifecycle-Services-Account-Manager",
+    "id": "abb-lifecycle-services-account-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Testing & Lab Specialist- Electronics Hardware",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role R&D Testing & Lab Specialist- Electronics Hardware at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009948/R-D-Testing-Lab-Specialist-Electronics-Hardware",
+    "id": "abb-r-d-testing-lab-specialist-electronics-hardware-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer ABB Robotics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role R&D Engineer ABB Robotics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009263/R-D-Engineer-ABB-Robotics",
+    "id": "abb-r-d-engineer-abb-robotics-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Quality Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004442/Quality-Manager",
+    "id": "abb-quality-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Support Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior Technical Support Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007257/Senior-Technical-Support-Engineer",
+    "id": "abb-senior-technical-support-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role R&D Software Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010852/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-not-specific"
   }
 ]
