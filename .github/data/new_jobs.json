@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer – Time-Series Foundation Models",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Engineer – Time-Series Foundation Models at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer---Time-Series-Foundation-Models_R255906?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-time-series-foundation-models-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Chief Hardware Engineer for Storage Platforms",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Chief Hardware Engineer for Storage Platforms at ProfessionalHouston, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58777&source=WEB_Search_NA",
+    "id": "ibm-chief-hardware-engineer-for-storage-platforms-houston"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Solution Specialist:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Technical Solution Specialist: 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57921&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-solution-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Test Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Hardware Test Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663736-principal-hardware-test-engineer",
+    "id": "aijobs-hardware-test-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "R&D Software Engineer, VLSI Floorplanning and Optimization",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "9min ago",
+    "job_description": "hardware engineering job for the role Senior R&D Software Engineer, VLSI Floorplanning and Optimization at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663739-senior-r-d-software-engineer-vlsi-floorplanning-and-optimization",
+    "id": "aijobs-r-d-software-engineer-vlsi-floorplanning-and-optimization-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, MathDx – cuBLASDx and cuSolverDx",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, MathDx – cuBLASDx and cuSolverDx at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663730-senior-software-engineer-mathdx-cublasdx-and-cusolverdx",
+    "id": "aijobs-software-engineer-mathdx-cublasdx-and-cusolverdx-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Math Libraries Engineer - Sparse Linear Algebra",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Math Libraries Engineer - Sparse Linear Algebra at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663734-senior-math-libraries-engineer-sparse-linear-algebra",
+    "id": "aijobs-math-libraries-engineer-sparse-linear-algebra-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "R&D Software Architect, CUDA for Physical Design EDA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal R&D Software Architect, CUDA for Physical Design EDA at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663732-principal-r-d-software-architect-cuda-for-physical-design-eda",
+    "id": "aijobs-r-d-software-architect-cuda-for-physical-design-eda-santa-clara"
   }
 ]
