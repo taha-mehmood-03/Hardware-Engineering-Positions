@@ -1,12 +1,53 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Silicon IP Program Managaer",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
+    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3089289/hardware-development-engineer-aws-ai-ml-accelerator-servers",
+    "job_posted_at": "2025-09-19T23:13:58.612Z",
+    "job_posted_at_datetime_utc": "2025-09-19T23:13:58.612Z",
+    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Emulation and Prototyping Lead Architect for Performance and Power",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon IP Program Managaer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878080/Principal-Silicon-IP-Program-Managaer",
-    "id": "microsoft-principal-silicon-ip-program-managaer-hillsboro"
+    "job_description": "Hardware Engineering job for the role Emulation and Prototyping Lead Architect for Performance and Power at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/emulation-and-prototyping-lead-architect-for-performance-and-power/33099/86340315776",
+    "id": "arm-emulation-and-prototyping-lead-architect-for-performance-and-power-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - SSD Firmware",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - SSD Firmware at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38063762",
+    "id": "micron-intern-ssd-firmware-san-jose"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Lead Principal Engineer Applications",
+    "job_city": "TX (United States)",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Lead Principal Engineer Applications at TX (United States)",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-lead-principal-engineer-applications-tx-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "FEA Simulation Engineer, Thermal | Actuation & Simulation",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role FEA Simulation Engineer, Thermal | Actuation & Simulation at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163653076-fea-simulation-engineer-thermal-%7C-actuation-simulation",
+    "id": "aijobs-fea-simulation-engineer-thermal-actuation-simulation-us"
   }
 ]
