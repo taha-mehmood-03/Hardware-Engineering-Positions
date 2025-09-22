@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Process Integration Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role Process Integration Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38111439",
-    "id": "micron-process-integration-engineer-boise"
+    "job_title": "Hardware Development Engineer II, AWS Mainstream Compute",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer II, AWS Mainstream Compute at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3089771/hardware-development-engineer-ii-aws-mainstream-compute",
+    "job_posted_at": "2025-09-22T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-ii-aws-mainstream-compute-cupertino"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Signal and Power Integrity Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Signal and Power Integrity Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879915/Senior-Signal-and-Power-Integrity-Engineer",
+    "id": "microsoft-senior-signal-and-power-integrity-engineer-raleigh"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "IP Verification Engineer II",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - IP Verification Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880555/IP-Verification-Engineer-II",
+    "id": "microsoft-ip-verification-engineer-ii-austin"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Sourcing Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Sourcing Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880522/Senior-Sourcing-Engineer",
+    "id": "microsoft-senior-sourcing-engineer-redmond"
   }
 ]
