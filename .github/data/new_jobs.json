@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal)",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Computer Architect",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal) at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/cpu-performance-microarchitecture-exploration-engineer-senior-principal/33099/65958437776",
-    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-senior-principal-austin"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Computer Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875971/Principal-Computer-Architect",
+    "id": "microsoft-principal-computer-architect-hillsboro"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Probe Engineering",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "hardware engineering job for the role Intern - Probe Engineering at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30700221",
+    "id": "micron-intern-probe-engineering-boise"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Engineer Test Engineer",
+    "job_city": "Warwick",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Engineer Test Engineer at Warwick",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-engineer-test-engineer-warwick"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "EMC Test engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role EMC Test engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/EMC-Test-engineer/1449983",
+    "id": "cisco-emc-test-engineer-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Technical Marketing Engineer - Public Sector Enterprise",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Technical Marketing Engineer - Public Sector Enterprise at Atlanta, Georgia, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Technical-Marketing-Engineer-Public-Sector-Enterprise/1449764",
+    "id": "cisco-technical-marketing-engineer-public-sector-enterprise-atlanta"
   }
 ]
