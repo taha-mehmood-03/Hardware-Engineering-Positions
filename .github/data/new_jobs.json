@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "DevOps Specialist",
-    "job_city": "Houston",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Intern Software Engineer",
+    "job_city": "Galway",
+    "job_state": "Ireland",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role DevOps Specialist at ProfessionalHouston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59612&source=WEB_Search_NA",
-    "id": "ibm-devops-specialist-houston"
+    "job_description": "Hardware Engineering job for the role Intern Software Engineer at Galway, Ireland",
+    "job_apply_link": "https://careers.arm.com/job/galway/intern-software-engineer/33099/86431963664",
+    "id": "arm-intern-software-engineer-galway"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Mechanical Engineer - Hardware & Devices",
-    "job_city": "Buffalo Grove",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Intern Machine Learning Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mechanical Engineer - Hardware & Devices at Buffalo Grove, Illinois, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-mechanical-engineer-hardware-devices-buffalo-grove"
+    "job_description": "Hardware Engineering job for the role Intern Machine Learning Engineer at San Jose, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304",
+    "id": "arm-intern-machine-learning-engineer-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Failure Analysis Product and Process Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Failure Analysis Product and Process Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30866747",
+    "id": "micron-failure-analysis-product-and-process-technician-manassas"
   }
 ]
