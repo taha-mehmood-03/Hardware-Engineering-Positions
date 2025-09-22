@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Machine Learning Software Intern",
-    "job_city": "Galway",
-    "job_state": "Ireland",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Machine Learning Software Intern at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/machine-learning-software-intern/33099/86424315952",
-    "id": "arm-machine-learning-software-intern-galway"
-  },
-  {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Research Scientist, Intelligent Systems",
+    "job_title": "Research Scientist, Edge AI",
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Research Scientist, Intelligent Systems at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Research-Scientist--Artificial-Intelligence_R255393-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-research-scientist-intelligent-systems-us"
+    "job_description": "hardware engineering job for the role Staff Research Scientist, Edge AI at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Research-Scientist--Artificial-Intelligence_R255392?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-research-scientist-edge-ai-us"
   }
 ]
