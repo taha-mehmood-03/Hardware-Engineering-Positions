@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "CPU Power Engineer",
+    "job_title": "Software Engineer & Lead",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior CPU Power Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-power-engineer/33099/76646696096",
-    "id": "arm-cpu-power-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Data Engineer - FP&A",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Engineer - FP&A at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/data-engineer-fp-and-a/33099/86421401568",
-    "id": "arm-data-engineer-fp-a-cambridge"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer & Lead at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-and-lead/33099/68457791904",
+    "id": "arm-software-engineer-lead-cambridge"
   }
 ]
