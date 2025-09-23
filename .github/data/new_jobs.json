@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "Electrical Engineer, Colocation Regional Engineering (CRE)",
+    "employer_name": "Amazon",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Colocation Regional Engineering (CRE) at Phoenix, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981073/electrical-engineer-colocation-regional-engineering-cre",
+    "job_posted_at": "2025-09-23T14:18:51.462Z",
+    "job_posted_at_datetime_utc": "2025-09-23T14:18:51.462Z",
+    "id": "amazon-electrical-engineer-colocation-regional-engineering-cre-phoenix"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - (AI/ML)",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Verification Engineer - (AI/ML) at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/senior-verification-engineer-ai-ml/33099/85208808304",
+    "id": "arm-verification-engineer-ai-ml-raanana"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Representative - Roanoke, VA",
+    "job_city": "ASHBURN",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Service Representative - Roanoke, VA at Entry LevelASHBURN, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59914&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-roanoke-va-ashburn"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Security Systems Service Technician",
+    "job_city": "Fremont",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Security Systems Service Technician at Fremont, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-security-systems-service-technician-fremont"
+  }
+]
