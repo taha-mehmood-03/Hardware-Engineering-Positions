@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Rack and Blade Level Validation -Lead",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Regulatory Certifications Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Rack and Blade Level Validation -Lead at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/rack-and-blade-level-validation-lead/33099/84667892928",
-    "id": "arm-rack-and-blade-level-validation-lead-austin"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Regulatory Certifications Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881234/Regulatory-Certifications-Program-Manager",
+    "id": "microsoft-regulatory-certifications-program-manager-redmond"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Director, ADI Partner Program",
-    "job_city": "Ireland",
-    "job_state": "Limerick",
+    "job_title": "MEMS System Integration Engineer",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Director, ADI Partner Program at Ireland, Limerick",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Director--ADI-Partner-Program_R253121?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-director-adi-partner-program-ireland"
+    "job_description": "hardware engineering job for the role MEMS System Integration Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-System-Design-Engineer_R252004-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mems-system-integration-engineer-us"
   }
 ]
