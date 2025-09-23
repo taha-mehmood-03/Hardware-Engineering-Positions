@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "PLG Program Manager, Langflow",
-    "job_city": "BELLEVUE",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff - Verification Engineer (AI/ML)",
+    "job_city": "Raanana",
+    "job_state": "Israel",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role PLG Program Manager, Langflow at ProfessionalBELLEVUE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60515&source=WEB_Search_NA",
-    "id": "ibm-plg-program-manager-langflow-bellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "PLG Program Manager, Langflow",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role PLG Program Manager, Langflow at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60513&source=WEB_Search_NA",
-    "id": "ibm-plg-program-manager-langflow-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Senior/Staff - Verification Engineer (AI/ML) at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/senior-staff-verification-engineer-ai-ml/33099/76942270528",
+    "id": "arm-senior-staff-verification-engineer-ai-ml-raanana"
   }
 ]
