@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Expansion TIQ Program Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Expansion TIQ Program Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30590683",
-    "id": "micron-expansion-tiq-program-manager-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer Co-op - Spring",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Project Engineer Co-op - Spring 2026 at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026",
-    "id": "abb-project-engineer-co-op-spring-cleveland"
+    "employer_name": "IBM",
+    "job_title": "Support Engineer - HashiCorp",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Support Engineer - HashiCorp at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60263&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-multiple-cities"
   }
 ]
