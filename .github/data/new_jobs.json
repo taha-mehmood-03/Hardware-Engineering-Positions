@@ -1,22 +1,42 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "Sr. Segment Marketing Manager - SSD & DRAM",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Sr. Segment Marketing Manager - SSD & DRAM at Seattle, Washington, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30260849",
-    "id": "micron-sr-segment-marketing-manager-ssd-dram-seattle"
+    "job_title": "Reuse Tool Install Program Manager - ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Reuse Tool Install Program Manager - ID1 at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/28846505",
+    "id": "micron-reuse-tool-install-program-manager-id1-boise"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware Engineer Intern - Bachelor's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Firmware Engineer Intern - Bachelor's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502359-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-engineer-intern-bachelor-s-degree-santa-clara"
+    "employer_name": "Micron",
+    "job_title": "Sr DIR Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Sr DIR Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37797619",
+    "id": "micron-sr-dir-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "PR Manager, Hardware Innovation and AI",
+    "job_city": "Offsite",
+    "job_state": "Austin",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior PR Manager, Hardware Innovation and AI at Offsite, Austin, Texas, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-PR-Manager-Hardware-Innovation-and-AI/1444600",
+    "id": "cisco-pr-manager-hardware-innovation-and-ai-offsite"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Mechanical Desk Engineer DE - Mobility Customer Services",
+    "job_city": "New Castle",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Desk Engineer DE - Mobility Customer Services at New Castle, Delaware, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-mechanical-desk-engineer-de-mobility-customer-services-new-castle"
   }
 ]
