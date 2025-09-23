@@ -1,22 +1,83 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Regulatory Certifications Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Regulatory Certifications Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881234/Regulatory-Certifications-Program-Manager",
-    "id": "microsoft-regulatory-certifications-program-manager-redmond"
+    "job_title": "Software Engineer- AI/ML, AWS Neuron Distributed Training",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Engineer- AI/ML, AWS Neuron Distributed Training at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2872177/software-engineer-ai-ml-aws-neuron-distributed-training",
+    "job_posted_at": "2025-09-23T19:15:35.113Z",
+    "job_posted_at_datetime_utc": "2025-09-23T19:15:35.113Z",
+    "id": "amazon-software-engineer-ai-ml-aws-neuron-distributed-training-cupertino"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "MEMS System Integration Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role MEMS System Integration Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-System-Design-Engineer_R252004-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mems-system-integration-engineer-us"
+    "employer_name": "IBM",
+    "job_title": "Consultant - AI Engineering",
+    "job_city": "Denver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Consultant - AI Engineering at ProfessionalDenver, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60901&source=WEB_Search_NA",
+    "id": "ibm-consultant-ai-engineering-denver"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA Test Developer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59332&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "COSTA MESA",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer 01 at Entry LevelCOSTA MESA, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57631&source=WEB_Search_NA",
+    "id": "ibm-engineer-costa-mesa"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Project Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Project Manager at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58195&source=WEB_Search_NA",
+    "id": "ibm-project-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Product Designer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Product Designer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57967&source=WEB_Search_NA",
+    "id": "ibm-sr-product-designer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Designer II - Vault Cloud",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Designer II - Vault Cloud at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58197&source=WEB_Search_NA",
+    "id": "ibm-product-designer-ii-vault-cloud-multiple-cities"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Testing Operator- Rolling Stock",
+    "job_city": "Sacramento",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Testing Operator- Rolling Stock at Sacramento, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-testing-operator-rolling-stock-sacramento"
   }
 ]
