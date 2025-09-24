@@ -1,32 +1,43 @@
 [
   {
+    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092400/hardware-development-engineer-aws-ai-ml-accelerator-servers",
+    "job_posted_at": "2025-09-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-cupertino"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Director of Physical Design",
+    "job_title": "Principal Validation Manager",
     "job_city": "Mountain View",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Director of Physical Design",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881764/Director-of-Physical-Design",
-    "id": "microsoft-director-of-physical-design-mountain-view"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Silicon Engineer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879524/Principal-Silicon-Engineer",
-    "id": "microsoft-principal-silicon-engineer-raleigh"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Validation Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882154/Principal-Validation-Manager",
+    "id": "microsoft-principal-validation-manager-mountain-view"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Intern - ASIC Design Verification",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Intern - ASIC Design Verification at Minneapolis, Minnesota, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38168202",
-    "id": "micron-intern-asic-design-verification-minneapolis"
+    "job_title": "DIR Fab Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role DIR Fab Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38050010",
+    "id": "micron-dir-fab-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Business Development Manager - SSD & NAND",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Senior Business Development Manager - SSD & NAND at Seattle, Washington, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30260849",
+    "id": "micron-business-development-manager-ssd-nand-seattle"
   }
 ]
