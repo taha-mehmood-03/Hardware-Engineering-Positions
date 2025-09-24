@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092400/hardware-development-engineer-aws-ai-ml-accelerator-servers",
-    "job_posted_at": "2025-09-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
-    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-cupertino"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Principal Validation Manager",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "job_title": "Azure Core",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Validation Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882154/Principal-Validation-Manager",
-    "id": "microsoft-principal-validation-manager-mountain-view"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "DIR Fab Equipment Maintenance Technician",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role DIR Fab Equipment Maintenance Technician at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38050010",
-    "id": "micron-dir-fab-equipment-maintenance-technician-manassas"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Business Development Manager - SSD & NAND",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role Senior Business Development Manager - SSD & NAND at Seattle, Washington, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30260849",
-    "id": "micron-business-development-manager-ssd-nand-seattle"
+    "job_description": "Category: Senior Technical Program Manager. Level: All Levels. Posted: Recently. Full Title: Senior Technical Program Manager - Azure Core",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875099/Senior-Technical-Program-Manager---Azure-Core",
+    "id": "microsoft-azure-core-multiple-locations"
   }
 ]
