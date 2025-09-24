@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Engineer, Jr",
-    "job_city": "Chantilly",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Performance Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Engineer, Jr at ProfessionalChantilly, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57604&source=WEB_Search_NA",
-    "id": "ibm-system-engineer-jr-chantilly"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Z Systems Support Intern",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Z Systems Support Intern 2026 at InternshipTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58627&source=WEB_Search_NA",
-    "id": "ibm-z-systems-support-intern-tucson"
+    "job_description": "Hardware Engineering job for the role Software Performance Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/software-performance-architect/33099/75995708176",
+    "id": "arm-software-performance-architect-cambridge"
   }
 ]
