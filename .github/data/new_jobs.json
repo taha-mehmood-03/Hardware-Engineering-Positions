@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Hardware Operations Technician, AI Compute Infrastructure - Stargate",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Datacenter Hardware Operations Technician, AI Compute Infrastructure - Stargate at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578812-datacenter-hardware-operations-technician-ai-compute-infrastructure-stargate",
+    "id": "aijobs-datacenter-hardware-operations-technician-ai-compute-infrastructure-stargate-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Embedded SWE, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Embedded SWE, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578814-embedded-swe-consumer-products",
+    "id": "aijobs-embedded-swe-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compiler Engineer - Compute",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "43min ago",
+    "job_description": "hardware engineering job for the role Senior Compiler Engineer - Compute at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164577773-senior-compiler-engineer-compute",
+    "id": "aijobs-compiler-engineer-compute-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Recruiter, Physical Infrastructure - Stargate",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Technical Recruiter, Physical Infrastructure - Stargate at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578808-senior-technical-recruiter-physical-infrastructure-stargate",
+    "id": "aijobs-technical-recruiter-physical-infrastructure-stargate-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision System Performance Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Computer Vision System Performance Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164577762-senior-computer-vision-system-performance-engineer",
+    "id": "aijobs-computer-vision-system-performance-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Scientist, Chemical & Biological Risk",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Lead Research Engineer / Scientist, Chemical & Biological Risk at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578807-lead-research-engineer-scientist-chemical-biological-risk",
+    "id": "aijobs-research-engineer-scientist-chemical-biological-risk-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Networking Technician, AI Compute Deployment - Stargate",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Datacenter Networking Technician, AI Compute Deployment - Stargate at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578811-datacenter-networking-technician-ai-compute-deployment-stargate",
+    "id": "aijobs-datacenter-networking-technician-ai-compute-deployment-stargate-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Scientist, Cyber",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Lead Research Engineer / Scientist, Cyber at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578806-lead-research-engineer-scientist-cyber",
+    "id": "aijobs-research-engineer-scientist-cyber-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GRC Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role GRC Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578810-grc-program-manager",
+    "id": "aijobs-grc-program-manager-united-states"
+  }
+]
