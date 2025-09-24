@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer at Trondheim, Norway, Oslo, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/staff-engineer/33099/76937737712",
-    "id": "arm-engineer-trondheim"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - BSP",
+    "job_title": "Performance Benchmarking Engineer (CPU)",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer - BSP at Cambridge, United Kingdom, Manchester, United Kingdom, Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-bsp/33099/81030056784",
-    "id": "arm-software-engineer-bsp-cambridge"
+    "job_description": "Hardware Engineering job for the role Staff Performance Benchmarking Engineer (CPU) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-performance-benchmarking-engineer-cpu/33099/86499804720",
+    "id": "arm-performance-benchmarking-engineer-cpu-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Engineer, Power Estimation Methodology Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Financial Accountant",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer, Power Estimation Methodology Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-power-estimation-methodology-engineer/33099/86204366352",
-    "id": "arm-engineer-power-estimation-methodology-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Financial Accountant at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/financial-accountant/33099/86503173648",
+    "id": "arm-financial-accountant-cambridge"
   }
 ]
