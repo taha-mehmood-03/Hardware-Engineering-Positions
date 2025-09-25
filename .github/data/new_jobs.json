@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer",
-    "job_city": "TUCSON",
+    "job_title": "Sr. Customer Success Manager",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer 2026 at Entry LevelTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-tucson"
+    "job_description": "Hardware Engineering job for the role Sr. Customer Success Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61337&source=WEB_Search_NA",
+    "id": "ibm-sr-customer-success-manager-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Sr.Test Development Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Sr.Test Development Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sr-Test-Development-Engineer/1448472",
+    "id": "cisco-sr-test-development-engineer-san-jose"
   }
 ]
