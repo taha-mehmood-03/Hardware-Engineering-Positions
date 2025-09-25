@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Test Validation Engineer",
-    "job_city": "The Dalles",
-    "job_state": "OR",
+    "employer_name": "Microsoft",
+    "job_title": "Sourcing Engineer II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "21 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Test Validation Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/80224086550028998-hardware-test-validation-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-hardware-test-validation-engineer-the-dalles"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Internal Auditor",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Internal Auditor at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-internal-auditor/33099/84040163232",
-    "id": "arm-internal-auditor-multiple"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Software Staff Engineer",
-    "job_city": "Portland",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Staff Engineer at Portland",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-software-staff-engineer-portland"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sourcing Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880527/Sourcing-Engineer-II",
+    "id": "microsoft-sourcing-engineer-ii-redmond"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Machine Learning",
+    "job_title": "Test Development Engineer",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "NC",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Machine Learning at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R255562?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-machine-learning-us"
+    "job_description": "hardware engineering job for the role Test Development Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-test-development-engineer-us"
   }
 ]
