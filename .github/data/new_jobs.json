@@ -1,32 +1,112 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - ENG - DEG EMBEDDED - PE",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Intern - ENG - DEG EMBEDDED - PE at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38262951",
-    "id": "micron-intern-eng-deg-embedded-pe-manassas"
+    "employer_name": "AiJobs",
+    "job_title": "Customer Technical Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Customer Technical Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712499-customer-technical-program-manager",
+    "id": "aijobs-customer-technical-program-manager-santa-clara"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Power Firmware Developer - Simulation",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Firmware Developer - Simulation at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59689&source=WEB_Search_NA",
-    "id": "ibm-power-firmware-developer-simulation-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Full-Stack",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Full-Stack at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713737-software-engineer-full-stack",
+    "id": "aijobs-software-engineer-full-stack-united-states"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "User Experience Designer Intern",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role User Experience Designer Intern 2026 at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59981&source=WEB_Search_NA",
-    "id": "ibm-user-experience-designer-intern-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Backend",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Backend at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231167-software-engineer-backend",
+    "id": "aijobs-software-engineer-backend-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, iOS",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, iOS at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713732-software-engineer-ios",
+    "id": "aijobs-software-engineer-ios-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Android",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Android at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713739-software-engineer-android",
+    "id": "aijobs-software-engineer-android-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Architect, LLM Inference",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "39min ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Architect, LLM Inference at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712493-senior-deep-learning-architect-llm-inference",
+    "id": "aijobs-deep-learning-architect-llm-inference-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Frontend",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Frontend at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713738-software-engineer-frontend",
+    "id": "aijobs-software-engineer-frontend-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Infrastructure Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "39min ago",
+    "job_description": "hardware engineering job for the role Senior AI Infrastructure Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712501-senior-ai-infrastructure-software-engineer",
+    "id": "aijobs-ai-infrastructure-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, IT Risk and Controls",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manager, IT Risk and Controls at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713734-manager-it-risk-and-controls",
+    "id": "aijobs-manager-it-risk-and-controls-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Tegra",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Tegra at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712497-senior-system-software-engineer-tegra",
+    "id": "aijobs-system-software-engineer-tegra-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Infrastructure Reliability",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Infrastructure Reliability at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713733-software-engineer-infrastructure-reliability",
+    "id": "aijobs-software-engineer-infrastructure-reliability-united-states"
   }
 ]
