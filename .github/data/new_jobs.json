@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level User Experience Designer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level User Experience Designer 2026 at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59412&source=WEB_Search_NA",
-    "id": "ibm-entry-level-user-experience-designer-austin"
+    "employer_name": "Micron",
+    "job_title": "Intern - ENG - DEG EMBEDDED - PE",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - ENG - DEG EMBEDDED - PE at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38262951",
+    "id": "micron-intern-eng-deg-embedded-pe-manassas"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Email Security Engineer",
+    "job_title": "Power Firmware Developer - Simulation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Power Firmware Developer - Simulation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59689&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-simulation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "User Experience Designer Intern",
     "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Email Security Engineer at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59681&source=WEB_Search_NA",
-    "id": "ibm-email-security-engineer-austin"
+    "job_description": "Hardware Engineering job for the role User Experience Designer Intern 2026 at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59981&source=WEB_Search_NA",
+    "id": "ibm-user-experience-designer-intern-austin"
   }
 ]
