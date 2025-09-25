@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Performance Tools Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Performance Tools Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-performance-tools-engineer/33099/75816396960",
+    "id": "arm-senior-staff-performance-tools-engineer-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Design Intern - Advanced Integrated Circuits Research",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Design Intern - Advanced Integrated Circuits Research at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61372&source=WEB_Search_NA",
+    "id": "ibm-design-intern-advanced-integrated-circuits-research-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Platform Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Platform Engineer 2 at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61012&source=WEB_Search_NA",
+    "id": "ibm-platform-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Product Manager in Business Automation",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Product Manager in Business Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60666&source=WEB_Search_NA",
+    "id": "ibm-associate-product-manager-in-business-automation-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Operations Center Analyst",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Junior Security Operations Center Analyst I at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60891&source=WEB_Search_NA",
+    "id": "ibm-security-operations-center-analyst-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Consultant at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61347&source=WEB_Search_NA",
+    "id": "ibm-associate-consultant-new-york"
+  }
+]
