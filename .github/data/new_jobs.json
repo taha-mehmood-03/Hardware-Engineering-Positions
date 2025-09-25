@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Engineering Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - System IP",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Engineering Manager, Pixel Software Security",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85598074184835782-senior-engineering-manager-pixel-software-security?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-engineering-manager-mountain-view"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Kubernetes Application Developer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Kubernetes Application Developer at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60270&source=WEB_Search_NA",
-    "id": "ibm-kubernetes-application-developer-austin"
+    "job_description": "Hardware Engineering job for the role Staff Verification Engineer - System IP at Manchester, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/staff-verification-engineer-system-ip/33099/70349038096",
+    "id": "arm-verification-engineer-system-ip-manchester"
   }
 ]
