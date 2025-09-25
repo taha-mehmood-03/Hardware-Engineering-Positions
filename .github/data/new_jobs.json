@@ -1,62 +1,42 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "Hardware Test Validation Engineer",
+    "job_city": "The Dalles",
+    "job_state": "OR",
+    "job_posted_at": "Recently",
+    "job_description": "21 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Test Validation Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/80224086550028998-hardware-test-validation-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-test-validation-engineer-the-dalles"
+  },
+  {
     "employer_name": "Arm",
-    "job_title": "Senior/Staff Performance Tools Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Internal Auditor",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff Performance Tools Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-performance-tools-engineer/33099/75816396960",
-    "id": "arm-senior-staff-performance-tools-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Internal Auditor at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-internal-auditor/33099/84040163232",
+    "id": "arm-internal-auditor-multiple"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Design Intern - Advanced Integrated Circuits Research",
-    "job_city": "Multiple Cities",
+    "employer_name": "INFINEON",
+    "job_title": "Software Staff Engineer",
+    "job_city": "Portland",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Design Intern - Advanced Integrated Circuits Research at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61372&source=WEB_Search_NA",
-    "id": "ibm-design-intern-advanced-integrated-circuits-research-multiple-cities"
+    "job_description": "hardware engineering job for the role Software Staff Engineer at Portland",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-software-staff-engineer-portland"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Platform Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Platform Engineer 2 at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61012&source=WEB_Search_NA",
-    "id": "ibm-platform-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Product Manager in Business Automation",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Product Manager in Business Automation at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60666&source=WEB_Search_NA",
-    "id": "ibm-associate-product-manager-in-business-automation-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Operations Center Analyst",
-    "job_city": "Rocket Center",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Junior Security Operations Center Analyst I at ProfessionalRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60891&source=WEB_Search_NA",
-    "id": "ibm-security-operations-center-analyst-rocket-center"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61347&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-new-york"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Machine Learning",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Machine Learning at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R255562?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-machine-learning-us"
   }
 ]
