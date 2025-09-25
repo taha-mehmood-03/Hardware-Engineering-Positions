@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Sourcing Engineer II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Principal Verification Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sourcing Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880527/Sourcing-Engineer-II",
-    "id": "microsoft-sourcing-engineer-ii-redmond"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Test Development Engineer",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Test Development Engineer at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-test-development-engineer-us"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883136/Principal-Verification-Engineer",
+    "id": "microsoft-principal-verification-engineer-raleigh"
   }
 ]
