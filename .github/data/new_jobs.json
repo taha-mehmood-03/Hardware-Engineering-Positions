@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Sales Development Representative",
-    "job_city": "Offsite",
-    "job_state": "Alpharetta",
+    "employer_name": "Arm",
+    "job_title": "Software Project Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sales Development Representative at Offsite, Alpharetta, Georgia, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sales-Development-Representative/1447016",
-    "id": "cisco-sales-development-representative-offsite"
+    "job_description": "Hardware Engineering job for the role Software Project Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/software-project-manager/33099/83233501088",
+    "id": "arm-software-project-manager-cambridge"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Fleet Health",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "17h ago",
-    "job_description": "hardware engineering job for the role Data Scientist, Fleet Health at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
-    "id": "aijobs-data-scientist-fleet-health-us"
+    "employer_name": "CISCO",
+    "job_title": "Indirect Strategic Sourcing Specialist",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Indirect Strategic Sourcing Specialist at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Indirect-Strategic-Sourcing-Specialist/1450916",
+    "id": "cisco-indirect-strategic-sourcing-specialist-rtp"
   }
 ]
