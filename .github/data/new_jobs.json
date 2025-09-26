@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Staff Engineer Validation",
-    "job_city": "San Jose",
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshall",
+    "job_city": "Quincy",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883639/Critical-Environment-Energy-Marshall",
+    "id": "microsoft-critical-environment-energy-marshall-quincy"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Data Center Engineering",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Staff Engineer Validation at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-staff-engineer-validation-san-jose"
+    "job_description": "Hardware Engineering job for the role Intern 2026: Quantum Data Center Engineering at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-data-center-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Professional - Planning, Scheduling & Inventory",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Supply Chain Professional - Planning, Scheduling & Inventory at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-professional-planning-scheduling-inventory-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "RF/Microwave Researcher",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role RF/Microwave Researcher at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42863&source=WEB_Search_NA",
+    "id": "ibm-rf-microwave-researcher-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Consultant at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61347&source=WEB_Search_NA",
+    "id": "ibm-consultant-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Primitives Software Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Quantum Primitives Software Developer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60314&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-primitives-software-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: IBM Quantum Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern: IBM Quantum Research Scientist at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60895&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-quantum-research-scientist-multiple-cities"
   }
 ]
