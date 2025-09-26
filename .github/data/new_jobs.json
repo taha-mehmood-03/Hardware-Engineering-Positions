@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Automotive Quality and Safety Manager",
+    "job_title": "Developer Strategy Manager - Internet of Things",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Automotive Quality and Safety Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/automotive-quality-and-safety-manager/33099/84419402048",
-    "id": "arm-automotive-quality-and-safety-manager-cambridge"
+    "job_description": "Hardware Engineering job for the role Developer Strategy Manager - Internet of Things at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/developer-strategy-manager-internet-of-things/33099/82744528800",
+    "id": "arm-developer-strategy-manager-internet-of-things-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, AI Inference Performance",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer, AI Inference Performance at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-engineer-ai-inference-performance/33099/84401279184",
+    "id": "arm-engineer-ai-inference-performance-cambridge"
   }
 ]
