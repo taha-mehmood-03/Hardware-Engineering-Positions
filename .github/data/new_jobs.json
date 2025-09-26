@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, RTL Power Estimation Methodology",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer, RTL Power Estimation Methodology at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-rtl-power-estimation-methodology/33099/86204366224",
+    "id": "arm-engineer-rtl-power-estimation-methodology-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Methodology Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Verification Methodology Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-verification-methodology-engineer/33099/86204366208",
+    "id": "arm-verification-methodology-engineer-bengaluru"
+  }
+]
