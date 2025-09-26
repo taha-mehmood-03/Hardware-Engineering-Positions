@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer, RTL Power Estimation Methodology",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "CISCO",
+    "job_title": "Sales Development Representative",
+    "job_city": "Offsite",
+    "job_state": "Alpharetta",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer, RTL Power Estimation Methodology at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-rtl-power-estimation-methodology/33099/86204366224",
-    "id": "arm-engineer-rtl-power-estimation-methodology-bengaluru"
+    "job_description": "hardware engineering job for the role Sales Development Representative at Offsite, Alpharetta, Georgia, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sales-Development-Representative/1447016",
+    "id": "cisco-sales-development-representative-offsite"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Methodology Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Methodology Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-verification-methodology-engineer/33099/86204366208",
-    "id": "arm-verification-methodology-engineer-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Fleet Health",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "17h ago",
+    "job_description": "hardware engineering job for the role Data Scientist, Fleet Health at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
+    "id": "aijobs-data-scientist-fleet-health-us"
   }
 ]
