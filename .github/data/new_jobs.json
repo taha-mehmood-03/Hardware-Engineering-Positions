@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Server Firmware Development Director",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "employer_name": "INFINEON",
+    "job_title": "Staff Engineer Validation",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Server Firmware Development Director at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/server-firmware-development-director/33099/85527445088",
-    "id": "arm-server-firmware-development-director-seattle"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Site Installation Technician",
-    "job_city": "Irving",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Site Installation Technician at Irving, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-site-installation-technician-irving"
+    "job_description": "hardware engineering job for the role Staff Engineer Validation at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-staff-engineer-validation-san-jose"
   }
 ]
