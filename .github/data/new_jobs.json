@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Director Field Sales - Apple Account Team",
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer PhD (Intern) United States",
     "job_city": "San Jose",
-    "job_state": "US",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Director Field Sales - Apple Account Team at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-director-field-sales-apple-account-team-san-jose"
+    "job_description": "hardware engineering job for the role Hardware Engineer PhD (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-PhD-Intern-United-States/1448175",
+    "id": "cisco-hardware-engineer-phd-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer II (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Engineer II (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1448143",
+    "id": "cisco-hardware-engineer-ii-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Director - Product Management (Cisco Hyperfabric)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Director - Product Management (Cisco Hyperfabric) at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Director-Product-Management-Cisco-Hyperfabric/1448541",
+    "id": "cisco-director-product-management-cisco-hyperfabric-san-jose"
   }
 ]
