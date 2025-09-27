@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer, Product Engineering (Boundary) - HashiCorp",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation HVAC Associate Project Manager",
+    "job_city": "Sandy",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer, Product Engineering (Boundary) - HashiCorp at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61011&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-product-engineering-boundary-hashicorp-multiple-cities"
+    "job_description": "hardware engineering job for the role Building Automation HVAC Associate Project Manager at Sandy, Utah, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-hvac-associate-project-manager-sandy"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "DevOps and SRE Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Technical Deployment Lead, Life Sciences",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior DevOps and SRE Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/164961095-senior-devops-and-sre-engineer",
-    "id": "aijobs-devops-and-sre-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Technical Deployment Lead, Life Sciences at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164962427-technical-deployment-lead-life-sciences",
+    "id": "aijobs-technical-deployment-lead-life-sciences-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Digital Design Engineer - High-Speed I/O and Photonics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Revenue Accounting Manager",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Digital Design Engineer - High-Speed I/O and Photonics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/164961097-senior-digital-design-engineer-high-speed-i-o-and-photonics",
-    "id": "aijobs-digital-design-engineer-high-speed-i-o-and-photonics-santa-clara"
+    "job_description": "hardware engineering job for the role Revenue Accounting Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164962433-revenue-accounting-manager",
+    "id": "aijobs-revenue-accounting-manager-united-states"
   }
 ]
