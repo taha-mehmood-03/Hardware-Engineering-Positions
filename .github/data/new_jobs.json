@@ -1,124 +1,22 @@
 [
   {
-    "job_title": "Software Development Engineer II - FPGA/CPLD, AWS Hardware Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer II - FPGA/CPLD, AWS Hardware Engineering at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/software-development-engineer-ii-fpga-cpld-aws-hardware-engineering",
-    "job_posted_at": "2025-09-29T20:15:21.417Z",
-    "job_posted_at_datetime_utc": "2025-09-29T20:15:21.417Z",
-    "id": "amazon-software-development-engineer-ii-fpga-cpld-aws-hardware-engineering-cupertino"
-  },
-  {
-    "job_title": "Software Development Engineer II - AWS GenAI/ML Accelerators, AWS Hardware Engineering Services",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer II - AWS GenAI/ML Accelerators, AWS Hardware Engineering Services at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097558/software-development-engineer-ii-aws-genai-ml-accelerators-aws-hardware-engineering-services",
-    "job_posted_at": "2025-09-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ii-aws-genai-ml-accelerators-aws-hardware-engineering-services-cupertino"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Signal and Power Integrity Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "General LAB Support Hardware Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Signal and Power Integrity Engineer at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61599&source=WEB_Search_NA",
-    "id": "ibm-signal-and-power-integrity-engineer-poughkeepsie"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - General LAB Support Hardware Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883038/General-LAB-Support-Hardware-Engineer",
+    "id": "microsoft-general-lab-support-hardware-engineer-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer",
-    "job_city": "TUCSON",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Director of Pricing Strategy and Monetization",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role QA Test Developer at InternshipTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Scientist - QA Test",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Scientist - QA Test at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58476&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-qa-test-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Quantum Network  / Security Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern 2026: Quantum Network  / Security Engineer at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-quantum-network-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategy Project Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Strategy Project Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60598&source=WEB_Search_NA",
-    "id": "ibm-strategy-project-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Designer: User Research Intern",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Designer: User Research Intern 2026 at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60302&source=WEB_Search_NA",
-    "id": "ibm-designer-user-research-intern-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Designer: User Experience Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Designer: User Experience Intern 2026 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60301&source=WEB_Search_NA",
-    "id": "ibm-designer-user-experience-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Subject Matter Expertise - Envizi",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Subject Matter Expertise - Envizi at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61017&source=WEB_Search_NA",
-    "id": "ibm-technical-subject-matter-expertise-envizi-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Sales Engineer - ALM",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - ALM at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61018&source=WEB_Search_NA",
-    "id": "ibm-technical-sales-engineer-alm-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solution Architect- Entry Level Infrastructure IBM Expert Labs",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Solution Architect- Entry Level Infrastructure IBM Expert Labs at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61377&source=WEB_Search_NA",
-    "id": "ibm-solution-architect-entry-level-infrastructure-ibm-expert-labs-multiple-cities"
+    "job_description": "hardware engineering job for the role Senior Director of Pricing Strategy and Monetization at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Director-of-Pricing-Strategy-and-Monetization/1448270",
+    "id": "cisco-director-of-pricing-strategy-and-monetization-san-jose"
   }
 ]
