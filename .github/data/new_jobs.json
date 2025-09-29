@@ -1,12 +1,65 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Senior Specialist Account Management - Distribution",
-    "job_city": "Livonia",
-    "job_state": "US",
+    "job_title": "Interdisciplinary Sys Engineer, GES NA Ops Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Interdisciplinary Sys Engineer, GES NA Ops Engineering at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3053081/interdisciplinary-sys-engineer-ges-na-ops-engineering",
+    "job_posted_at": "2025-09-29T19:18:01.519Z",
+    "job_posted_at_datetime_utc": "2025-09-29T19:18:01.519Z",
+    "id": "amazon-interdisciplinary-sys-engineer-ges-na-ops-engineering-bellevue"
+  },
+  {
+    "job_title": "Software Engineer - Digital Twin, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Engineer - Digital Twin, Project Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper",
+    "job_posted_at": "2025-09-29T18:18:01.519Z",
+    "job_posted_at_datetime_utc": "2025-09-29T18:18:01.519Z",
+    "id": "amazon-software-engineer-digital-twin-project-kuiper-redmond"
+  },
+  {
+    "job_title": "Software Development Engineer - AWS Generative AI & ML Servers, AWS HWEngS Accelerators",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Development Engineer - AWS Generative AI & ML Servers, AWS HWEngS Accelerators at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097558/software-development-engineer-aws-generative-ai-ml-servers-aws-hwengs-accelerators",
+    "job_posted_at": "2025-09-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-aws-generative-ai-ml-servers-aws-hwengs-accelerators-cupertino"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Battery Modeling Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Specialist Account Management - Distribution at Livonia",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-senior-specialist-account-management-distribution-livonia"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Battery Modeling Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883884/Senior-Battery-Modeling-Engineer",
+    "id": "microsoft-senior-battery-modeling-engineer-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Systems Modeling Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Systems Modeling Engineer at Austin, Texas, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
+    "id": "arm-graduate-systems-modeling-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Systems Modeling Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Systems Modeling Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
+    "id": "arm-graduate-systems-modeling-engineer-multiple"
   }
 ]
