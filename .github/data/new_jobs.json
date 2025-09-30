@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Graphics Software Engineer, Direct3D Team",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Graphics Software Engineer, Direct3D Team at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-direct3d-team/33099/86072349568",
+    "id": "arm-graduate-graphics-software-engineer-direct3d-team-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Graphics Software Engineer, Vulkan Team",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Graphics Software Engineer, Vulkan Team at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-vulkan-team/33099/86731498144",
+    "id": "arm-graduate-graphics-software-engineer-vulkan-team-trondheim"
+  }
+]
