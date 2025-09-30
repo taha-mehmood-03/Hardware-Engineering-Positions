@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role QA Test Developer Intern at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "1445122 - Business Architect",
-    "job_city": "RTP",
+    "employer_name": "Microsoft",
+    "job_title": "Sr. IS&T Lab Site Lead",
+    "job_city": "Raleigh",
     "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role 1445122 - Business Architect at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1445122-Business-Architect/1445122",
-    "id": "cisco-1445122-business-architect-rtp"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Leader,  Technical Marketing - Network Experiences & AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Leader,  Technical Marketing - Network Experiences & AI at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Leader-Technical-Marketing-Network-Experiences-AI/1442275",
-    "id": "cisco-leader-technical-marketing-network-experiences-ai-san-jose"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. IS&T Lab Site Lead",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883629/Sr.-IS%26T-Lab-Site-Lead",
+    "id": "microsoft-sr-is-t-lab-site-lead-raleigh"
   }
 ]
