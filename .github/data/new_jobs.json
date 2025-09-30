@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "BU Analyst - Catalyst Rotation Program",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role BU Analyst - Catalyst Rotation Program at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37817814",
-    "id": "micron-bu-analyst-catalyst-rotation-program-boise"
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern:",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA Test Developer Intern: 2026 at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Hybrid Cloud and Quantum Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern: Hybrid Cloud and Quantum Research Scientist at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62377&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-hybrid-cloud-and-quantum-research-scientist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Quantum Data Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern: Quantum Data Analyst at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62374&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-quantum-data-analyst-multiple-cities"
   }
 ]
