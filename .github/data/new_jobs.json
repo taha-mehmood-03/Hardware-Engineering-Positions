@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Emulation/FPGA",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Staff ASIC Design Verification Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, Emulation/FPGA at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-director-emulation-fpga/33099/86593792736",
-    "id": "arm-director-emulation-fpga-bengaluru"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Software Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "13h ago",
-    "job_description": "hardware engineering job for the role Computer Vision Software Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/165253350-computer-vision-software-engineer",
-    "id": "aijobs-computer-vision-software-engineer-unknown"
+    "job_description": "17 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff ASIC Design Verification Engineer, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126901717034771142-staff-asic-design-verification-engineer-platforms-and-devices?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-asic-design-verification-engineer-mountain-view"
   }
 ]
