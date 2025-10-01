@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "ML Acceleration / Framework Engineer - Distributed Training & Inference, AWS Neuron, Annapurna Labs, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role ML Acceleration / Framework Engineer - Distributed Training & Inference, AWS Neuron, Annapurna Labs, Annapurna Labs at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2956023/ml-acceleration-framework-engineer-distributed-training-inference-aws-neuron-annapurna-labs-annapurna-labs",
+    "job_posted_at": "2025-10-01T15:25:09.669Z",
+    "job_posted_at_datetime_utc": "2025-10-01T15:25:09.669Z",
+    "id": "amazon-ml-acceleration-framework-engineer-distributed-training-inference-aws-neuron-annapurna-labs-annapurna-labs-cupertino"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Sr IT Hardware Lab Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr IT Hardware Lab Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883629/Sr-IT-Hardware-Lab-Engineer",
+    "id": "microsoft-sr-it-hardware-lab-engineer-raleigh"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Metrology Engineer II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Metrology Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883959/Metrology-Engineer-II",
+    "id": "microsoft-metrology-engineer-ii-redmond"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer Networking",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer Networking at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Networking/1444119",
+    "id": "cisco-software-engineer-networking-milpitas"
+  }
+]
