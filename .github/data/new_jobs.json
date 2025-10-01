@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "System Quality Test and Automation Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Systems Hardware Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior System Quality Test and Automation Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-system-quality-test-and-automation-engineer/33099/86778250464",
-    "id": "arm-system-quality-test-and-automation-engineer-austin"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Systems Hardware Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885861/Principal-Systems-Hardware-Architect",
+    "id": "microsoft-principal-systems-hardware-architect-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Electrical Engineer",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882100/Senior%C2%A0Electrical-Engineer",
+    "id": "microsoft-senior-electrical-engineer-atlanta"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer - System Level Test (SLT)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Engineer - System Level Test (SLT) at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-System-Level-Test-SLT/1449168",
+    "id": "cisco-hardware-engineer-system-level-test-slt-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Packaging Technical Leader",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Packaging Technical Leader at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Packaging-Technical-Leader/1450253",
+    "id": "cisco-packaging-technical-leader-san-jose"
   }
 ]
