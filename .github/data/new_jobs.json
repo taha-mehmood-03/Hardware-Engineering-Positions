@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Support Engineer - HashiCorp",
-    "job_city": "Austin",
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Support Engineer - HashiCorp at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
-    "id": "ibm-support-engineer-hashicorp-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Solutions Architecture Intern - PhD",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Solutions Architecture Intern - PhD at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Solutions-Architecture-Intern---PhD_2502347-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-solutions-architecture-intern-phd-santa-clara"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329684-senior-software-engineer",
+    "id": "aijobs-software-engineer-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data & AI Engineer, Physical Intelligence",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "9h ago",
-    "job_description": "hardware engineering job for the role Lead Data & AI Engineer, Physical Intelligence at Waltham, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165320840-lead-data-ai-engineer-physical-intelligence",
-    "id": "aijobs-data-ai-engineer-physical-intelligence-us"
+    "job_title": "HPC Performance Engineer - AI for Science at Scale",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior HPC Performance Engineer - AI for Science at Scale at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329691-senior-hpc-performance-engineer-ai-for-science-at-scale",
+    "id": "aijobs-hpc-performance-engineer-ai-for-science-at-scale-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Compiler Engineer - CUDA",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "9min ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Compiler Engineer - CUDA at US, WA, Seattle",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329683-senior-deep-learning-compiler-engineer-cuda",
+    "id": "aijobs-deep-learning-compiler-engineer-cuda-seattle"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hypervisor and RTOS Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Hypervisor and RTOS Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329681-senior-hypervisor-and-rtos-engineer",
+    "id": "aijobs-hypervisor-and-rtos-engineer-santa-clara"
   }
 ]
