@@ -1,43 +1,32 @@
 [
   {
-    "job_title": "Data Center Logistics Site Lead",
-    "employer_name": "Amazon",
-    "job_city": "Louisa",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Data Center Logistics Site Lead at Louisa, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3098652/data-center-logistics-site-lead",
-    "job_posted_at": "2025-10-01T00:25:06.976Z",
-    "job_posted_at_datetime_utc": "2025-10-01T00:25:06.976Z",
-    "id": "amazon-data-center-logistics-site-lead-louisa"
+    "employer_name": "IBM",
+    "job_title": "Support Engineer - HashiCorp",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Support Engineer - HashiCorp at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-austin"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Hardware System Validation Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware System Validation Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883647/Principal-Hardware-System-Validation-Engineer",
-    "id": "microsoft-principal-hardware-system-validation-engineer-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- C++, SoC",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer- C++, SoC at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/senior-software-engineer-c-soc/33099/85958007248",
-    "id": "arm-software-engineer-c-soc-waltham"
+    "employer_name": "MARVELL",
+    "job_title": "Solutions Architecture Intern - PhD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Solutions Architecture Intern - PhD at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Solutions-Architecture-Intern---PhD_2502347-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-solutions-architecture-intern-phd-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Manager, Production",
+    "job_title": "Data & AI Engineer, Physical Intelligence",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Manager, Production at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165315120-senior-manager-production",
-    "id": "aijobs-manager-production-us"
+    "job_state": "MA",
+    "job_posted_at": "9h ago",
+    "job_description": "hardware engineering job for the role Lead Data & AI Engineer, Physical Intelligence at Waltham, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165320840-lead-data-ai-engineer-physical-intelligence",
+    "id": "aijobs-data-ai-engineer-physical-intelligence-us"
   }
 ]
