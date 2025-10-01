@@ -1,12 +1,43 @@
 [
   {
+    "job_title": "Data Center Logistics Site Lead",
+    "employer_name": "Amazon",
+    "job_city": "Louisa",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Data Center Logistics Site Lead at Louisa, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3098652/data-center-logistics-site-lead",
+    "job_posted_at": "2025-10-01T00:25:06.976Z",
+    "job_posted_at_datetime_utc": "2025-10-01T00:25:06.976Z",
+    "id": "amazon-data-center-logistics-site-lead-louisa"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Sr. IS&T Lab Site Lead",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
+    "job_title": "Principal Hardware System Validation Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. IS&T Lab Site Lead",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883629/Sr.-IS%26T-Lab-Site-Lead",
-    "id": "microsoft-sr-is-t-lab-site-lead-raleigh"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware System Validation Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883647/Principal-Hardware-System-Validation-Engineer",
+    "id": "microsoft-principal-hardware-system-validation-engineer-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer- C++, SoC",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer- C++, SoC at Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/waltham/senior-software-engineer-c-soc/33099/85958007248",
+    "id": "arm-software-engineer-c-soc-waltham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Production",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Production at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165315120-senior-manager-production",
+    "id": "aijobs-manager-production-us"
   }
 ]
