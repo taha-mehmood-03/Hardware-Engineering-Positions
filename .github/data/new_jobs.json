@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Physical Design Engineer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Media Driver",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Physical Design Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884030/Principal-Physical-Design-Engineer",
-    "id": "microsoft-principal-physical-design-engineer-raleigh"
+    "job_description": "Hardware Engineering job for the role Software Engineer - Media Driver at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/software-engineer-media-driver/33099/76704245440",
+    "id": "arm-software-engineer-media-driver-cambridge"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Design Engineer",
+    "employer_name": "Arm",
+    "job_title": "System Signal Integrity Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal System Signal Integrity Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-system-signal-integrity-engineer/33099/86816078400",
+    "id": "arm-system-signal-integrity-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Developer Marketing Specialist - Editorial Operations",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Design Engineer at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Design-Engineer/1440437",
-    "id": "cisco-hardware-design-engineer-san-jose"
+    "job_description": "Hardware Engineering job for the role Developer Marketing Specialist - Editorial Operations at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/developer-marketing-specialist-editorial-operations/33099/86790641344",
+    "id": "arm-developer-marketing-specialist-editorial-operations-san-jose"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Staff Engineer Applications",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Staff Engineer Applications at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-staff-engineer-applications-san-jose"
   }
 ]
