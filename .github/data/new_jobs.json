@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Deskside Support Engineer",
+    "job_title": "Software Engineer - Device Drivers",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Deskside Support Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/deskside-support-engineer/33099/82985445856",
-    "id": "arm-deskside-support-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Device Drivers at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-device-drivers/33099/74266619424",
+    "id": "arm-software-engineer-device-drivers-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Automotive Quality and Safety Manager",
-    "job_city": "Munich",
-    "job_state": "Germany",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Automotive Quality and Safety Manager at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/automotive-quality-and-safety-manager/33099/84419402048",
-    "id": "arm-automotive-quality-and-safety-manager-munich"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU Verification Engineer",
+    "job_title": "Infrastructure Automation Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior CPU Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-verification-engineer/33099/84516810176",
-    "id": "arm-cpu-verification-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Infrastructure Automation Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-infrastructure-automation-engineer/33099/76146756752",
+    "id": "arm-infrastructure-automation-engineer-cambridge"
   }
 ]
