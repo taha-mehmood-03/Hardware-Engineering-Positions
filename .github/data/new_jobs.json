@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Process Control",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - Process Control at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38258975",
+    "id": "micron-intern-process-control-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
+    "job_city": "Irvine",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalIrvine, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62937&source=WEB_Search_NA",
+    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-irvine"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "CPU Processor Performance Verification Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Processor Performance Verification Engineer at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61746&source=WEB_Search_NA",
+    "id": "ibm-cpu-processor-performance-verification-engineer-austin"
+  }
+]
