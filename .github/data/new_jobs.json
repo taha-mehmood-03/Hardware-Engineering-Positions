@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Research Scientist: Quantum Processor Characterization",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Research Scientist: Quantum Processor Characterization at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62404&source=WEB_Search_NA",
-    "id": "ibm-quantum-research-scientist-quantum-processor-characterization-yorktown-heights"
+    "employer_name": "Micron",
+    "job_title": "Change Management Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Change Management Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38368336",
+    "id": "micron-change-management-engineer-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Packaging Engineer",
-    "job_city": "Yorktown Heights",
+    "employer_name": "INFINEON",
+    "job_title": "Senior Manager - Project Office",
+    "job_city": "San Jose",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Packaging Engineer at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62915&source=WEB_Search_NA",
-    "id": "ibm-packaging-engineer-yorktown-heights"
+    "job_description": "hardware engineering job for the role Senior Manager - Project Office at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-manager-project-office-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Business Analyst - Performance Management",
-    "job_city": "BELLEVUE",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Signal Integrity Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Analyst - Performance Management at ProfessionalBELLEVUE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61104&source=WEB_Search_NA",
-    "id": "ibm-business-analyst-performance-management-bellevue"
+    "job_description": "hardware engineering job for the role Signal Integrity Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Signal-Integrity-Engineer/1450913",
+    "id": "cisco-signal-integrity-engineer-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Project Manager:",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Technical Lead, Signal/Power Integrity Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Project Manager: 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58195&source=WEB_Search_NA",
-    "id": "ibm-entry-level-project-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Sales Engineer - Storage",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - Storage at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63031&source=WEB_Search_NA",
-    "id": "ibm-technical-sales-engineer-storage-multiple-cities"
+    "job_description": "hardware engineering job for the role Senior Technical Lead, Signal/Power Integrity Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Technical-Lead-Signal-Power-Integrity-Engineer/1450909",
+    "id": "cisco-technical-lead-signal-power-integrity-engineer-san-jose"
   }
 ]
