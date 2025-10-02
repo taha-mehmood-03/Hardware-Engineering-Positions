@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "Project Design Mechanical Engineer, Fleet Remediation Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Hermiston",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role Project Design Mechanical Engineer, Fleet Remediation Engineering at Hermiston, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100311/project-design-mechanical-engineer-fleet-remediation-engineering",
-    "job_posted_at": "2025-10-02T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-02T00:00:00.000Z",
-    "id": "amazon-project-design-mechanical-engineer-fleet-remediation-engineering-hermiston"
+    "employer_name": "IBM",
+    "job_title": "Quantum Research Scientist: Quantum Processor Characterization",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Research Scientist: Quantum Processor Characterization at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62404&source=WEB_Search_NA",
+    "id": "ibm-quantum-research-scientist-quantum-processor-characterization-yorktown-heights"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Design Evaluation Engineering Intern (PhD)",
-    "job_city": "US",
-    "job_state": "OR",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Design Evaluation Engineering Intern (PhD) at US, OR, Beaverton",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-design-evaluation-engineering-intern-phd-us"
+    "employer_name": "IBM",
+    "job_title": "Packaging Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Packaging Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62915&source=WEB_Search_NA",
+    "id": "ibm-packaging-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Analyst - Performance Management",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Analyst - Performance Management at ProfessionalBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61104&source=WEB_Search_NA",
+    "id": "ibm-business-analyst-performance-management-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Project Manager:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Project Manager: 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58195&source=WEB_Search_NA",
+    "id": "ibm-entry-level-project-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Sales Engineer - Storage",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - Storage at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63031&source=WEB_Search_NA",
+    "id": "ibm-technical-sales-engineer-storage-multiple-cities"
   }
 ]
