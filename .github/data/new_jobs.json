@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Physical Design Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Physical Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884030/Principal-Physical-Design-Engineer",
+    "id": "microsoft-principal-physical-design-engineer-raleigh"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Hardware Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Design Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Design-Engineer/1440437",
+    "id": "cisco-hardware-design-engineer-san-jose"
+  }
+]
