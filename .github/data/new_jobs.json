@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer (CPU)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Verification Engineer (CPU) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-cpu/33099/84516810176",
+    "id": "arm-verification-engineer-cpu-cambridge"
+  }
+]
