@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Computer Vision Engineer at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/computer-vision-engineer/33099/86799823584",
+    "id": "arm-computer-vision-engineer-manchester"
+  }
+]
