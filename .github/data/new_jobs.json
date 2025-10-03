@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Compilers (LLVM)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer - Compilers (LLVM) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-compilers-llvm/33099/86845179984",
-    "id": "arm-software-engineer-compilers-llvm-cambridge"
+    "job_title": "Controls Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Severn",
+    "job_state": "MD",
+    "job_description": "hardware engineering job for the role Controls Engineer at Severn, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100798/controls-engineer",
+    "job_posted_at": "2025-10-03T15:21:00.914Z",
+    "job_posted_at_datetime_utc": "2025-10-03T15:21:00.914Z",
+    "id": "amazon-controls-engineer-severn"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "5G/Networking Performance Graduate Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 5G/Networking Performance Graduate Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/5g-networking-performance-graduate-engineer/33099/86845170432",
-    "id": "arm-5g-networking-performance-graduate-engineer-austin"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Mechanical Design Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Mechanical Design Engineer at US, MA, Chelmsford, Elizabeth",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Senior-Mechanical-Design-Engineer_R252153?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mechanical-design-engineer-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director - Silicon Engineering Program Management (Cloud Data Center)",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Director - Silicon Engineering Program Management (Cloud Data Center) at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Senior-Director---Silicon-Engineering-Program-Management--Cloud-Data-Center-_2502862-2?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-silicon-engineering-program-management-cloud-data-center-3-locations"
   }
 ]
