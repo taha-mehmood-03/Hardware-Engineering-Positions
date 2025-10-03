@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "MLOps Engineer",
+    "employer_name": "MARVELL",
+    "job_title": "Post-Silicon Validation Engineer, High Speed SERDES",
     "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior MLOps Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/165799076-senior-mlops-engineer",
-    "id": "aijobs-mlops-engineer-santa-clara"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Post-Silicon Validation Engineer, High Speed SERDES at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Post-Silicon-Validation-Engineer--High-Speed-SERDES_2502213?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-post-silicon-validation-engineer-high-speed-serdes-santa-clara"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Product Manager, Open Source",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "20min ago",
-    "job_description": "hardware engineering job for the role Product Manager, Open Source at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806672-product-manager-open-source",
-    "id": "aijobs-product-manager-open-source-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, Growth",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Full Stack Software Engineer, Growth at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806676-full-stack-software-engineer-growth",
-    "id": "aijobs-full-stack-software-engineer-growth-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Software Engineer, Growth",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Backend Software Engineer, Growth at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806677-backend-software-engineer-growth",
-    "id": "aijobs-backend-software-engineer-growth-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Compute Business Operations Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Compute Business Operations Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806669-compute-business-operations-lead",
-    "id": "aijobs-compute-business-operations-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - User Risk Measurement",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Data Scientist - User Risk Measurement at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806680-data-scientist-user-risk-measurement",
-    "id": "aijobs-data-scientist-user-risk-measurement-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Client Platform Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Client Platform Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806674-client-platform-engineer",
-    "id": "aijobs-client-platform-engineer-unknown"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Post-Silicon Validation Engineer, High Speed SERDES",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Post-Silicon Validation Engineer, High Speed SERDES at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Post-Silicon-Validation-Engineer--High-Speed-SERDES_2502212?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-post-silicon-validation-engineer-high-speed-serdes-santa-clara"
   }
 ]
