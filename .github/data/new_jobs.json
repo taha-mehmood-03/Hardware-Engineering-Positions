@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer – Hardware Methodology",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Engineer – Hardware Methodology at Cambridge, United Kingdom, Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-engineer-hardware-methodology/33099/86882447296",
+    "id": "arm-engineer-hardware-methodology-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Business Intelligence (BI) Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Intelligence (BI) Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/business-intelligence-bi-manager/33099/86882429024",
+    "id": "arm-business-intelligence-bi-manager-cambridge"
+  }
+]
