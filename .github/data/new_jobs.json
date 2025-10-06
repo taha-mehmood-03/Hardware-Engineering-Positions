@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Hardware Platforms Architect",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Hardware Engineering Intern",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Hardware Platforms Architect at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-hardware-platforms-architect/33099/86963697424",
-    "id": "arm-hardware-platforms-architect-bengaluru"
+    "job_description": "Hardware Engineering job for the role Hardware Engineering Intern at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/hardware-engineering-intern/33099/86948783712",
+    "id": "arm-hardware-engineering-intern-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Performance Architecture PnP Modeling Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Performance Architecture PnP Modeling Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-performance-architecture-pnp-modeling-engineer/33099/86965799472",
+    "id": "arm-graduate-performance-architecture-pnp-modeling-engineer-san-diego"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer Global Facilities, Design",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 4 days ago",
+    "job_description": "hardware engineering job for the role Staff Engineer Global Facilities, Design at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38357414",
+    "id": "micron-engineer-global-facilities-design-boise"
   }
 ]
