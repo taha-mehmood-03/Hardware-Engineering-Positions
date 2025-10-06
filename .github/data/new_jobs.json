@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering (CRE)",
-    "employer_name": "Amazon",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering (CRE) at Tempe, AZ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3102428/electrical-engineer-data-center-colocation-regional-engineering-cre",
-    "job_posted_at": "2025-10-06T16:26:21.184Z",
-    "job_posted_at_datetime_utc": "2025-10-06T16:26:21.184Z",
-    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-cre-tempe"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Critical Environment Mechanical Engineer",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
+    "employer_name": "Arm",
+    "job_title": "Hardware Platforms Architect",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Mechanical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887912/Critical-Environment-Mechanical-Engineer",
-    "id": "microsoft-critical-environment-mechanical-engineer-atlanta"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Emulation Engineer II",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Emulation Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879167/Emulation-Engineer-II",
-    "id": "microsoft-emulation-engineer-ii-santa-clara"
+    "job_description": "Hardware Engineering job for the role Staff Hardware Platforms Architect at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-hardware-platforms-architect/33099/86963697424",
+    "id": "arm-hardware-platforms-architect-bengaluru"
   }
 ]
