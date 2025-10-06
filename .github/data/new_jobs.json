@@ -1,32 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Hardware Engineering Intern",
+    "employer_name": "IBM",
+    "job_title": "Semiconductor Engineering Project Manager",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Semiconductor Engineering Project Manager at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62065&source=WEB_Search_NA",
+    "id": "ibm-semiconductor-engineering-project-manager-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Delivery Consultant - Enterprise Learning Managment",
     "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Engineering Intern at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom, Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/hardware-engineering-intern/33099/86948783712",
-    "id": "arm-hardware-engineering-intern-cambridge"
+    "job_description": "Hardware Engineering job for the role Technical Delivery Consultant - Enterprise Learning Managment at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57918&source=WEB_Search_NA",
+    "id": "ibm-technical-delivery-consultant-enterprise-learning-managment-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Performance Architecture PnP Modeling Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Storage Delivery Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Performance Architecture PnP Modeling Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-performance-architecture-pnp-modeling-engineer/33099/86965799472",
-    "id": "arm-graduate-performance-architecture-pnp-modeling-engineer-san-diego"
+    "job_description": "Hardware Engineering job for the role Storage Delivery Consultant at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62910&source=WEB_Search_NA",
+    "id": "ibm-storage-delivery-consultant-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer Global Facilities, Design",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 4 days ago",
-    "job_description": "hardware engineering job for the role Staff Engineer Global Facilities, Design at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38357414",
-    "id": "micron-engineer-global-facilities-design-boise"
+    "employer_name": "IBM",
+    "job_title": "Delivery Network Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Network Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62681&source=WEB_Search_NA",
+    "id": "ibm-delivery-network-architect-multiple-cities"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Emulation Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Emulation Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Emulation-Engineer_2502865?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-emulation-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Hardware System & Silicon Validation",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Hardware System & Silicon Validation at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Staff-Engineer--Hardware-System---Silicon-Validation_2502832?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-hardware-system-silicon-validation-irvine"
   }
 ]
