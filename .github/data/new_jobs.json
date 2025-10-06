@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Semiconductor Engineering Project Manager",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Semiconductor Engineering Project Manager at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62065&source=WEB_Search_NA",
-    "id": "ibm-semiconductor-engineering-project-manager-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Delivery Consultant - Enterprise Learning Managment",
-    "job_city": "Cambridge",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Delivery Consultant - Enterprise Learning Managment at ProfessionalCambridge, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57918&source=WEB_Search_NA",
-    "id": "ibm-technical-delivery-consultant-enterprise-learning-managment-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Delivery Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Delivery Consultant at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62910&source=WEB_Search_NA",
-    "id": "ibm-storage-delivery-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Delivery Network Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Delivery Network Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62681&source=WEB_Search_NA",
-    "id": "ibm-delivery-network-architect-multiple-cities"
-  },
-  {
     "employer_name": "MARVELL",
-    "job_title": "Emulation Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Emulation Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Emulation-Engineer_2502865?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-emulation-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Hardware System & Silicon Validation",
+    "job_title": "Staff Engineer, Hardware Systems & Silicon Validation",
     "job_city": "Irvine",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Hardware System & Silicon Validation at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Staff-Engineer--Hardware-System---Silicon-Validation_2502832?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-hardware-system-silicon-validation-irvine"
+    "job_description": "hardware engineering job for the role Senior Staff Engineer, Hardware Systems & Silicon Validation at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Engineer--Hardware-Systems---Silicon-Validation_2502831?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-hardware-systems-silicon-validation-irvine"
   }
 ]
