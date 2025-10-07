@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Engineering Manager - Data Center MODS",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Product Manager, Codex",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Engineering Manager - Data Center MODS at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166245058-senior-engineering-manager-data-center-mods",
-    "id": "aijobs-engineering-manager-data-center-mods-santa-clara"
+    "job_description": "hardware engineering job for the role Product Manager, Codex at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166246466-product-manager-codex",
+    "id": "aijobs-product-manager-codex-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Engineer, Infrastructure Security",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Security Engineer, Infrastructure Security at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/166246467-security-engineer-infrastructure-security",
+    "id": "aijobs-security-engineer-infrastructure-security-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Infrastructure Security",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Infrastructure Security at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/166246469-software-engineer-infrastructure-security",
+    "id": "aijobs-software-engineer-infrastructure-security-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Marketing Manager, ChatGPT",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Product Marketing Manager, ChatGPT at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166246475-product-marketing-manager-chatgpt",
+    "id": "aijobs-product-marketing-manager-chatgpt-united-states"
   }
 ]
