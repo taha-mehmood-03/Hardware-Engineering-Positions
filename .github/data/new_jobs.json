@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers",
-    "job_posted_at": "2025-10-07T19:19:14.644Z",
-    "job_posted_at_datetime_utc": "2025-10-07T19:19:14.644Z",
-    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-seattle"
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Electrical Engineer",
+    "job_city": "Boydton",
+    "job_state": "Virginia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890530/Critical-Environment-Electrical-Engineer",
+    "id": "microsoft-critical-environment-electrical-engineer-boydton"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Silicon Performance Architect",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Client Engineering Solution Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Performance Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890335/Principal-Silicon-Performance-Architect",
-    "id": "microsoft-principal-silicon-performance-architect-mountain-view"
+    "job_description": "Hardware Engineering job for the role Client Engineering Solution Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62946&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-solution-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware User Experience Designer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware User Experience Designer 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63042&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-user-experience-designer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Engagement Lead - United States Government",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Engagement Lead - United States Government at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63364&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-lead-united-states-government-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research Scientist (Digital ASIC Design)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Research Scientist (Digital ASIC Design) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62808&source=WEB_Search_NA",
+    "id": "ibm-research-scientist-digital-asic-design-multiple-cities"
   }
 ]
