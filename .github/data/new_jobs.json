@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Associate Application Engineer",
-    "job_city": "Alpharetta",
-    "job_state": "Georgia",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Associate Application Engineer at Alpharetta, Georgia, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012337/Associate-Application-Engineer",
-    "id": "abb-associate-application-engineer-alpharetta"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "IC Validation Engineer Intern - Master's Degree",
-    "job_city": "Westlake Village",
-    "job_state": "CA",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "System Integration Engineer",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role IC Validation Engineer Intern - Master's Degree at Westlake Village, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/IC-Validation-Engineer-Intern---Master-s-Degree_2503012-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ic-validation-engineer-intern-master-s-degree-westlake-village"
+    "job_description": "hardware engineering job for the role System Integration Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Integration-Engineer_R255776-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-system-integration-engineer-us"
   }
 ]
