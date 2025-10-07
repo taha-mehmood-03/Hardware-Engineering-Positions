@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior DevOps Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-devops-engineer/33099/78707347264",
-    "id": "arm-devops-engineer-manchester"
+    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers",
+    "job_posted_at": "2025-10-07T19:19:14.644Z",
+    "job_posted_at_datetime_utc": "2025-10-07T19:19:14.644Z",
+    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Package Layout Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Silicon Performance Architect",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Package Layout Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-package-layout-engineer/33099/87000370272",
-    "id": "arm-package-layout-engineer-chandler"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "MTS Memory Sustaining Design Engineer, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 3 days ago",
-    "job_description": "hardware engineering job for the role MTS Memory Sustaining Design Engineer, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38271360",
-    "id": "micron-mts-memory-sustaining-design-engineer-hbm-richardson"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Performance Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890335/Principal-Silicon-Performance-Architect",
+    "id": "microsoft-principal-silicon-performance-architect-mountain-view"
   }
 ]
