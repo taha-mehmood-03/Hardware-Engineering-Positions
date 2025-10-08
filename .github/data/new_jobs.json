@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Technical Writer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Technical Writer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-technical-writer/33099/87019647104",
+    "id": "arm-intern-technical-writer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Technical Writer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Technical Writer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-technical-writer/33099/87019647088",
+    "id": "arm-graduate-technical-writer-austin"
+  }
+]
