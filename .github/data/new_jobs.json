@@ -1,42 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, AI and ML Software",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, AI Data Platform",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Technical Program Manager, AI and ML Software at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166360488-senior-technical-program-manager-ai-and-ml-software",
-    "id": "aijobs-technical-program-manager-ai-and-ml-software-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Networking Software",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "30min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Networking Software at US, WA, Redmond",
-    "job_apply_link": "https://www.aijobs.com/jobs/166360482-senior-software-engineer-networking-software",
-    "id": "aijobs-software-engineer-networking-software-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, NPI - DGX Cloud",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Technical Program Manager, NPI - DGX Cloud at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166360484-senior-technical-program-manager-npi-dgx-cloud",
-    "id": "aijobs-technical-program-manager-npi-dgx-cloud-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Board Test Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Board Test Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166360477-senior-board-test-engineer",
-    "id": "aijobs-board-test-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Software Engineer, AI Data Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166365909-software-engineer-ai-data-platform",
+    "id": "aijobs-software-engineer-ai-data-platform-united-states"
   }
 ]
