@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Mixed Signal Design Engineer - Automotive",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "employer_name": "Arm",
+    "job_title": "Partner Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Partner Program Manager at Austin, Texas, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-partner-program-manager/33099/87011765776",
+    "id": "arm-partner-program-manager-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineering Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Mixed Signal Design Engineer - Automotive at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Mixed-Signal-Design-Engineer---Automotive_R257144?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mixed-signal-design-engineer-automotive-2-locations"
+    "job_description": "hardware engineering job for the role Firmware Engineering Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineering-Intern---Master-s-Degree_2502500-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineering-intern-master-s-degree-santa-clara"
   }
 ]
