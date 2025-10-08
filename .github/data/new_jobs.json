@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Partner Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Verification Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Partner Program Manager at Austin, Texas, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-partner-program-manager/33099/87011765776",
-    "id": "arm-partner-program-manager-austin"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1888632/Senior-Verification-Engineer",
+    "id": "microsoft-senior-verification-engineer-redmond"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware Engineering Intern - Master's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Firmware Engineering Intern - Master's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineering-Intern---Master-s-Degree_2502500-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-engineering-intern-master-s-degree-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Data Center Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Data Center Project Manager at Available in one of 13 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010699/Data-Center-Project-Manager",
+    "id": "abb-data-center-project-manager-multiple"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Internship - IC Analog Design",
+    "job_city": "Andover",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - IC Analog Design at Andover",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-ic-analog-design-andover"
   }
 ]
