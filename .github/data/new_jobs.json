@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal SOC Architect",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal SOC Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889278/%E2%80%AFPrincipal-SOC-Architect",
-    "id": "microsoft-principal-soc-architect-mountain-view"
+    "job_description": "Hardware Engineering job for the role Data Scientist Intern 2026 at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer 1 at Entry LevelBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63115&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Mixed Signal Circuit Design Engineer - Entry Level at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA",
+    "id": "ibm-mixed-signal-circuit-design-engineer-entry-level-rochester"
   }
 ]
