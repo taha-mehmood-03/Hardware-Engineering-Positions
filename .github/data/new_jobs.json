@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Analog Design Engineer",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Hardware Development",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Analog Design Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890403/Senior-Analog-Design-Engineer",
-    "id": "microsoft-senior-analog-design-engineer-hillsboro"
+    "job_description": "Hardware Engineering job for the role Data Scientist - Hardware Development at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-hardware-development-poughkeepsie"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Product Test Solutions Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Intern - Product Test Solutions Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38445052",
-    "id": "micron-intern-product-test-solutions-engineer-boise"
+    "employer_name": "IBM",
+    "job_title": "Product Engineer - IBM Z",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Engineer - IBM Z at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
+    "id": "ibm-product-engineer-ibm-z-poughkeepsie"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Program Strategy Lead",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Program Strategy Lead at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Research-Scientist---Healthcare-Algorithms_R242724?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-program-strategy-lead-us"
   }
 ]
