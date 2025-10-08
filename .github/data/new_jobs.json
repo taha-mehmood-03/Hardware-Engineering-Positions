@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal System Performance Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Principal SOC Architect",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal System Performance Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-system-performance-architect/33099/87011792672",
-    "id": "arm-principal-system-performance-architect-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Post Production Product Manager",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Post Production Product Manager at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Post-Production-Product-Manager_2502981?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-post-production-product-manager-2-locations"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal SOC Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889278/%E2%80%AFPrincipal-SOC-Architect",
+    "id": "microsoft-principal-soc-architect-mountain-view"
   }
 ]
