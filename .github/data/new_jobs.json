@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Protection Scientist Engineer, Intelligence and Investigations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Protection Scientist Engineer, Intelligence and Investigations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations",
-    "id": "aijobs-protection-scientist-engineer-intelligence-and-investigations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer, Notifcations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Research Engineer, Notifcations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/166472424-research-engineer-notifcations",
-    "id": "aijobs-research-engineer-notifcations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "MEP Coordinator, Electrical - Stargate",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role MEP Coordinator, Electrical - Stargate at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/166472418-mep-coordinator-electrical-stargate",
-    "id": "aijobs-mep-coordinator-electrical-stargate-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Account Director, Healthcare & Life Sciences",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Account Director, Healthcare & Life Sciences at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/166472431-account-director-healthcare-life-sciences",
-    "id": "aijobs-account-director-healthcare-life-sciences-united-states"
+    "employer_name": "Arm",
+    "job_title": "Manager Leadership & Talent Development",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager Leadership & Talent Development at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-manager-leadership-and-talent-development/33099/87055633632",
+    "id": "arm-manager-leadership-talent-development-bengaluru"
   }
 ]
