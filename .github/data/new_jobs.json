@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Silicon Debug Engineer",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
+    "employer_name": "Arm",
+    "job_title": "Manager, IP and OEM Sales",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Debug Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890914/Principal-Silicon-Debug-Engineer",
-    "id": "microsoft-principal-silicon-debug-engineer-hillsboro"
+    "job_description": "Hardware Engineering job for the role Manager, IP and OEM Sales at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/manager-ip-and-oem-sales/33099/87074694528",
+    "id": "arm-manager-ip-and-oem-sales-san-jose"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Photolithography Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Senior Photolithography Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27399969",
-    "id": "micron-photolithography-equipment-engineer-boise"
+    "job_title": "Intern - Design Engineering, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Intern - Design Engineering, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30954489",
+    "id": "micron-intern-design-engineering-hbm-richardson"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Intern - System Engineer, HBM",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Intern - System Engineer, HBM at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38443840",
-    "id": "micron-intern-system-engineer-hbm-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Principal Scientist - Power Electronics",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Principal Scientist - Power Electronics at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011263/Principal-Scientist-Power-Electronics",
-    "id": "abb-principal-scientist-power-electronics-raleigh"
+    "job_title": "Memory Design Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Memory Design Engineer, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30955690",
+    "id": "micron-memory-design-engineer-hbm-richardson"
   }
 ]
