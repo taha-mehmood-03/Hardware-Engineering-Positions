@@ -1,33 +1,52 @@
 [
   {
-    "job_title": "Operations Engineer II, MSP CX-DR",
-    "employer_name": "Amazon",
-    "job_city": "Detroit",
-    "job_state": "MI",
-    "job_description": "hardware engineering job for the role Operations Engineer II, MSP CX-DR at Detroit, MI, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105322/operations-engineer-ii-msp-cx-dr",
-    "job_posted_at": "2025-10-09T19:20:16.150Z",
-    "job_posted_at_datetime_utc": "2025-10-09T19:20:16.150Z",
-    "id": "amazon-operations-engineer-ii-msp-cx-dr-detroit"
+    "employer_name": "Microsoft",
+    "job_title": "Hardware Engineering Director",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineering Director",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891096/Hardware-Engineering-Director%2C-AC%2FDC-Power",
+    "id": "microsoft-hardware-engineering-director-redmond"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior SoC HW (Security/Functional) Validation Engineer",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
+    "job_title": "Signal and Power Integrity Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior SoC HW (Security/Functional) Validation Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890957/Senior-SoC-HW-(Security%2FFunctional)-Validation-Engineer",
-    "id": "microsoft-senior-soc-hw-security-functional-validation-engineer-hillsboro"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Signal and Power Integrity Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892475/Signal-and-Power-Integrity-Engineer",
+    "id": "microsoft-signal-and-power-integrity-engineer-raleigh"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Critical Environment Electrical Engineer",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
+    "job_title": "Principal Silicon Design Verification Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889453/Critical-Environment-Electrical-Engineer",
-    "id": "microsoft-critical-environment-electrical-engineer-phoenix"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Design Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893471/Principal-Silicon-Design-Verification-Engineer",
+    "id": "microsoft-principal-silicon-design-verification-engineer-mountain-view"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Analyst",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Analyst at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63706&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Jacksonville Metro Area, Florida",
+    "job_city": "CORAL GABLES",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Jacksonville Metro Area, Florida at Entry LevelCORAL GABLES, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64454&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-jacksonville-metro-area-florida-coral-gables"
   }
 ]
