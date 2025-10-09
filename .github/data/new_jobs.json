@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Hardware Dev Engineer, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Dev Engineer, Project Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104496/hardware-dev-engineer-project-kuiper",
+    "job_posted_at": "2025-10-08T18:17:02.837Z",
+    "job_posted_at_datetime_utc": "2025-10-08T18:17:02.837Z",
+    "id": "amazon-hardware-dev-engineer-project-kuiper-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Fleet Debugger",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Fleet Debugger",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891119/Fleet-Debugger",
+    "id": "microsoft-fleet-debugger-redmond"
+  }
+]
