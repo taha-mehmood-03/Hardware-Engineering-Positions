@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Data Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 3 months ago",
+    "job_description": "hardware engineering job for the role Data Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30028440",
+    "id": "micron-data-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Component Engineer Accelerate ELH",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Component Engineer Accelerate ELH at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA",
+    "id": "ibm-component-engineer-accelerate-elh-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Expert Labs Delivery Consultant – watsonx Orchestrate (Agentic Agents)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Expert Labs Delivery Consultant – watsonx Orchestrate (Agentic Agents) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63091&source=WEB_Search_NA",
+    "id": "ibm-expert-labs-delivery-consultant-watsonx-orchestrate-agentic-agents-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Expert Labs Technical Delivery Consultant – watsonx Orchestrate (Agentic Agents)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Expert Labs Technical Delivery Consultant – watsonx Orchestrate (Agentic Agents) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63089&source=WEB_Search_NA",
+    "id": "ibm-expert-labs-technical-delivery-consultant-watsonx-orchestrate-agentic-agents-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant - z/HW - z/OS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Consultant - z/HW - z/OS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63742&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-z-hw-z-os-multiple-cities"
+  }
+]
