@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Compiler Verification Engineer - DPU",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Network Compiler Verification Engineer - DPU at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/166470809-network-compiler-verification-engineer-dpu",
+    "id": "aijobs-network-compiler-verification-engineer-dpu-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Circuit Design Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Circuit Design Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166470800-circuit-design-engineer-new-college-grad-2025",
+    "id": "aijobs-circuit-design-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Signal and Power Integrity Engineer - Hardware",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Signal and Power Integrity Engineer - Hardware at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166470797-senior-signal-and-power-integrity-engineer-hardware",
+    "id": "aijobs-signal-and-power-integrity-engineer-hardware-santa-clara"
+  }
+]
