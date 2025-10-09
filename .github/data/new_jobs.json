@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer at Sophia Antipolis, France, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-engineer/33099/87062782384",
+    "id": "arm-engineer-sophia-antipolis"
+  }
+]
