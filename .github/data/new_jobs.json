@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Manager Leadership & Talent Development",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Camera System Software Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager Leadership & Talent Development at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-manager-leadership-and-talent-development/33099/87055633632",
-    "id": "arm-manager-leadership-talent-development-bengaluru"
+    "job_description": "31 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Camera System Software Engineer, Pixel and XR Camera",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81739599046419142-camera-system-software-engineer-pixel-and-xr-camera?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-camera-system-software-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Consumer Computing",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Consumer Computing at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/senior-manager-consumer-computing/33099/82964257168",
+    "id": "arm-manager-consumer-computing-taipei"
   }
 ]
