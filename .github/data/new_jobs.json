@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Technology Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "Google",
+    "job_title": "Optics and Display Test Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Technology Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-technology-intern/33099/87064847808",
-    "id": "arm-cpu-technology-intern-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Hardware Emulation Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Hardware Emulation Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-hardware-emulation-engineer/33099/87064845504",
-    "id": "arm-graduate-hardware-emulation-engineer-sophia-antipolis"
+    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Optics and Display Test Engineer, Consumer Hardware",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93182955291058886-optics-and-display-test-engineer-consumer-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-optics-and-display-test-engineer-mountain-view"
   }
 ]
