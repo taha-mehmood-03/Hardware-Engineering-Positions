@@ -1,52 +1,13 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Hardware Engineering Director",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineering Director",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891096/Hardware-Engineering-Director%2C-AC%2FDC-Power",
-    "id": "microsoft-hardware-engineering-director-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Signal and Power Integrity Engineer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Signal and Power Integrity Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892475/Signal-and-Power-Integrity-Engineer",
-    "id": "microsoft-signal-and-power-integrity-engineer-raleigh"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Silicon Design Verification Engineer",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Silicon Design Verification Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893471/Principal-Silicon-Design-Verification-Engineer",
-    "id": "microsoft-principal-silicon-design-verification-engineer-mountain-view"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Analyst",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Analyst at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63706&source=WEB_Search_NA",
-    "id": "ibm-data-analyst-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - Jacksonville Metro Area, Florida",
-    "job_city": "CORAL GABLES",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representative - Jacksonville Metro Area, Florida at Entry LevelCORAL GABLES, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64454&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-jacksonville-metro-area-florida-coral-gables"
+    "job_title": "Technical Program Manager (TPM), AWS Cross Domain Services (Diode)",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Technical Program Manager (TPM), AWS Cross Domain Services (Diode) at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105436/technical-program-manager-tpm-aws-cross-domain-services-diode",
+    "job_posted_at": "2025-10-09T21:16:31.014Z",
+    "job_posted_at_datetime_utc": "2025-10-09T21:16:31.014Z",
+    "id": "amazon-technical-program-manager-tpm-aws-cross-domain-services-diode-arlington"
   }
 ]
