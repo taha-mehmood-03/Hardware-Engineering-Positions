@@ -1,42 +1,42 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Circuit Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Circuit Design Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/161993999-senior-circuit-design-engineer",
-    "id": "aijobs-circuit-design-engineer-santa-clara"
+    "employer_name": "INFINEON",
+    "job_title": "Internship - ASIC RTL/Digital Design",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - ASIC RTL/Digital Design at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-asic-rtl-digital-design-san-jose"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Deep Learning Communication Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "21min ago",
-    "job_description": "hardware engineering job for the role Senior Deep Learning Communication Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166576070-senior-deep-learning-communication-architect",
-    "id": "aijobs-deep-learning-communication-architect-santa-clara"
+    "job_title": "Data Engineering Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Data Engineering Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166580040-data-engineering-manager",
+    "id": "aijobs-data-engineering-manager-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, CAD Automation - New College Grad",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Commercial Counsel",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Software Engineer, CAD Automation - New College Grad 2025 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166576077-software-engineer-cad-automation-new-college-grad-2025",
-    "id": "aijobs-software-engineer-cad-automation-new-college-grad-santa-clara"
+    "job_description": "hardware engineering job for the role Commercial Counsel at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166580041-commercial-counsel",
+    "id": "aijobs-commercial-counsel-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Video AI Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Proposal Manager",
+    "job_city": "Unknown",
+    "job_state": "US",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Video AI Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166576071-senior-video-ai-architect",
-    "id": "aijobs-video-ai-architect-santa-clara"
+    "job_description": "hardware engineering job for the role Proposal Manager at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/166580034-proposal-manager",
+    "id": "aijobs-proposal-manager-unknown"
   }
 ]
