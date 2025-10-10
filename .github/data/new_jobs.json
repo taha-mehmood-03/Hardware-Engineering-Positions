@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer in Test at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/bristol/staff-software-engineer-in-test/33099/86279332928",
+    "id": "arm-software-engineer-in-test-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Team Lead Test Engineer - Embedded Systems",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Team Lead Test Engineer - Embedded Systems at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/budapest/team-lead-test-engineer-embedded-systems/33099/83921379616",
+    "id": "arm-team-lead-test-engineer-embedded-systems-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Quality and Reliability Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Quality and Reliability Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-quality-and-reliability-engineer/33099/86309340992",
+    "id": "arm-quality-and-reliability-engineer-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Director, HBM Design Architecture",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Director, HBM Design Architecture at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38444333",
+    "id": "micron-director-hbm-design-architecture-richardson"
+  }
+]
