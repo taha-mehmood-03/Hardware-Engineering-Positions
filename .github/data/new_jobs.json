@@ -1,42 +1,24 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Product Management: Internship Opportunities",
-    "job_city": "New York",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Product Management: Internship Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894215/Product-Management%3A-Internship-Opportunities",
-    "id": "microsoft-product-management-internship-opportunities-new-york"
+    "job_title": "Supply Chain Product Manager, IPS",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Supply Chain Product Manager, IPS at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106144/supply-chain-product-manager-ips",
+    "job_posted_at": "2025-10-10T16:17:54.587Z",
+    "job_posted_at_datetime_utc": "2025-10-10T16:17:54.587Z",
+    "id": "amazon-supply-chain-product-manager-ips-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Functional Safety / Cybersecurity Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Functional Safety / Cybersecurity Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/functional-safety-cybersecurity-intern/33099/78303901744",
-    "id": "arm-functional-safety-cybersecurity-intern-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Technical Writer Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Writer Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/technical-writer-intern/33099/87106682896",
-    "id": "arm-technical-writer-intern-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Architecture and Technology Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Architecture and Technology Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/architecture-and-technology-intern/33099/87106681248",
-    "id": "arm-architecture-and-technology-intern-sophia-antipolis"
+    "job_title": "Operations Engineer II, Total GCF Field",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Operations Engineer II, Total GCF Field at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
+    "job_posted_at": "2025-10-10T15:17:54.586Z",
+    "job_posted_at_datetime_utc": "2025-10-10T15:17:54.586Z",
+    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
   }
 ]
