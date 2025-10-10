@@ -1,24 +1,22 @@
 [
   {
-    "job_title": "Supply Chain Product Manager, IPS",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Supply Chain Product Manager, IPS at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106144/supply-chain-product-manager-ips",
-    "job_posted_at": "2025-10-10T16:17:54.587Z",
-    "job_posted_at_datetime_utc": "2025-10-10T16:17:54.587Z",
-    "id": "amazon-supply-chain-product-manager-ips-seattle"
+    "employer_name": "Microsoft",
+    "job_title": "Senior AI Hardware Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior AI Hardware Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892463/Senior-AI-Hardware-Engineer",
+    "id": "microsoft-senior-ai-hardware-engineer-redmond"
   },
   {
-    "job_title": "Operations Engineer II, Total GCF Field",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Operations Engineer II, Total GCF Field at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
-    "job_posted_at": "2025-10-10T15:17:54.586Z",
-    "job_posted_at_datetime_utc": "2025-10-10T15:17:54.586Z",
-    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Senior Mechanical Engineer",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Senior Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893443/Critical-Environment-Senior-Mechanical-Engineer",
+    "id": "microsoft-critical-environment-senior-mechanical-engineer-atlanta"
   }
 ]
