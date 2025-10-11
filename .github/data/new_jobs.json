@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Integration Engineer - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Software Integration Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166665465-principal-software-integration-engineer-autonomous-vehicles",
+    "id": "aijobs-software-integration-engineer-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Platform and EngOps Engineer - Cluster Operations",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14min ago",
+    "job_description": "hardware engineering job for the role Senior Platform and EngOps Engineer - Cluster Operations at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166665454-senior-platform-and-engops-engineer-cluster-operations",
+    "id": "aijobs-platform-and-engops-engineer-cluster-operations-santa-clara"
+  }
+]
