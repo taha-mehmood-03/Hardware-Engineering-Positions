@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Power Architecture and Attainment Lead",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Power Architecture and Attainment Lead at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/power-architecture-and-attainment-lead/33099/87124042096",
+    "id": "arm-power-architecture-and-attainment-lead-multiple"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Electrical Engineer, Entry Level/New Graduate",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Entry Level/New Graduate at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/166649595-electrical-engineer-entry-level-new-graduate",
+    "id": "aijobs-electrical-engineer-entry-level-new-graduate-us"
+  }
+]
