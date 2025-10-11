@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Integration Engineer - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Strategic Sourcing Manager, Data Center Networking - Stargate",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Principal Software Integration Engineer - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166665465-principal-software-integration-engineer-autonomous-vehicles",
-    "id": "aijobs-software-integration-engineer-autonomous-vehicles-santa-clara"
+    "job_description": "hardware engineering job for the role Strategic Sourcing Manager, Data Center Networking - Stargate at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166667118-strategic-sourcing-manager-data-center-networking-stargate",
+    "id": "aijobs-strategic-sourcing-manager-data-center-networking-stargate-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Platform and EngOps Engineer - Cluster Operations",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "14min ago",
-    "job_description": "hardware engineering job for the role Senior Platform and EngOps Engineer - Cluster Operations at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166665454-senior-platform-and-engops-engineer-cluster-operations",
-    "id": "aijobs-platform-and-engops-engineer-cluster-operations-santa-clara"
+    "job_title": "Data Engineer, Marketing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Data Engineer, Marketing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166667121-data-engineer-marketing",
+    "id": "aijobs-data-engineer-marketing-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solution Architect Manager, Digital Natives",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Solution Architect Manager, Digital Natives at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/166667122-solution-architect-manager-digital-natives",
+    "id": "aijobs-solution-architect-manager-digital-natives-unknown"
   }
 ]
