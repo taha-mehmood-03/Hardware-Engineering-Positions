@@ -1,22 +1,72 @@
 [
   {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Hardware Quality Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware Quality Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891704/Principal-Hardware-Quality-Engineer",
+    "id": "microsoft-principal-hardware-quality-engineer-redmond"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Module Validation Developer",
+    "job_title": "MTS Module Validation Developer",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Staff Module Validation Developer at Boise, Idaho, United States of America",
+    "job_description": "hardware engineering job for the role MTS Module Validation Developer at Boise, Idaho, United States of America",
     "job_apply_link": "https://careers.micron.com/careers/job/38467305",
-    "id": "micron-module-validation-developer-boise"
+    "id": "micron-mts-module-validation-developer-boise"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Advanced Packaging SI/PI Staff Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Advanced Packaging SI/PI Staff Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Advanced-Packaging-SI-PI-Staff-Engineer_2503128?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-advanced-packaging-si-pi-staff-engineer-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Regional Facilities Program Manager (Engineer)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Regional Facilities Program Manager (Engineer) at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64357&source=WEB_Search_NA",
+    "id": "ibm-regional-facilities-program-manager-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Designer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Designer at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64741&source=WEB_Search_NA",
+    "id": "ibm-product-designer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineer",
+    "job_city": "Hampton",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Customer Success Engineer at ProfessionalHampton, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65038&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-hampton"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65312&source=WEB_Search_NA",
+    "id": "ibm-data-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant, AI Business Transformation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Consultant, AI Business Transformation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65354&source=WEB_Search_NA",
+    "id": "ibm-consultant-ai-business-transformation-multiple-cities"
   }
 ]
