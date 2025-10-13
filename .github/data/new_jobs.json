@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, RF Engineering",
-    "job_city": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Electrical Engineer",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890905/Critical-Environment-Electrical-Engineer",
+    "id": "microsoft-critical-environment-electrical-engineer-atlanta"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Mechanical Design Engineering (Opto-Mechanics) Intern",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Design Engineering (Opto-Mechanics) Intern at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25004992/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-mechanical-design-engineering-opto-mechanics-intern-"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "RTL Design Intern - Bachelors Degree",
+    "job_city": "Westborough",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, RF Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--RF-Engineering_R256115?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-rf-engineering-us"
+    "job_description": "hardware engineering job for the role RTL Design Intern - Bachelors Degree at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/RTL-Design-Intern---Bachelors-Degree_2502811-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-rtl-design-intern-bachelors-degree-westborough"
   }
 ]
