@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Mechanical Engineer",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890907/Mechanical-Engineer",
-    "id": "microsoft-mechanical-engineer-atlanta"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff DevOps Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-devops-engineer/33099/83318969776",
-    "id": "arm-devops-engineer-bengaluru"
-  },
-  {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "RF Design Engineering",
-    "job_city": "US",
-    "job_state": "MA",
+    "job_title": "Field Applications Engineer - Rotational Program",
+    "job_city": "7 Locations",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role RF Design Engineering at US, MA, Chelmsford, Elizabeth",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering_R256072?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-rf-design-engineering-us"
+    "job_description": "hardware engineering job for the role Field Applications Engineer - Rotational Program at 7 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Field-Applications-Engineer_R257217?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-field-applications-engineer-rotational-program-7-locations"
   }
 ]
