@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Network Architect",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Principal Design Technical Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Network Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893634/Principal-Network-Architect",
-    "id": "microsoft-principal-network-architect-redmond"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Design Technical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893504/Principal-Design-Technical-Engineer",
+    "id": "microsoft-principal-design-technical-engineer-mountain-view"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum EDA Junior Developer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum EDA Junior Developer at Entry LevelYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63351&source=WEB_Search_NA",
+    "id": "ibm-quantum-eda-junior-developer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Electrical Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Electrical Engineer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63321&source=WEB_Search_NA",
+    "id": "ibm-entry-level-electrical-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant,  z/OS, z HW",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Consultant,  z/OS, z HW at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65718&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-z-os-z-hw-poughkeepsie"
   }
 ]
