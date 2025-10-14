@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Project Director - R&D Projects",
-    "job_city": "San Jose",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Electrical Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Project Director - R&D Projects at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-project-director-r-d-projects-san-jose"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892814/Electrical-Engineer",
+    "id": "microsoft-electrical-engineer-hillsboro"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Physical Design Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Physical Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893558/Senior-Physical-Design-Engineer",
+    "id": "microsoft-senior-physical-design-engineer-mountain-view"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Principal SoC Architect – Robotics & Industrial Automation",
-    "job_city": "6 Locations",
-    "job_state": "",
+    "job_title": "Robotics Hardware System Architect",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal SoC Architect – Robotics & Industrial Automation at 6 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Principal-SoC-Architect---Robotics---Industrial-Automation_R257089?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-principal-soc-architect-robotics-industrial-automation-6-locations"
+    "job_description": "hardware engineering job for the role Robotics Hardware System Architect at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Robotics-Hardware-System-Architect_R257085?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-robotics-hardware-system-architect-us"
   }
 ]
