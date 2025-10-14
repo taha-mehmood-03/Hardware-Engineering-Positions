@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Full Stack Developer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "INFINEON",
+    "job_title": "Project Director - R&D Projects",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Developer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/full-stack-developer/33099/87112638704",
-    "id": "arm-full-stack-developer-cambridge"
+    "job_description": "hardware engineering job for the role Project Director - R&D Projects at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-project-director-r-d-projects-san-jose"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/soc-verification-engineer/33099/87251877744",
-    "id": "arm-soc-verification-engineer-cambridge"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Principal SoC Architect – Robotics & Industrial Automation",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Principal SoC Architect – Robotics & Industrial Automation at 6 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Principal-SoC-Architect---Robotics---Industrial-Automation_R257089?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-principal-soc-architect-robotics-industrial-automation-6-locations"
   }
 ]
