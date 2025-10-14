@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Verification Engineer - (AI/ML)",
+    "job_title": "FP&A Data Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Verification Engineer - (AI/ML) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-verification-engineer-ai-ml/33099/69202964112",
-    "id": "arm-verification-engineer-ai-ml-cambridge"
+    "job_description": "Hardware Engineering job for the role FP&A Data Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/fp-and-a-data-engineer/33099/86421401568",
+    "id": "arm-fp-a-data-engineer-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "AI Platform Administrator",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Senior/Staff Software Engineer - Compilers (GNU)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Platform Administrator at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/ai-platform-administrator/33099/87244656592",
-    "id": "arm-ai-platform-administrator-bengaluru"
+    "job_description": "Hardware Engineering job for the role Senior/Staff Software Engineer - Compilers (GNU) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-software-engineer-compilers-gnu/33099/87247722256",
+    "id": "arm-senior-staff-software-engineer-compilers-gnu-cambridge"
   }
 ]
