@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Electrical Engineer",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Principal Network Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893627/Electrical-Engineer",
-    "id": "microsoft-electrical-engineer-multiple-locations"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- SRE/Devops",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer- SRE/Devops at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-engineer-sre-devops/33099/84932474448",
-    "id": "arm-software-engineer-sre-devops-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "5G/Networking Performance Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 5G/Networking Performance Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/5g-networking-performance-engineer/33099/86845170432",
-    "id": "arm-5g-networking-performance-engineer-taipei"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Network Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893634/Principal-Network-Architect",
+    "id": "microsoft-principal-network-architect-redmond"
   }
 ]
