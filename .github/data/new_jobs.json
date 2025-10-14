@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Systems Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Systems Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-engineer/33099/87234037296",
-    "id": "arm-systems-engineer-austin"
+    "job_title": "Regulatory Compliance Engineer, JWO Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Regulatory Compliance Engineer, JWO Hardware Engineering at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3108064/regulatory-compliance-engineer-jwo-hardware-engineering",
+    "job_posted_at": "2025-10-14T01:00:01.992Z",
+    "job_posted_at_datetime_utc": "2025-10-14T01:00:01.992Z",
+    "id": "amazon-regulatory-compliance-engineer-jwo-hardware-engineering-seattle"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer_2502936?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-westborough"
+    "employer_name": "IBM",
+    "job_title": "Manager of Product Education Engineering - HashiCorp",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Manager of Product Education Engineering - HashiCorp at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64131&source=WEB_Search_NA",
+    "id": "ibm-manager-of-product-education-engineering-hashicorp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM DS8000 Back-End Developer Co-op",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM DS8000 Back-End Developer Co-op at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA",
+    "id": "ibm-ibm-ds8000-back-end-developer-co-op-tucson"
   }
 ]
