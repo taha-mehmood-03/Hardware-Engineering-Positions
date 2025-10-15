@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Acceleration Engineer, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Acceleration Engineer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272379-software-acceleration-engineer-consumer-products",
+    "id": "aijobs-software-acceleration-engineer-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Developer, VLSI Physical Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Developer, VLSI Physical Design at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/167270218-senior-software-developer-vlsi-physical-design",
+    "id": "aijobs-software-developer-vlsi-physical-design-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Data Engineering Finance",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director, Data Engineering Finance at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272386-director-data-engineering-finance",
+    "id": "aijobs-director-data-engineering-finance-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - Robotics",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager - Robotics at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/167270205-senior-technical-program-manager-robotics",
+    "id": "aijobs-technical-program-manager-robotics-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Deep Learning Solutions",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director, Deep Learning Solutions at US, CA, San Jose",
+    "job_apply_link": "https://www.aijobs.com/jobs/167270209-director-deep-learning-solutions",
+    "id": "aijobs-director-deep-learning-solutions-san-jose"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Materials Planning",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "1w ago",
+    "job_description": "hardware engineering job for the role Manager, Materials Planning at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272079-manager-materials-planning",
+    "id": "aijobs-manager-materials-planning-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect, ChatGPT Ecosystem",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Solutions Architect, ChatGPT Ecosystem at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272390-solutions-architect-chatgpt-ecosystem",
+    "id": "aijobs-solutions-architect-chatgpt-ecosystem-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect, ChatGPT Ecosystem",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Solutions Architect, ChatGPT Ecosystem at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272391-solutions-architect-chatgpt-ecosystem",
+    "id": "aijobs-solutions-architect-chatgpt-ecosystem-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Emerging Talent - Project Manager, Recruiting Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Emerging Talent - Project Manager, Recruiting Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272369-emerging-talent-project-manager-recruiting-operations",
+    "id": "aijobs-emerging-talent-project-manager-recruiting-operations-united-states"
+  }
+]
