@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Project / Program Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "System Engineer (DCC)",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Project / Program Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-project-program-manager/33099/87290949296",
-    "id": "arm-technical-project-program-manager-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65673&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65571&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-multiple-cities"
+    "job_description": "hardware engineering job for the role System Engineer (DCC) at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007581/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-system-engineer-dcc-dallas"
   }
 ]
