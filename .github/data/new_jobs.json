@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Mechanical Engineer",
+    "job_city": "Des Moines",
+    "job_state": "Iowa",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896434/Critical-Environment-Mechanical-Engineer",
+    "id": "microsoft-critical-environment-mechanical-engineer-des-moines"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Security Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Product Security Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-product-security-engineer/33099/83233506688",
+    "id": "arm-product-security-engineer-cambridge"
+  }
+]
