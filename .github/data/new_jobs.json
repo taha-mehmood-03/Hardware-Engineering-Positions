@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Project / Program Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Project / Program Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-project-program-manager/33099/87290949296",
+    "id": "arm-technical-project-program-manager-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineer",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65673&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65571&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-multiple-cities"
+  }
+]
