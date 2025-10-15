@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Hacker",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Hacker 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65778&source=WEB_Search_NA",
-    "id": "ibm-associate-hacker-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Threat Intelligence Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Threat Intelligence Consultant 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65776&source=WEB_Search_NA",
-    "id": "ibm-associate-threat-intelligence-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Security Consultant - Entry Level (Buffalo, NY)",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Security Consultant - Entry Level (Buffalo, NY) at Entry LevelBuffalo, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65761&source=WEB_Search_NA",
-    "id": "ibm-associate-security-consultant-entry-level-buffalo-ny-buffalo"
+    "employer_name": "AiJobs",
+    "job_title": "Sr. Machine Learning/AI Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Sr. Machine Learning/AI Engineer at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256912-sr-machine-learning-ai-engineer",
+    "id": "aijobs-sr-machine-learning-ai-engineer-us"
   }
 ]
