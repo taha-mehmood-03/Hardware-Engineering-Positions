@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Protection Scientist Engineer, Intelligence and Investigations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Manager, Protection Scientist Engineer, Intelligence and Investigations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/167388337-manager-protection-scientist-engineer-intelligence-and-investigations",
-    "id": "aijobs-manager-protection-scientist-engineer-intelligence-and-investigations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Cloud Engineer - Golang",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Cloud Engineer - Golang at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/167384115-senior-software-cloud-engineer-golang",
-    "id": "aijobs-software-cloud-engineer-golang-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Marketing Manager, Developer Platform",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "6h ago",
-    "job_description": "hardware engineering job for the role Product Marketing Manager, Developer Platform at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/167388335-product-marketing-manager-developer-platform",
-    "id": "aijobs-product-marketing-manager-developer-platform-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer – Streaming",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer – Streaming at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/167384116-senior-software-engineer-streaming",
-    "id": "aijobs-software-engineer-streaming-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quote to Cash Systems Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Quote to Cash Systems Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/167388334-quote-to-cash-systems-engineer",
-    "id": "aijobs-quote-to-cash-systems-engineer-united-states"
+    "employer_name": "Arm",
+    "job_title": "Electronics Hardware Lead Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Electronics Hardware Lead Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-electronics-hardware-lead-engineer/33099/87317330384",
+    "id": "arm-electronics-hardware-lead-engineer-bengaluru"
   }
 ]
