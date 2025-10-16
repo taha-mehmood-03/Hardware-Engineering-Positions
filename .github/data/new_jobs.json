@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Workplace Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Functional Safety and Cyber Security Engineering Intern",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Workplace Manager at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-workplace-manager/33099/85431141792",
-    "id": "arm-workplace-manager-san-jose"
+    "job_description": "Hardware Engineering job for the role Functional Safety and Cyber Security Engineering Intern at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/functional-safety-and-cyber-security-engineering-intern/33099/87338693600",
+    "id": "arm-functional-safety-and-cyber-security-engineering-intern-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Senior/Principal Signal and Power Integrity Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Product Security Intern",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Principal Signal and Power Integrity Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-principal-signal-and-power-integrity-engineer/33099/87336743056",
-    "id": "arm-senior-principal-signal-and-power-integrity-engineer-san-jose"
+    "job_description": "Hardware Engineering job for the role Product Security Intern at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/product-security-intern/33099/87338693392",
+    "id": "arm-product-security-intern-cambridge"
   }
 ]
