@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer-Sign Off Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer-Sign Off Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-sign-off-engineer/33099/87321734448",
+    "id": "arm-engineer-sign-off-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer-PNR",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer-PNR at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-pnr/33099/87321734304",
+    "id": "arm-engineer-pnr-bengaluru"
+  }
+]
