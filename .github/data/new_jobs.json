@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr. Workforce Development Engineer, TPG",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Sr. Workforce Development Engineer, TPG at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/38504793",
-    "id": "micron-sr-workforce-development-engineer-tpg-boise"
+    "job_title": "AWS Technical Program Manager, Infrastructure, US West",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role AWS Technical Program Manager, Infrastructure, US West at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3110524/aws-technical-program-manager-infrastructure-us-west",
+    "job_posted_at": "2025-10-16T16:16:58.435Z",
+    "job_posted_at_datetime_utc": "2025-10-16T16:16:58.435Z",
+    "id": "amazon-aws-technical-program-manager-infrastructure-us-west-seattle"
   }
 ]
