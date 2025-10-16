@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Photolithography Process Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 14 days ago",
+    "job_description": "hardware engineering job for the role Photolithography Process Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38283337",
+    "id": "micron-photolithography-process-engineer-manassas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineering Co-Op:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Federal Data Engineering Co-Op: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66120&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineering-co-op-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back-End Developer Co-op",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back-End Developer Co-op at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-co-op-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Site Reliability Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Site Reliability Engineer 2026 at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59888&source=WEB_Search_NA",
+    "id": "ibm-entry-level-site-reliability-engineer-poughkeepsie"
+  }
+]
