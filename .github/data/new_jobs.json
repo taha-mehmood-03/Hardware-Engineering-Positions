@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "System Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "Workplace Manager",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - System Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896636/System-Engineer",
-    "id": "microsoft-system-engineer-redmond"
+    "job_description": "Hardware Engineering job for the role Senior Workplace Manager at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-workplace-manager/33099/85431141792",
+    "id": "arm-workplace-manager-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr.Solutions Engineer",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Senior/Principal Signal and Power Integrity Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr.Solutions Engineer at ProfessionalWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66046&source=WEB_Search_NA",
-    "id": "ibm-sr-solutions-engineer-washington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level AI Performance Analyst",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level AI Performance Analyst at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66089&source=WEB_Search_NA",
-    "id": "ibm-entry-level-ai-performance-analyst-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Technical Advisor",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Regional Technical Advisor at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008173/Regional-Technical-Advisor",
-    "id": "abb-regional-technical-advisor-multiple"
+    "job_description": "Hardware Engineering job for the role Senior/Principal Signal and Power Integrity Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-principal-signal-and-power-integrity-engineer/33099/87336743056",
+    "id": "arm-senior-principal-signal-and-power-integrity-engineer-san-jose"
   }
 ]
