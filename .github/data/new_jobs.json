@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Electronics Hardware Lead Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Intern, Systems Engineering - Compute AI Hardware Platforms",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Electronics Hardware Lead Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-electronics-hardware-lead-engineer/33099/87317330384",
-    "id": "arm-electronics-hardware-lead-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Intern, Systems Engineering - Compute AI Hardware Platforms at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160",
+    "id": "arm-intern-systems-engineering-compute-ai-hardware-platforms-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern, Systems Engineering - Compute AI Hardware Platforms",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern, Systems Engineering - Compute AI Hardware Platforms at San Jose, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160",
+    "id": "arm-intern-systems-engineering-compute-ai-hardware-platforms-san-jose"
   }
 ]
