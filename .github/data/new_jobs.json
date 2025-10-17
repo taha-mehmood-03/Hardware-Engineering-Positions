@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Technical Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Technical Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899034/Senior-Technical-Program-Manager",
+    "id": "microsoft-senior-technical-program-manager-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Architecture & Engineering Leader",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Architecture & Engineering Leader at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66575&source=WEB_Search_NA",
+    "id": "ibm-architecture-engineering-leader-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineering Intern",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineering Intern 2026 at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66497&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineering-intern-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Network Administrator Intern",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Network Administrator Intern 2026 at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66135&source=WEB_Search_NA",
+    "id": "ibm-network-administrator-intern-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Network Administrator",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Network Administrator 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66489&source=WEB_Search_NA",
+    "id": "ibm-entry-level-network-administrator-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Elk Grove Village (Chicago, IL Service Territory)",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Elk Grove Village (Chicago, IL Service Territory) at Entry LevelChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-elk-grove-village-chicago-il-service-territory-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Developer - Security",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Software Developer - Security at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59668&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-developer-security-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud-Native Front-end and API Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud-Native Front-end and API Developer Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58571&source=WEB_Search_NA",
+    "id": "ibm-cloud-native-front-end-and-api-developer-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Quality Engineer - Entre Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Quality Engineer - Entre Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65759&source=WEB_Search_NA",
+    "id": "ibm-associate-quality-engineer-entre-level-baton-rouge-la-baton-rouge"
+  }
+]
