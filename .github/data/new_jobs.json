@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Lab Technician",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Lab Technician at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/lab-technician/33099/87348085200",
-    "id": "arm-lab-technician-chandler"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Design Intern - Bachelor's Degree",
-    "job_city": "Santa Clara",
+    "employer_name": "AiJobs",
+    "job_title": "EMI/EMC Engineer, Electrical Engineering",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Hardware Design Intern - Bachelor's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Design-Intern---Bachelor-s-Degree_2502390-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-design-intern-bachelor-s-degree-santa-clara"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role EMI/EMC Engineer, Electrical Engineering at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167535496-emi-emc-engineer-electrical-engineering",
+    "id": "aijobs-emi-emc-engineer-electrical-engineering-us"
   }
 ]
