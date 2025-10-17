@@ -1,33 +1,62 @@
 [
   {
-    "job_title": "Electrical Engineer, Critical Infrastructure , Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "New Carlisle",
-    "job_state": "IN",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Critical Infrastructure , Field Engineering at New Carlisle, IN, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3111394/electrical-engineer-critical-infrastructure-field-engineering",
-    "job_posted_at": "2025-10-17T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-17T00:00:00.000Z",
-    "id": "amazon-electrical-engineer-critical-infrastructure-field-engineering-new-carlisle"
+    "employer_name": "Microsoft",
+    "job_title": "Principal Platform System Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Platform System Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894685/Principal-Platform-System-Engineer",
+    "id": "microsoft-principal-platform-system-engineer-redmond"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior PCIe IP Verification Engineer",
+    "job_title": "Senior Computer Architect – Architecture Analysis",
     "job_city": "Hillsboro",
     "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior PCIe IP Verification Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897027/Senior-PCIe-IP-Verification-Engineer",
-    "id": "microsoft-senior-pcie-ip-verification-engineer-hillsboro"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Computer Architect – Architecture Analysis",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897185/Senior-Computer-Architect-%E2%80%93-Architecture-Analysis",
+    "id": "microsoft-senior-computer-architect-architecture-analysis-hillsboro"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Strategic Sourcing Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "AI Enablement Graduate",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "3 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategic Sourcing Manager, OEM, Hardware and System Integration",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77137225908658886-strategic-sourcing-manager-oem-hardware-and-system-integration?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-strategic-sourcing-manager-sunnyvale"
+    "job_description": "Hardware Engineering job for the role AI Enablement Graduate at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ai-enablement-graduate/33099/87368017840",
+    "id": "arm-ai-enablement-graduate-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Microarchitecture and Design Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Microarchitecture and Design Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/87368008816",
+    "id": "arm-cpu-microarchitecture-and-design-intern-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Writer Intern",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Writer Intern at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-writer-intern/33099/87368004960",
+    "id": "arm-technical-writer-intern-cambridge"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "CMP Equipment Engineering Technician",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role CMP Equipment Engineering Technician at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/CMP-Equipment-Maintenance-Technician_R257081?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-cmp-equipment-engineering-technician-us"
   }
 ]
