@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Electrical Engineer, Critical Infrastructure , Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "New Carlisle",
+    "job_state": "IN",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Critical Infrastructure , Field Engineering at New Carlisle, IN, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3111394/electrical-engineer-critical-infrastructure-field-engineering",
+    "job_posted_at": "2025-10-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-17T00:00:00.000Z",
+    "id": "amazon-electrical-engineer-critical-infrastructure-field-engineering-new-carlisle"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior PCIe IP Verification Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior PCIe IP Verification Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897027/Senior-PCIe-IP-Verification-Engineer",
+    "id": "microsoft-senior-pcie-ip-verification-engineer-hillsboro"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Strategic Sourcing Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "3 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategic Sourcing Manager, OEM, Hardware and System Integration",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77137225908658886-strategic-sourcing-manager-oem-hardware-and-system-integration?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-strategic-sourcing-manager-sunnyvale"
+  }
+]
