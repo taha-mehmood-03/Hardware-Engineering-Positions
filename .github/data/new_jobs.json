@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Legal Counsel, Patents",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Legal Counsel, Patents at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167668555-senior-legal-counsel-patents",
+    "id": "aijobs-legal-counsel-patents-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Algorithm Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Algorithm Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/167667222-senior-deep-learning-algorithm-engineer",
+    "id": "aijobs-deep-learning-algorithm-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Codex Enterprise",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Codex Enterprise at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167668564-software-engineer-codex-enterprise",
+    "id": "aijobs-software-engineer-codex-enterprise-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Data Science & Machine Learning Leader - Global Forecasting",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "6h ago",
+    "job_description": "hardware engineering job for the role Applied Data Science & Machine Learning Leader - Global Forecasting at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167668560-applied-data-science-machine-learning-leader-global-forecasting",
+    "id": "aijobs-applied-data-science-machine-learning-leader-global-forecasting-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Planning and Controls - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Planning and Controls - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/167667235-senior-software-engineer-planning-and-controls-autonomous-vehicles",
+    "id": "aijobs-software-engineer-planning-and-controls-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DFX Methodology Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior DFX Methodology Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/167667237-senior-dfx-methodology-engineer",
+    "id": "aijobs-dfx-methodology-engineer-santa-clara"
+  }
+]
