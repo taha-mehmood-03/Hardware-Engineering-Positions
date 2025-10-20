@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Instrumentation & Controls Design Lead - Facilities",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Instrumentation & Controls Design Lead - Facilities at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38529273",
-    "id": "micron-instrumentation-controls-design-lead-facilities-boise"
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Sourcing Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Sourcing Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898270/Sr.-Sourcing-Manager",
+    "id": "microsoft-sr-sourcing-manager-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineering Program Coordinator",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineering Program Coordinator at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-engineering-program-coordinator/33099/87483982032",
+    "id": "arm-engineering-program-coordinator-austin"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog Design Verification Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Analog Design Verification Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-design-verification-engineer-us"
   }
 ]
