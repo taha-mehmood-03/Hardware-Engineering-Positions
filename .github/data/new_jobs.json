@@ -1,32 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Sr. Sourcing Manager",
+    "job_title": "Senior Medium-Term Demand Planner",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Sourcing Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898270/Sr.-Sourcing-Manager",
-    "id": "microsoft-sr-sourcing-manager-redmond"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Medium-Term Demand Planner",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898286/Senior-Medium-Term-Demand-Planner",
+    "id": "microsoft-senior-medium-term-demand-planner-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Engineering Program Coordinator",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "IT Lab Tech - Microelectronic Apprentice",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineering Program Coordinator at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-engineering-program-coordinator/33099/87483982032",
-    "id": "arm-engineering-program-coordinator-austin"
+    "job_description": "Hardware Engineering job for the role IT Lab Tech - Microelectronic Apprentice at Entry LevelHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65315&source=WEB_Search_NA",
+    "id": "ibm-it-lab-tech-microelectronic-apprentice-hopewell-junction"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Analog Design Verification Engineer",
+    "job_title": "Engineer, Test Engineering - Product Development",
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Analog Design Verification Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analog-design-verification-engineer-us"
+    "job_description": "hardware engineering job for the role Staff Engineer, Test Engineering - Product Development at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--Test-Engineering---Product-Development_R254260-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-test-engineering-product-development-us"
   }
 ]
