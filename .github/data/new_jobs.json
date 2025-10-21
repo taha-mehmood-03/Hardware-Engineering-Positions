@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "FAE",
-    "job_city": "Yokohama",
-    "job_state": "Japan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal FAE at Yokohama, Japan",
-    "job_apply_link": "https://careers.arm.com/job/yokohama/principal-fae/33099/86309343056",
-    "id": "arm-fae-yokohama"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Thermal Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Thermal Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168066247-thermal-engineer",
-    "id": "aijobs-thermal-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Preconstruction Lead - Stargate",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Preconstruction Lead - Stargate at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/168066250-preconstruction-lead-stargate",
-    "id": "aijobs-preconstruction-lead-stargate-unknown"
+    "job_title": "Software Engineer (Real-Time Computer Vision)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role Software Engineer (Real-Time Computer Vision) at Santa Clara, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078133-software-engineer-real-time-computer-vision",
+    "id": "aijobs-software-engineer-real-time-computer-vision-us"
   }
 ]
