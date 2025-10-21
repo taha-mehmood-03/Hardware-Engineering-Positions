@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Engineer",
-    "job_city": "Munich",
-    "job_state": "Germany",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Electrical Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Software Engineer at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/graduate-software-engineer/33099/87523225824",
-    "id": "arm-graduate-software-engineer-munich"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900018/Principal-Electrical-Engineer",
+    "id": "microsoft-principal-electrical-engineer-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62970&source=WEB_Search_NA",
+    "id": "ibm-fault-tolerant-quantum-algorithm-resource-estimation-research-scientist-multiple-cities"
   }
 ]
