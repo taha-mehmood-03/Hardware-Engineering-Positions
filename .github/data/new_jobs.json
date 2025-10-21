@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "DCC Data Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role DCC Data Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65804&source=WEB_Search_NA",
-    "id": "ibm-dcc-data-engineer-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Director, Engineering - Power and Performance Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director, Engineering - Power and Performance Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168058372-director-engineering-power-and-performance-software",
+    "id": "aijobs-director-engineering-power-and-performance-software-santa-clara"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Back End Developer Intern",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Back End Developer Intern 2026 at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62827&source=WEB_Search_NA",
-    "id": "ibm-back-end-developer-intern-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Engineer, AI Factory Modular Cooling Architecture",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Engineer, AI Factory Modular Cooling Architecture at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168058379-senior-engineer-ai-factory-modular-cooling-architecture",
+    "id": "aijobs-engineer-ai-factory-modular-cooling-architecture-santa-clara"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Maximo Application Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo Application Developer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65806&source=WEB_Search_NA",
-    "id": "ibm-maximo-application-developer-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Embedded Software Developer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "36min ago",
+    "job_description": "hardware engineering job for the role Senior Embedded Software Developer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168058367-senior-embedded-software-developer",
+    "id": "aijobs-embedded-software-developer-santa-clara"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer – Adobe Experience – Co-op",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Developer – Adobe Experience – Co-op 2026 at InternshipNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67554&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-adobe-experience-co-op-no-city"
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Systems Software Engineer - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168058368-principal-systems-software-engineer-dgx-cloud",
+    "id": "aijobs-systems-software-engineer-dgx-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Physical Design Engineer, Netlisting",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Physical Design Engineer, Netlisting at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168058373-senior-asic-physical-design-engineer-netlisting",
+    "id": "aijobs-asic-physical-design-engineer-netlisting-santa-clara"
   }
 ]
