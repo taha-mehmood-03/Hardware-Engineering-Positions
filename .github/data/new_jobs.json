@@ -1,22 +1,54 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Electrical Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900018/Principal-Electrical-Engineer",
-    "id": "microsoft-principal-electrical-engineer-redmond"
+    "job_title": "Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112658/cluster-project-design-mechanical-engineer-fleet-remediation-engineering",
+    "job_posted_at": "2025-10-21T15:16:02.408Z",
+    "job_posted_at_datetime_utc": "2025-10-21T15:16:02.408Z",
+    "id": "amazon-cluster-project-design-mechanical-engineer-fleet-remediation-engineering-herndon"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62970&source=WEB_Search_NA",
-    "id": "ibm-fault-tolerant-quantum-algorithm-resource-estimation-research-scientist-multiple-cities"
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Louisa",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Louisa, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112296/critical-infrastructure-mechanical-engineer-field-engineering",
+    "job_posted_at": "2025-10-20T22:16:02.408Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:16:02.408Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-louisa"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Product Support Engineer",
+    "job_city": "Alpharetta",
+    "job_state": "Georgia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Associate Product Support Engineer at Alpharetta, Georgia, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011254/Associate-Product-Support-Engineer",
+    "id": "abb-associate-product-support-engineer-alpharetta"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Validation Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Hardware Validation Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Validation-Intern---Master-s-Degree_2502389-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-validation-intern-master-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Engineer Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Hardware Engineer Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern---Bachelor-s-Degree_2502440-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-engineer-intern-master-s-degree-santa-clara"
   }
 ]
