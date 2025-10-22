@@ -1,62 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Youth Well-Being",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Youth Well-Being at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220751-engineering-manager-youth-well-being",
-    "id": "aijobs-engineering-manager-youth-well-being-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Design Manager, Web",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Design Manager, Web at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220759-design-manager-web",
-    "id": "aijobs-design-manager-web-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Chief of Staff, ChatGPT",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "7h ago",
-    "job_description": "hardware engineering job for the role Chief of Staff, ChatGPT at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220742-chief-of-staff-chatgpt",
-    "id": "aijobs-chief-of-staff-chatgpt-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Global Business Insights & Automation Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Global Business Insights & Automation Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220748-global-business-insights-automation-lead",
-    "id": "aijobs-global-business-insights-automation-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data Scientist, Unit Economics Understanding",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Applied Data Scientist, Unit Economics Understanding at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220746-applied-data-scientist-unit-economics-understanding",
-    "id": "aijobs-applied-data-scientist-unit-economics-understanding-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Customer Service Systems Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Customer Service Systems Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/168220760-customer-service-systems-engineer",
-    "id": "aijobs-customer-service-systems-engineer-united-states"
+    "job_title": "Machine Learning Engineer - Computer Vision",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "8h ago",
+    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer - Computer Vision at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/168235424-senior-machine-learning-engineer-computer-vision",
+    "id": "aijobs-machine-learning-engineer-computer-vision-unknown"
   }
 ]
