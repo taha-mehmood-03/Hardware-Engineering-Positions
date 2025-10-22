@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Facilities Infrastructure and Reliability Engineering Director",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Back End Developer",
     "job_city": "Austin",
-    "job_state": "Texas",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Facilities Infrastructure and Reliability Engineering Director at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/facilities-infrastructure-and-reliability-engineering-director/33099/87532501472",
-    "id": "arm-facilities-infrastructure-and-reliability-engineering-director-austin"
+    "job_description": "Hardware Engineering job for the role Entry Level Back End Developer 2026 at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66451&source=WEB_Search_NA",
+    "id": "ibm-entry-level-back-end-developer-austin"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Security Architecture & SDL Process Lead",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Associate Quality Engineer - Entry Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Security Architecture & SDL Process Lead at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-security-architecture-and-sdl-process-lead/33099/87532505168",
-    "id": "arm-soc-security-architecture-sdl-process-lead-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sr. Director, Systems Software",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Director, Systems Software at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/sr-director-systems-software/33099/87532513104",
-    "id": "arm-sr-director-systems-software-san-jose"
+    "job_description": "Hardware Engineering job for the role Associate Quality Engineer - Entry Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65759&source=WEB_Search_NA",
+    "id": "ibm-associate-quality-engineer-entry-level-baton-rouge-la-baton-rouge"
   }
 ]
