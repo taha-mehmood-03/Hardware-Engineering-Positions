@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "PVD/CVD Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 7 days ago",
-    "job_description": "hardware engineering job for the role Senior PVD/CVD Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38529280",
-    "id": "micron-pvd-cvd-process-engineer-boise"
+    "job_title": "Machine Learning - Compiler Engineer, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Machine Learning - Compiler Engineer, Annapurna Labs at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113727/machine-learning-compiler-engineer-annapurna-labs",
+    "job_posted_at": "2025-10-22T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-22T00:00:00.000Z",
+    "id": "amazon-machine-learning-compiler-engineer-annapurna-labs-cupertino"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Supply Chain Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Supply Chain Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898256/Sr.-Supply-Chain-Program-Manager",
+    "id": "microsoft-sr-supply-chain-program-manager-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Consultant, Data Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Consultant, Data Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68376&source=WEB_Search_NA",
+    "id": "ibm-sr-consultant-data-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "Santa Monica",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Solutions Engineer at ProfessionalSanta Monica, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67524&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-santa-monica"
   }
 ]
