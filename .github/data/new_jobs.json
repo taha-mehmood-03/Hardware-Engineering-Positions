@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898994/Principal%2C-Supply-Chain-Eng.-%26-Ops",
+    "id": "microsoft-principal-hillsboro"
+  }
+]
