@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software QA Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software QA Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168218818-senior-software-qa-engineer",
+    "id": "aijobs-software-qa-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architect, AI Networking",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "32min ago",
+    "job_description": "hardware engineering job for the role Principal Architect, AI Networking at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168218812-principal-architect-ai-networking",
+    "id": "aijobs-architect-ai-networking-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer, GenAI for Media and Gaming",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Engineer, GenAI for Media and Gaming at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168218817-principal-engineer-genai-for-media-and-gaming",
+    "id": "aijobs-engineer-genai-for-media-and-gaming-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, AI for Gaming",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer, AI for Gaming at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168218815-machine-learning-engineer-ai-for-gaming",
+    "id": "aijobs-machine-learning-engineer-ai-for-gaming-santa-clara"
+  }
+]
