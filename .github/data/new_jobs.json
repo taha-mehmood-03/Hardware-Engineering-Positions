@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Electrical Engineer, Inter-satellite Link Avionics",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Inter-satellite Link Avionics at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics",
-    "job_posted_at": "2025-10-22T18:19:53.297Z",
-    "job_posted_at_datetime_utc": "2025-10-22T18:19:53.297Z",
-    "id": "amazon-electrical-engineer-inter-satellite-link-avionics-redmond"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "SoC Security Architecture & SDL Process Lead",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Security Architecture & SDL Process Lead at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/soc-security-architecture-and-sdl-process-lead/33099/87570617920",
-    "id": "arm-soc-security-architecture-sdl-process-lead-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Constraint Engineer",
+    "job_title": "Front-End CAD Technical Program Manager",
     "job_city": "San Diego",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Constraint Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-constraint-engineer/33099/87570617744",
-    "id": "arm-constraint-engineer-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Systems Enablement Engineer",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal  Systems Enablement Engineer at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-systems-enablement-engineer/33099/86190849360",
-    "id": "arm-systems-enablement-engineer-seattle"
+    "job_description": "Hardware Engineering job for the role Front-End CAD Technical Program Manager at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/front-end-cad-technical-program-manager/33099/87532502688",
+    "id": "arm-front-end-cad-technical-program-manager-san-diego"
   }
 ]
