@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Software Dev Engineer II - Neuron Kernel Interface , Annapurna Labs",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Digital IC Design",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Dev Engineer II - Neuron Kernel Interface , Annapurna Labs at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114658/software-dev-engineer-ii-neuron-kernel-interface-annapurna-labs",
-    "job_posted_at": "2025-10-23T21:16:53.202Z",
-    "job_posted_at_datetime_utc": "2025-10-23T21:16:53.202Z",
-    "id": "amazon-software-dev-engineer-ii-neuron-kernel-interface-annapurna-labs-cupertino"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Digital IC Design at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Digital-IC-Design_2503258?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-digital-ic-design-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer, Application Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Engineer, Application Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Application-Engineering_2503256?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-application-engineering-santa-clara"
   }
 ]
