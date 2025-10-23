@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - Backend",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer - Backend at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62830&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-backend-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern – Associate Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern – Associate Consultant at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66608&source=WEB_Search_NA",
-    "id": "ibm-intern-associate-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Delivery Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Delivery Consultant at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66563&source=WEB_Search_NA",
-    "id": "ibm-associate-delivery-consultant-multiple-cities"
+    "job_title": "Software Dev Engineer II - Neuron Kernel Interface , Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Dev Engineer II - Neuron Kernel Interface , Annapurna Labs at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114658/software-dev-engineer-ii-neuron-kernel-interface-annapurna-labs",
+    "job_posted_at": "2025-10-23T21:16:53.202Z",
+    "job_posted_at_datetime_utc": "2025-10-23T21:16:53.202Z",
+    "id": "amazon-software-dev-engineer-ii-neuron-kernel-interface-annapurna-labs-cupertino"
   }
 ]
