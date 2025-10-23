@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Floorplan Design Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role ASIC Floorplan Design Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168463129-asic-floorplan-design-engineer-new-college-grad-2025",
+    "id": "aijobs-asic-floorplan-design-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Sales Instructor",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior AI Sales Instructor at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168463133-senior-ai-sales-instructor",
+    "id": "aijobs-ai-sales-instructor-santa-clara"
+  }
+]
