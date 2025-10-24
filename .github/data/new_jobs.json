@@ -1,23 +1,42 @@
 [
   {
-    "job_title": "Software Development Engineer, Annapurna Labs",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, Annapurna Labs at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115268/software-development-engineer-annapurna-labs",
-    "job_posted_at": "2025-10-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-24T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-annapurna-labs-seattle"
-  },
-  {
     "employer_name": "Microsoft",
     "job_title": "Sr. Sourcing Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
     "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Sourcing Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901323/Sr.-Sourcing-Engineer",
-    "id": "microsoft-sr-sourcing-engineer-redmond"
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900551/Sr.-Sourcing-Engineer",
+    "id": "microsoft-sr-sourcing-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "DCC Data Engineer, Senior",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role DCC Data Engineer, Senior at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68861&source=WEB_Search_NA",
+    "id": "ibm-dcc-data-engineer-senior-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Integration Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Integration Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68404&source=WEB_Search_NA",
+    "id": "ibm-integration-lead-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68396&source=WEB_Search_NA",
+    "id": "ibm-application-developer-multiple-cities"
   }
 ]
