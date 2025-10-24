@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "ASIC Design Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "GRC Risk Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "27 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Design Engineer, Machine Learning",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109138331849106118-asic-design-engineer-machine-learning?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-asic-design-engineer-mountain-view"
+    "job_description": "Hardware Engineering job for the role GRC Risk Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/grc-risk-manager/33099/87627795008",
+    "id": "arm-grc-risk-manager-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Design Engineer, ASIC",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Principal Design Engineer, ASIC at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38609188",
+    "id": "micron-design-engineer-asic-richardson"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "MEMS Characterization Lead and Mechanical Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role MEMS Characterization Lead and Mechanical Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-Characterization-Lead-and-Mechanical-Engineer_R255729?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mems-characterization-lead-and-mechanical-engineer-us"
   }
 ]
