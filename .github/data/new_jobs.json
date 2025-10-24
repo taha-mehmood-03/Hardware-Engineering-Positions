@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Digital IC Design",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Digital IC Design at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Digital-IC-Design_2503258?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-digital-ic-design-santa-clara"
+    "employer_name": "Microsoft",
+    "job_title": "Senior Demand Planner",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Demand Planner",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900586/Senior-Demand-Planner",
+    "id": "microsoft-senior-demand-planner-redmond"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Application Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer, Application Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Application-Engineering_2503256?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-application-engineering-santa-clara"
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Sourcing Operations Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Sourcing Operations Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901248/Sr.-Sourcing-Operations-Engineer",
+    "id": "microsoft-sr-sourcing-operations-engineer-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer Engineering Collaboration",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer Engineering Collaboration at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-engineer-engineering-collaboration/33099/87608975408",
+    "id": "arm-engineer-engineering-collaboration-austin"
   }
 ]
