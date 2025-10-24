@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "AI Solutions Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Solutions Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ai-solutions-architect/33099/82681563472",
+    "id": "arm-ai-solutions-architect-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer at Chandler, Arizona, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
+    "id": "arm-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
+    "id": "arm-engineer-multiple"
+  }
+]
