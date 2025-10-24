@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "GPU Kernel Compiler Engineer, AI Inference",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Systems R&D Engineer, Industrial Compute",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "7h ago",
+    "job_description": "hardware engineering job for the role Systems R&D Engineer, Industrial Compute at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168575957-systems-r-d-engineer-industrial-compute",
+    "id": "aijobs-systems-r-d-engineer-industrial-compute-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Atlas",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role GPU Kernel Compiler Engineer, AI Inference at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/168574505-gpu-kernel-compiler-engineer-ai-inference",
-    "id": "aijobs-gpu-kernel-compiler-engineer-ai-inference-santa-clara"
+    "job_description": "hardware engineering job for the role Engineering Manager, Atlas at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168575968-engineering-manager-atlas",
+    "id": "aijobs-engineering-manager-atlas-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Marketing Operations Lead",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Marketing Operations Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/168575973-marketing-operations-lead",
+    "id": "aijobs-marketing-operations-lead-unknown"
   }
 ]
