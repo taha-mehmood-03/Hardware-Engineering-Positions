@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SAP S/4 HANA Sales & Procurement Analyst",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Engineering Manager",
+    "job_city": "Raleigh",
+    "job_state": "NC",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP S/4 HANA Sales & Procurement Analyst at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-s-4-hana-sales-and-procurement-analyst/33099/58542077616",
-    "id": "arm-sap-s-4-hana-sales-procurement-analyst-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Principle Verification Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principle Verification Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principle-verification-engineer/33099/87321734480",
-    "id": "arm-principle-verification-engineer-bengaluru"
+    "job_description": "29 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, Google Cloud Dataflow, Machine Learning, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128732384970318534-engineering-manager-google-cloud-dataflow-machine-learning-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-engineering-manager-raleigh"
   }
 ]
