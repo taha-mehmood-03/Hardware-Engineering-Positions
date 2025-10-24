@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "AI Solutions Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Solutions Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/ai-solutions-architect/33099/82681563472",
-    "id": "arm-ai-solutions-architect-cambridge"
+    "job_title": "Software Development Engineer, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, Annapurna Labs at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115268/software-development-engineer-annapurna-labs",
+    "job_posted_at": "2025-10-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-24T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-annapurna-labs-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Sourcing Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer at Chandler, Arizona, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
-    "id": "arm-engineer-chandler"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
-    "id": "arm-engineer-multiple"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Sr. Sourcing Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901323/Sr.-Sourcing-Engineer",
+    "id": "microsoft-sr-sourcing-engineer-redmond"
   }
 ]
