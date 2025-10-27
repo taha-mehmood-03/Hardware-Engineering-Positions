@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Principle Verification Engineer (Debug CoreSight)",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Experienced HW Verification Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principle Verification Engineer (Debug CoreSight) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principle-verification-engineer-debug-coresight/33099/87734064784",
-    "id": "arm-principle-verification-engineer-debug-coresight-bengaluru"
+    "job_description": "Hardware Engineering job for the role Experienced HW Verification Engineer at Trondheim, Norway, Oslo, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hw-verification-engineer/33099/76937737712",
+    "id": "arm-experienced-hw-verification-engineer-trondheim"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Verification Engineer-PCIE,USB",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Power Analysis Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Verification Engineer-PCIE,USB at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-verification-engineer-pcie-usb/33099/87734056368",
-    "id": "arm-verification-engineer-pcie-usb-bengaluru"
+    "job_description": "Hardware Engineering job for the role Staff Power Analysis Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-power-analysis-engineer/33099/87737121392",
+    "id": "arm-power-analysis-engineer-cambridge"
   }
 ]
