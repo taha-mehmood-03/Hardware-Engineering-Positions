@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Implementation Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Implementation Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902222/Senior-Implementation-Engineer",
+    "id": "microsoft-senior-implementation-engineer-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Design for Test (DFT)",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Engineer. Level: All Levels. Posted: Recently. Full Title: Senior Engineer - Design for Test (DFT)",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901855/Senior-Engineer---Design-for-Test-(DFT)",
+    "id": "microsoft-design-for-test-dft-hillsboro"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshal",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshal",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892386/Critical-Environment-Energy-Marshal",
+    "id": "microsoft-critical-environment-energy-marshal-phoenix"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Test Design Hardware Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Test Design Hardware Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63707&source=WEB_Search_NA",
+    "id": "ibm-test-design-hardware-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Compilers and Programming Research Postdoc",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Compilers and Programming Research Postdoc at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68900&source=WEB_Search_NA",
+    "id": "ibm-quantum-compilers-and-programming-research-postdoc-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ServiceNow Developer",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role ServiceNow Developer at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52859&source=WEB_Search_NA",
+    "id": "ibm-servicenow-developer-dallas"
+  }
+]
