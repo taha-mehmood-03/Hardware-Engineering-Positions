@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Signal and Power Integrity engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Signal and Power Integrity engineer at Cambridge, United Kingdom, Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/signal-and-power-integrity-engineer/33099/87251877696",
+    "id": "arm-signal-and-power-integrity-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer - FP",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer - FP at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-fp/33099/87732527584",
+    "id": "arm-engineer-fp-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - STA",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - STA at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-software-engineer-sta/33099/87732521984",
+    "id": "arm-software-engineer-sta-bengaluru"
+  }
+]
