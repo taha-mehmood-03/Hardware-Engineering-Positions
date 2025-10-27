@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Hardware Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Hardware Design Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901784/Senior-Hardware-Design-Engineer",
+    "id": "microsoft-senior-hardware-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshall",
+    "job_city": "Mount Pleasant",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903367/Critical-Environment-Energy-Marshall",
+    "id": "microsoft-critical-environment-energy-marshall-mount-pleasant"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "R2R Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role R2R Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38632960",
+    "id": "micron-r2r-engineer-manassas"
+  }
+]
