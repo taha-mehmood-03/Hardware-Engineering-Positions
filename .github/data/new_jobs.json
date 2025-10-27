@@ -1,32 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Hardware Design Engineer",
-    "job_city": "Santa Clara",
+    "job_title": "Principal Hardware Engineer",
+    "job_city": "San Diego",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Hardware Design Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901784/Senior-Hardware-Design-Engineer",
-    "id": "microsoft-senior-hardware-design-engineer-santa-clara"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901775/Principal-Hardware-Engineer",
+    "id": "microsoft-principal-hardware-engineer-san-diego"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Critical Environment Energy Marshall",
-    "job_city": "Mount Pleasant",
-    "job_state": "Wisconsin",
+    "job_title": "Senior Hardware Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903367/Critical-Environment-Energy-Marshall",
-    "id": "microsoft-critical-environment-energy-marshall-mount-pleasant"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Hardware Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902037/Senior-Hardware-Engineer",
+    "id": "microsoft-senior-hardware-engineer-hillsboro"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "R2R Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role R2R Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38632960",
-    "id": "micron-r2r-engineer-manassas"
+    "employer_name": "Arm",
+    "job_title": "Team Lead Test Engineer - Embedded Systems",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Team Lead Test Engineer - Embedded Systems at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/team-lead-test-engineer-embedded-systems/33099/87749636272",
+    "id": "arm-team-lead-test-engineer-embedded-systems-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Enhanced Support Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Enhanced Support Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-enhanced-support-engineer/33099/87749242800",
+    "id": "arm-enhanced-support-engineer-san-jose"
   }
 ]
