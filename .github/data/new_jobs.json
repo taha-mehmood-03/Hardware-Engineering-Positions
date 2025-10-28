@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Hardware Signal & Power Integrity Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Hardware Signal & Power Integrity Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901774/Senior-Hardware-Signal-%26-Power-Integrity-Engineer",
+    "id": "microsoft-senior-hardware-signal-power-integrity-engineer-santa-clara"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director, Learning & Development",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Learning & Development at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-learning-and-development/33099/83959009936",
+    "id": "arm-director-learning-development-austin"
+  }
+]
