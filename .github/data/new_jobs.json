@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Storage Platform",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "7h ago",
+    "job_description": "hardware engineering job for the role Technical Program Manager, Storage Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168964744-technical-program-manager-storage-platform",
+    "id": "aijobs-technical-program-manager-storage-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer – AV Platform Scheduling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Systems Software Engineer – AV Platform Scheduling at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963077-systems-software-engineer-av-platform-scheduling",
+    "id": "aijobs-systems-software-engineer-av-platform-scheduling-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - DFX Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "46min ago",
+    "job_description": "hardware engineering job for the role System Software Engineer - DFX Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963081-system-software-engineer-dfx-software",
+    "id": "aijobs-system-software-engineer-dfx-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Development Engineer in Test - Confidential Computing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "4d ago",
+    "job_description": "hardware engineering job for the role Senior Software Development Engineer in Test - Confidential Computing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168787636-senior-software-development-engineer-in-test-confidential-computing",
+    "id": "aijobs-software-development-engineer-in-test-confidential-computing-santa-clara"
+  }
+]
