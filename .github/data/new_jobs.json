@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38635447",
-    "id": "micron-equipment-engineer-boise"
+    "employer_name": "Microsoft",
+    "job_title": "Hardware Engineer II",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901974/Hardware-Engineer-II",
+    "id": "microsoft-hardware-engineer-ii-multiple-locations"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-performance-engineer/33099/87789100032",
+    "id": "arm-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Counsel, Supply Chain and 3rd Party Risk",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Counsel, Supply Chain and 3rd Party Risk at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-counsel-supply-chain-and-3rd-party-risk/33099/87789253824",
+    "id": "arm-counsel-supply-chain-and-3rd-party-risk-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Signal and Power Integrity Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Signal and Power Integrity Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-signal-and-power-integrity-engineer/33099/87336743056",
+    "id": "arm-signal-and-power-integrity-engineer-san-jose"
   }
 ]
