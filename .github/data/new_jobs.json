@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Quality Compliance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "GPU SW Infrastructure Development Intern",
+    "job_city": "Raanana",
+    "job_state": "Israel",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quality Compliance Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/quality-compliance-engineer/33099/61697469856",
-    "id": "arm-quality-compliance-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SOC Principal Technical Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SOC Principal Technical Program Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-principal-technical-program-manager/33099/72932452352",
-    "id": "arm-soc-principal-technical-program-manager-austin"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Design Verification Engineering",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Design Verification Engineering at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Staff-Engineer--Design-Verification-Engineering_R257206?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-design-verification-engineering-us"
+    "job_description": "Hardware Engineering job for the role GPU SW Infrastructure Development Intern at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/gpu-sw-infrastructure-development-intern/33099/87831070224",
+    "id": "arm-gpu-sw-infrastructure-development-intern-raanana"
   }
 ]
