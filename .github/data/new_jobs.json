@@ -1,83 +1,12 @@
 [
   {
-    "job_title": "Component Engineer, Component Resource and Electronic Design",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Component Engineer, Component Resource and Electronic Design at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118191/component-engineer-component-resource-and-electronic-design",
-    "job_posted_at": "2025-10-29T21:17:46.644Z",
-    "job_posted_at_datetime_utc": "2025-10-29T21:17:46.644Z",
-    "id": "amazon-component-engineer-component-resource-and-electronic-design-sunnyvale"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Forensic Engineer",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Forensic Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900045/Principal-Forensic-Engineer",
-    "id": "microsoft-principal-forensic-engineer-multiple-locations"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Sr Thin Films Process Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Sr Thin Films Process Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38467314",
-    "id": "micron-sr-thin-films-process-engineer-manassas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Engineer at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69575&source=WEB_Search_NA",
-    "id": "ibm-hardware-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer at Entry LevelROCHESTER, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58496&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2026 at InternshipROCHESTER, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68446&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Physical Design Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Physical Design Engineer at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69123&source=WEB_Search_NA",
-    "id": "ibm-physical-design-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Salesforce Managing Consultant",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Salesforce Managing Consultant at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69976&source=WEB_Search_NA",
-    "id": "ibm-salesforce-managing-consultant-chicago"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate Engineer, Systems Design/Architecture Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Associate Engineer, Systems Design/Architecture Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Engineer--Systems-Design-Architecture-Engineering_R256011?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-engineer-systems-design-architecture-engineering-us"
   }
 ]
