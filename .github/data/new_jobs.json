@@ -1,13 +1,12 @@
 [
   {
-    "job_title": "Infrastructure TPM, Infra Capacity Delivery",
-    "employer_name": "Amazon",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery at Columbus, OH, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3117113/infrastructure-tpm-infra-capacity-delivery",
-    "job_posted_at": "2025-10-28T22:16:45.287Z",
-    "job_posted_at_datetime_utc": "2025-10-28T22:16:45.287Z",
-    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-columbus"
+    "employer_name": "Arm",
+    "job_title": "Firmware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Firmware Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-firmware-engineer/33099/66771329040",
+    "id": "arm-firmware-engineer-austin"
   }
 ]
