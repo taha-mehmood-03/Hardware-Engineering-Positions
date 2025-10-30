@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Energy Lease Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Energy Lease Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903739/Energy-Lease-Program-Manager",
+    "id": "microsoft-energy-lease-program-manager-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Experienced Software Engineer - Vulkan GPU Driver",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced Software Engineer - Vulkan GPU Driver at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-software-engineer-vulkan-gpu-driver/33099/81328791840",
+    "id": "arm-experienced-software-engineer-vulkan-gpu-driver-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal SOC Power Lead",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal SOC Power Lead at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-principal-soc-power-lead/33099/87859297888",
+    "id": "arm-principal-soc-power-lead-bengaluru"
+  }
+]
