@@ -1,122 +1,72 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Thermal/Mechanical Engineer (Platforms)",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "IBM",
+    "job_title": "Intern: Hardware Developer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Thermal/Mechanical Engineer (Platforms) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-thermal-mechanical-engineer-platforms/33099/87260512096",
-    "id": "arm-thermal-mechanical-engineer-platforms-bengaluru"
+    "job_description": "Hardware Engineering job for the role Intern: Hardware Developer at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68004&source=WEB_Search_NA",
+    "id": "ibm-intern-hardware-developer-poughkeepsie"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff PCB Layout Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "IBM",
+    "job_title": "Entry Level: Hardware Developer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff PCB Layout Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-pcb-layout-engineer/33099/87260512128",
-    "id": "arm-senior-staff-pcb-layout-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Entry Level: Hardware Developer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68500&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-poughkeepsie"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Building the Future with a 10x Mindset",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Building the Future with a 10x Mindset at ",
-    "job_apply_link": "https://careers.arm.com/10x-mindset",
-    "id": "arm-building-the-future-with-a-10x-mindset-multiple"
+    "job_description": "Hardware Engineering job for the role Senior Support Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70654&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Apprenticeships at Arm | You X Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Content Professional",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Apprenticeships at Arm | You X Arm at ",
-    "job_apply_link": "https://careers.arm.com/apprenticeships",
-    "id": "arm-apprenticeships-at-arm-you-x-arm-multiple"
+    "job_description": "Hardware Engineering job for the role Entry Level Technical Content Professional at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70678&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-content-professional-poughkeepsie"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Sharbani Roy is building the future of AI at Arm Seattle",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Systems Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sharbani Roy is building the future of AI at Arm Seattle at ",
-    "job_apply_link": "https://careers.arm.com/sharbani-roy-on-the-future-of-ai",
-    "id": "arm-sharbani-roy-is-building-the-future-of-ai-at-arm-seattle-multiple"
+    "job_description": "Hardware Engineering job for the role Systems Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70068&source=WEB_Search_NA",
+    "id": "ibm-systems-engineer-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "From Music to Microchips: A Graduate Engineer’s Journey at Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Systems Integration Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role From Music to Microchips: A Graduate Engineer’s Journey at Arm at ",
-    "job_apply_link": "https://careers.arm.com/exploring-a-career-in-tech-tora",
-    "id": "arm-from-music-to-microchips-a-graduate-engineer-s-journey-at-arm-multiple"
+    "job_description": "Hardware Engineering job for the role Systems Integration Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68854&source=WEB_Search_NA",
+    "id": "ibm-systems-integration-engineer-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate & Intern Opportunities in Galway",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Maximo Database Administrator",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate & Intern Opportunities in Galway at ",
-    "job_apply_link": "https://careers.arm.com/arm-ireland",
-    "id": "arm-graduate-intern-opportunities-in-galway-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineering Change: Building Inclusive Innovation at Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineering Change: Building Inclusive Innovation at Arm at ",
-    "job_apply_link": "https://careers.arm.com/engineering-change-with-susan-graham",
-    "id": "arm-engineering-change-building-inclusive-innovation-at-arm-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Championing LGBTQ+ Inclusion at Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Championing LGBTQ+ Inclusion at Arm at ",
-    "job_apply_link": "https://careers.arm.com/pride-at-arm",
-    "id": "arm-championing-lgbtq-inclusion-at-arm-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Meet Embla: GPU Software Engineer at Arm Norway",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Meet Embla: GPU Software Engineer at Arm Norway at ",
-    "job_apply_link": "https://careers.arm.com/embla-arm-norway",
-    "id": "arm-meet-embla-gpu-software-engineer-at-arm-norway-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Careers at Arm Hungary: What It’s Like to Work Here",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Careers at Arm Hungary: What It’s Like to Work Here at ",
-    "job_apply_link": "https://careers.arm.com/arm-hungary-office",
-    "id": "arm-careers-at-arm-hungary-what-it-s-like-to-work-here-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Insights from the Arm and The Aston Martin Aramco Formula One®  Team's International Women’s Day event",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Insights from the Arm and The Aston Martin Aramco Formula One®  Team's International Women’s Day event at ",
-    "job_apply_link": "https://careers.arm.com/iwd-aston-martin-and-arm",
-    "id": "arm-insights-from-the-arm-and-the-aston-martin-aramco-formula-one-team-s-international-women-s-day-event-multiple"
+    "job_description": "Hardware Engineering job for the role Maximo Database Administrator at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70327&source=WEB_Search_NA",
+    "id": "ibm-maximo-database-administrator-multiple-cities"
   }
 ]
