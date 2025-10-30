@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Networking",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "7h ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Networking at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219143-engineering-manager-networking",
+    "id": "aijobs-engineering-manager-networking-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Program Manager",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1min ago",
+    "job_description": "hardware engineering job for the role Security Program Manager at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219142-security-program-manager",
+    "id": "aijobs-security-program-manager-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, ChatGPT for Work",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Manager, ChatGPT for Work at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219140-product-manager-chatgpt-for-work",
+    "id": "aijobs-product-manager-chatgpt-for-work-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Robotics Software Engineer - Build and Developer Experience",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Robotics Software Engineer - Build and Developer Experience at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/169197388-robotics-software-engineer-build-and-developer-experience",
+    "id": "aijobs-robotics-software-engineer-build-and-developer-experience-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Engineer, Startups",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Solutions Engineer, Startups at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219150-solutions-engineer-startups",
+    "id": "aijobs-solutions-engineer-startups-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Profiling Services",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Profiling Services at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/169197394-senior-software-engineer-profiling-services",
+    "id": "aijobs-software-engineer-profiling-services-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Operations, Transactions Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Business Operations, Transactions Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219148-business-operations-transactions-lead",
+    "id": "aijobs-business-operations-transactions-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of U.S. State Policy and Partnerships",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Head of U.S. State Policy and Partnerships at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169219151-head-of-u-s-state-policy-and-partnerships",
+    "id": "aijobs-head-of-u-s-state-policy-and-partnerships-united-states"
+  }
+]
