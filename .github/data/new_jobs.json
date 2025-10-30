@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Application Security Engineer",
-    "job_city": "WA",
-    "job_state": "Seattle",
-    "job_posted_at": "45min ago",
-    "job_description": "hardware engineering job for the role Application Security Engineer at Seattle, WA",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585767-application-security-engineer",
-    "id": "aijobs-application-security-engineer-wa"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Application Security Engineer",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "45min ago",
-    "job_description": "hardware engineering job for the role Application Security Engineer at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585714-application-security-engineer",
-    "id": "aijobs-application-security-engineer-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Application Security Engineer",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "45min ago",
-    "job_description": "hardware engineering job for the role Application Security Engineer at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585715-application-security-engineer",
-    "id": "aijobs-application-security-engineer-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Application Security Engineer",
-    "job_city": "D.C.",
-    "job_state": "Washington",
-    "job_posted_at": "45min ago",
-    "job_description": "hardware engineering job for the role Application Security Engineer at Washington, D.C.",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585680-application-security-engineer",
-    "id": "aijobs-application-security-engineer-d-c"
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Career Accelerator Program - Test Engineer (DLP - Mechanical Engineering)",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Career Accelerator Program - Test Engineer (DLP - Mechanical Engineering) at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007751/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-career-accelerator-program-test-engineer-dlp-mechanical-engineering-"
   },
   {
     "employer_name": "AiJobs",
     "job_title": "Software Engineer, Substrate",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "44min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Substrate at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585843-senior-software-engineer-substrate",
-    "id": "aijobs-software-engineer-substrate-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Substrate",
-    "job_city": "WA",
-    "job_state": "Seattle",
-    "job_posted_at": "44min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Substrate at Seattle, WA",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585844-senior-software-engineer-substrate",
-    "id": "aijobs-software-engineer-substrate-wa"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mixed Reality Developer",
     "job_city": "D.C.",
     "job_state": "Washington",
-    "job_posted_at": "44min ago",
-    "job_description": "hardware engineering job for the role Mixed Reality Developer at Washington, D.C.",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585814-mixed-reality-developer",
-    "id": "aijobs-mixed-reality-developer-d-c"
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Substrate at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585841-senior-software-engineer-substrate",
+    "id": "aijobs-software-engineer-substrate-d-c"
   }
 ]
