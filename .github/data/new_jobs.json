@@ -1,22 +1,82 @@
 [
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Career Accelerator Program - Test Engineer (DLP - Mechanical Engineering)",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "Arm",
+    "job_title": "Engineering IP Governance Operations Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Career Accelerator Program - Test Engineer (DLP - Mechanical Engineering) at United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007751/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-test-engineer-dlp-mechanical-engineering-"
+    "job_description": "Hardware Engineering job for the role Engineering IP Governance Operations Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/engineering-ip-governance-operations-manager/33099/87521064400",
+    "id": "arm-engineering-ip-governance-operations-manager-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Package Development, Signal Integrity and Power Integrity Engineer, Distinguished",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Package Development, Signal Integrity and Power Integrity Engineer, Distinguished at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Package-Development--Signal-Integrity-and-Power-Integrity-Engineer--Distinguished_2503328?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-package-development-signal-integrity-and-power-integrity-engineer-distinguished-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Substrate",
-    "job_city": "D.C.",
-    "job_state": "Washington",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Substrate at Washington, D.C.",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585841-senior-software-engineer-substrate",
-    "id": "aijobs-software-engineer-substrate-d-c"
+    "job_title": "Android Framework Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "6d ago",
+    "job_description": "hardware engineering job for the role Android Framework Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169923996-android-framework-engineer",
+    "id": "aijobs-android-framework-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "RF Design Engineer",
+    "job_city": "United States",
+    "job_state": "GA",
+    "job_posted_at": "44min ago",
+    "job_description": "hardware engineering job for the role RF Design Engineer at Atlanta, GA, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169924000-rf-design-engineer",
+    "id": "aijobs-rf-design-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer lll, Backend API",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "3d ago",
+    "job_description": "hardware engineering job for the role Software Engineer lll, Backend API at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169923991-software-engineer-lll-backend-api",
+    "id": "aijobs-software-engineer-lll-backend-api-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Data Pipeline",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "44min ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Data Pipeline at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169923995-senior-software-engineer-data-pipeline",
+    "id": "aijobs-software-engineer-data-pipeline-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Video Streaming",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "44min ago",
+    "job_description": "hardware engineering job for the role Staff Software Engineer, Video Streaming at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169924007-staff-software-engineer-video-streaming",
+    "id": "aijobs-software-engineer-video-streaming-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer III, Fullstack",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "44min ago",
+    "job_description": "hardware engineering job for the role Software Engineer III, Fullstack at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169923993-software-engineer-iii-fullstack",
+    "id": "aijobs-software-engineer-iii-fullstack-unknown"
   }
 ]
