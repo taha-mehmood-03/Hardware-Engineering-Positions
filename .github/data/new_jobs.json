@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Associate Engineer, Systems Design/Architecture Engineering",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "Arm",
+    "job_title": "Technology Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/technology-manager/33099/87840975728",
+    "id": "arm-technology-manager-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Intern - Master's Degree",
+    "job_city": "Morrisville",
+    "job_state": "NC",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Associate Engineer, Systems Design/Architecture Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Engineer--Systems-Design-Architecture-Engineering_R256011?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-associate-engineer-systems-design-architecture-engineering-us"
+    "job_description": "hardware engineering job for the role Design Verification Intern - Master's Degree at Morrisville, NC",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Design-Verification-Intern---Master-s-Degree_2502775-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-intern-master-s-degree-morrisville"
   }
 ]
