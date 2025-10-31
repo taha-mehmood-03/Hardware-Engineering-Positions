@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Hardware Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer (Quantum Device Yield and Characterization)",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Hardware Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/graduate-hardware-engineer/33099/87907108688",
-    "id": "arm-graduate-hardware-engineer-manchester"
+    "job_description": "Hardware Engineering job for the role Hardware Developer (Quantum Device Yield and Characterization) at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69626&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-quantum-device-yield-and-characterization-yorktown-heights"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Software Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-software-engineer/33099/87907108672",
-    "id": "arm-graduate-software-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Entry Level Product Manager 2026 at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59348&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Archive SME",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Archive SME at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68644&source=WEB_Search_NA",
+    "id": "ibm-archive-sme-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Program Director",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Program Director at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70703&source=WEB_Search_NA",
+    "id": "ibm-technology-program-director-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mainframe System Administrator Apprentice",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Mainframe System Administrator Apprentice at Entry LevelDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70047&source=WEB_Search_NA",
+    "id": "ibm-mainframe-system-administrator-apprentice-dallas"
   }
 ]
