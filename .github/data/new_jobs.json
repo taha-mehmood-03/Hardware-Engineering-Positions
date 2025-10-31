@@ -1,92 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "US Government Contract & Compliance Attorney",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role US Government Contract & Compliance Attorney at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney",
-    "id": "abb-us-government-contract-compliance-attorney-multiple"
+    "employer_name": "Arm",
+    "job_title": "Manager, Product Marketing Infrastructure",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Product Marketing Infrastructure at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-product-marketing-infrastructure/33099/81809909920",
+    "id": "arm-manager-product-marketing-infrastructure-san-jose"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Protection & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Protection & Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011026/Protection-Control-Engineer",
-    "id": "abb-protection-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Amazon National Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Amazon National Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011382/Amazon-National-Account-Manager",
-    "id": "abb-amazon-national-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sr. Project Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
-    "id": "abb-sr-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Segment Manager - Datacenter",
-    "job_city": "Remote",
-    "job_state": "Maryland",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "hardware engineering job for the role Service Segment Manager - Datacenter at Remote, Maryland, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010874/Service-Segment-Manager-Datacenter",
-    "id": "abb-service-segment-manager-datacenter-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Contractor Account Manager - North",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Contractor Account Manager - North at Available in one of 19 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012578/Strategic-Contractor-Account-Manager-North",
-    "id": "abb-strategic-contractor-account-manager-north-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "Maryland",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Resident Field Service Technician at Remote, Maryland, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012110/Associate-Resident-Field-Service-Technician",
-    "id": "abb-associate-resident-field-service-technician-remote"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer---Time-Series---Sensor-Reasoning-Models--Lorenz-Labs-_R257762?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-time-series-sensor-reasoning-models-lorenz-labs-2-locations"
   }
 ]
