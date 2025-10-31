@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer, ID1 RAM Hardware",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Engineer, ID1 RAM Hardware at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38690548",
-    "id": "micron-engineer-id1-ram-hardware-boise"
+    "employer_name": "Arm",
+    "job_title": "Board Power Architect",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Board Power Architect at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-board-power-architect/33099/87878769552",
+    "id": "arm-board-power-architect-chandler"
   }
 ]
