@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal SOC Power Lead",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Software Architect for watsonx AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal SOC Power Lead at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-soc-power-lead/33099/87916443584",
-    "id": "arm-principal-soc-power-lead-austin"
+    "job_description": "Hardware Engineering job for the role Software Architect for watsonx AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71007&source=WEB_Search_NA",
+    "id": "ibm-software-architect-for-watsonx-ai-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Signoff Methodology Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Oracle HCM Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Signoff Methodology Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-signoff-methodology-engineer/33099/87916450576",
-    "id": "arm-signoff-methodology-engineer-san-diego"
+    "job_description": "Hardware Engineering job for the role Oracle HCM Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69556&source=WEB_Search_NA",
+    "id": "ibm-oracle-hcm-architect-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "5G/Network Performance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 5G/Network Performance Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/5g-network-performance-engineer/33099/87916449264",
-    "id": "arm-5g-network-performance-engineer-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Mechanical Engineer, Robot Head",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Robot Head at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/171233738-mechanical-engineer-robot-head",
+    "id": "aijobs-mechanical-engineer-robot-head-us"
   }
 ]
