@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Manufacturing Engineer, Hardware Engineering Services - Manufacturing",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Manufacturing Engineer, Hardware Engineering Services - Manufacturing at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3119592/manufacturing-engineer-hardware-engineering-services-manufacturing",
+    "job_posted_at": "2025-10-31T22:24:15.890Z",
+    "job_posted_at_datetime_utc": "2025-10-31T22:24:15.890Z",
+    "id": "amazon-manufacturing-engineer-hardware-engineering-services-manufacturing-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Developer: Hardware Engineer",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Developer: Hardware Engineer at Entry LevelHouston, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71012&source=WEB_Search_NA",
+    "id": "ibm-developer-hardware-engineer-houston"
+  }
+]
