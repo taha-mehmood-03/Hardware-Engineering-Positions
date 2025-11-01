@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, IP and CSS Products",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, IP and CSS Products at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-director-ip-and-css-products/33099/87789072608",
-    "id": "arm-director-ip-and-css-products-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Hardware",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Hardware at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246023-software-engineer-hardware",
+    "id": "aijobs-software-engineer-hardware-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Quality Engineer – Rack Infrastructure",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer – Rack Infrastructure at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246022-manufacturing-quality-engineer-rack-infrastructure",
+    "id": "aijobs-manufacturing-quality-engineer-rack-infrastructure-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Support Systems Architect",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Support Systems Architect at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246025-support-systems-architect",
+    "id": "aijobs-support-systems-architect-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Ecosystem",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Manager, Ecosystem at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246019-product-manager-ecosystem",
+    "id": "aijobs-product-manager-ecosystem-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Technical Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manufacturing Technical Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246021-manufacturing-technical-program-manager",
+    "id": "aijobs-manufacturing-technical-program-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategy & Operations, Support",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategy & Operations, Support at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246026-strategy-operations-support",
+    "id": "aijobs-strategy-operations-support-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Account Director, International Expansion",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "53min ago",
+    "job_description": "hardware engineering job for the role Account Director, International Expansion at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/171246027-account-director-international-expansion",
+    "id": "aijobs-account-director-international-expansion-united-states"
   }
 ]
