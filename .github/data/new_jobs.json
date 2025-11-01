@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal SOC Power Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal SOC Power Lead at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-soc-power-lead/33099/87916443584",
+    "id": "arm-principal-soc-power-lead-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Signoff Methodology Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Signoff Methodology Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-signoff-methodology-engineer/33099/87916450576",
+    "id": "arm-signoff-methodology-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "5G/Network Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 5G/Network Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/5g-network-performance-engineer/33099/87916449264",
+    "id": "arm-5g-network-performance-engineer-austin"
+  }
+]
