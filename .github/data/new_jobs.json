@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Software Engineer, LLM Inference Performance Analysis",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Senior AI Software Engineer, LLM Inference Performance Analysis at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617191-senior-ai-software-engineer-llm-inference-performance-analysis",
+    "id": "aijobs-ai-software-engineer-llm-inference-performance-analysis-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantum Engineer - HPC Systems",
+    "job_city": "Westford",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Senior Quantum Engineer - HPC Systems at US, MA, Westford",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617195-senior-quantum-engineer-hpc-systems",
+    "id": "aijobs-quantum-engineer-hpc-systems-westford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Architect - Product Performance and Power",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Principal Hardware Architect - Product Performance and Power at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617200-principal-hardware-architect-product-performance-and-power",
+    "id": "aijobs-hardware-architect-product-performance-and-power-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Large Language Model Inference",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Manager, Large Language Model Inference at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617199-manager-large-language-model-inference",
+    "id": "aijobs-manager-large-language-model-inference-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SoC Product Architect, NVL Fusion and Semi-Custom Silicon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role SoC Product Architect, NVL Fusion and Semi-Custom Silicon at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617201-soc-product-architect-nvl-fusion-and-semi-custom-silicon",
+    "id": "aijobs-soc-product-architect-nvl-fusion-and-semi-custom-silicon-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Dev Ops Engineer",
+    "job_city": "Westford",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Senior HPC Dev Ops Engineer at US, MA, Westford",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617189-senior-hpc-dev-ops-engineer",
+    "id": "aijobs-hpc-dev-ops-engineer-westford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Infrastructure Engineer, DGXC Lepton",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role AI Infrastructure Engineer, DGXC Lepton at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617193-ai-infrastructure-engineer-dgxc-lepton",
+    "id": "aijobs-ai-infrastructure-engineer-dgxc-lepton-santa-clara"
+  }
+]
