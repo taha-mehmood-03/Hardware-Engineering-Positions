@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Packaging SI/PI Engineer Intern - Bachelor's Degree",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Advanced Packaging SI/PI Engineer Intern - Bachelor's Degree at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Advanced-Packaging-SI-PI-Engineer-Intern_2502685-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-packaging-si-pi-engineer-intern-bachelor-s-degree-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Computer Engineer for Validation Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Computer Engineer for Validation Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Computer-Engineer-for-Validation-Intern---Bachelors-Degree_2502726-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-computer-engineer-for-validation-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Electrical Engineer for Hardware Design & Validation Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Electrical Engineer for Hardware Design & Validation Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Electrical-Engineer-for-Hardware-Design---Validation-Intern---Bachelors-Degree_2502727-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-electrical-engineer-for-hardware-design-validation-intern-bachelor-s-degree-santa-clara"
+  }
+]
