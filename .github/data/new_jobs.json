@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "DC Infra Eng II - AMZ9085052",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9085052 at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114337/dc-infra-eng-ii-amz9085052",
+    "job_posted_at": "2025-11-03T11:16:50.572Z",
+    "job_posted_at_datetime_utc": "2025-11-03T11:16:50.572Z",
+    "id": "amazon-dc-infra-eng-ii-amz9085052-herndon"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer, Shift Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 20 days ago",
+    "job_description": "hardware engineering job for the role Engineer, Shift Equipment at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30425005",
+    "id": "micron-engineer-shift-equipment-boise"
+  }
+]
