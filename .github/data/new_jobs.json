@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 Photolithography Equipment Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role ID1 Photolithography Equipment Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38698808",
-    "id": "micron-id1-photolithography-equipment-manager-boise"
+    "employer_name": "Arm",
+    "job_title": "Solutions Engineer (Linux/Embedded Systems)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Solutions Engineer (Linux/Embedded Systems) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/solutions-engineer-linux-embedded-systems/33099/86236625600",
+    "id": "arm-solutions-engineer-linux-embedded-systems-cambridge"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 Photolithography Process Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role ID1 Photolithography Process Manager at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/38698807",
-    "id": "micron-id1-photolithography-process-manager-boise"
+    "employer_name": "Arm",
+    "job_title": "Technology Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Technology Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-technology-manager/33099/88015187152",
+    "id": "arm-technology-manager-cambridge"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "19h ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/172165187-senior-technical-program-manager",
+    "id": "aijobs-technical-program-manager-unknown"
   }
 ]
