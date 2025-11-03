@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Release Automation Engineer (Linux)",
+    "job_title": "Staff/Principal Software Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Release Automation Engineer (Linux) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-release-automation-engineer-linux/33099/84984916608",
-    "id": "arm-release-automation-engineer-linux-cambridge"
+    "job_description": "Hardware Engineering job for the role Staff/Principal Software Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-principal-software-engineer/33099/77726588832",
+    "id": "arm-staff-principal-software-engineer-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Soc Architect",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "job_title": "SoC Verification Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Soc Architect at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/soc-architect/33099/87889679920",
-    "id": "arm-soc-architect-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role SoC Verification Engineer at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/soc-verification-engineer/33099/87780420736",
+    "id": "arm-soc-verification-engineer-manchester"
   }
 ]
