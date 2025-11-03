@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Manufacturing Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Intern - Manufacturing Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38716264",
-    "id": "micron-intern-manufacturing-engineer-boise"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Entry Level: Hardware Test Technician",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level: Hardware Test Technician at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67970&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-test-technician-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Supply Chain Engineering Professional",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Supply Chain Engineering Professional 2026 at Entry LevelRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70700&source=WEB_Search_NA",
-    "id": "ibm-entry-level-supply-chain-engineering-professional-research-triangle-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level: Data Scientist: Advanced Analytics",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level: Data Scientist: Advanced Analytics at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67996&source=WEB_Search_NA",
-    "id": "ibm-entry-level-data-scientist-advanced-analytics-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Project Manager Lead",
+    "job_title": "VADAR Archive SME",
     "job_city": "San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Project Manager Lead at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68632&source=WEB_Search_NA",
-    "id": "ibm-project-manager-lead-san-francisco"
+    "job_description": "Hardware Engineering job for the role Senior VADAR Archive SME at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68642&source=WEB_Search_NA",
+    "id": "ibm-vadar-archive-sme-san-francisco"
   },
   {
     "employer_name": "IBM",
-    "job_title": "IT Lab Tech Apprentice",
-    "job_city": "TUCSON",
+    "job_title": "VADAR Decommissioning & Compliance Support",
+    "job_city": "San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IT Lab Tech Apprentice at Entry LevelTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69163&source=WEB_Search_NA",
-    "id": "ibm-it-lab-tech-apprentice-tucson"
+    "job_description": "Hardware Engineering job for the role VADAR Decommissioning & Compliance Support at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68639&source=WEB_Search_NA",
+    "id": "ibm-vadar-decommissioning-compliance-support-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Systems Quality Assurance",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist - Systems Quality Assurance at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69979&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-systems-quality-assurance-poughkeepsie"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Design, Mixed-Signal Design",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Design, Mixed-Signal Design at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Design--Mixed-Signal-Design_2502617?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-design-mixed-signal-design-irvine"
   }
 ]
