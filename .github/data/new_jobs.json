@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Noida",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/staff-engineer/33099/88032989344",
+    "id": "arm-engineer-noida"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer-Verification",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer-Verification at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-verification/33099/88032985040",
+    "id": "arm-engineer-verification-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software TPM - Server Firmware and System Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manager, Software TPM - Server Firmware and System Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/172366976-manager-software-tpm-server-firmware-and-system-software",
+    "id": "aijobs-manager-software-tpm-server-firmware-and-system-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Systems Engineer - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Systems Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/172366972-senior-software-systems-engineer-autonomous-vehicles",
+    "id": "aijobs-software-systems-engineer-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SDET Engineer- Enterprise Server",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior SDET Engineer- Enterprise Server at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/172366969-senior-sdet-engineer-enterprise-server",
+    "id": "aijobs-sdet-engineer-enterprise-server-santa-clara"
+  }
+]
