@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Specialist Intern 2026 (Monroe, LA)",
-    "job_city": "MONROE",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Global IT Infrastructure and Operations Leader",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Specialist Intern 2026 (Monroe, LA) at InternshipMONROE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66519&source=WEB_Search_NA",
-    "id": "ibm-technical-specialist-intern-2026-monroe-la-monroe"
+    "job_description": "hardware engineering job for the role Global IT Infrastructure and Operations Leader at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007576/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-global-it-infrastructure-and-operations-leader-dallas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, User Operations",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Data Scientist, User Operations at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550498-data-scientist-user-operations",
+    "id": "aijobs-data-scientist-user-operations-us"
   }
 ]
