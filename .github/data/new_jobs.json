@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Design Engineer",
+    "job_city": "Bristol",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SoC Design Engineer at Bristol, United Kingdom, Manchester, United Kingdom, Cambridge, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/bristol/senior-soc-design-engineer/33099/84654857392",
+    "id": "arm-soc-design-engineer-bristol"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Security Architecture & SDL Process Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Security Architecture & SDL Process Lead at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-security-architecture-and-sdl-process-lead/33099/87532505168",
+    "id": "arm-soc-security-architecture-sdl-process-lead-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Test Technician",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Manufacturing Test Technician at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71041&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-test-technician-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "GenAI Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role GenAI Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71672&source=WEB_Search_NA",
+    "id": "ibm-genai-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Optimization Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Optimization Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71679&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-optimization-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Simulation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Data Scientist - Simulation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71677&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-simulation-multiple-cities"
+  }
+]
