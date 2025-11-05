@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Account Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014327/Account-Manager",
-    "id": "abb-account-manager-multiple"
+    "job_title": "Project Design Electrical Engineer, Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role Project Design Electrical Engineer, Fleet Remediation Engineering at Columbus, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121441/project-design-electrical-engineer-fleet-remediation-engineering",
+    "job_posted_at": "2025-11-05T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-05T00:00:00.000Z",
+    "id": "amazon-project-design-electrical-engineer-fleet-remediation-engineering-columbus"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Edge",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer - Edge at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/172754982-software-engineer-edge",
+    "id": "aijobs-software-engineer-edge-d-c"
   }
 ]
