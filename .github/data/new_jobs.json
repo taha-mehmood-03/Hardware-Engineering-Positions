@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Embedded Software",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Embedded Software at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Embedded-Software_R257680?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-embedded-software-us"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Test Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Test Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Test-Engineer_2503232?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-test-engineer-2-locations"
+    "employer_name": "IBM",
+    "job_title": "FICON Firmware Developer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role FICON Firmware Developer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70655&source=WEB_Search_NA",
+    "id": "ibm-ficon-firmware-developer-poughkeepsie"
   }
 ]
