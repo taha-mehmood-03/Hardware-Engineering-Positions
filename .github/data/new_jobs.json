@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Director GPU Hardware Engineering",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director GPU Hardware Engineering at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/director-gpu-hardware-engineering/33099/86167226688",
+    "id": "arm-director-gpu-hardware-engineering-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director, Learning & Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Learning & Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-learning-and-development/33099/88076531664",
+    "id": "arm-director-learning-development-san-jose"
+  }
+]
