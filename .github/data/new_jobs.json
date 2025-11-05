@@ -1,82 +1,52 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer Manager",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "11 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineer Manager, Full Stack, Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143181000698929862-software-engineer-manager-full-stack-platforms-and-devices?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-software-engineer-manager-kirkland"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Modeling Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Intern - Technical Writer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Modeling Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-modeling-engineer/33099/87025851888",
-    "id": "arm-modeling-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer-(High Speed IO)",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Verification Engineer-(High Speed IO) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-verification-engineer-high-speed-io/33099/87734056368",
-    "id": "arm-verification-engineer-high-speed-io-bengaluru"
+    "job_description": "Hardware Engineering job for the role Intern - Technical Writer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/intern-technical-writer/33099/87368004960",
+    "id": "arm-intern-technical-writer-cambridge"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "System Validation Engineer",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
+    "job_title": "Product Partnerships Lead, Ecosystem",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role System Validation Engineer at US, OR, Hillsboro",
-    "job_apply_link": "https://www.aijobs.com/jobs/172639848-system-validation-engineer",
-    "id": "aijobs-system-validation-engineer-hillsboro"
+    "job_description": "hardware engineering job for the role Product Partnerships Lead, Ecosystem at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/172641028-product-partnerships-lead-ecosystem",
+    "id": "aijobs-product-partnerships-lead-ecosystem-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Security for AI Services",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Copywriter/Creative Director, Marketing",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer - Security for AI Services at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172639839-senior-system-software-engineer-security-for-ai-services",
-    "id": "aijobs-system-software-engineer-security-for-ai-services-santa-clara"
+    "job_description": "hardware engineering job for the role Copywriter/Creative Director, Marketing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/172641033-copywriter-creative-director-marketing",
+    "id": "aijobs-copywriter-creative-director-marketing-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, DevOps - Server Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Program Manager, Human Data",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, DevOps - Server Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172639836-senior-software-engineer-devops-server-infrastructure",
-    "id": "aijobs-software-engineer-devops-server-infrastructure-santa-clara"
+    "job_description": "hardware engineering job for the role Program Manager, Human Data at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/172641027-program-manager-human-data",
+    "id": "aijobs-program-manager-human-data-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer – RTOS and Hypervisor",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Art Director/Creative Director, Marketing",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Systems Software Engineer – RTOS and Hypervisor at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172639842-senior-systems-software-engineer-rtos-and-hypervisor",
-    "id": "aijobs-systems-software-engineer-rtos-and-hypervisor-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Silicon Product Definition Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Silicon Product Definition Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172639844-senior-silicon-product-definition-engineer",
-    "id": "aijobs-silicon-product-definition-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Art Director/Creative Director, Marketing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/172641031-art-director-creative-director-marketing",
+    "id": "aijobs-art-director-creative-director-marketing-united-states"
   }
 ]
