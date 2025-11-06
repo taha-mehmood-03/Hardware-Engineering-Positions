@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Specialist Intern 2026 (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Specialist Intern 2026 (Baton Rouge, LA) at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66525&source=WEB_Search_NA",
+    "id": "ibm-technical-specialist-intern-2026-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Specialist Intern 2026 (Lansing, MI)",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Specialist Intern 2026 (Lansing, MI) at InternshipLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66526&source=WEB_Search_NA",
+    "id": "ibm-technical-specialist-intern-2026-lansing-mi-lansing"
+  }
+]
