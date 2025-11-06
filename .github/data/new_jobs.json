@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Data Centre Network Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Centre Network Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/data-centre-network-engineer/33099/87789072288",
-    "id": "arm-data-centre-network-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU Microarchitecture Modelling and Performance Analysis Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Microarchitecture Modelling and Performance Analysis Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-modelling-and-performance-analysis-intern/33099/87106675024",
-    "id": "arm-cpu-microarchitecture-modelling-and-performance-analysis-intern-sophia-antipolis"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Great Plains",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Business Development Manager - Great Plains at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014785/Business-Development-Manager-Great-Plains",
-    "id": "abb-business-development-manager-great-plains-multiple"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Career Accelerator Program - Control Systems Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Career Accelerator Program - Control Systems Engineer at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007806/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-control-systems-engineer-dallas"
+    "employer_name": "MARVELL",
+    "job_title": "Staff FPGA/Firmware Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff FPGA/Firmware Design Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-FPGA-Firmware-Design-Engineer_2503294?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-fpga-firmware-design-engineer-santa-clara"
   }
 ]
