@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "TPM Program Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role TPM Program Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38259088",
-    "id": "micron-tpm-program-manager-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "NPI Manager, Mobile & Client Business Unit",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role NPI Manager, Mobile & Client Business Unit at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38269858",
-    "id": "micron-npi-manager-mobile-client-business-unit-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "US Expansion Capital Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role US Expansion Capital Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38039038",
-    "id": "micron-us-expansion-capital-engineer-boise"
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning AI Engineer",
+    "job_city": "US",
+    "job_state": "MI",
+    "job_posted_at": "3h ago",
+    "job_description": "hardware engineering job for the role Machine Learning AI Engineer at Ann Arbor, MI, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169189269-machine-learning-ai-engineer",
+    "id": "aijobs-machine-learning-ai-engineer-us"
   }
 ]
