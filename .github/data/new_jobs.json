@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "IT Specialist",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IT Specialist at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71696&source=WEB_Search_NA",
-    "id": "ibm-it-specialist-armonk"
+    "employer_name": "Micron",
+    "job_title": "TPM Program Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role TPM Program Manager at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38259088",
+    "id": "micron-tpm-program-manager-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "NPI Manager, Mobile & Client Business Unit",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role NPI Manager, Mobile & Client Business Unit at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38269858",
+    "id": "micron-npi-manager-mobile-client-business-unit-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "US Expansion Capital Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role US Expansion Capital Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38039038",
+    "id": "micron-us-expansion-capital-engineer-boise"
   }
 ]
