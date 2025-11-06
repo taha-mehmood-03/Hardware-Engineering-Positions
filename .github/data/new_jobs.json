@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Staff-Site Reliability Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff-Site Reliability Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-site-reliability-engineer/33099/84406379248",
-    "id": "arm-staff-site-reliability-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Platform Validation Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Platform Validation Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/senior-platform-validation-engineer/33099/86845170432",
-    "id": "arm-platform-validation-engineer-taipei"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Software QA Test Development Engineer - Diagnostics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Product Manager, Safety Systems",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software QA Test Development Engineer - Diagnostics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/173109971-senior-software-qa-test-development-engineer-diagnostics",
-    "id": "aijobs-software-qa-test-development-engineer-diagnostics-santa-clara"
+    "job_description": "hardware engineering job for the role Product Manager, Safety Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/173111975-product-manager-safety-systems",
+    "id": "aijobs-product-manager-safety-systems-united-states"
   }
 ]
