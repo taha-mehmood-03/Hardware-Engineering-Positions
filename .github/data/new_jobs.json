@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Technical Writer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Hardware Test Lead",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Technical Writer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-technical-writer/33099/88127716672",
-    "id": "arm-graduate-technical-writer-cambridge"
+    "job_description": "Hardware Engineering job for the role Hardware Test Lead at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63652&source=WEB_Search_NA",
+    "id": "ibm-hardware-test-lead-austin"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Digital IC design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Digital IC design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Digital-IC-design-Engineer_2503246?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-digital-ic-design-engineer-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud Senior managing consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud Senior managing consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67050&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-senior-managing-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Salesforce Solution Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Salesforce Solution Engineer at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70335&source=WEB_Search_NA",
+    "id": "ibm-salesforce-solution-engineer-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 Austin",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Co-Op 2026 Austin at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71664&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-austin-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 Lowell",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Co-Op 2026 Lowell at InternshipLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71666&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 SVL",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Co-Op 2026 SVL at InternshipSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71639&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-svl-san-jose"
   }
 ]
