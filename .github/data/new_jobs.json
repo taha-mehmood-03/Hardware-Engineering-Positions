@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Experienced Verification Engineer - (AI/ML)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Experienced Verification Engineer - (AI/ML) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/experienced-verification-engineer-ai-ml/33099/69202964112",
-    "id": "arm-experienced-verification-engineer-ai-ml-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Principle  Verification Engineer-(server/client AI-SoC)",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principle  Verification Engineer-(server/client AI-SoC) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principle-verification-engineer-server-client-ai-soc/33099/87521067152",
-    "id": "arm-principle-verification-engineer-server-client-ai-soc-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Incident Management Lead",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Incident Management Lead at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/incident-management-lead/33099/88151531744",
-    "id": "arm-incident-management-lead-bengaluru"
+    "job_title": "Amazon Robotics - Hardware Engineer Intern - Summer 2026",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Amazon Robotics - Hardware Engineer Intern - Summer 2026 at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3122658/amazon-robotics-hardware-engineer-intern-summer-2026",
+    "job_posted_at": "2025-11-07T01:27:22.037Z",
+    "job_posted_at_datetime_utc": "2025-11-07T01:27:22.037Z",
+    "id": "amazon-amazon-robotics-hardware-engineer-intern-summer-2026-north-reading"
   }
 ]
