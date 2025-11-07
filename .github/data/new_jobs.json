@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate ML Software Engineer",
-    "job_city": "Lund",
-    "job_state": "Sweden",
+    "employer_name": "IBM",
+    "job_title": "Quantum Security Lead",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate ML Software Engineer at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/88144970096",
-    "id": "arm-graduate-ml-software-engineer-lund"
+    "job_description": "Hardware Engineering job for the role Quantum Security Lead at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71338&source=WEB_Search_NA",
+    "id": "ibm-quantum-security-lead-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Printed Circuit Board Technician Apprentice",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Printed Circuit Board Technician Apprentice at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72326&source=WEB_Search_NA",
+    "id": "ibm-printed-circuit-board-technician-apprentice-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Business Systems Analyst",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Business Systems Analyst I at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63674&source=WEB_Search_NA",
+    "id": "ibm-sr-business-systems-analyst-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cybersecurity Analyst - SOC",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Cybersecurity Analyst - SOC at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71999&source=WEB_Search_NA",
+    "id": "ibm-cybersecurity-analyst-soc-multiple-cities"
   }
 ]
