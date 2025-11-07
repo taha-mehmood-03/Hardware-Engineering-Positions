@@ -1,42 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Software Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Graduate ML Software Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-architect/33099/88163615488",
-    "id": "arm-software-architect-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "FYE26 US Graduate Network Performance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role FYE26 US Graduate Network Performance Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/fye26-us-graduate-network-performance-engineer/33099/87916449264",
-    "id": "arm-fye26-us-graduate-network-performance-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Hardware Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Hardware Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-hardware-engineer/33099/87104824816",
-    "id": "arm-hardware-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "AI Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior AI Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-ai-engineer/33099/88163283520",
-    "id": "arm-ai-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Graduate ML Software Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/88144970096",
+    "id": "arm-graduate-ml-software-engineer-lund"
   }
 ]
