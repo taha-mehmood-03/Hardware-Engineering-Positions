@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior FPGA Design Engineer",
-    "job_city": "Goleta",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer(UVM/C based Test flows)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "19 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior FPGA Design Engineer, Quantum AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87872722553447110-senior-fpga-design-engineer-quantum-ai?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-fpga-design-engineer-goleta"
+    "job_description": "Hardware Engineering job for the role Staff Verification Engineer(UVM/C based Test flows) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-verification-engineer-uvm-c-based-test-flows/33099/87521068208",
+    "id": "arm-verification-engineer-uvm-c-based-test-flows-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "NAM Campus Recruiter",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role NAM Campus Recruiter at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/nam-campus-recruiter/33099/80452303984",
+    "id": "arm-nam-campus-recruiter-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Operations Manager, Vendor Management",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Operations Manager, Vendor Management at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/operations-manager-vendor-management/33099/72932452352",
+    "id": "arm-operations-manager-vendor-management-austin"
   }
 ]
