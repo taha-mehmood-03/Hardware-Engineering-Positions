@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Director Professional Services - Americas",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director Professional Services - Americas at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70337&source=WEB_Search_NA",
-    "id": "ibm-director-professional-services-americas-multiple-cities"
+    "job_title": "Cloud Hardware Development Engineer, Hardware Engineering Services",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, Hardware Engineering Services at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3122907/cloud-hardware-development-engineer-hardware-engineering-services",
+    "job_posted_at": "2025-11-07T13:19:33.166Z",
+    "job_posted_at_datetime_utc": "2025-11-07T13:19:33.166Z",
+    "id": "amazon-cloud-hardware-development-engineer-hardware-engineering-services-seattle"
   }
 ]
