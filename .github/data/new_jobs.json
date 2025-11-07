@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Software Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-software-engineer/33099/88144979696",
+    "id": "arm-graduate-software-engineer-lund"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer – System Test DirectX (GPU)",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Software Engineer – System Test DirectX (GPU) at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-software-engineer-system-test-directx-gpu/33099/88144979632",
+    "id": "arm-graduate-software-engineer-system-test-directx-gpu-lund"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Hardware Architect",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate GPU Hardware Architect at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-gpu-hardware-architect/33099/88144979600",
+    "id": "arm-graduate-gpu-hardware-architect-lund"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Implementation Engineer - Systems",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Implementation Engineer - Systems at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-systems/33099/88144979408",
+    "id": "arm-graduate-implementation-engineer-systems-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer - DL and AI Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Principal Engineer - DL and AI Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/173780182-principal-engineer-dl-and-ai-software",
+    "id": "aijobs-engineer-dl-and-ai-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Signal Processing Software AI Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Signal Processing Software AI Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/173780187-signal-processing-software-ai-architect",
+    "id": "aijobs-signal-processing-software-ai-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, AI Data Center Operations",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director, AI Data Center Operations at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/173780184-director-ai-data-center-operations",
+    "id": "aijobs-director-ai-data-center-operations-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Forward Deployed Engineering",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1w ago",
+    "job_description": "hardware engineering job for the role Manager, Forward Deployed Engineering at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/173784266-manager-forward-deployed-engineering",
+    "id": "aijobs-manager-forward-deployed-engineering-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Engineer - Financial Services",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "8h ago",
+    "job_description": "hardware engineering job for the role Forward Deployed Engineer - Financial Services at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/173784265-forward-deployed-engineer-financial-services",
+    "id": "aijobs-forward-deployed-engineer-financial-services-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Global Candidate Experience Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Global Candidate Experience Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/173784268-global-candidate-experience-manager",
+    "id": "aijobs-global-candidate-experience-manager-united-states"
+  }
+]
