@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Global Leadership Development",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Global Leadership Development at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-of-global-leadership-development/33099/83959009936",
+    "id": "arm-director-of-global-leadership-development-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Global Leadership Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Global Leadership Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-global-leadership-development/33099/88076531664",
+    "id": "arm-director-of-global-leadership-development-san-jose"
+  }
+]
