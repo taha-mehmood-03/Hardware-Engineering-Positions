@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Principal GPU Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "BMC Firmware Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal GPU Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-gpu-architect/33099/88163615488",
-    "id": "arm-principal-gpu-architect-cambridge"
+    "job_description": "Hardware Engineering job for the role Principal BMC Firmware Design Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-bmc-firmware-design-engineer/33099/87532502544",
+    "id": "arm-bmc-firmware-design-engineer-san-jose"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director of Product Management AI System Management and Security",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Director of Product Management AI System Management and Security at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-of-Product-Management-AI-System-Management-and-Security_2503353?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-of-product-management-ai-system-management-and-security-santa-clara"
   }
 ]
