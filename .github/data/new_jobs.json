@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Ecosystem Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Ecosystem Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72050&source=WEB_Search_NA",
-    "id": "ibm-entry-level-ecosystem-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solutions Architecture Specialist",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Solutions Architecture Specialist at ProfessionalTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72665&source=WEB_Search_NA",
-    "id": "ibm-solutions-architecture-specialist-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry-Level Technical Writer – AI & Open Source",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry-Level Technical Writer – AI & Open Source at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71798&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-writer-ai-open-source-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Writer Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Writer Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72644&source=WEB_Search_NA",
-    "id": "ibm-technical-writer-intern-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Senior Service Engineer",
-    "job_city": "Des Moines",
-    "job_state": "Iowa",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Senior Service Engineer at Des Moines, Iowa, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/95554369/Senior-Service-Engineer",
-    "id": "abb-senior-service-engineer-des-moines"
+    "job_title": "Project Manager",
+    "job_city": "Mechanicsville",
+    "job_state": "Virginia",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Project Manager at Mechanicsville, Virginia, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013537/Project-Manager",
+    "id": "abb-project-manager-mechanicsville"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Mixed Signal Design Intern",
-    "job_city": "3 Locations",
-    "job_state": "",
+    "job_title": "Embedded SW Engineer – Medical Devices",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Mixed Signal Design Intern at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Mixed-Signal-Design-Intern_R255002?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mixed-signal-design-intern-3-locations"
+    "job_description": "hardware engineering job for the role Senior Embedded SW Engineer – Medical Devices at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Embedded-Software_R257680?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-sw-engineer-medical-devices-us"
   }
 ]
