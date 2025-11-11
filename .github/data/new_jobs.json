@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Solutions Engineer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72675&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern 2026: SVL",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern 2026: SVL at InternshipSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72366&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2026-svl-san-jose"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Hardware Systems & Silicon Validation",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Hardware Systems & Silicon Validation at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Engineer--Hardware-Systems---Silicon-Validation_2503253?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-hardware-systems-silicon-validation-irvine"
+  }
+]
