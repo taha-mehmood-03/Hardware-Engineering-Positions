@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "XR Camera Image Quality Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "29 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: XR Camera Image Quality Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90399009432052422-xr-camera-image-quality-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-xr-camera-image-quality-engineer-mountain-view"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Engineer, Optics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer, Optics at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Engineer--Optics_2503371?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-engineer-optics-santa-clara"
+    "job_title": "Software Dev Engineer, Antenna Calibration, Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Dev Engineer, Antenna Calibration, Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124596/software-dev-engineer-antenna-calibration-kuiper",
+    "job_posted_at": "2025-11-11T17:26:26.902Z",
+    "job_posted_at_datetime_utc": "2025-11-11T17:26:26.902Z",
+    "id": "amazon-software-dev-engineer-antenna-calibration-kuiper-redmond"
   }
 ]
