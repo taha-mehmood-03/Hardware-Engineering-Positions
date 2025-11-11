@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Service Assurance Specialist​",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Service Assurance Specialist​ at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/service-assurance-specialist/33099/76033307696",
-    "id": "arm-service-assurance-specialist-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, IT",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Manager, IT at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/175295016-product-manager-it",
+    "id": "aijobs-product-manager-it-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Engineer – High-Performance AI and Networking Applications",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Systems Engineer – High-Performance AI and Networking Applications at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175280029-senior-systems-engineer-high-performance-ai-and-networking-applications",
+    "id": "aijobs-systems-engineer-high-performance-ai-and-networking-applications-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software Engineering - Dynamo",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manager, Software Engineering - Dynamo at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175280031-manager-software-engineering-dynamo",
+    "id": "aijobs-manager-software-engineering-dynamo-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer – Genomics HPC",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer – Genomics HPC at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175280041-senior-system-software-engineer-genomics-hpc",
+    "id": "aijobs-system-software-engineer-genomics-hpc-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GTM Innovation Architect",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "7min ago",
+    "job_description": "hardware engineering job for the role GTM Innovation Architect at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/175295025-gtm-innovation-architect",
+    "id": "aijobs-gtm-innovation-architect-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, AI Deployment - AMER",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "8h ago",
+    "job_description": "hardware engineering job for the role Manager, AI Deployment - AMER at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/175295024-manager-ai-deployment-amer",
+    "id": "aijobs-manager-ai-deployment-amer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Executive Business Partner (VP Support)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Executive Business Partner (VP Support) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/175295019-executive-business-partner-vp-support",
+    "id": "aijobs-executive-business-partner-vp-support-united-states"
   }
 ]
