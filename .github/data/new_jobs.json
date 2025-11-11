@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "SoC Telemetry Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Telemetry Architect at Austin, Texas, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-telemetry-architect/33099/80129369120",
+    "id": "arm-soc-telemetry-architect-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/senior-engineer/33099/85208808240",
+    "id": "arm-engineer-raanana"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "Master thesis: OPC UA PubSub in a redundant setting",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Master thesis: OPC UA PubSub in a redundant setting at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013081/Master-thesis-OPC-UA-PubSub-in-a-redundant-setting",
-    "id": "abb-master-thesis-opc-ua-pubsub-in-a-redundant-setting-vaesteras"
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/95908813/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Operations Support Analyst",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Business Operations Support Analyst at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst",
+    "id": "abb-business-operations-support-analyst-phoenix"
   }
 ]
