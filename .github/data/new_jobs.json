@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Technical Lead Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "23 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Lead Engineer, Sustainability, Data Center Technology Systems",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136856794499556038-technical-lead-engineer-sustainability-data-center-technology-systems?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-technical-lead-engineer-sunnyvale"
+    "employer_name": "AiJobs",
+    "job_title": "Electrical Engineer",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "9min ago",
+    "job_description": "hardware engineering job for the role Senior Electrical Engineer at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/175770439-senior-electrical-engineer",
+    "id": "aijobs-electrical-engineer-ca"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Customer/ODM Support Engineer – Hardware Platform",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer/ODM Support Engineer – Hardware Platform at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/customer-odm-support-engineer-hardware-platform/33099/84729469312",
-    "id": "arm-customer-odm-support-engineer-hardware-platform-taipei"
+    "employer_name": "AiJobs",
+    "job_title": "CPU Design Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role CPU Design Engineer - New College Grad 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175769346-cpu-design-engineer-new-college-grad-2026",
+    "id": "aijobs-cpu-design-engineer-new-college-grad-santa-clara"
   }
 ]
