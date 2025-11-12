@@ -1,73 +1,13 @@
 [
   {
-    "job_title": "Post-Silicon Systems Validation Engineer, Annapurna Labs",
+    "job_title": "AWS Technical Program Manager, Infrastructure, US West",
     "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Post-Silicon Systems Validation Engineer, Annapurna Labs at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3125732/post-silicon-systems-validation-engineer-annapurna-labs",
-    "job_posted_at": "2025-11-12T20:18:02.201Z",
-    "job_posted_at_datetime_utc": "2025-11-12T20:18:02.201Z",
-    "id": "amazon-post-silicon-systems-validation-engineer-annapurna-labs-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Delivery Lead for AI and Data Solutions",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Delivery Lead for AI and Data Solutions at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73432&source=WEB_Search_NA",
-    "id": "ibm-delivery-lead-for-ai-and-data-solutions-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Information Strategy Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Information Strategy Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71620&source=WEB_Search_NA",
-    "id": "ibm-information-strategy-lead-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP FI/CO Functional Consultant",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP FI/CO Functional Consultant at ProfessionalBuffalo, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73033&source=WEB_Search_NA",
-    "id": "ibm-sap-fi-co-functional-consultant-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP HR Functional Consultant",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP HR Functional Consultant at ProfessionalBuffalo, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73381&source=WEB_Search_NA",
-    "id": "ibm-sap-hr-functional-consultant-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - HashiCorp Terraform Actions",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - HashiCorp Terraform Actions at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72370&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-hashicorp-terraform-actions-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Digital Technical Specialist - Red Hat",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Digital Technical Specialist - Red Hat at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73757&source=WEB_Search_NA",
-    "id": "ibm-digital-technical-specialist-red-hat-austin"
+    "job_city": "Umatilla",
+    "job_state": "OR",
+    "job_description": "hardware engineering job for the role AWS Technical Program Manager, Infrastructure, US West at Umatilla, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3125766/aws-technical-program-manager-infrastructure-us-west",
+    "job_posted_at": "2025-11-12T21:18:19.984Z",
+    "job_posted_at_datetime_utc": "2025-11-12T21:18:19.984Z",
+    "id": "amazon-aws-technical-program-manager-infrastructure-us-west-umatilla"
   }
 ]
