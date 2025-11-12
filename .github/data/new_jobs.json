@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Hardware System Design Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Hardware System Design Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-hardware-system-design-engineer/33099/88350050144",
+    "id": "arm-principal-hardware-system-design-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Facilities Operations Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Facilities Operations Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-facilities-operations-engineer/33099/88349930096",
+    "id": "arm-facilities-operations-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Health and Safety Project Manager - EHS",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Health and Safety Project Manager - EHS at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/health-and-safety-project-manager-ehs/33099/88350044336",
+    "id": "arm-health-and-safety-project-manager-ehs-multiple"
+  }
+]
