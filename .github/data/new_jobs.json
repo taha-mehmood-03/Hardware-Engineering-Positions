@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "FA QRE",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff FA QRE at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-fa-qre/33099/86497957072",
-    "id": "arm-fa-qre-hsinchu"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Engineer - Deep Learning Focus",
-    "job_city": "US",
-    "job_state": "AL",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Computer Vision Engineer - Deep Learning Focus at Mountain Brook, AL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/175780101-senior-computer-vision-engineer-deep-learning-focus",
-    "id": "aijobs-computer-vision-engineer-deep-learning-focus-us"
+    "employer_name": "ABB",
+    "job_title": "Production Technician – Tests",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Production Technician – Tests at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016227/Production-Technician-Tests",
+    "id": "abb-production-technician-tests-quebec"
   }
 ]
