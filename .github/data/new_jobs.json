@@ -1,12 +1,92 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Implementation Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Engineer - HashiCorp Cloud Platform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Implementation Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-implementation-engineer/33099/88324032048",
-    "id": "arm-implementation-engineer-san-diego"
+    "job_description": "Hardware Engineering job for the role Senior Engineer - HashiCorp Cloud Platform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73066&source=WEB_Search_NA",
+    "id": "ibm-engineer-hashicorp-cloud-platform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Buffalo, NY)",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Intern 2026 (Buffalo, NY) at InternshipBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66495&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-buffalo-ny-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern 2026: Lowell",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern 2026: Lowell at InternshipLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72996&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2026-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Lansing, MI)",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Intern 2026 (Lansing, MI) at InternshipLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71530&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-lansing-mi-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern 2026 (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Intern 2026 (Baton Rouge, LA) at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66490&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer 2026: Lowell",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Developer 2026: Lowell at Entry LevelLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73011&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-2026-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Architect",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73055&source=WEB_Search_NA",
+    "id": "ibm-application-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Supply Chain Operations Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Supply Chain Operations Professional  2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73374&source=WEB_Search_NA",
+    "id": "ibm-entry-level-supply-chain-operations-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Support Representative (z/VM)",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Technical Support Representative (z/VM) at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73403&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-support-representative-z-vm-poughkeepsie"
   }
 ]
