@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Hardware System Design Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Hardware System Design Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-hardware-system-design-engineer/33099/88350050144",
-    "id": "arm-principal-hardware-system-design-engineer-multiple"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog AI Compute Architect",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog AI Compute Architect at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Analog-AI-Compute-System-Engineer_R254971?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-ai-compute-architect-us"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Facilities Operations Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Facilities Operations Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-facilities-operations-engineer/33099/88349930096",
-    "id": "arm-facilities-operations-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Health and Safety Project Manager - EHS",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Health and Safety Project Manager - EHS at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/health-and-safety-project-manager-ehs/33099/88350044336",
-    "id": "arm-health-and-safety-project-manager-ehs-multiple"
+    "employer_name": "AiJobs",
+    "job_title": "AI Systems Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior AI Systems Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/175826375-senior-ai-systems-engineer",
+    "id": "aijobs-ai-systems-engineer-unknown"
   }
 ]
