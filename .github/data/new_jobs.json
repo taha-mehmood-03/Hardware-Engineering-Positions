@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Hardware System Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Hardware System Design Engineer at Austin, Texas, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-hardware-system-design-engineer/33099/88350050144",
-    "id": "arm-principal-hardware-system-design-engineer-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist – EV chargers for Transport Solutions (Denmark)",
-    "job_city": "Ballerup",
-    "job_state": "Denmark",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Sales Specialist – EV chargers for Transport Solutions (Denmark) at Ballerup, Denmark",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011325/Sales-Specialist-EV-chargers-for-Transport-Solutions-Denmark",
-    "id": "abb-sales-specialist-ev-chargers-for-transport-solutions-denmark-ballerup"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI/ML Robotics Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior AI/ML Robotics Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-AI-ML-Robotics-Engineer_R257903?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-ml-robotics-engineer-us"
   }
 ]
