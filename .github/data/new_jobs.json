@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Account Director, Financial Services",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Account Director, Financial Services at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/176000576-account-director-financial-services",
-    "id": "aijobs-account-director-financial-services-unknown"
+    "employer_name": "Arm",
+    "job_title": "Solution Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Solution Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-solution-engineer/33099/83233492784",
+    "id": "arm-solution-engineer-san-diego"
   }
 ]
