@@ -1,122 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Hardware and Systems Development Interns – 2026 (Multiple Openings)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware and Systems Development Interns – 2026 (Multiple Openings) at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73404&source=WEB_Search_NA",
-    "id": "ibm-hardware-and-systems-development-interns-2026-multiple-openings-multiple-cities"
+    "job_title": "Mechanical Engineer II, Amazon Industrial Robotics",
+    "employer_name": "Amazon",
+    "job_city": "N.reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Mechanical Engineer II, Amazon Industrial Robotics at N.reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3126324/mechanical-engineer-ii-amazon-industrial-robotics",
+    "job_posted_at": "2025-11-13T22:17:39.587Z",
+    "job_posted_at_datetime_utc": "2025-11-13T22:17:39.587Z",
+    "id": "amazon-mechanical-engineer-ii-amazon-industrial-robotics-n-reading"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Engagement Lead - United States",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Engagement Lead - United States at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73460&source=WEB_Search_NA",
-    "id": "ibm-quantum-engagement-lead-united-states-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Power Systems Development - Firmware, Hypervisor, Operating Systems, AI Enablement",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Systems Development - Firmware, Hypervisor, Operating Systems, AI Enablement at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74120&source=WEB_Search_NA",
-    "id": "ibm-power-systems-development-firmware-hypervisor-operating-systems-ai-enablement-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager - IBM Storage",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Manager - IBM Storage at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73742&source=WEB_Search_NA",
-    "id": "ibm-product-manager-ibm-storage-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Cloud Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Cloud Developer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73850&source=WEB_Search_NA",
-    "id": "ibm-entry-level-cloud-developer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SW Developer Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SW Developer Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73388&source=WEB_Search_NA",
-    "id": "ibm-sw-developer-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level AI Software Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level AI Software Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73852&source=WEB_Search_NA",
-    "id": "ibm-entry-level-ai-software-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Power Systems Development - Operating Systems, AI Enablement",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Systems Development - Operating Systems, AI Enablement at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74129&source=WEB_Search_NA",
-    "id": "ibm-power-systems-development-operating-systems-ai-enablement-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Software Engineer — Algorithms for Biomedical Discovery",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Software Engineer — Algorithms for Biomedical Discovery at Entry LevelYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74161&source=WEB_Search_NA",
-    "id": "ibm-ai-software-engineer-algorithms-for-biomedical-discovery-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer (Application Networking, Skupper project)",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer (Application Networking, Skupper project) at ProfessionalLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72296&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-application-networking-skupper-project-lowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Digital Asset Sales",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Digital Asset Sales at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72905&source=WEB_Search_NA",
-    "id": "ibm-digital-asset-sales-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Digital Asset Tech Sales",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Digital Asset Tech Sales at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72906&source=WEB_Search_NA",
-    "id": "ibm-digital-asset-tech-sales-new-york"
+    "employer_name": "Micron",
+    "job_title": "Probe Equipment Maintenance Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Probe Equipment Maintenance Technician at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38888245",
+    "id": "micron-probe-equipment-maintenance-technician-boise"
   }
 ]
