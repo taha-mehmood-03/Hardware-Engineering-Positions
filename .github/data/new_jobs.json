@@ -1,53 +1,32 @@
 [
   {
-    "job_title": "Reliability Engineer, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Reliability Engineer, Amazon Leo at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2926270/reliability-engineer-amazon-leo",
-    "job_posted_at": "2025-11-13T22:15:07.022Z",
-    "job_posted_at_datetime_utc": "2025-11-13T22:15:07.022Z",
-    "id": "amazon-reliability-engineer-amazon-leo-redmond"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Android Apps",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Android Apps at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/177877103-senior-software-engineer-android-apps",
+    "id": "aijobs-software-engineer-android-apps-unknown"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Health and Safety Project Manager - EHS",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Health and Safety Project Manager - EHS at San Jose, California, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/health-and-safety-project-manager-ehs/33099/88350044336",
-    "id": "arm-health-and-safety-project-manager-ehs-san-jose"
+    "employer_name": "AiJobs",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Staff Mechanical Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/177877101-staff-mechanical-engineer",
+    "id": "aijobs-mechanical-engineer-unknown"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Staff/Principal Verification Engineer - Video",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff/Principal Verification Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/staff-principal-verification-engineer-video/33099/88424979152",
-    "id": "arm-staff-principal-verification-engineer-video-manchester"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Design Verification Engineer - CPP",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Design Verification Engineer - CPP at Santa Clara, CA, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006689/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-design-verification-engineer-cpp-santa-clara"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Design Verification Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Design Verification Engineer at United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007950/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-design-verification-engineer-"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Insights and Analytics",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Insights and Analytics at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/177877102-senior-software-engineer-insights-and-analytics",
+    "id": "aijobs-software-engineer-insights-and-analytics-unknown"
   }
 ]
