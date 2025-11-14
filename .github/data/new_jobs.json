@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Design Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role System Design Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/177673665-system-design-engineer-new-college-grad-2025",
+    "id": "aijobs-system-design-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "MLOps Engineer, GenAI Framework",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior MLOps Engineer, GenAI Framework at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/177673666-senior-mlops-engineer-genai-framework",
+    "id": "aijobs-mlops-engineer-genai-framework-santa-clara"
+  }
+]
