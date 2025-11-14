@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Entry Level Software Developer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Entry Level Software Developer at Houston, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/177782157-entry-level-software-developer",
+    "id": "aijobs-entry-level-software-developer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Software Engineer",
+    "job_city": "US",
+    "job_state": "VA",
+    "job_posted_at": "3d ago",
+    "job_description": "hardware engineering job for the role AI/ML Software Engineer at McLean, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/177782154-ai-ml-software-engineer",
+    "id": "aijobs-ai-ml-software-engineer-us"
+  }
+]
