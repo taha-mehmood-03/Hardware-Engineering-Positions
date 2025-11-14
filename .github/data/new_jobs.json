@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Lab Program Manager - Lead",
+    "employer_name": "IBM",
+    "job_title": "Product Management Intern - IBM Storage",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management Intern - IBM Storage 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73594&source=WEB_Search_NA",
+    "id": "ibm-product-management-intern-ibm-storage-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Release Engineer - HashiCorp",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud Release Engineer - HashiCorp at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73094&source=WEB_Search_NA",
+    "id": "ibm-cloud-release-engineer-hashicorp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Manager",
     "job_city": "San Jose",
-    "job_state": "California",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Lab Program Manager - Lead at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/lab-program-manager-lead/33099/88398539760",
-    "id": "arm-lab-program-manager-lead-san-jose"
+    "job_description": "Hardware Engineering job for the role Software Development Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73441&source=WEB_Search_NA",
+    "id": "ibm-software-development-manager-san-jose"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Field Capacity Project Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Maximo Integration Lead",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Field Capacity Project Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/field-capacity-project-manager/33099/88398539968",
-    "id": "arm-field-capacity-project-manager-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Operations Manager – Budget & Cost Optimization (Semiconductor)",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Operations Manager – Budget & Cost Optimization (Semiconductor) at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/operations-manager-budget-and-cost-optimization-semiconductor/33099/88398531424",
-    "id": "arm-operations-manager-budget-cost-optimization-semiconductor-san-diego"
+    "job_description": "Hardware Engineering job for the role Maximo Integration Lead at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74135&source=WEB_Search_NA",
+    "id": "ibm-maximo-integration-lead-washington"
   }
 ]
