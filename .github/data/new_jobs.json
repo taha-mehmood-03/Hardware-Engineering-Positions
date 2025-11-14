@@ -1,32 +1,24 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Technical Lead Engineer",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "22 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Lead Engineer, Sustainability, Data Center Technology Systems",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136856794499556038-technical-lead-engineer-sustainability-data-center-technology-systems?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-technical-lead-engineer-new-york"
+    "job_title": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Dev Engineer, Antenna Calibration, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124596/software-dev-engineer-antenna-calibration-amazon-leo",
+    "job_posted_at": "2025-11-13T22:18:18.058Z",
+    "job_posted_at_datetime_utc": "2025-11-13T22:18:18.058Z",
+    "id": "amazon-software-dev-engineer-antenna-calibration-amazon-leo-redmond"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Technical Engineer 3rd Party IP Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Technical Engineer 3rd Party IP Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Technical-Engineer-3rd-Party-IP-Engineer_2503303?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-technical-engineer-3rd-party-ip-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Hardware Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Hardware-Engineering_2503472?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-engineering-santa-clara"
+    "job_title": "Electrical Engineer, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-amazon-leo",
+    "job_posted_at": "2025-11-13T21:18:18.058Z",
+    "job_posted_at_datetime_utc": "2025-11-13T21:18:18.058Z",
+    "id": "amazon-electrical-engineer-amazon-leo-redmond"
   }
 ]
