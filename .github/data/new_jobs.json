@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Lab Program Manager - Lead",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Lab Program Manager - Lead at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/lab-program-manager-lead/33099/88398539760",
+    "id": "arm-lab-program-manager-lead-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Capacity Project Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Field Capacity Project Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/field-capacity-project-manager/33099/88398539968",
+    "id": "arm-field-capacity-project-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Operations Manager – Budget & Cost Optimization (Semiconductor)",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Operations Manager – Budget & Cost Optimization (Semiconductor) at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/operations-manager-budget-and-cost-optimization-semiconductor/33099/88398531424",
+    "id": "arm-operations-manager-budget-cost-optimization-semiconductor-san-diego"
+  }
+]
