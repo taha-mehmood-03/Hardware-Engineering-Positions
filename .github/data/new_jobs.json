@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 CMP Equipment Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role ID1 CMP Equipment Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38906360",
-    "id": "micron-id1-cmp-equipment-manager-boise"
+    "employer_name": "Arm",
+    "job_title": "Field Capacity Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Field Capacity Program Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/field-capacity-program-manager/33099/88398539968",
+    "id": "arm-field-capacity-program-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Network Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Network Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/network-performance-engineer/33099/87916449264",
+    "id": "arm-network-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer - Software & DevOps",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer - Software & DevOps at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-engineer-software-and-devops/33099/82774202608",
+    "id": "arm-engineer-software-devops-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC CAD Flow & EDA Automation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC CAD Flow & EDA Automation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-cad-flow-and-eda-automation-engineer/33099/88536804336",
+    "id": "arm-soc-cad-flow-eda-automation-engineer-austin"
   }
 ]
