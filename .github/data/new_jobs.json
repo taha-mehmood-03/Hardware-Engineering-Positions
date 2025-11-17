@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Learning & Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Learning & Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-learning-and-development/33099/88076531664",
+    "id": "arm-director-of-learning-development-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Learning & Development",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Learning & Development at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-of-learning-and-development/33099/83959009936",
+    "id": "arm-director-of-learning-development-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Software Technology Management",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Software Technology Management at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/director-of-software-technology-management/33099/82122561024",
+    "id": "arm-director-of-software-technology-management-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Quality of Service  Architect",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quality of Service  Architect at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/quality-of-service-architect/33099/79031267008",
+    "id": "arm-quality-of-service-architect-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Experienced Hardware Verification Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced Hardware Verification Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hardware-verification-engineer/33099/76937737712",
+    "id": "arm-experienced-hardware-verification-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Sr Verification Engineer - System IP",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr Verification Engineer - System IP at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/sr-verification-engineer-system-ip/33099/87737120352",
+    "id": "arm-sr-verification-engineer-system-ip-cambridge"
+  }
+]
