@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer - Poughkeepsie NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Developer - Poughkeepsie NY at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74553&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer - Lowell",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Developer - Lowell 2026 at Entry LevelLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74565&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer New York -",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Developer New York - 2026 at Entry LevelNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-new-york-new-york"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI Compute System Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role AI Compute System Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Compute-System-Engineer_R253948?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-compute-system-engineer-us"
+  }
+]
