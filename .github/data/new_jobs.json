@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Developer - Poughkeepsie NY",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Hardware Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Software Developer - Poughkeepsie NY at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74553&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-developer-poughkeepsie-ny-poughkeepsie"
+    "job_description": "7 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Engineer, Input Sensing",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131631841156178630-hardware-engineer-input-sensing?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-engineer-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Developer - Lowell",
-    "job_city": "LOWELL",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Engineering Manager",
+    "job_city": "San Bruno",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Software Developer - Lowell 2026 at Entry LevelLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74565&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-developer-lowell-lowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Developer New York -",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Software Developer New York - 2026 at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-developer-new-york-new-york"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI Compute System Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role AI Compute System Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Compute-System-Engineer_R253948?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-compute-system-engineer-us"
+    "job_description": "31 Category: Hardware Engineering. Level: corporate_fareYouTube. Posted: Recently. Full Title: Engineering Manager, YouTube Live Mobile Creation",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127459847363797702-engineering-manager-youtube-live-mobile-creation?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-engineering-manager-san-bruno"
   }
 ]
