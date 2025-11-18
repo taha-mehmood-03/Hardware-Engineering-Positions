@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director – Research & Development (R&D)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3h ago",
-    "job_description": "hardware engineering job for the role Director – Research & Development (R&D) at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179255680-director-research-development-r-d",
-    "id": "aijobs-director-research-development-r-d-us"
+    "employer_name": "Arm",
+    "job_title": "SoC Validation Engineer (Emulation)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal SoC Validation Engineer (Emulation) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-soc-validation-engineer-emulation/33099/87734064784",
+    "id": "arm-soc-validation-engineer-emulation-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-design-engineer/33099/88416723088",
+    "id": "arm-design-engineer-manchester"
   }
 ]
