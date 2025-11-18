@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Eng - DB Core",
-    "job_city": "JEFFERSON CITY",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Eng - DB Core at ProfessionalJEFFERSON CITY, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74644&source=WEB_Search_NA",
-    "id": "ibm-software-eng-db-core-jefferson-city"
+    "employer_name": "AiJobs",
+    "job_title": "Recruiter, Robotics",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Recruiter, Robotics at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179239517-recruiter-robotics",
+    "id": "aijobs-recruiter-robotics-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Compiler Optimization Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "8min ago",
-    "job_description": "hardware engineering job for the role Senior Compiler Optimization Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/179232998-senior-compiler-optimization-engineer",
-    "id": "aijobs-compiler-optimization-engineer-santa-clara"
+    "job_title": "Optical Network Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Optical Network Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179239519-optical-network-engineer",
+    "id": "aijobs-optical-network-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Legal Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Legal Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179239516-legal-program-manager",
+    "id": "aijobs-legal-program-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Partnerships",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Partnerships at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179239513-strategic-partnerships",
+    "id": "aijobs-strategic-partnerships-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Operations Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Business Operations Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179239512-business-operations-manager",
+    "id": "aijobs-business-operations-manager-united-states"
   }
 ]
