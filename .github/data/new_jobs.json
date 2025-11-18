@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Customer Compliance & Quality Systems Project Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Cloud Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Compliance & Quality Systems Project Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/customer-compliance-and-quality-systems-project-manager/33099/88548418832",
-    "id": "arm-customer-compliance-quality-systems-project-manager-austin"
+    "job_description": "Hardware Engineering job for the role Cloud Developer Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75078&source=WEB_Search_NA",
+    "id": "ibm-cloud-developer-intern-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Sr. Engineer of Measurement Principles",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sr. Engineer of Measurement Principles at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96074859/Sr-Engineer-of-Measurement-Principles",
-    "id": "abb-sr-engineer-of-measurement-principles-bartlesville"
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern 2026- New York",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern 2026- New York at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75062&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-2026-new-york-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Northern NJ",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Northern NJ at Entry LevelPARAMUS, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74656&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-northern-nj-paramus"
   }
 ]
