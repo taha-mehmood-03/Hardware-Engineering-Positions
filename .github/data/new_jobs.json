@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Designer/Applications Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Designer/Applications Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/power-designer-applications-engineer/33099/87878769552",
-    "id": "arm-power-designer-applications-engineer-chandler"
+    "employer_name": "AiJobs",
+    "job_title": "Cloud Security Software Engineer, GeForce NOW",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "3min ago",
+    "job_description": "hardware engineering job for the role Cloud Security Software Engineer, GeForce NOW at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179703642-cloud-security-software-engineer-geforce-now",
+    "id": "aijobs-cloud-security-software-engineer-geforce-now-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "CPU Power Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior CPU Power Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179703640-senior-cpu-power-architect",
+    "id": "aijobs-cpu-power-architect-santa-clara"
   }
 ]
