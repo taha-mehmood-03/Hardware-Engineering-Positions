@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "ASIC Product Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role ASIC Product Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38950941",
-    "id": "micron-asic-product-engineer-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Early Professional Industrial Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Early Professional Industrial Engineer at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70657&source=WEB_Search_NA",
-    "id": "ibm-early-professional-industrial-engineer-poughkeepsie"
+    "job_title": "Product Yield Enhancement Engineer, HBM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Staff Product Yield Enhancement Engineer, HBM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38950658",
+    "id": "micron-product-yield-enhancement-engineer-hbm-boise"
   }
 ]
