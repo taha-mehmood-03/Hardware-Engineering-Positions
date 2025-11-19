@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "ASIC Electrostatic Discharge/Latch-Up Design and Sign-off Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Collaboration Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "29 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Electrostatic Discharge/Latch-Up Design and Sign-off Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/101418614539592390-asic-electrostatic-dischargelatchup-design-and-signoff-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-asic-electrostatic-discharge-latch-up-design-and-sign-off-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Collaboration Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/collaboration-engineer/33099/88080059728",
+    "id": "arm-collaboration-engineer-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "GPU Hardware Intern",
-    "job_city": "Raanana",
-    "job_state": "Israel",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role GPU Hardware Intern at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/gpu-hardware-intern/33099/88596789008",
-    "id": "arm-gpu-hardware-intern-raanana"
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer",
+    "job_city": "Abu Dhabi",
+    "job_state": "Abu Dhabi",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Field Service Engineer at Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017131/Field-Service-Engineer",
+    "id": "abb-field-service-engineer-abu-dhabi"
   }
 ]
