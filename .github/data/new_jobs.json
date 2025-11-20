@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Analog Design Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Analog Design Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analog-Design-Engineer_R257756?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analog-design-engineer-us"
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer (CPU team)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role RTL Design Engineer (CPU team) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/rtl-design-engineer-cpu-team/33099/88641178208",
+    "id": "arm-rtl-design-engineer-cpu-team-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Verification Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Verification Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-verification-engineer/33099/88641188336",
+    "id": "arm-soc-verification-engineer-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern-TSE KEG Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Intern-TSE KEG Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38954311",
+    "id": "micron-intern-tse-keg-engineer-boise"
   }
 ]
