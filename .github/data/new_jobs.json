@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Sharing and Compliance",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Product Management Professional",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "20h ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Sharing and Compliance at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179988031-senior-software-engineer-sharing-and-compliance",
-    "id": "aijobs-software-engineer-sharing-and-compliance-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management Professional 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75746&source=WEB_Search_NA",
+    "id": "ibm-product-management-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Management Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75747&source=WEB_Search_NA",
+    "id": "ibm-product-management-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "InfoSphere Optim Technical Support Professional",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role InfoSphere Optim Technical Support Professional at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75294&source=WEB_Search_NA",
+    "id": "ibm-infosphere-optim-technical-support-professional-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Design Engineer FPGA",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Digital Design Engineer FPGA at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Staff-Digital-Design-Engineer-FPGA_R256320?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-fpga-2-locations"
   }
 ]
