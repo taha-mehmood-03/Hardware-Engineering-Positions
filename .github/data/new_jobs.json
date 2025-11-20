@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Networking",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Software Engineer, Networking at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901244-principal-software-engineer-networking",
+    "id": "aijobs-software-engineer-networking-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Trade Compliance & Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Head of Trade Compliance & Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179906168-head-of-trade-compliance-operations",
+    "id": "aijobs-head-of-trade-compliance-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Fleet Management",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "13min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Fleet Management at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179906166-software-engineer-fleet-management",
+    "id": "aijobs-software-engineer-fleet-management-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Enterprise Platform",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Manager, Enterprise Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179906164-product-manager-enterprise-platform",
+    "id": "aijobs-product-manager-enterprise-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DevOps Engineer - Accelerated Computing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior DevOps Engineer - Accelerated Computing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901245-senior-devops-engineer-accelerated-computing",
+    "id": "aijobs-devops-engineer-accelerated-computing-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategy & Operations, User Safety & Risk Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategy & Operations, User Safety & Risk Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179906171-strategy-operations-user-safety-risk-operations",
+    "id": "aijobs-strategy-operations-user-safety-risk-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Value Realization Lead, AI Deployment and Adoption",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "9h ago",
+    "job_description": "hardware engineering job for the role Value Realization Lead, AI Deployment and Adoption at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/179906169-value-realization-lead-ai-deployment-and-adoption",
+    "id": "aijobs-value-realization-lead-ai-deployment-and-adoption-united-states"
+  }
+]
