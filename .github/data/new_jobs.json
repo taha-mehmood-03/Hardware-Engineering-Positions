@@ -1,52 +1,12 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Program Manager TS/SCI W/FSP",
-    "job_city": "Multiple Cities",
+    "job_title": "Customer Success Engineer",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Program Manager TS/SCI W/FSP at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75688&source=WEB_Search_NA",
-    "id": "ibm-program-manager-ts-sci-w-fsp-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Lead TS/SCI W/FSP",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Lead TS/SCI W/FSP at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75693&source=WEB_Search_NA",
-    "id": "ibm-technical-lead-ts-sci-w-fsp-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer II - HashiCorp Terraform Stacks",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer II - HashiCorp Terraform Stacks at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73818&source=WEB_Search_NA",
-    "id": "ibm-engineer-ii-hashicorp-terraform-stacks-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - HashiCorp Terraform Stacks",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - HashiCorp Terraform Stacks at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73819&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-hashicorp-terraform-stacks-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Designer - HashiCorp Design System",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Designer - HashiCorp Design System at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73122&source=WEB_Search_NA",
-    "id": "ibm-product-designer-hashicorp-design-system-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76325&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-austin"
   }
 ]
