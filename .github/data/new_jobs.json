@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Technical Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Enterprise Technical Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73343&source=WEB_Search_NA",
-    "id": "ibm-enterprise-technical-lead-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Design Engineer, HBM Base Design",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 17 days ago",
+    "job_description": "hardware engineering job for the role Senior Design Engineer, HBM Base Design at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38743603",
+    "id": "micron-design-engineer-hbm-base-design-richardson"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Test Quality Engineer (Automation Test Manager)",
-    "job_city": "Bethesda",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Test Quality Engineer (Automation Test Manager) at ProfessionalBethesda, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63668&source=WEB_Search_NA",
-    "id": "ibm-test-quality-engineer-automation-test-manager-bethesda"
+    "employer_name": "Micron",
+    "job_title": "Dry Etch Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 8 days ago",
+    "job_description": "hardware engineering job for the role Senior Dry Etch Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38529673",
+    "id": "micron-dry-etch-process-engineer-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Government Cost Accountant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Federal Government Cost Accountant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75753&source=WEB_Search_NA",
-    "id": "ibm-federal-government-cost-accountant-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Plant & HUB Financial Analyst",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Plant & HUB Financial Analyst at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009441/Plant-HUB-Financial-Analyst",
+    "id": "abb-plant-hub-financial-analyst-mebane"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Demo Automation Specialist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Demo Automation Specialist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75378&source=WEB_Search_NA",
-    "id": "ibm-demo-automation-specialist-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "ELDS Production Operator Epoxy Line- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role ELDS Production Operator Epoxy Line- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009872/ELDS-Production-Operator-Epoxy-Line-1st-shift",
+    "id": "abb-elds-production-operator-epoxy-line-1st-shift-mebane"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "PCIe IO Development Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role PCIe IO Development Engineer at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73431&source=WEB_Search_NA",
-    "id": "ibm-pcie-io-development-engineer-austin"
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS MV SWGR 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011827/ELDS-MV-SWGR-1st-shift",
+    "id": "abb-elds-mv-swgr-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment  Intern - Spring",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "hardware engineering job for the role Health, Safety & Environment  Intern - Spring 2026 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026",
+    "id": "abb-health-safety-environment-intern-spring-mebane"
   }
 ]
