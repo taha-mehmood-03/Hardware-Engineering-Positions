@@ -1,12 +1,402 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Strategic Finance, B2B Transactions Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "9h ago",
-    "job_description": "hardware engineering job for the role Strategic Finance, B2B Transactions Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/180207308-strategic-finance-b2b-transactions-lead",
-    "id": "aijobs-strategic-finance-b2b-transactions-lead-united-states"
+    "employer_name": "ABB",
+    "job_title": "Production Operator-Smart Power, LP 2nd Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Production Operator-Smart Power, LP 2nd Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015627/Production-Operator-Smart-Power-LP-2nd-Shift",
+    "id": "abb-production-operator-smart-power-lp-2nd-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Applied Scientist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role R&D Applied Scientist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95951038/R-D-Applied-Scientist",
+    "id": "abb-r-d-applied-scientist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Assembler",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Assembler at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96382106/Assembler",
+    "id": "abb-assembler-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Thesis Work: Safety Aware Decision Framework for Uncertain Perception of Large Autonomous Construction Vehicles",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Thesis Work: Safety Aware Decision Framework for Uncertain Perception of Large Autonomous Construction Vehicles at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016573/Thesis-Work-Safety-Aware-Decision-Framework-for-Uncertain-Perception-of-Large-Autonomous-Construction-Vehicles",
+    "id": "abb-thesis-work-safety-aware-decision-framework-for-uncertain-perception-of-large-autonomous-construction-vehicles-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP SAC Planning Solution Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role SAP SAC Planning Solution Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97044668/SAP-SAC-Planning-Solution-Specialist",
+    "id": "abb-sap-sac-planning-solution-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Duales Studium Wirtschaftsingenieurwesen – Maschinenbau (m/w/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Duales Studium Wirtschaftsingenieurwesen – Maschinenbau (m/w/d)  2026 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95902154/Duales-Studium-Wirtschaftsingenieurwesen-Maschinenbau-m-w-d-2026",
+    "id": "abb-duales-studium-wirtschaftsingenieurwesen-maschinenbau-m-w-d-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Data Center Service Lead - Asia Pacific & India",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Regional Data Center Service Lead - Asia Pacific & India at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015636/Regional-Data-Center-Service-Lead-Asia-Pacific-India",
+    "id": "abb-regional-data-center-service-lead-asia-pacific-india-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Claims Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Claims Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017066/Claims-Analyst",
+    "id": "abb-claims-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "hardware engineering job for the role R&D Associate Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "procurement and logistics specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role procurement and logistics specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011630/procurement-and-logistics-specialist",
+    "id": "abb-procurement-and-logistics-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Simulations and Test Automation Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Simulations and Test Automation Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013276/Simulations-and-Test-Automation-Developer",
+    "id": "abb-simulations-and-test-automation-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Technical Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Project Technical Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95639090/Project-Technical-Engineer",
+    "id": "abb-project-technical-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Support Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Technical Support Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013315/Technical-Support-Engineer",
+    "id": "abb-technical-support-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior R&D Engineer 80-100%",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Senior R&D Engineer 80-100% at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017050/Senior-R-D-Engineer-80-100",
+    "id": "abb-senior-r-d-engineer-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Quality Control Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009494/Quality-Control-Specialist",
+    "id": "abb-quality-control-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017546/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship – FPGA Verification Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Internship – FPGA Verification Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015248/Internship-FPGA-Verification-Engineer",
+    "id": "abb-internship-fpga-verification-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Team Lead - Control Electronics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role R&D Team Lead - Control Electronics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015055/R-D-Team-Lead-Control-Electronics",
+    "id": "abb-r-d-team-lead-control-electronics-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Master thesis: OPC UA PubSub in a redundant setting",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Master thesis: OPC UA PubSub in a redundant setting at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013081/Master-thesis-OPC-UA-PubSub-in-a-redundant-setting",
+    "id": "abb-master-thesis-opc-ua-pubsub-in-a-redundant-setting-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical Designer - Robotics projects",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Electrical Designer - Robotics projects at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012640/Electrical-Designer-Robotics-projects",
+    "id": "abb-electrical-designer-robotics-projects-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Project Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Technical Project Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014227/Technical-Project-Manager",
+    "id": "abb-technical-project-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Software Developer, Embedded (drive firmware)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Software Developer, Embedded (drive firmware) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009673/Senior-Software-Developer-Embedded-drive-firmware",
+    "id": "abb-senior-software-developer-embedded-drive-firmware-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Assistant Test Engineer(Intern)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Assistant Test Engineer(Intern) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015090/Assistant-Test-Engineer-Intern",
+    "id": "abb-assistant-test-engineer-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Technician – Tests",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Production Technician – Tests at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016227/Production-Technician-Tests",
+    "id": "abb-production-technician-tests-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Test Automation Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Test Automation Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015378/Test-Automation-Architect",
+    "id": "abb-test-automation-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr. Engineer of Measurement Principles",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Sr. Engineer of Measurement Principles at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96074859/Sr-Engineer-of-Measurement-Principles",
+    "id": "abb-sr-engineer-of-measurement-principles-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robot commissioning Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Robot commissioning Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014979/Robot-commissioning-Engineer",
+    "id": "abb-robot-commissioning-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Support Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Product Support Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015118/Product-Support-Engineer",
+    "id": "abb-product-support-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Territory Sales Account Manager- Automation and Digital",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Territory Sales Account Manager- Automation and Digital at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015425/Territory-Sales-Account-Manager-Automation-and-Digital",
+    "id": "abb-territory-sales-account-manager-automation-and-digital-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "TPR Production Operator - Winder - 2nd Shift",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role TPR Production Operator - Winder - 2nd Shift at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014542/TPR-Production-Operator-Winder-2nd-Shift",
+    "id": "abb-tpr-production-operator-winder-2nd-shift-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Scientist - Power Electronics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Principal Scientist - Power Electronics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011263/Principal-Scientist-Power-Electronics",
+    "id": "abb-principal-scientist-power-electronics-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Intern- Summer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Power Electronics Intern- Summer 2026 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014618/Power-Electronics-Intern-Summer-2026",
+    "id": "abb-power-electronics-intern-summer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Team Leader,  Electrical and Thermal Performance",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role R&D Team Leader,  Electrical and Thermal Performance at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012283/R-D-Team-Leader-Electrical-and-Thermal-Performance",
+    "id": "abb-r-d-team-leader-electrical-and-thermal-performance-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Technical Advisor",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Technical Advisor at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008173/Regional-Technical-Advisor",
+    "id": "abb-regional-technical-advisor-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Network & Cyber Security Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Senior Network & Cyber Security Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015599/Senior-Network-Cyber-Security-Engineer",
+    "id": "abb-senior-network-cyber-security-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center Project Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center Project Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010699/Data-Center-Project-Manager",
+    "id": "abb-data-center-project-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Great Plains",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Great Plains at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014785/Business-Development-Manager-Great-Plains",
+    "id": "abb-business-development-manager-great-plains-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Hardware Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Hardware Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009369/Hardware-Engineer",
+    "id": "abb-hardware-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation and VFD Support Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Automation and VFD Support Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015853/Automation-and-VFD-Support-Specialist",
+    "id": "abb-automation-and-vfd-support-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015630/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-not-specific"
   }
 ]
