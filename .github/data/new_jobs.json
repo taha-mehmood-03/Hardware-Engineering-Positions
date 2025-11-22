@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Engineer, Product Security - Silicon Compute & Connectivity Devices",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal Engineer, Product Security - Silicon Compute & Connectivity Devices at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Product-Security_2502105?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-engineer-product-security-silicon-compute-connectivity-devices-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Software Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Project Manager at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-project-manager/33099/66340573584",
+    "id": "arm-software-project-manager-multiple"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "DSP Firmware Engineer - Embedded Processors/Mixed Signal /RTOS/PHY",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal DSP Firmware Engineer - Embedded Processors/Mixed Signal /RTOS/PHY at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-DSP-Firmware-Engineer_2503442?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-dsp-firmware-engineer-embedded-processors-mixed-signal-rtos-phy-irvine"
+    "employer_name": "Arm",
+    "job_title": "Firmware Engineer",
+    "job_city": "Bristol",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Firmware Engineer at Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/bristol/staff-firmware-engineer/33099/66574169968",
+    "id": "arm-firmware-engineer-bristol"
   }
 ]
