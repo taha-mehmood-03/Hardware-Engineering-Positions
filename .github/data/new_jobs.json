@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer, Product Security - Silicon Compute & Connectivity Devices",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Principal Engineer, Product Security - Silicon Compute & Connectivity Devices at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Product-Security_2502105?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-product-security-silicon-compute-connectivity-devices-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "DSP Firmware Engineer - Embedded Processors/Mixed Signal /RTOS/PHY",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal DSP Firmware Engineer - Embedded Processors/Mixed Signal /RTOS/PHY at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-DSP-Firmware-Engineer_2503442?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-dsp-firmware-engineer-embedded-processors-mixed-signal-rtos-phy-irvine"
+  }
+]
