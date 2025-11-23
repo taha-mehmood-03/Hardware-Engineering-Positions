@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing/Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Manufacturing/Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017610/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Business Process Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Business Process Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012748/Senior-Business-Process-Manager",
+    "id": "abb-senior-business-process-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS LV SWGR Production Operator 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS LV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010192/ELDS-LV-SWGR-Production-Operator-2nd-shift",
+    "id": "abb-elds-lv-swgr-production-operator-2nd-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Warehouse Internal Logistics Operator",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role ELDS Warehouse Internal Logistics Operator at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006758/ELDS-Warehouse-Internal-Logistics-Operator",
+    "id": "abb-elds-warehouse-internal-logistics-operator-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS LV SWGR Quality Inspector- 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS LV SWGR Quality Inspector- 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012840/ELDS-LV-SWGR-Quality-Inspector-2nd-shift",
+    "id": "abb-elds-lv-swgr-quality-inspector-2nd-shift-mebane"
+  }
+]
