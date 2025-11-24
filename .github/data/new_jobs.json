@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Export Control & Regulatory Compliance Project Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Export Control & Regulatory Compliance Project Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/export-control-and-regulatory-compliance-project-manager/33099/88794480448",
+    "id": "arm-export-control-regulatory-compliance-project-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "C-Suite Support Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior C-Suite Support Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-c-suite-support-engineer/33099/87749242800",
+    "id": "arm-c-suite-support-engineer-san-jose"
+  }
+]
