@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "ELDS Quality Specialist",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role ELDS Quality Specialist at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017196/ELDS-Quality-Specialist",
-    "id": "abb-elds-quality-specialist-mebane"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Linux Systems Administrator",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Lead Linux Systems Administrator at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-Linux-Systems-Administrator-_R258251?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-linux-systems-administrator-us"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Operational Excellence Intern - Summer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Operational Excellence Intern - Summer 2026 at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017400/Operational-Excellence-Intern-Summer-2026",
-    "id": "abb-operational-excellence-intern-summer-mebane"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Linux and Data Administrator",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Lead Linux and Data Administrator at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-Linux-and-Data-Administrator-_R258252-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-linux-and-data-administrator-us"
   }
 ]
