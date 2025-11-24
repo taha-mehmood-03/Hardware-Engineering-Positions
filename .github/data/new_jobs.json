@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Emulation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-emulation-engineer/33099/86766479840",
+    "id": "arm-soc-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Modelling Engineer - GPU team (C++)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Modelling Engineer - GPU team (C++) at Cambridge, United Kingdom, Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/modelling-engineer-gpu-team-c/33099/87058324640",
+    "id": "arm-modelling-engineer-gpu-team-c-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant, CICS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Consultant, CICS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75741&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-cics-multiple-cities"
+  }
+]
