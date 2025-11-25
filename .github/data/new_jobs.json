@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Customer Compliance Project Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Quantum Systems Test Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Compliance Project Manager at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/customer-compliance-project-manager/33099/88805758768",
-    "id": "arm-customer-compliance-project-manager-san-jose"
+    "job_description": "Hardware Engineering job for the role Quantum Systems Test Engineer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75874&source=WEB_Search_NA",
+    "id": "ibm-quantum-systems-test-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Software Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Software Engineer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75085&source=WEB_Search_NA",
+    "id": "ibm-ai-software-engineer-poughkeepsie"
   }
 ]
