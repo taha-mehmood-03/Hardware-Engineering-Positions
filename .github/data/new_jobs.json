@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Firmware Intern [Summer 2026]",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "1w ago",
-    "job_description": "hardware engineering job for the role Firmware Intern [Summer 2026] at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/180671530-firmware-intern-summer-2026",
-    "id": "aijobs-firmware-intern-summer-2026-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Legal Intern [Summer 2026]",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "18h ago",
-    "job_description": "hardware engineering job for the role Legal Intern [Summer 2026] at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/180671529-legal-intern-summer-2026",
-    "id": "aijobs-legal-intern-summer-2026-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Strategic Delivery Lead",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Strategic Delivery Lead at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/180673316-strategic-delivery-lead",
-    "id": "aijobs-strategic-delivery-lead-unknown"
+    "employer_name": "Arm",
+    "job_title": "Engineer, RTL Design",
+    "job_city": "Noida",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer, RTL Design at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/senior-engineer-rtl-design/33099/88816662816",
+    "id": "arm-engineer-rtl-design-noida"
   }
 ]
