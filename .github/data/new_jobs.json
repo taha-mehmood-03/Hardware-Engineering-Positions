@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Lab Technician/Engineer",
+    "job_city": "Napier",
+    "job_state": "Hawke's Bay",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Lab Technician/Engineer at Napier, Hawke's Bay, New Zealand",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014190/R-D-Lab-Technician-Engineer",
+    "id": "abb-r-d-lab-technician-engineer-napier"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer - RL/ML",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role AI Engineer - RL/ML at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180604187-ai-engineer-rl-ml",
+    "id": "aijobs-ai-engineer-rl-ml-us"
+  }
+]
