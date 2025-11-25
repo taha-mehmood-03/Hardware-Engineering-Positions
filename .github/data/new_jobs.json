@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Architect, AI Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Architect, AI Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180621180-senior-software-architect-ai-networking",
-    "id": "aijobs-software-architect-ai-networking-santa-clara"
+    "job_title": "Firmware Intern [Summer 2026]",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "1w ago",
+    "job_description": "hardware engineering job for the role Firmware Intern [Summer 2026] at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/180671530-firmware-intern-summer-2026",
+    "id": "aijobs-firmware-intern-summer-2026-ca"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, AI Inference Systems",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Legal Intern [Summer 2026]",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "18h ago",
+    "job_description": "hardware engineering job for the role Legal Intern [Summer 2026] at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/180671529-legal-intern-summer-2026",
+    "id": "aijobs-legal-intern-summer-2026-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Delivery Lead",
+    "job_city": "Unknown",
+    "job_state": "US",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, AI Inference Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180621177-senior-software-engineer-ai-inference-systems",
-    "id": "aijobs-software-engineer-ai-inference-systems-santa-clara"
+    "job_description": "hardware engineering job for the role Strategic Delivery Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180673316-strategic-delivery-lead",
+    "id": "aijobs-strategic-delivery-lead-unknown"
   }
 ]
