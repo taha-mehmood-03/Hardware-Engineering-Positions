@@ -1,12 +1,62 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer / Field Service",
-    "job_city": "Metamorphossi",
-    "job_state": "Attiki",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Automation Engineer / Field Service at Metamorphossi, Attiki, Greece",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017212/Automation-Engineer-Field-Service",
-    "id": "abb-automation-engineer-field-service-metamorphossi"
+    "employer_name": "Arm",
+    "job_title": "Reward Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Reward Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/reward-manager/33099/88823704112",
+    "id": "arm-reward-manager-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "PCB Layout Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff PCB Layout Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-pcb-layout-engineer/33099/87260512128",
+    "id": "arm-pcb-layout-engineer-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Manager - HashiCorp Infra Platform Services",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineering Manager - HashiCorp Infra Platform Services at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72042&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-manager-hashicorp-infra-platform-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager, API Management",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Product Manager, API Management at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73845&source=WEB_Search_NA",
+    "id": "ibm-product-manager-api-management-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - HashiCorp Platform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer II - HashiCorp Platform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75827&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-hashicorp-platform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Basis Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP Basis Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75382&source=WEB_Search_NA",
+    "id": "ibm-sap-basis-lead-multiple-cities"
   }
 ]
