@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Growth Product",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Senior Data Scientist, Growth Product at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/180935202-senior-data-scientist-growth-product",
-    "id": "aijobs-data-scientist-growth-product-unknown"
+    "job_title": "Software Development Engineer, ML Systems, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "hardware engineering job for the role Software Development Engineer, ML Systems, Annapurna Labs at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ml-systems-annapurna-labs",
+    "job_posted_at": "2025-11-26T19:21:08.192Z",
+    "job_posted_at_datetime_utc": "2025-11-26T19:21:08.192Z",
+    "id": "amazon-software-development-engineer-ml-systems-annapurna-labs-new-york"
   }
 ]
