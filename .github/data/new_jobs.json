@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Power Analysis Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Power Analysis Software Engineer at San Diego, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-software-engineer/33099/84150069744",
+    "id": "arm-power-analysis-software-engineer-san-diego"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "AI Performance and Efficiency Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Strategic Risk Manager",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior AI Performance and Efficiency Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180863900-senior-ai-performance-and-efficiency-engineer",
-    "id": "aijobs-ai-performance-and-efficiency-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Strategic Risk Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/180865091-strategic-risk-manager",
+    "id": "aijobs-strategic-risk-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Social Risk Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Social Risk Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/180865093-ai-social-risk-analyst",
+    "id": "aijobs-ai-social-risk-analyst-united-states"
   }
 ]
