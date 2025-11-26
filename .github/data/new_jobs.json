@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect",
+    "job_city": "Philadelphia",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Solution Architect at ProfessionalPhiladelphia, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73117&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-philadelphia"
+  }
+]
