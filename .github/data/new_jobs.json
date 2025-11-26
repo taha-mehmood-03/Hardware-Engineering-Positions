@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "CPU Design Verification Engineer",
+    "job_city": "Poughkeepsie",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU Design Verification Engineer, Silicon, University Graduate",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-cpu-design-verification-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "CPU Register Transfer Level Designer",
+    "job_city": "Poughkeepsie",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "21 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU Register Transfer Level Designer, Silicon, University Graduate",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/108899010902663878-cpu-register-transfer-level-designer-silicon-university-graduate?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-cpu-register-transfer-level-designer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full stack senior Software Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Full stack senior Software Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76738&source=WEB_Search_NA",
+    "id": "ibm-full-stack-senior-software-developer-lowell"
+  }
+]
