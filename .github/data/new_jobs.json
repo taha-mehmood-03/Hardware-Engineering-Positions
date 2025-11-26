@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Solution Architect",
-    "job_city": "Philadelphia",
+    "job_title": "Technical Account Manager",
+    "job_city": "Dallas",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Solution Architect at ProfessionalPhiladelphia, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73117&source=WEB_Search_NA",
-    "id": "ibm-solution-architect-philadelphia"
+    "job_description": "Hardware Engineering job for the role Technical Account Manager at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73050&source=WEB_Search_NA",
+    "id": "ibm-technical-account-manager-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Architecture",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Customer Success Architecture at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77172&source=WEB_Search_NA",
+    "id": "ibm-customer-success-architecture-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017266/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-shanghai"
   }
 ]
