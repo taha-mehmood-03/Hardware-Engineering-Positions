@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "People Hub Coordinator, APAC (Fixed Term)",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role People Hub Coordinator, APAC (Fixed Term) at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/people-hub-coordinator-apac-fixed-term/33099/88854186016",
+    "id": "arm-people-hub-coordinator-apac-fixed-term-taipei"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Mechanical Product Engineer 80-100%",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Mechanical Product Engineer 80-100% at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017860/Mechanical-Product-Engineer-80-100",
+    "id": "abb-mechanical-product-engineer-80-100-untersiggenthal"
+  }
+]
