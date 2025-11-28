@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff GenAI Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff GenAI Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-genai-engineer/33099/88831455696",
+    "id": "arm-senior-staff-genai-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Mobile Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Mobile Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-mobile-engineer/33099/88843444304",
+    "id": "arm-senior-staff-mobile-engineer-cambridge"
+  }
+]
