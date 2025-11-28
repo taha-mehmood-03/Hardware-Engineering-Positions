@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer and Lead",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Verification Engineer and Lead at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/principal-verification-engineer-and-lead/33099/83619406608",
+    "id": "arm-verification-engineer-and-lead-raanana"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Lab Manager",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Lab Manager at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-lab-manager/33099/88387191392",
+    "id": "arm-lab-manager-sophia-antipolis"
+  }
+]
