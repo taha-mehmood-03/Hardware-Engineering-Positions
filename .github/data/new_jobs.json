@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, Power Engineering",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Engineer, Power Engineering at Seattle, Washington, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/seattle/principal-engineer-power-engineering/33099/88062625184",
+    "id": "arm-engineer-power-engineering-seattle"
+  }
+]
