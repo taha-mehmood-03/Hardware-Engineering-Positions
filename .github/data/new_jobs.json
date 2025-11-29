@@ -1,52 +1,42 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist – Power Distribution Systems (Greater Montreal)",
-    "job_city": "Saint-Hubert",
-    "job_state": "Quebec",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sales Specialist – Power Distribution Systems (Greater Montreal) at Saint-Hubert, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017636/Sales-Specialist-Power-Distribution-Systems-Greater-Montreal",
-    "id": "abb-sales-specialist-power-distribution-systems-greater-montreal-saint-hubert"
+    "job_title": "End of Warranty Project Manager (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role End of Warranty Project Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015428/End-of-Warranty-Project-Manager-80-100",
+    "id": "abb-end-of-warranty-project-manager-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Order Management Specialist",
-    "job_city": "Apodaca",
-    "job_state": "Nuevo León",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Order Management Specialist at Apodaca, Nuevo León, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018037/Order-Management-Specialist",
-    "id": "abb-order-management-specialist-apodaca"
+    "job_title": "Process Operation Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Process Operation Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016191/Process-Operation-Specialist",
+    "id": "abb-process-operation-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Upstream Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Service Engineer",
+    "job_city": "Avizieniai",
+    "job_state": "Vilniaus Apskritis",
     "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Upstream Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010680/Upstream-Application-Engineer",
-    "id": "abb-upstream-application-engineer-multiple"
+    "job_description": "hardware engineering job for the role Service Engineer at Avizieniai, Vilniaus Apskritis, Lithuania",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016465/Service-Engineer",
+    "id": "abb-service-engineer-avizieniai"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Afstudeeropdracht/Stage Software Lifecycle en Proof of Concept voor ISO 25010-toepassing",
-    "job_city": "Etten-Leur",
-    "job_state": "Netherlands",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Afstudeeropdracht/Stage Software Lifecycle en Proof of Concept voor ISO 25010-toepassing at Etten-Leur, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017441/Afstudeeropdracht-Stage-Software-Lifecycle-en-Proof-of-Concept-voor-ISO-25010-toepassing",
-    "id": "abb-afstudeeropdracht-stage-software-lifecycle-en-proof-of-concept-voor-iso-25010-toepassing-etten-leur"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Customer Support Specialist",
-    "job_city": "Apodaca",
-    "job_state": "Nuevo León",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Customer Support Specialist at Apodaca, Nuevo León, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018042/Customer-Support-Specialist",
-    "id": "abb-customer-support-specialist-apodaca"
+    "job_title": "Medium Voltage Production Operator – 1st Shift",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Medium Voltage Production Operator – 1st Shift at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016673/Medium-Voltage-Production-Operator-1st-Shift",
+    "id": "abb-medium-voltage-production-operator-1st-shift-pinetops"
   }
 ]
