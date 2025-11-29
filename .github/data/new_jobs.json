@@ -1,82 +1,102 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "IS Deficiency, Audit and SAP Compliance Specialist",
+    "job_title": "QA Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role IS Deficiency, Audit and SAP Compliance Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015587/IS-Deficiency-Audit-and-SAP-Compliance-Specialist",
-    "id": "abb-is-deficiency-audit-and-sap-compliance-specialist-not-specific"
+    "job_posted_at": "7 weeks ago",
+    "job_description": "hardware engineering job for the role QA Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96340327/QA-Engineer",
+    "id": "abb-qa-engineer-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Computer Vision AI and ML Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Computer Vision AI and ML Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015231/Senior-Computer-Vision-AI-and-ML-Engineer",
-    "id": "abb-senior-computer-vision-ai-and-ml-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist – Power Distribution Systems (Greater Montreal)",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sales Specialist – Power Distribution Systems (Greater Montreal) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017636/Sales-Specialist-Power-Distribution-Systems-Greater-Montreal",
-    "id": "abb-sales-specialist-power-distribution-systems-greater-montreal-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004733/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business FX Exposure Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "hardware engineering job for the role Business FX Exposure Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010343/Business-FX-Exposure-Specialist",
-    "id": "abb-business-fx-exposure-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Control Technician Temporary",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Quality Control Technician Temporary at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016820/Quality-Control-Technician-Temporary",
-    "id": "abb-quality-control-technician-temporary-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Trainer ABB University (80-100%)",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "hardware engineering job for the role Technical Trainer ABB University (80-100%) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012543/Technical-Trainer-ABB-University-80-100",
-    "id": "abb-technical-trainer-abb-university-80-100-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Mechanical Engineer",
+    "job_title": "Sales Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Senior Mechanical Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010220/Senior-Mechanical-Engineer",
-    "id": "abb-senior-mechanical-engineer-not-specific"
+    "job_description": "hardware engineering job for the role Sales Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006166/Sales-Engineer",
+    "id": "abb-sales-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer - Analytics Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer - Analytics Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007536/R-D-Senior-Engineer-Analytics-Developer",
+    "id": "abb-r-d-senior-engineer-analytics-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Support Specialist_Export",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sales Support Specialist_Export at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016306/Sales-Support-Specialist-Export",
+    "id": "abb-sales-support-specialist_export-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Key Account Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Senior Key Account Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007251/Senior-Key-Account-Specialist",
+    "id": "abb-senior-key-account-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Engineer East or West Flanders",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role Sales Engineer East or West Flanders at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93433335/Sales-Engineer-East-or-West-Flanders",
+    "id": "abb-sales-engineer-east-or-west-flanders-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Construction Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Field Construction Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013389/Field-Construction-Manager",
+    "id": "abb-field-construction-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Project Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009909/Project-Specialist",
+    "id": "abb-project-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse Operator",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Warehouse Operator at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003952/Warehouse-Operator",
+    "id": "abb-warehouse-operator-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Instructor for Electrical Engineering & Mechatronics (m/f/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Instructor for Electrical Engineering & Mechatronics (m/f/d) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015747/Instructor-for-Electrical-Engineering-Mechatronics-m-f-d",
+    "id": "abb-instructor-for-electrical-engineering-mechatronics-m-f-d-not-specific"
   }
 ]
