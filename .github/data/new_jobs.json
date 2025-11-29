@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "End of Warranty Project Manager (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role End of Warranty Project Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015428/End-of-Warranty-Project-Manager-80-100",
-    "id": "abb-end-of-warranty-project-manager-80-100-untersiggenthal"
+    "job_title": "Software Developer to ABB Ports",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Software Developer to ABB Ports at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/91672288/Software-Developer-to-ABB-Ports",
+    "id": "abb-software-developer-to-abb-ports-vaesteras"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Process Operation Specialist",
+    "job_title": "Assembler - 3rd Shift",
+    "job_city": "Portland",
+    "job_state": "Tennessee",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Assembler - 3rd Shift at Portland, Tennessee, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017628/Assembler-3rd-Shift",
+    "id": "abb-assembler-3rd-shift-portland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internal Audit Manager AMEA",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
     "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Process Operation Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016191/Process-Operation-Specialist",
-    "id": "abb-process-operation-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Engineer",
-    "job_city": "Avizieniai",
-    "job_state": "Vilniaus Apskritis",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Service Engineer at Avizieniai, Vilniaus Apskritis, Lithuania",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016465/Service-Engineer",
-    "id": "abb-service-engineer-avizieniai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Medium Voltage Production Operator – 1st Shift",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Medium Voltage Production Operator – 1st Shift at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016673/Medium-Voltage-Production-Operator-1st-Shift",
-    "id": "abb-medium-voltage-production-operator-1st-shift-pinetops"
+    "job_description": "hardware engineering job for the role Internal Audit Manager AMEA at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017384/Internal-Audit-Manager-AMEA",
+    "id": "abb-internal-audit-manager-amea-shanghai"
   }
 ]
