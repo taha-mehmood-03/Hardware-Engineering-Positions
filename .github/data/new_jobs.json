@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Infrastructure TPM, Infra Capacity Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3134475/infrastructure-tpm-infra-capacity-delivery",
+    "job_posted_at": "2025-12-01T17:31:32.792Z",
+    "job_posted_at_datetime_utc": "2025-12-01T17:31:32.792Z",
+    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-arlington"
+  },
+  {
+    "job_title": "Software Development Engineer, Distributed Systems, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, Distributed Systems, Annapurna Labs at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3134053/software-development-engineer-distributed-systems-annapurna-labs",
+    "job_posted_at": "2025-12-01T17:31:32.792Z",
+    "job_posted_at_datetime_utc": "2025-12-01T17:31:32.792Z",
+    "id": "amazon-software-development-engineer-distributed-systems-annapurna-labs-seattle"
+  },
+  {
+    "job_title": "Commodity Manager - PCB, FET, TIM, IMU, Antenna, Robotics Electronics Commodity Team",
+    "employer_name": "Amazon",
+    "job_city": "Irving",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Commodity Manager - PCB, FET, TIM, IMU, Antenna, Robotics Electronics Commodity Team at Irving, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3134489/commodity-manager-pcb-fet-tim-imu-antenna-robotics-electronics-commodity-team",
+    "job_posted_at": "2025-12-01T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-01T00:00:00.000Z",
+    "id": "amazon-commodity-manager-pcb-fet-tim-imu-antenna-robotics-electronics-commodity-team-irving"
+  }
+]
