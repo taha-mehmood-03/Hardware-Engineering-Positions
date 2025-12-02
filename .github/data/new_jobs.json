@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Data Center Logistics Technician, DCC Communities",
+    "employer_name": "Amazon",
+    "job_city": "Berwick",
+    "job_state": "PA",
+    "job_description": "hardware engineering job for the role Data Center Logistics Technician, DCC Communities at Berwick, PA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3135953/data-center-logistics-technician-dcc-communities",
+    "job_posted_at": "2025-12-02T17:30:15.723Z",
+    "job_posted_at_datetime_utc": "2025-12-02T17:30:15.723Z",
+    "id": "amazon-data-center-logistics-technician-dcc-communities-berwick"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrification Smart Power - Lean Challenge Intern - Summer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Electrification Smart Power - Lean Challenge Intern - Summer 2026 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015439/Electrification-Smart-Power-Lean-Challenge-Intern-Summer-2026",
+    "id": "abb-electrification-smart-power-lean-challenge-intern-summer-mebane"
+  }
+]
