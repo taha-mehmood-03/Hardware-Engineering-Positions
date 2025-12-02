@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Technical Director, Foundry Technology",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Principal Engineer, Power Engineering",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Engineer, Power Engineering at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/seattle/senior-principal-engineer-power-engineering/33099/88062625184",
+    "id": "arm-principal-engineer-power-engineering-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Engineer, Power Engineering",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Engineer, Power Engineering at Seattle, Washington, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/seattle/senior-principal-engineer-power-engineering/33099/88062625184",
+    "id": "arm-principal-engineer-power-engineering-seattle"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Ultrasound Systems Engineer",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Technical Director, Foundry Technology at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Technical-Director--Foundry-Technology_2503505?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-technical-director-foundry-technology-santa-clara"
+    "job_description": "hardware engineering job for the role Ultrasound Systems Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--Systems-Design-Architecture-Engineering_R257663?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ultrasound-systems-engineer-us"
   }
 ]
