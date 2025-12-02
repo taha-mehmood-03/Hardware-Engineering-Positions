@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Principal Engineer, Power Engineering",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "job_title": "Intern, Mechanical Engineering",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Engineer, Power Engineering at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/seattle/senior-principal-engineer-power-engineering/33099/88062625184",
-    "id": "arm-principal-engineer-power-engineering-multiple"
+    "job_description": "Hardware Engineering job for the role Intern, Mechanical Engineering at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-mechanical-engineering/33099/89069479088",
+    "id": "arm-intern-mechanical-engineering-austin"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Engineer, Power Engineering",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Engineer, Power Engineering at Seattle, Washington, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/seattle/senior-principal-engineer-power-engineering/33099/88062625184",
-    "id": "arm-principal-engineer-power-engineering-seattle"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Ultrasound Systems Engineer",
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Systems Engineer",
     "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Ultrasound Systems Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--Systems-Design-Architecture-Engineering_R257663?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ultrasound-systems-engineer-us"
+    "job_state": "IN",
+    "job_posted_at": "5h ago",
+    "job_description": "hardware engineering job for the role AI/ML Systems Engineer at Seymour, IN, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/181864962-ai-ml-systems-engineer",
+    "id": "aijobs-ai-ml-systems-engineer-us"
   }
 ]
