@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Staff Hardware Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Hardware Engineer, Supplier Quality, Hardware System Integration",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121455798764085958-staff-hardware-engineer-supplier-quality-hardware-system-integration?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-hardware-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Supplier Quality & Environmental Assurance Manager",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Supplier Quality & Environmental Assurance Manager at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/supplier-quality-and-environmental-assurance-manager/33099/86497988032",
+    "id": "arm-supplier-quality-environmental-assurance-manager-hsinchu"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager Rewards And Benifits",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager Rewards And Benifits at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-manager-rewards-and-benifits/33099/89115783248",
+    "id": "arm-manager-rewards-and-benifits-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer, Incident Excellence - HashiCorp",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer, Incident Excellence - HashiCorp at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76804&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-incident-excellence-hashicorp-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - HashiCorp Terraform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer II - HashiCorp Terraform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76427&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-hashicorp-terraform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant, GDPS",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Consultant, GDPS at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78875&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-gdps-research-triangle-park"
+  }
+]
