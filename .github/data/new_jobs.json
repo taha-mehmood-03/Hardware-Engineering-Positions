@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Design Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Design Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-soc-design-engineer/33099/89123771264",
+    "id": "arm-soc-design-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Low Power & Power Analysis Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Low Power & Power Analysis Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-low-power-and-power-analysis-engineer/33099/87112637216",
+    "id": "arm-soc-low-power-power-analysis-engineer-san-diego"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Risk & Fraud",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Senior Data Scientist, Risk & Fraud at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/182100435-senior-data-scientist-risk-fraud",
+    "id": "aijobs-data-scientist-risk-fraud-unknown"
+  }
+]
