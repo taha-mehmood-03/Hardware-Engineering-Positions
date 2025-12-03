@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Technical Account Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role HPC Technical Account Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057977-hpc-technical-account-manager",
+    "id": "aijobs-hpc-technical-account-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Revenue Systems Lead, Data Infrastructure",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Revenue Systems Lead, Data Infrastructure at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182060807-revenue-systems-lead-data-infrastructure",
+    "id": "aijobs-revenue-systems-lead-data-infrastructure-united-states"
+  }
+]
