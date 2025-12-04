@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Compliance Lab Technician",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Compliance Lab Technician at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77600&source=WEB_Search_NA",
+    "id": "ibm-compliance-lab-technician-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Network Deployment Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Network Deployment Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78618&source=WEB_Search_NA",
+    "id": "ibm-network-deployment-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - OpenRAG FullStack",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer - OpenRAG FullStack at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72424&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-openrag-fullstack-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Development Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76386&source=WEB_Search_NA",
+    "id": "ibm-software-development-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Support Tech Apprentice",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Support Tech Apprentice at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72729&source=WEB_Search_NA",
+    "id": "ibm-system-support-tech-apprentice-austin"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Edge AI SOC System Architect",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Edge AI SOC System Architect at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Compute-System-Engineer_R253948?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-edge-ai-soc-system-architect-us"
+  }
+]
