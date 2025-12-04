@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Electronics Hardware Lead Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Electronics Hardware Lead Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/chandler/electronics-hardware-lead-engineer/33099/86070307440",
+    "id": "arm-electronics-hardware-lead-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Hardware System Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Hardware System Design Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-hardware-system-design-engineer/33099/88350050144",
+    "id": "arm-hardware-system-design-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79199&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "MHorton Conversion",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role MHorton Conversion at Entry LevelNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75719&source=WEB_Search_NA",
+    "id": "ibm-mhorton-conversion-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Enterprise AI Architect",
+    "job_city": "Philadelphia",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Enterprise AI Architect at ProfessionalPhiladelphia, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73117&source=WEB_Search_NA",
+    "id": "ibm-enterprise-ai-architect-philadelphia"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist-Artificial Intelligence",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Data Scientist-Artificial Intelligence at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78616&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-artificial-intelligence-new-york"
+  }
+]
