@@ -1,42 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Power Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-power-engineer/33099/89159713568",
-    "id": "arm-power-engineer-austin"
+    "job_title": "Software Development Engineer, Antenna Software",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, Antenna Software at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3137694/software-development-engineer-antenna-software",
+    "job_posted_at": "2025-12-04T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-04T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-antenna-software-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Power Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Power Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-power-engineer/33099/89159713376",
-    "id": "arm-power-engineer-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff Graphics Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff Graphics Software Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-graphics-software-engineer/33099/88779762896",
-    "id": "arm-senior-staff-graphics-software-engineer-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "DevOps Cloud Engineer",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role DevOps Cloud Engineer at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76130&source=WEB_Search_NA",
-    "id": "ibm-devops-cloud-engineer-san-jose"
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Research Scientist, Post-Training",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Research Engineer / Research Scientist, Post-Training at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182237354-research-engineer-research-scientist-post-training",
+    "id": "aijobs-research-engineer-research-scientist-post-training-us"
   }
 ]
