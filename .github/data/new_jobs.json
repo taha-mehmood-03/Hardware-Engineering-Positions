@@ -1,103 +1,42 @@
 [
   {
-    "job_title": "Data Center Logistics Technician, DCC Communities",
-    "employer_name": "Amazon",
-    "job_city": "Fairless Hills",
-    "job_state": "PA",
-    "job_description": "hardware engineering job for the role Data Center Logistics Technician, DCC Communities at Fairless Hills, PA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3137549/data-center-logistics-technician-dcc-communities",
-    "job_posted_at": "2025-12-04T17:30:55.967Z",
-    "job_posted_at_datetime_utc": "2025-12-04T17:30:55.967Z",
-    "id": "amazon-data-center-logistics-technician-dcc-communities-fairless-hills"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Engineer Solution Architect",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Engineer Solution Architect at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79418&source=WEB_Search_NA",
-    "id": "ibm-full-stack-engineer-solution-architect-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manager, Software Engineer",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manager, Software Engineer at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79426&source=WEB_Search_NA",
-    "id": "ibm-manager-software-engineer-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer & Administrator (Intern) - Austin, TX",
+    "employer_name": "Arm",
+    "job_title": "Power Engineer",
     "job_city": "Austin",
-    "job_state": "US",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineer & Administrator (Intern) - Austin, TX at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79232&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-administrator-intern-austin-tx-austin"
+    "job_description": "Hardware Engineering job for the role Principal Power Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-power-engineer/33099/89159713568",
+    "id": "arm-power-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Power Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Power Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-power-engineer/33099/89159713376",
+    "id": "arm-power-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Graphics Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Graphics Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-graphics-software-engineer/33099/88779762896",
+    "id": "arm-senior-staff-graphics-software-engineer-cambridge"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Enterprise Application Architect – .NET, & AWS",
-    "job_city": "No City",
+    "job_title": "DevOps Cloud Engineer",
+    "job_city": "San Jose",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Enterprise Application Architect – .NET, & AWS at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79422&source=WEB_Search_NA",
-    "id": "ibm-enterprise-application-architect-net-aws-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manufacturing Systems Architect",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manufacturing Systems Architect at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79413&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-systems-architect-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quality Assurance Lead",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quality Assurance Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79397&source=WEB_Search_NA",
-    "id": "ibm-quality-assurance-lead-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Architect – EHS, Quality & PLM Systems",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Architect – EHS, Quality & PLM Systems at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79404&source=WEB_Search_NA",
-    "id": "ibm-application-architect-ehs-quality-plm-systems-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Functional Consultant Lead",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Functional Consultant Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79429&source=WEB_Search_NA",
-    "id": "ibm-functional-consultant-lead-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Database Architect Lead",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Enterprise Database Architect Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79433&source=WEB_Search_NA",
-    "id": "ibm-enterprise-database-architect-lead-no-city"
+    "job_description": "Hardware Engineering job for the role DevOps Cloud Engineer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76130&source=WEB_Search_NA",
+    "id": "ibm-devops-cloud-engineer-san-jose"
   }
 ]
