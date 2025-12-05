@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "AI/ML Engineering internship: SVL",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI/ML Engineering internship: SVL at InternshipSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79669&source=WEB_Search_NA",
+    "id": "ibm-ai-ml-engineering-internship-svl-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager Poughkeepsie NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Product Manager Poughkeepsie NY 2026 at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79663&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Head of Product Management KNX (m/f/d)",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Head of Product Management KNX (m/f/d) at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017019/Head-of-Product-Management-KNX-m-f-d",
+    "id": "abb-head-of-product-management-knx-m-f-d-heidelberg"
+  }
+]
