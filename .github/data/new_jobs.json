@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Inside Sales Specialist - Southwest",
+    "employer_name": "Arm",
+    "job_title": "Engineering IP Governance Technical Program Manager",
     "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Inside Sales Specialist - Southwest at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014794/Inside-Sales-Specialist-Southwest",
-    "id": "abb-inside-sales-specialist-southwest-multiple"
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineering IP Governance Technical Program Manager at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/engineering-ip-governance-technical-program-manager/33099/87521064400",
+    "id": "arm-engineering-ip-governance-technical-program-manager-multiple"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Robotic Sensor Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Robotic Sensor Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-Robotic-Sensor-Engineer_R257969?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-robotic-sensor-engineer-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Embedded Software Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Embedded Software Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Embedded-Software-Engineer_R257970?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-software-engineer-us"
+    "employer_name": "Arm",
+    "job_title": "Quality Compliance Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quality Compliance Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/quality-compliance-engineer/33099/61697469856",
+    "id": "arm-quality-compliance-engineer-multiple"
   }
 ]
