@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Validation Engineer",
-    "job_city": "Mountain View",
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Software Engineer, GPU Architecture",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "7 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Validation Engineer, Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95984754523808454-hardware-validation-engineer-cloud-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-validation-engineer-mountain-view"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full Stack Software Engineer, GPU Architecture at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182295904-full-stack-software-engineer-gpu-architecture",
+    "id": "aijobs-full-stack-software-engineer-gpu-architecture-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GPU Architect, Deep Learning",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior GPU Architect, Deep Learning at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182295903-senior-gpu-architect-deep-learning",
+    "id": "aijobs-gpu-architect-deep-learning-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Platform Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Data Platform Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182295905-principal-data-platform-architect",
+    "id": "aijobs-data-platform-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Python Numerical Computing Libraries",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Python Numerical Computing Libraries at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182295907-senior-software-engineer-python-numerical-computing-libraries",
+    "id": "aijobs-software-engineer-python-numerical-computing-libraries-santa-clara"
   }
 ]
