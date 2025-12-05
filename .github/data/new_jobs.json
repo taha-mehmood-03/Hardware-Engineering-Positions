@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, GPU Architecture",
-    "job_city": "Santa Clara",
+    "employer_name": "Google",
+    "job_title": "Hardware Operations Program Manager",
+    "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Full Stack Software Engineer, GPU Architecture at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182295904-full-stack-software-engineer-gpu-architecture",
-    "id": "aijobs-full-stack-software-engineer-gpu-architecture-santa-clara"
+    "job_posted_at": "Recently",
+    "job_description": "24 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Operations Program Manager",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104389146528621254-hardware-operations-program-manager?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-operations-program-manager-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Tools Developer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Verification Tools Developer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/verification-tools-developer/33099/89181846064",
+    "id": "arm-verification-tools-developer-bengaluru"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "GPU Architect, Deep Learning",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Sourcing Delivery Manager (Devices)",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior GPU Architect, Deep Learning at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182295903-senior-gpu-architect-deep-learning",
-    "id": "aijobs-gpu-architect-deep-learning-santa-clara"
+    "job_description": "hardware engineering job for the role Sourcing Delivery Manager (Devices) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182300208-sourcing-delivery-manager-devices",
+    "id": "aijobs-sourcing-delivery-manager-devices-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Platform Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Principal Data Platform Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182295905-principal-data-platform-architect",
-    "id": "aijobs-data-platform-architect-santa-clara"
+    "job_title": "User Safety & Risk Operations Manager, Ops Enablement & Analytics",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role User Safety & Risk Operations Manager, Ops Enablement & Analytics at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182300210-user-safety-risk-operations-manager-ops-enablement-analytics",
+    "id": "aijobs-user-safety-risk-operations-manager-ops-enablement-analytics-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Python Numerical Computing Libraries",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Product Marketing Manager, ChatGPT Consumer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - Python Numerical Computing Libraries at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182295907-senior-software-engineer-python-numerical-computing-libraries",
-    "id": "aijobs-software-engineer-python-numerical-computing-libraries-santa-clara"
+    "job_description": "hardware engineering job for the role Product Marketing Manager, ChatGPT Consumer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182300209-product-marketing-manager-chatgpt-consumer",
+    "id": "aijobs-product-marketing-manager-chatgpt-consumer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "State Government Affairs Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role State Government Affairs Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182300211-state-government-affairs-lead",
+    "id": "aijobs-state-government-affairs-lead-united-states"
   }
 ]
