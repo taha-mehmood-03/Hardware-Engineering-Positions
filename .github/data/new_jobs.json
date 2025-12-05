@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Product Management Professional",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Customer Quality Engineer",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Management Professional 2026 at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73840&source=WEB_Search_NA",
-    "id": "ibm-product-management-professional-poughkeepsie"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "The hardware hacker",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "6h ago",
-    "job_description": "hardware engineering job for the role The hardware hacker at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182284427-the-hardware-hacker",
-    "id": "aijobs-the-hardware-hacker-us"
+    "job_description": "Hardware Engineering job for the role Principal Customer Quality Engineer at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-customer-quality-engineer/33099/89177854896",
+    "id": "arm-customer-quality-engineer-hsinchu"
   }
 ]
