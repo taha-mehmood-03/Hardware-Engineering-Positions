@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Autonomous Vehicles AI Applications",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Field Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer - Autonomous Vehicles AI Applications at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182375554-senior-system-software-engineer-autonomous-vehicles-ai-applications",
-    "id": "aijobs-system-software-engineer-autonomous-vehicles-ai-applications-santa-clara"
+    "job_description": "hardware engineering job for the role Field Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182377495-field-engineer",
+    "id": "aijobs-field-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Simulation Realism Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Simulation Realism Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182377496-simulation-realism-engineer",
+    "id": "aijobs-simulation-realism-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Audiovisual Events Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Audiovisual Events Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182377497-audiovisual-events-engineer",
+    "id": "aijobs-audiovisual-events-engineer-united-states"
   }
 ]
