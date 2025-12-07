@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Electrical Engineer (All Levels)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Electrical Engineer (All Levels) at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182492068-electrical-engineer-all-levels",
+    "id": "aijobs-electrical-engineer-all-levels-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer (All Levels)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer (All Levels) at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182492067-software-engineer-all-levels",
+    "id": "aijobs-software-engineer-all-levels-us"
+  }
+]
