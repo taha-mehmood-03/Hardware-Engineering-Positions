@@ -1,53 +1,33 @@
 [
   {
-    "job_title": "Interdisciplinary Systems Engineer, Manufacturing Test Equipment Standardization, Amazon Leo",
+    "job_title": "Software Development Engineer, Leo Manufacturing Software Systems",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "hardware engineering job for the role Interdisciplinary Systems Engineer, Manufacturing Test Equipment Standardization, Amazon Leo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3138443/interdisciplinary-systems-engineer-manufacturing-test-equipment-standardization-amazon-leo",
-    "job_posted_at": "2025-12-05T18:29:19.931Z",
-    "job_posted_at_datetime_utc": "2025-12-05T18:29:19.931Z",
-    "id": "amazon-interdisciplinary-systems-engineer-manufacturing-test-equipment-standardization-amazon-leo-bellevue"
+    "job_description": "hardware engineering job for the role Software Development Engineer, Leo Manufacturing Software Systems at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3138982/software-development-engineer-leo-manufacturing-software-systems",
+    "job_posted_at": "2025-12-08T18:16:37.454Z",
+    "job_posted_at_datetime_utc": "2025-12-08T18:16:37.454Z",
+    "id": "amazon-software-development-engineer-leo-manufacturing-software-systems-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Customer Solutions Engineer",
-    "job_city": "Bellevue",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "EDA Manager",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Solutions Engineer at Entry LevelBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79963&source=WEB_Search_NA",
-    "id": "ibm-customer-solutions-engineer-bellevue"
+    "job_description": "Hardware Engineering job for the role EDA Manager at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/eda-manager/33099/89303332176",
+    "id": "arm-eda-manager-sophia-antipolis"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer - HashiCorp Core Data",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Engineer - HashiCorp Core Data at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76430&source=WEB_Search_NA",
-    "id": "ibm-engineer-hashicorp-core-data-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Offering Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Offering Manager 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78571&source=WEB_Search_NA",
-    "id": "ibm-entry-level-offering-manager-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Inside Sales Specialist - Mountain West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Inside Sales Specialist - Mountain West at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014786/Inside-Sales-Specialist-Mountain-West",
-    "id": "abb-inside-sales-specialist-mountain-west-multiple"
+    "employer_name": "Micron",
+    "job_title": "MTS, Data Science Agentic Platforms",
+    "job_city": "Folsom",
+    "job_state": "California",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role MTS, Data Science Agentic Platforms at Folsom, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30687259",
+    "id": "micron-mts-data-science-agentic-platforms-folsom"
   }
 ]
