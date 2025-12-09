@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Research - Human Data",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "29min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Research - Human Data at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182823732-software-engineer-research-human-data",
-    "id": "aijobs-software-engineer-research-human-data-us"
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - Open Search",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer - Open Search at ProfessionalBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72340&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-open-search-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Professional",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Support Professional at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79590&source=WEB_Search_NA",
+    "id": "ibm-technical-support-professional-research-triangle-park"
   }
 ]
