@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Program Manager, Hardware Engineering",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Technical Program Manager, Hardware Engineering at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-technical-program-manager-hardware-engineering/33099/89339436352",
-    "id": "arm-technical-program-manager-hardware-engineering-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager, Vendor Management",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager, Vendor Management at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-vendor-management/33099/72932452352",
-    "id": "arm-manager-vendor-management-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Firmware Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Firmware Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-firmware-design-engineer/33099/89339617712",
-    "id": "arm-firmware-design-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Subk-C Systems Engineer (OCPA)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Subk-C Systems Engineer (OCPA) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78906&source=WEB_Search_NA",
-    "id": "ibm-subk-c-systems-engineer-ocpa-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Research - Human Data",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Research - Human Data at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182823732-software-engineer-research-human-data",
+    "id": "aijobs-software-engineer-research-human-data-us"
   }
 ]
