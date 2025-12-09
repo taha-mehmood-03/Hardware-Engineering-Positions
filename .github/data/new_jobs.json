@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "Cloud Hardware Development Engineer, Thermal & Mechanical",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, Thermal & Mechanical at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139264/cloud-hardware-development-engineer-thermal-mechanical",
+    "job_posted_at": "2025-12-09T00:25:07.112Z",
+    "job_posted_at_datetime_utc": "2025-12-09T00:25:07.112Z",
+    "id": "amazon-cloud-hardware-development-engineer-thermal-mechanical-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal DFT Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal DFT Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-dft-engineer/33099/89314311296",
+    "id": "arm-principal-dft-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Support Professional",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Technical Support Professional at Entry LevelBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80031&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-support-professional-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud CX Application Architect",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud CX Application Architect at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80019&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-cx-application-architect-no-city"
+  }
+]
