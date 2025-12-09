@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer, Chip Methodology and Automation",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Applications Engineer, Chip Methodology and Automation at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-applications-engineer-chip-methodology-and-automation/33099/86204366128",
+    "id": "arm-applications-engineer-chip-methodology-and-automation-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer - STA",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer - STA at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-sta/33099/89323820896",
+    "id": "arm-engineer-sta-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Senior AI Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182780257-senior-ai-architect",
+    "id": "aijobs-ai-architect-santa-clara"
+  }
+]
