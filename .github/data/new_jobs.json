@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - Open Search",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer - Open Search at ProfessionalBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72340&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-open-search-bellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Professional",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Support Professional at ProfessionalRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79590&source=WEB_Search_NA",
-    "id": "ibm-technical-support-professional-research-triangle-park"
+    "employer_name": "Micron",
+    "job_title": "MTS Data Scientist, Agentic Platforms",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role MTS Data Scientist, Agentic Platforms at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30687413",
+    "id": "micron-mts-data-scientist-agentic-platforms-boise"
   }
 ]
