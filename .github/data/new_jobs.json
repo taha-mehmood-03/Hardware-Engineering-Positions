@@ -1,32 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Applications Engineer, Chip Methodology and Automation",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Hardware Technical Program Manager",
+    "job_city": "San Jose",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Applications Engineer, Chip Methodology and Automation at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-applications-engineer-chip-methodology-and-automation/33099/86204366128",
-    "id": "arm-applications-engineer-chip-methodology-and-automation-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer - STA",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer - STA at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-sta/33099/89323820896",
-    "id": "arm-engineer-sta-bengaluru"
+    "job_description": "19 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Technical Program Manager, New Technology Investigations",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82207994086859462-hardware-technical-program-manager-new-technology-investigations?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-technical-program-manager-san-jose"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "10h ago",
-    "job_description": "hardware engineering job for the role Senior AI Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182780257-senior-ai-architect",
-    "id": "aijobs-ai-architect-santa-clara"
+    "job_title": "Strategic Finance, Hardware R&D and Consolidations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Finance, Hardware R&D and Consolidations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182782458-strategic-finance-hardware-r-d-and-consolidations",
+    "id": "aijobs-strategic-finance-hardware-r-d-and-consolidations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Finance, Hardware Product Finance Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Finance, Hardware Product Finance Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182782459-strategic-finance-hardware-product-finance-lead",
+    "id": "aijobs-strategic-finance-hardware-product-finance-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategy & Operations Manager, Support",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role Strategy & Operations Manager, Support at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182782461-strategy-operations-manager-support",
+    "id": "aijobs-strategy-operations-manager-support-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compute & Infrastructure Accounting Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Compute & Infrastructure Accounting Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182782460-compute-infrastructure-accounting-manager",
+    "id": "aijobs-compute-infrastructure-accounting-manager-united-states"
   }
 ]
