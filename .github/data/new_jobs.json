@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Bid Manager",
+    "job_title": "Sales Operations Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Bid Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017233/Bid-Manager",
-    "id": "abb-bid-manager-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Sales Operations Manager at Available in one of 17 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018711/Sales-Operations-Manager",
+    "id": "abb-sales-operations-manager-multiple"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect - Rack Scale AI Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Solutions Architect - Rack Scale AI Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182882297-solutions-architect-rack-scale-ai-systems",
+    "id": "aijobs-solutions-architect-rack-scale-ai-systems-santa-clara"
   }
 ]
