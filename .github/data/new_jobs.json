@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Sales Operations Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sales Operations Manager at Available in one of 17 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018711/Sales-Operations-Manager",
-    "id": "abb-sales-operations-manager-multiple"
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer with cybersecurity knowledge",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Verification Engineer with cybersecurity knowledge at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/verification-engineer-with-cybersecurity-knowledge/33099/88536804352",
+    "id": "arm-verification-engineer-with-cybersecurity-knowledge-cambridge"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Solutions Architect - Rack Scale AI Systems",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Technical Recruiter, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role Senior Technical Recruiter, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182883307-senior-technical-recruiter-consumer-products",
+    "id": "aijobs-technical-recruiter-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Electrical Engineer, End-Effectors",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Solutions Architect - Rack Scale AI Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/182882297-solutions-architect-rack-scale-ai-systems",
-    "id": "aijobs-solutions-architect-rack-scale-ai-systems-santa-clara"
+    "job_description": "hardware engineering job for the role Electrical Engineer, End-Effectors at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182883305-electrical-engineer-end-effectors",
+    "id": "aijobs-electrical-engineer-end-effectors-united-states"
   }
 ]
