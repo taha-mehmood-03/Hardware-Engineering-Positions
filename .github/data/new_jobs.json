@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Product/Test Engineer",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Product/Test Engineer at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-product-test-engineer/33099/89393464512",
+    "id": "arm-product-test-engineer-hsinchu"
+  }
+]
