@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Layout Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Layout Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-layout-engineer/33099/89458718416",
-    "id": "arm-layout-engineer-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Validation Intern - Master's Degree",
-    "job_city": "US - NY - Hudson Valley",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Hardware Validation Intern - Master's Degree at US - NY - Hudson Valley",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---NY---Hudson-Valley/Hardware-Validation-Intern---Master-s-Degree_2502794-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-validation-intern-master-s-degree-us-ny-hudson-valley"
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   }
 ]
