@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2min ago",
+    "job_description": "hardware engineering job for the role Manufacturing Engineer at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183229949-manufacturing-engineer",
+    "id": "aijobs-manufacturing-engineer-us"
+  }
+]
