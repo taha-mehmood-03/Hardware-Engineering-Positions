@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr Product Security Engineer - HashiCorp Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Customer Quality Engineer",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr Product Security Engineer - HashiCorp Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80190&source=WEB_Search_NA",
-    "id": "ibm-sr-product-security-engineer-hashicorp-security-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Technical Support Engineer - Cloudability",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Technical Support Engineer - Cloudability at Entry LevelBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79949&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-support-engineer-cloudability-bellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Threat Detection & Response Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Threat Detection & Response Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80517&source=WEB_Search_NA",
-    "id": "ibm-threat-detection-response-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Professional - Data Analyst",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Supply Chain Professional - Data Analyst at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79276&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-professional-data-analyst-poughkeepsie"
+    "job_description": "Hardware Engineering job for the role Principal Customer Quality Engineer at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/principal-customer-quality-engineer/33099/89177854896",
+    "id": "arm-customer-quality-engineer-taipei"
   }
 ]
