@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer-Pre-silicon Verification/Emulation",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Engineer-Pre-silicon Verification/Emulation at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-engineer-pre-silicon-verification-emulation/33099/87734064784",
-    "id": "arm-engineer-pre-silicon-verification-emulation-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Control SW Senior / Principal R&D Engineer for SST (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Power Electronics Control SW Senior / Principal R&D Engineer for SST (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018311/Power-Electronics-Control-SW-Senior-Principal-R-D-Engineer-for-SST-80-100",
+    "id": "abb-power-electronics-control-sw-senior-principal-r-d-engineer-for-sst-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Engineering Senior Designer for SST (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Power Electronics Engineering Senior Designer for SST (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018313/Power-Electronics-Engineering-Senior-Designer-for-SST-80-100",
+    "id": "abb-power-electronics-engineering-senior-designer-for-sst-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics R&D Engineer for SST (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Power Electronics R&D Engineer for SST (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018312/Power-Electronics-R-D-Engineer-for-SST-80-100",
+    "id": "abb-power-electronics-r-d-engineer-for-sst-80-100-baden-daettwil"
   }
 ]
