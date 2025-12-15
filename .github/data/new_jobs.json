@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Software Test Leader",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Software Test Leader at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015718/Software-Test-Leader",
-    "id": "abb-software-test-leader-vaesteras"
+    "job_title": "Applied Scientist - Robotics Controls",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Applied Scientist - Robotics Controls at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3142811/applied-scientist-robotics-controls",
+    "job_posted_at": "2025-12-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-15T00:00:00.000Z",
+    "id": "amazon-applied-scientist-robotics-controls-north-reading"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "ASIC Design Verification Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "37 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Design Verification Engineer, Machine Learning",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96287347854713542-asic-design-verification-engineer-machine-learning?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-asic-design-verification-engineer-sunnyvale"
   }
 ]
