@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Director of Product Management - AI Infrastructure/System Security",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Director of Product Management - AI Infrastructure/System Security at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-of-Product-Management-AI-System-Management-and-Security_2503353?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-of-product-management-ai-infrastructure-system-security-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "High-Speed I/O Architect (PCIe, CXL, UA Link)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal High-Speed I/O Architect (PCIe, CXL, UA Link) at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-high-speed-i-o-architect-pcie-cxl-ua-link/33099/79892773616",
+    "id": "arm-high-speed-i-o-architect-pcie-cxl-ua-link-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Designer - Client Engineering",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Designer - Client Engineering at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80797&source=WEB_Search_NA",
+    "id": "ibm-designer-client-engineering-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Engineer (Cable/Interconnect)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Engineer (Cable/Interconnect) at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80857&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-engineer-cable-interconnect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80859&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Experienced Quantum Research Scientist",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced Quantum Research Scientist at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80579&source=WEB_Search_NA",
+    "id": "ibm-experienced-quantum-research-scientist-yorktown-heights"
   }
 ]
