@@ -1,52 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Distinguished Engineer - Dynamo",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Distinguished Engineer - Dynamo at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183575620-distinguished-engineer-dynamo",
-    "id": "aijobs-distinguished-engineer-dynamo-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal)",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal) at Raleigh, North Carolina",
+    "job_apply_link": "https://careers.arm.com/job/raleigh/cpu-performance-microarchitecture-exploration-engineer-senior-principal/33099/65958437776",
+    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-senior-principal-raleigh"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "EHS Manager, Engineering & Technical Operations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "11h ago",
-    "job_description": "hardware engineering job for the role EHS Manager, Engineering & Technical Operations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183576495-ehs-manager-engineering-technical-operations",
-    "id": "aijobs-ehs-manager-engineering-technical-operations-united-states"
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018743/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Datacenter Resiliency Architect - New College Grad",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Datacenter Resiliency Architect - New College Grad 2025 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183575618-datacenter-resiliency-architect-new-college-grad-2025",
-    "id": "aijobs-datacenter-resiliency-architect-new-college-grad-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "HPC Systems Engineer, Consumer Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role HPC Systems Engineer, Consumer Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183576496-hpc-systems-engineer-consumer-products",
-    "id": "aijobs-hpc-systems-engineer-consumer-products-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Deep Learning - MLIR TRT",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Deep Learning - MLIR TRT at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183575617-senior-software-engineer-deep-learning-mlir-trt",
-    "id": "aijobs-software-engineer-deep-learning-mlir-trt-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Working Student (m/f/d) - Operational Technology Maintenance",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Working Student (m/f/d) - Operational Technology Maintenance at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019381/Working-Student-m-f-d-Operational-Technology-Maintenance",
+    "id": "abb-working-student-m-f-d-operational-technology-maintenance-heidelberg"
   }
 ]
