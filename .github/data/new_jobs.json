@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineering Intern",
-    "job_city": "Munich",
-    "job_state": "Germany",
+    "employer_name": "IBM",
+    "job_title": "Engineering Manager - HashiCorp, Terraform Registry",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineering Intern at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/software-engineering-intern/33099/87523225728",
-    "id": "arm-software-engineering-intern-munich"
+    "job_description": "Hardware Engineering job for the role Engineering Manager - HashiCorp, Terraform Registry at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81728&source=WEB_Search_NA",
+    "id": "ibm-engineering-manager-hashicorp-terraform-registry-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Java Software Dev (Teleco Domain) Java fullstack",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Java Software Dev (Teleco Domain) Java fullstack at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81197&source=WEB_Search_NA",
+    "id": "ibm-java-software-dev-teleco-domain-java-fullstack-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Java Software Developer (Telecom Domain)",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Java Software Developer (Telecom Domain) at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81194&source=WEB_Search_NA",
+    "id": "ibm-java-software-developer-telecom-domain-dallas"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Manager",
+    "job_city": "Mechanicsville",
+    "job_state": "Virginia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Sales Manager at Mechanicsville, Virginia, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017775/Sales-Manager",
+    "id": "abb-sales-manager-mechanicsville"
   }
 ]
