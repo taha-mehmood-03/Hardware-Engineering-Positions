@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal)",
-    "job_city": "Raleigh",
+    "employer_name": "ABB",
+    "job_title": "ELDS LV SWGR Trainer- 1st Shift",
+    "job_city": "Mebane",
     "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal) at Raleigh, North Carolina",
-    "job_apply_link": "https://careers.arm.com/job/raleigh/cpu-performance-microarchitecture-exploration-engineer-senior-principal/33099/65958437776",
-    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-senior-principal-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
     "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018743/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Working Student (m/f/d) - Operational Technology Maintenance",
-    "job_city": "Heidelberg",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Working Student (m/f/d) - Operational Technology Maintenance at Heidelberg, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019381/Working-Student-m-f-d-Operational-Technology-Maintenance",
-    "id": "abb-working-student-m-f-d-operational-technology-maintenance-heidelberg"
+    "job_description": "hardware engineering job for the role ELDS LV SWGR Trainer- 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017209/ELDS-LV-SWGR-Trainer-1st-Shift",
+    "id": "abb-elds-lv-swgr-trainer-1st-shift-mebane"
   }
 ]
