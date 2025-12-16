@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Research Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "28 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Engineer, Health and Home Intelligence",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82241945803334342-research-engineer-health-and-home-intelligence?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-research-engineer-mountain-view"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Advanced Variant Configuration (AVC) Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP Advanced Variant Configuration (AVC) Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80922&source=WEB_Search_NA",
+    "id": "ibm-sap-advanced-variant-configuration-avc-lead-multiple-cities"
+  }
+]
