@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineering IP Governance Operations Manager",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineering IP Governance Operations Manager at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineering-ip-governance-operations-manager/33099/88002931472",
-    "id": "arm-engineering-ip-governance-operations-manager-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer - Dynamo",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Distinguished Engineer - Dynamo at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/183575620-distinguished-engineer-dynamo",
+    "id": "aijobs-distinguished-engineer-dynamo-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Cloud/HPC",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Cloud/HPC at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-software-engineer-cloud-hpc/33099/89574732224",
-    "id": "arm-software-engineer-cloud-hpc-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "EHS Manager, Engineering & Technical Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "11h ago",
+    "job_description": "hardware engineering job for the role EHS Manager, Engineering & Technical Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183576495-ehs-manager-engineering-technical-operations",
+    "id": "aijobs-ehs-manager-engineering-technical-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Resiliency Architect - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Datacenter Resiliency Architect - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/183575618-datacenter-resiliency-architect-new-college-grad-2025",
+    "id": "aijobs-datacenter-resiliency-architect-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Systems Engineer, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role HPC Systems Engineer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183576496-hpc-systems-engineer-consumer-products",
+    "id": "aijobs-hpc-systems-engineer-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Deep Learning - MLIR TRT",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Deep Learning - MLIR TRT at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/183575617-senior-software-engineer-deep-learning-mlir-trt",
+    "id": "aijobs-software-engineer-deep-learning-mlir-trt-santa-clara"
   }
 ]
