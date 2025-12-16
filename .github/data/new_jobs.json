@@ -1,13 +1,34 @@
 [
   {
-    "job_title": "Cost Analyst, AWS AI/ML Supply Chain",
+    "job_title": "Software Development Engineer, AWS Vetting",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Vetting at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144139/software-development-engineer-aws-vetting",
+    "job_posted_at": "2025-12-16T18:18:53.913Z",
+    "job_posted_at_datetime_utc": "2025-12-16T18:18:53.913Z",
+    "id": "amazon-software-development-engineer-aws-vetting-cupertino"
+  },
+  {
+    "job_title": "DC Infra Eng I - AMZ23750.1",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "hardware engineering job for the role Cost Analyst, AWS AI/ML Supply Chain at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144066/cost-analyst-aws-ai-ml-supply-chain",
-    "job_posted_at": "2025-12-16T16:30:05.349Z",
-    "job_posted_at_datetime_utc": "2025-12-16T16:30:05.349Z",
-    "id": "amazon-cost-analyst-aws-ai-ml-supply-chain-seattle"
+    "job_description": "hardware engineering job for the role DC Infra Eng I - AMZ23750.1 at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3136868/dc-infra-eng-i-amz23750-1",
+    "job_posted_at": "2025-12-15T22:18:53.913Z",
+    "job_posted_at_datetime_utc": "2025-12-15T22:18:53.913Z",
+    "id": "amazon-dc-infra-eng-i-amz23750-1-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Mechanical Thermal Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Mechanical Thermal Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-mechanical-thermal-engineer/33099/89375523888",
+    "id": "arm-mechanical-thermal-engineer-austin"
   }
 ]
