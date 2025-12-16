@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "C/C++ Software Developer (Telecom Domain)",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role C/C++ Software Developer (Telecom Domain) at ProfessionalDallas, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81185&source=WEB_Search_NA",
-    "id": "ibm-c-c-software-developer-telecom-domain-dallas"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "RF/Microwave Product Engineer - Space",
-    "job_city": "US",
+    "employer_name": "MARVELL",
+    "job_title": "Digital IC Design Engineer – Custom Compute Solutions",
+    "job_city": "Westborough",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role RF/Microwave Product Engineer - Space at US, MA, Chelmsford, Elizabeth",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/RF-Microwave-Product-Engineer---Space_R255292?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-rf-microwave-product-engineer-space-us"
+    "job_description": "hardware engineering job for the role Principal Digital IC Design Engineer – Custom Compute Solutions at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Principal-Digital-IC-Design-Engineer---Custom-Compute-Solutions_2503854?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-digital-ic-design-engineer-custom-compute-solutions-westborough"
   }
 ]
