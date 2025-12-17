@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Test Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "23 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Test Engineer, Optics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131903888142803654-hardware-test-engineer-optics?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-test-engineer-mountain-view"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality and Continuous Improvement Manager",
+    "job_city": "Johannesburg",
+    "job_state": "Gauteng",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Quality and Continuous Improvement Manager at Johannesburg, Gauteng, South Africa",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016594/Quality-and-Continuous-Improvement-Manager",
+    "id": "abb-quality-and-continuous-improvement-manager-johannesburg"
+  }
+]
