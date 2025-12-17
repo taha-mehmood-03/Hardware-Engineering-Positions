@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Software Test Development Engineer(SDET)- Networking Systems",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Test Development Engineer(SDET)- Networking Systems at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-test-development-engineer-sdet-networking-systems/33099/77284798592",
+    "id": "arm-software-test-development-engineer-sdet-networking-systems-austin"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "Consultant Oracle Cloud PPM",
+    "job_title": "Product Manager - HashiCorp Boundary",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Oracle Cloud PPM at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81212&source=WEB_Search_NA",
-    "id": "ibm-consultant-oracle-cloud-ppm-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Product Manager - HashiCorp Boundary at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81714&source=WEB_Search_NA",
+    "id": "ibm-product-manager-hashicorp-boundary-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Sales, Marine Service Solutions",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Sales, Marine Service Solutions at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011517/Senior-Sales-Marine-Service-Solutions",
+    "id": "abb-senior-sales-marine-service-solutions-multiple"
   }
 ]
