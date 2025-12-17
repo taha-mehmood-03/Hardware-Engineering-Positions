@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior ASIC Physical Design Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "33 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior ASIC Physical Design Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74007110517433030-senior-asic-physical-design-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-asic-physical-design-engineer-sunnyvale"
+    "job_title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
+    "job_posted_at": "2025-12-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-17T00:00:00.000Z",
+    "id": "amazon-robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more-boston"
   }
 ]
