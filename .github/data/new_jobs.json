@@ -1,82 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - CUDA and Unified Memory",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - CUDA and Unified Memory at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673946-senior-software-engineer-cuda-and-unified-memory",
-    "id": "aijobs-software-engineer-cuda-and-unified-memory-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Hardware Procurement Operations Lead (Controls & Integrations)",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Hardware Procurement Operations Lead (Controls & Integrations) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183674796-hardware-procurement-operations-lead-controls-integrations",
-    "id": "aijobs-hardware-procurement-operations-lead-controls-integrations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer, Consumer Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role System Software Engineer, Consumer Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/166132206-system-software-engineer-consumer-products",
-    "id": "aijobs-system-software-engineer-consumer-products-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Connectivity Software Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1min ago",
-    "job_description": "hardware engineering job for the role Connectivity Software Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183674793-connectivity-software-engineer",
-    "id": "aijobs-connectivity-software-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Contracts Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Contracts Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183674789-contracts-manager",
-    "id": "aijobs-contracts-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Order to Cash, Order Management and Billing Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Order to Cash, Order Management and Billing Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/183674795-order-to-cash-order-management-and-billing-lead",
-    "id": "aijobs-order-to-cash-order-management-and-billing-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, NeMo Retriever - Model Optimization and MLOps",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior AI Engineer, NeMo Retriever - Model Optimization and MLOps at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673950-senior-ai-engineer-nemo-retriever-model-optimization-and-mlops",
-    "id": "aijobs-ai-engineer-nemo-retriever-model-optimization-and-mlops-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - AI and Robotics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role System Software Engineer - AI and Robotics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673948-system-software-engineer-ai-and-robotics",
-    "id": "aijobs-system-software-engineer-ai-and-robotics-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Verification Methodology Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Verification Methodology Engineer at Cambridge, United Kingdom, Sheffield, United Kingdom, Toronto, Canada",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-verification-methodology-engineer/33099/89614614800",
+    "id": "arm-verification-methodology-engineer-cambridge"
   }
 ]
