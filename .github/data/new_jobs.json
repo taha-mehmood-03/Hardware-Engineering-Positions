@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Internship",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer Internship 2026 at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80825&source=WEB_Search_NA",
-    "id": "ibm-software-developer-internship-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Risk",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "17h ago",
-    "job_description": "hardware engineering job for the role Data Scientist - Risk at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/183711559-data-scientist-risk",
-    "id": "aijobs-data-scientist-risk-unknown"
+    "employer_name": "ABB",
+    "job_title": "Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Manager at Available in one of 36 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
+    "id": "abb-project-manager-multiple"
   }
 ]
