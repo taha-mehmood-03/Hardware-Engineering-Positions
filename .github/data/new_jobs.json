@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Power Test Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "2 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Power Test Engineer, Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131731299176981190-hardware-power-test-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-power-test-engineer-sunnyvale"
+    "employer_name": "ABB",
+    "job_title": "Graduate Project Engineer",
+    "job_city": "Aberdeen",
+    "job_state": "Aberdeenshire",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Graduate Project Engineer at Aberdeen, Aberdeenshire, United Kingdom",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019902/Graduate-Project-Engineer",
+    "id": "abb-graduate-project-engineer-aberdeen"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager, User Tools",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Graduate Project Engineer",
+    "job_city": "Saint Neots",
+    "job_state": "Cambridgeshire",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Global Product Manager, User Tools at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019315/Global-Product-Manager-User-Tools",
-    "id": "abb-global-product-manager-user-tools-multiple"
+    "job_description": "hardware engineering job for the role Graduate Project Engineer at Saint Neots, Cambridgeshire, United Kingdom",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019897/Graduate-Project-Engineer",
+    "id": "abb-graduate-project-engineer-saint-neots"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Manager, Software Engineering - CUDA Driver",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Enterprise AI Platform",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Manager, Software Engineering - CUDA Driver at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183757220-senior-manager-software-engineering-cuda-driver",
-    "id": "aijobs-manager-software-engineering-cuda-driver-santa-clara"
+    "job_description": "hardware engineering job for the role Software Engineer, Enterprise AI Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183757685-software-engineer-enterprise-ai-platform",
+    "id": "aijobs-software-engineer-enterprise-ai-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Preparedness",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "12h ago",
+    "job_description": "hardware engineering job for the role Head of Preparedness at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183757683-head-of-preparedness",
+    "id": "aijobs-head-of-preparedness-united-states"
   }
 ]
