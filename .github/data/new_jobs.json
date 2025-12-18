@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Graduate Service Engineer",
+    "job_city": "Aberdeen",
+    "job_state": "Aberdeenshire",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Graduate Service Engineer at Aberdeen, Aberdeenshire, United Kingdom",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019544/Graduate-Service-Engineer",
+    "id": "abb-graduate-service-engineer-aberdeen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Graduate Service Engineer",
+    "job_city": "Saint Neots",
+    "job_state": "Cambridgeshire",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Graduate Service Engineer at Saint Neots, Cambridgeshire, United Kingdom",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019551/Graduate-Service-Engineer",
+    "id": "abb-graduate-service-engineer-saint-neots"
+  }
+]
