@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Global Category Manager IS/IT, ABB Robotics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Global Category Manager IS/IT, ABB Robotics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017349/Global-Category-Manager-IS-IT-ABB-Robotics",
-    "id": "abb-global-category-manager-is-it-abb-robotics-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager IS/IT for ABB Robotics",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Category Manager IS/IT for ABB Robotics at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017334/Category-Manager-IS-IT-for-ABB-Robotics",
-    "id": "abb-category-manager-is-it-for-abb-robotics-shanghai"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "PM, Program/Project Manager",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Lead PM, Program/Project Manager at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-PM--Program-Project-Manager_R258804?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-pm-program-project-manager-us"
+    "job_title": "SDE - Embedded Networking, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role SDE - Embedded Networking, Amazon Leo at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3145644/sde-embedded-networking-amazon-leo",
+    "job_posted_at": "2025-12-18T16:22:30.644Z",
+    "job_posted_at_datetime_utc": "2025-12-18T16:22:30.644Z",
+    "id": "amazon-sde-embedded-networking-amazon-leo-austin"
   }
 ]
