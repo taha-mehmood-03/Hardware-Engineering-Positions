@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing SAP Advanced Variant Configuration (AVC)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Managing SAP Advanced Variant Configuration (AVC) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82178&source=WEB_Search_NA",
+    "id": "ibm-managing-sap-advanced-variant-configuration-avc-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry application Engineer – Semiconductor",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Industry application Engineer – Semiconductor at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018397/Industry-application-Engineer-Semiconductor",
+    "id": "abb-industry-application-engineer-semiconductor-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Design Engineer",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Digital Design Engineer at 6 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Senior-Digital-Design-Engineer_R258729?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-6-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Power Module Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Staff Power Module Design Engineer at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Power-Module-Design-Engineer_R258532?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-power-module-design-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "LTspice Modeling Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role LTspice Modeling Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/LTspice-Modeling-Engineer_R258375?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ltspice-modeling-engineer-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Embedded Software",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Embedded Software at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Engineer--Embedded-Software_R258524?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-embedded-software-2-locations"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Assembly Technician, Neo (Swing Shift)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Assembly Technician, Neo (Swing Shift) at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183744968-assembly-technician-neo-swing-shift",
+    "id": "aijobs-assembly-technician-neo-swing-shift-us"
+  }
+]
