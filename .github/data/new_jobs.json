@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-design-engineer/33099/87916455920",
+    "id": "arm-design-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-design-engineer/33099/69630389392",
+    "id": "arm-design-engineer-chandler"
+  }
+]
