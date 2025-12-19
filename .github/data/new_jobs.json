@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Validation and Emulation Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Validation and Emulation Engineer at Cambridge, United Kingdom, Sheffield, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/power-validation-and-emulation-engineer/33099/87737121280",
-    "id": "arm-power-validation-and-emulation-engineer-cambridge"
+    "employer_name": "AiJobs",
+    "job_title": "Mechanical Engineer, Thermal Prototyping",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Thermal Prototyping at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/183859485-mechanical-engineer-thermal-prototyping",
+    "id": "aijobs-mechanical-engineer-thermal-prototyping-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Frontend Software Engineer - B2B Applications",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "12h ago",
+    "job_description": "hardware engineering job for the role Frontend Software Engineer - B2B Applications at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183859565-frontend-software-engineer-b2b-applications",
+    "id": "aijobs-frontend-software-engineer-b2b-applications-united-states"
   }
 ]
