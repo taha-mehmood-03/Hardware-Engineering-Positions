@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Data and AI Intern",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-design-engineer/33099/87916455920",
-    "id": "arm-design-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Data and AI Intern 2026 at InternshipArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82408&source=WEB_Search_NA",
+    "id": "ibm-data-and-ai-intern-armonk"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "IBM",
+    "job_title": "Data and AI Intern",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-design-engineer/33099/69630389392",
-    "id": "arm-design-engineer-chandler"
+    "job_description": "Hardware Engineering job for the role Data and AI Intern 2026 at InternshipRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82411&source=WEB_Search_NA",
+    "id": "ibm-data-and-ai-intern-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA/Test Developer Intern",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA/Test Developer Intern 2026 at InternshipRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80512&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Optim Technical Support Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Optim Technical Support Professional at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80278&source=WEB_Search_NA",
+    "id": "ibm-optim-technical-support-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern:",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Intern: 2026 at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81413&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Optim Software Developer Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Optim Software Developer Support Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80275&source=WEB_Search_NA",
+    "id": "ibm-optim-software-developer-support-engineer-multiple-cities"
   }
 ]
