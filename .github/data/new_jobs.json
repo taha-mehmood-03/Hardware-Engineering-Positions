@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "IDIQ Transition Lead Full Scope Poly",
-    "job_city": "HERNDON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IDIQ Transition Lead Full Scope Poly at ProfessionalHERNDON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78625&source=WEB_Search_NA",
-    "id": "ibm-idiq-transition-lead-full-scope-poly-herndon"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "System Hardware/Software Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role System Hardware/Software Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Hardware-Software-Engineer_R258382?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-system-hardware-software-engineer-us"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Email Security Engineer",
-    "job_city": "Brookhaven",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Email Security Engineer at ProfessionalBrookhaven, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82416&source=WEB_Search_NA",
-    "id": "ibm-email-security-engineer-brookhaven"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog/Mixed Signal Design Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Analog/Mixed Signal Design Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Senior-Analog-Mixed-Signal-Design-Engineering_R258476?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-mixed-signal-design-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Robotic Simulation Software Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Robotic Simulation Software Engineer at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Robotic-Simulation-Software-Engineer_R258507?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-robotic-simulation-software-engineer-us"
   }
 ]
