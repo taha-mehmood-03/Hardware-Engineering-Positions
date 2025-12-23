@@ -1,12 +1,82 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Assembler",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Assembler 3 at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020366/Assembler-3",
-    "id": "abb-assembler-new-berlin"
+    "employer_name": "IBM",
+    "job_title": "Technical Solution Architect",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Solution Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83113&source=WEB_Search_NA",
+    "id": "ibm-technical-solution-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Business Analyst",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Business Analyst at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83117&source=WEB_Search_NA",
+    "id": "ibm-technical-business-analyst-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back-End Software Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back-End Software Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83107&source=WEB_Search_NA",
+    "id": "ibm-back-end-software-developer-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Sales & Delivery Leader",
+    "job_city": "JEFFERSON CITY",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Sales & Delivery Leader at ProfessionalJEFFERSON CITY, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82767&source=WEB_Search_NA",
+    "id": "ibm-business-sales-delivery-leader-jefferson-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Engineer at ProfessionalBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82778&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect",
+    "job_city": "Plano",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Solution Architect at ProfessionalPlano, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82787&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-plano"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Solution Architect at ProfessionalHouston, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82447&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-houston"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Engineer, Infrastructure Security Engineering - DGX Cloud",
+    "job_city": "Remote",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud at US, TX, Remote",
+    "job_apply_link": "https://www.aijobs.com/jobs/184290219-senior-security-engineer-infrastructure-security-engineering-dgx-cloud",
+    "id": "aijobs-security-engineer-infrastructure-security-engineering-dgx-cloud-remote"
   }
 ]
