@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Assembler",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Assembler 3 at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020366/Assembler-3",
+    "id": "abb-assembler-new-berlin"
+  }
+]
