@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer at ProfessionalAlbany, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83092&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-albany"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Security Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud Security Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82851&source=WEB_Search_NA",
+    "id": "ibm-cloud-security-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader - SLED",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Account Technical Leader - SLED at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83169&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-sled-multiple-cities"
+  }
+]
