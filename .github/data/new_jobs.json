@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - SIG Software Design",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role Intern - SIG Software Design at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39424002",
-    "id": "micron-intern-sig-software-design-boise"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Utility Data SME and Technical Sales Leader, Data & AI",
-    "job_city": "No City",
+    "job_title": "Supply Assurance - Supply Chain Professional",
+    "job_city": "RESEARCH TRIANGLE PARK",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Utility Data SME and Technical Sales Leader, Data & AI at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82854&source=WEB_Search_NA",
-    "id": "ibm-utility-data-sme-and-technical-sales-leader-data-ai-no-city"
+    "job_description": "Hardware Engineering job for the role Supply Assurance - Supply Chain Professional at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82174&source=WEB_Search_NA",
+    "id": "ibm-supply-assurance-supply-chain-professional-research-triangle-park"
   }
 ]
