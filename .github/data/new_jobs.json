@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Staff Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-software-engineer/33099/72460628480",
+    "id": "arm-staff-software-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Staff Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-engineer/33099/87062782384",
+    "id": "arm-staff-engineer-cambridge"
+  }
+]
