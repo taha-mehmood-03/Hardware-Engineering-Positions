@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "job_title": "System Development Engineer, AWS Storage and Accelerator team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role System Development Engineer, AWS Storage and Accelerator team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team",
+    "job_posted_at": "2026-01-05T20:19:40.519Z",
+    "job_posted_at_datetime_utc": "2026-01-05T20:19:40.519Z",
+    "id": "amazon-system-development-engineer-aws-storage-and-accelerator-team-cupertino"
+  },
+  {
+    "job_title": "Hardware Development Engineer, AWS, Storage and Accelerator team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, AWS, Storage and Accelerator team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3152750/hardware-development-engineer-aws-storage-and-accelerator-team",
+    "job_posted_at": "2026-01-05T20:19:40.519Z",
+    "job_posted_at_datetime_utc": "2026-01-05T20:19:40.519Z",
+    "id": "amazon-hardware-development-engineer-aws-storage-and-accelerator-team-cupertino"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineering Manager-HCP Terraform Foundations-Production Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineering Manager-HCP Terraform Foundations-Production Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83082&source=WEB_Search_NA",
+    "id": "ibm-engineering-manager-hcp-terraform-foundations-production-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83085&source=WEB_Search_NA",
+    "id": "ibm-engineer-full-stack-hcp-terraform-foundations-agent-services-engineering-multiple-cities"
+  }
+]
