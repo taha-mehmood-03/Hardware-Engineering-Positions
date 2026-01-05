@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer – Hardware Methodology",
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager - Large Motors",
     "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Engineer – Hardware Methodology at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-engineer-hardware-methodology/33099/86882447296",
-    "id": "arm-engineer-hardware-methodology-multiple"
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Large Motors at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019864/Regional-Sales-Manager-Large-Motors",
+    "id": "abb-regional-sales-manager-large-motors-multiple"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "(Senior) Software Engineer - Embedded Systems",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role (Senior) Software Engineer - Embedded Systems at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-software-engineer-embedded-systems/33099/89339433472",
-    "id": "arm-senior-software-engineer-embedded-systems-sophia-antipolis"
+    "employer_name": "MARVELL",
+    "job_title": "AI Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role AI Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Engineer_2503867?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-engineer-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Modelling Engineer - GPU team (C++)",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Modelling Engineer - GPU team (C++) at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/lund/modelling-engineer-gpu-team-c/33099/89196164560",
-    "id": "arm-modelling-engineer-gpu-team-c-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Staff/Principal Verification Engineer - Video",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff/Principal Verification Engineer - Video at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/manchester/staff-principal-verification-engineer-video/33099/88424979152",
-    "id": "arm-staff-principal-verification-engineer-video-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Field Application Engineer - Connectivity",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Field Application Engineer - Connectivity at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Field-Application-Engineer---Connectivity_2503754?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-field-application-engineer-connectivity-santa-clara"
   }
 ]
