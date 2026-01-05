@@ -1,12 +1,63 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Digital Solutions Engineer Terminal & Logistics",
-    "job_city": "Antwerp",
-    "job_state": "Antwerp",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Digital Solutions Engineer Terminal & Logistics at Antwerp, Antwerp, Belgium",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019529/Digital-Solutions-Engineer-Terminal-Logistics",
-    "id": "abb-digital-solutions-engineer-terminal-logistics-antwerp"
+    "job_title": "Hardware Dev Engineer II",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Dev Engineer II at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3152646/hardware-dev-engineer-ii",
+    "job_posted_at": "2026-01-05T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-05T00:00:00.000Z",
+    "id": "amazon-hardware-dev-engineer-ii-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "AI Enablement Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Enablement Lead at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/ai-enablement-lead/33099/79564931360",
+    "id": "arm-ai-enablement-lead-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "IP Design Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff IP Design Engineer at Chandler, Arizona, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-ip-design-engineer/33099/87570617232",
+    "id": "arm-ip-design-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "IP Verification Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior IP Verification Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-ip-verification-engineer/33099/90280187792",
+    "id": "arm-ip-verification-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "IP Design Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior IP Design Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-ip-design-engineer/33099/90280189600",
+    "id": "arm-ip-design-engineer-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Member Technical Staff, Films",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Senior Member Technical Staff, Films at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30551892",
+    "id": "micron-member-technical-staff-films-boise"
   }
 ]
