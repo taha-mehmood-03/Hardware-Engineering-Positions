@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Faridabad",
-    "job_state": "Haryana",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Field Service Engineer at Faridabad, Haryana, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020605/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-faridabad"
+    "employer_name": "Arm",
+    "job_title": "CPU Performance – Microarchitecture Exploration Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Performance – Microarchitecture Exploration Engineer at Raleigh, North Carolina",
+    "job_apply_link": "https://careers.arm.com/job/raleigh/cpu-performance-microarchitecture-exploration-engineer/33099/86449897680",
+    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-raleigh"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DL Algorithms Engineer - Cosmos - New College Graduate",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role DL Algorithms Engineer - Cosmos - New College Graduate 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/190759846-dl-algorithms-engineer-cosmos-new-college-graduate-2026",
+    "id": "aijobs-dl-algorithms-engineer-cosmos-new-college-graduate-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Developer Technology Engineer, High-Performance Databases – New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Developer Technology Engineer, High-Performance Databases – New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/190759851-developer-technology-engineer-high-performance-databases-new-college-grad-2025",
+    "id": "aijobs-developer-technology-engineer-high-performance-databases-new-college-grad-santa-clara"
   }
 ]
