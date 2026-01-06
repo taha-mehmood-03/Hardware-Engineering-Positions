@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Manufacturing Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Manufacturing Engineer, Supplier Quality, Hardware System Integration",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115821534500528838-staff-manufacturing-engineer-supplier-quality-hardware-system-integration?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-manufacturing-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Real Time",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Real Time at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/190187397-senior-software-engineer-real-time",
-    "id": "aijobs-software-engineer-real-time-unknown"
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Production Engineering Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014060/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-xiamen"
   }
 ]
