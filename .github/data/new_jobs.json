@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Supply Planning Manager, AWS Supply Chain - IPS",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Supply Planning Manager, AWS Supply Chain - IPS at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3153577/supply-planning-manager-aws-supply-chain-ips",
-    "job_posted_at": "2026-01-06T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-06T00:00:00.000Z",
-    "id": "amazon-supply-planning-manager-aws-supply-chain-ips-herndon"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Engineer - High‑Performance Board‑level system design for storage, network security, and custom ASIC applications",
-    "job_city": "Irvine",
-    "job_state": "CA",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Robotic System Engineering Intern (PhD)",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer - High‑Performance Board‑level system design for storage, network security, and custom ASIC applications at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Engineer---High-Performance-Board-level-system-design-for-storage--network-security--and-custom-ASIC-applications_2600008?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-engineer-high-performance-board-level-system-design-for-storage-network-security-and-custom-asic-applications-irvine"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Software Engineer - Windows Drivers",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Software Engineer - Windows Drivers at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Engineer_2503915?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-software-engineer-windows-drivers-santa-clara"
+    "job_description": "hardware engineering job for the role Robotic System Engineering Intern (PhD) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Robotic-System-Engineering-Intern--PhD-_R257052?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-robotic-system-engineering-intern-phd-us"
   }
 ]
