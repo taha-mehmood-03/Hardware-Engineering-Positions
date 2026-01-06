@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Large Motors",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Large Motors at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019864/Regional-Sales-Manager-Large-Motors",
-    "id": "abb-regional-sales-manager-large-motors-multiple"
+    "employer_name": "Google",
+    "job_title": "Staff Manufacturing Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Manufacturing Engineer, Supplier Quality, Hardware System Integration",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115821534500528838-staff-manufacturing-engineer-supplier-quality-hardware-system-integration?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-manufacturing-engineer-sunnyvale"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "AI Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role AI Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Engineer_2503867?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ai-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Field Application Engineer - Connectivity",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Field Application Engineer - Connectivity at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Field-Application-Engineer---Connectivity_2503754?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-field-application-engineer-connectivity-santa-clara"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Real Time",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Real Time at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/190187397-senior-software-engineer-real-time",
+    "id": "aijobs-software-engineer-real-time-unknown"
   }
 ]
