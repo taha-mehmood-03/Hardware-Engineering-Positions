@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative Indianapolis Indiana",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representative Indianapolis Indiana at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82154&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-indianapolis-indiana-no-city"
+    "job_title": "Supply Planning Manager, AWS Supply Chain - IPS",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Supply Planning Manager, AWS Supply Chain - IPS at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3153577/supply-planning-manager-aws-supply-chain-ips",
+    "job_posted_at": "2026-01-06T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-06T00:00:00.000Z",
+    "id": "amazon-supply-planning-manager-aws-supply-chain-ips-herndon"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Business Sales & Delivery Leader",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Sales & Delivery Leader at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81461&source=WEB_Search_NA",
-    "id": "ibm-business-sales-delivery-leader-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Engineer - High‑Performance Board‑level system design for storage, network security, and custom ASIC applications",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Hardware Engineer - High‑Performance Board‑level system design for storage, network security, and custom ASIC applications at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Engineer---High-Performance-Board-level-system-design-for-storage--network-security--and-custom-ASIC-applications_2600008?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-engineer-high-performance-board-level-system-design-for-storage-network-security-and-custom-asic-applications-irvine"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Software Engineer - Windows Drivers",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Software Engineer - Windows Drivers at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Engineer_2503915?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-software-engineer-windows-drivers-santa-clara"
   }
 ]
