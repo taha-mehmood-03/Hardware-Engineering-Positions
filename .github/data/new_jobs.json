@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "DC Infra Eng II - AMZ23768.1",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ23768.1 at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3149821/dc-infra-eng-ii-amz23768-1",
-    "job_posted_at": "2026-01-07T18:20:12.532Z",
-    "job_posted_at_datetime_utc": "2026-01-07T18:20:12.532Z",
-    "id": "amazon-dc-infra-eng-ii-amz23768-1-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Graduate CPU Microarchitecture Modelling and Performance Analysis",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate CPU Microarchitecture Modelling and Performance Analysis at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-microarchitecture-modelling-and-performance-analysis/33099/87114694192",
+    "id": "arm-graduate-cpu-microarchitecture-modelling-and-performance-analysis-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Physical Implementation Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Physical Implementation Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/87106675248",
+    "id": "arm-cpu-physical-implementation-intern-sophia-antipolis"
   }
 ]
