@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Security Architect",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Security Architect at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-security-architect/33099/90330627648",
+    "id": "arm-security-architect-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Development Engineer in Test(SDET)- Networking Systems",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Development Engineer in Test(SDET)- Networking Systems at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-development-engineer-in-test-sdet-networking-systems/33099/77284798592",
+    "id": "arm-software-development-engineer-in-test-sdet-networking-systems-austin"
+  }
+]
