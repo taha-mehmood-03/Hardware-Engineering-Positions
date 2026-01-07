@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer - Frontend Enablement",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineer - Frontend Enablement at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81713&source=WEB_Search_NA",
-    "id": "ibm-engineer-frontend-enablement-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Director Professional Services - Americas",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director Professional Services - Americas at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85024&source=WEB_Search_NA",
-    "id": "ibm-director-professional-services-americas-austin"
+    "job_title": "DC Infra Eng II - AMZ23768.1",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ23768.1 at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3149821/dc-infra-eng-ii-amz23768-1",
+    "job_posted_at": "2026-01-07T18:20:12.532Z",
+    "job_posted_at_datetime_utc": "2026-01-07T18:20:12.532Z",
+    "id": "amazon-dc-infra-eng-ii-amz23768-1-santa-clara"
   }
 ]
