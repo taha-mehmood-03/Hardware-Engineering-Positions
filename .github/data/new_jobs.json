@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate CPU Microarchitecture Modelling and Performance Analysis",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "IBM",
+    "job_title": "Semiconductor IT Professional",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate CPU Microarchitecture Modelling and Performance Analysis at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-microarchitecture-modelling-and-performance-analysis/33099/87114694192",
-    "id": "arm-graduate-cpu-microarchitecture-modelling-and-performance-analysis-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU Physical Implementation Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Physical Implementation Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/87106675248",
-    "id": "arm-cpu-physical-implementation-intern-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role Semiconductor IT Professional at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84741&source=WEB_Search_NA",
+    "id": "ibm-semiconductor-it-professional-yorktown-heights"
   }
 ]
