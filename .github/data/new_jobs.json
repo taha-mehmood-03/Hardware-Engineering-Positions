@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Security Architect",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "System Hardware Reliability Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Security Architect at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-security-architect/33099/90330627648",
-    "id": "arm-security-architect-bengaluru"
+    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: System Hardware Reliability Engineer, TPU Systems",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132890851226329798-system-hardware-reliability-engineer-tpu-systems?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-system-hardware-reliability-engineer-austin"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Development Engineer in Test(SDET)- Networking Systems",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Google",
+    "job_title": "Display Test Engineer",
+    "job_city": "Fremont",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Development Engineer in Test(SDET)- Networking Systems at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-development-engineer-in-test-sdet-networking-systems/33099/77284798592",
-    "id": "arm-software-development-engineer-in-test-sdet-networking-systems-austin"
+    "job_description": "34 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Display Test Engineer, MicroLED, Raxium",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143905432295875270-display-test-engineer-microled-raxium?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-display-test-engineer-fremont"
   }
 ]
