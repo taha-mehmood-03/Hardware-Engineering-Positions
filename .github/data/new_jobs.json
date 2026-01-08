@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Optical Engineer, Senior Staff",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Optical Engineer, Senior Staff at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Optical-Engineer--Senior-Staff_2502614?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-optical-engineer-senior-staff-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hands Assembly Technician, Neo",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "9h ago",
+    "job_description": "hardware engineering job for the role Hands Assembly Technician, Neo at San Carlos, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/191713460-hands-assembly-technician-neo",
+    "id": "aijobs-hands-assembly-technician-neo-us"
+  }
+]
