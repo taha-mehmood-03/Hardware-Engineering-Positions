@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Design Verification Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Design Verification Engineer at Austin, Texas, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-design-verification-engineer/33099/90386075120",
+    "id": "arm-graduate-design-verification-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Design Verification Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Design Verification Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-design-verification-engineer/33099/90386075120",
+    "id": "arm-graduate-design-verification-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Systems Engineer Intern- Summer",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Systems Engineer Intern- Summer 2026 at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020176/Systems-Engineer-Intern-Summer-2026",
+    "id": "abb-systems-engineer-intern-summer-cleveland"
+  }
+]
