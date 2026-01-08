@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-design-engineer/33099/90376450784",
+    "id": "arm-design-engineer-sophia-antipolis"
+  }
+]
