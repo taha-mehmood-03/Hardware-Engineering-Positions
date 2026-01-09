@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Manager, Product Management - HashiCorp Infrastructure Self-Service",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Manager, Product Management - HashiCorp Infrastructure Self-Service at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84828&source=WEB_Search_NA",
+    "id": "ibm-sr-manager-product-management-hashicorp-infrastructure-self-service-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "GRC Tooling Solution Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role GRC Tooling Solution Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84824&source=WEB_Search_NA",
+    "id": "ibm-grc-tooling-solution-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Manager - Inside Sales",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Manager - Inside Sales at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85217&source=WEB_Search_NA",
+    "id": "ibm-sr-manager-inside-sales-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Robot Assembly Technician, Hands",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Robot Assembly Technician, Hands at San Carlos, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192328539-robot-assembly-technician-hands",
+    "id": "aijobs-robot-assembly-technician-hands-us"
+  }
+]
