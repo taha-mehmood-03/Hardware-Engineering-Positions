@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Education Engineer - Infrastructure products",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Education Engineer - Infrastructure products at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81448&source=WEB_Search_NA",
-    "id": "ibm-education-engineer-infrastructure-products-multiple-cities"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Mechanical Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Mechanical Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Robotic-Sensor-Engineer_R257969?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mechanical-engineer-us"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer II - Backend",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer II - Backend at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82841&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-ii-backend-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "E-commerce Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role E-commerce Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020313/E-commerce-Specialist",
-    "id": "abb-e-commerce-specialist-xiamen"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Embedded SW Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Embedded SW Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-Embedded-SW-Engineer_R258736?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-sw-engineer-us"
   }
 ]
