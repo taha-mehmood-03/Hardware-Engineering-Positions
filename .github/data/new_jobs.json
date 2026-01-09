@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Signoff Methodology Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Signoff Methodology Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-signoff-methodology-engineer/33099/90418483328",
-    "id": "arm-signoff-methodology-engineer-austin"
+    "job_title": "Embedded Software Engineer, Project Leo Customer Terminals",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Embedded Software Engineer, Project Leo Customer Terminals at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3156503/embedded-software-engineer-project-leo-customer-terminals",
+    "job_posted_at": "2026-01-09T19:23:18.126Z",
+    "job_posted_at_datetime_utc": "2026-01-09T19:23:18.126Z",
+    "id": "amazon-embedded-software-engineer-project-leo-customer-terminals-redmond"
   }
 ]
