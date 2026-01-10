@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 7+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 8+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -86,12 +86,13 @@
 | Engineering Manager | Reston, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/123408136278024902-engineering-manager-defense-and-consulting?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2) |
 | Senior Engineering Manager | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/73617784616952518-senior-engineering-manager-ml-optimization-tools-and-observability?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2) |
 
-### 📦 **Amazon** (22 positions) ⭐ FAANG+
+### 📦 **Amazon** (23 positions) ⭐ FAANG+
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| System Development Engineer, AWS Storage and Accelerator team | Cupertino, CA | 9h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team) |
-| Embedded Software Engineer, Project Leo Customer Terminals | Redmond, WA | 9h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3156503/embedded-software-engineer-project-leo-customer-terminals) |
+| Integrated System Test Engineer, Amazon Leo Navigation and Control & Propulsion | Redmond, WA | 1h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2974080/integrated-system-test-engineer-amazon-leo-navigation-and-control-propulsion) |
+| System Development Engineer, AWS Storage and Accelerator team | Cupertino, CA | 10h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team) |
+| Embedded Software Engineer, Project Leo Customer Terminals | Redmond, WA | 10h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3156503/embedded-software-engineer-project-leo-customer-terminals) |
 | Service Engineer, PSO, Amazon Prime Air, Amazon Prime Air | Seattle, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3155663/service-engineer-pso-amazon-prime-air-amazon-prime-air) |
 | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Boston, MA | 1d ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Infrastructure TPM, Infra Capacity Delivery, Infra Capacity Delivery | Herndon, VA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3048367/infrastructure-tpm-infra-capacity-delivery-infra-capacity-delivery) |
@@ -220,22 +221,23 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior Project Engineer | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer) |
+| US Government Contract & Compliance Attorney | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney) |
+| Customs Product Classification Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist) |
 | Inside Sales - Modernization & Parts | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019591/Inside-Sales-Modernization-Parts) |
 | VP Sales, Electrification US Utility | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00000425/VP-Sales-Electrification-US-Utility) |
-| Team Leader SP Wiring | Mebane, North Carolina | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00008973/Team-Leader-SP-Wiring) |
-| Tender/Quotation Specialist | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017236/Tender-Quotation-Specialist) |
-| Project Engineer | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00007336/Project-Engineer) |
-| ELDS Special Processes Department- Production Operator 1st shift | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00012615/ELDS-Special-Processes-Department-Production-Operator-1st-shift) |
-| Health, Safety & Environmental Intern - Summer | Mebane, North Carolina | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020381/Health-Safety-Environmental-Intern-Summer-2026) |
-| ELDS LV SWGR Team Leader- 1st Shift | Mebane, North Carolina | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00021627/ELDS-LV-SWGR-Team-Leader-1st-Shift) |
-| Category Manager | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019317/Category-Manager) |
-| Senior Electronic Designer | Quebec, Quebec | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer) |
+| Regional Sales Manager - Drives | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019863/Regional-Sales-Manager-Drives) |
+| Regional Sales Manager - Large Motors | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019864/Regional-Sales-Manager-Large-Motors) |
+| Data Center COE Service Site Manager | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager) |
+| Project Manager | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019045/Project-Manager) |
+| Business Development Manager - Data Center Cooling | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling) |
 | Production Technician – Tests | Quebec, Quebec | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018430/Production-Technician-Tests) |
+| PLC Programming Specialist | Ormond Beach, Florida | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist) |
 | Automation and VFD Support Specialist 🏠 | Remote 🏠 | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015853/Automation-and-VFD-Support-Specialist) |
 | Data Center Project Manager | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00010699/Data-Center-Project-Manager) |
 | Business Development Manager - Great Plains | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00014785/Business-Development-Manager-Great-Plains) |
 | Regional Technical Advisor | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00008173/Regional-Technical-Advisor) |
 | Automation Engineer Intern - Summer | Houston, Texas | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) |
+| Territory Sales Account Manager- Automation and Digital | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015425/Territory-Sales-Account-Manager-Automation-and-Digital) |
 | R&D Senior Engineer | Nanjing, Jiangsu | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020707/R-D-Senior-Engineer) |
 | R&D Senior Engineer | Shanghai, Shanghai | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017266/R-D-Senior-Engineer) |
 | R&D Senior Control Electronics Engineer | Beijing, Beijing | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer) |
@@ -250,11 +252,11 @@
 | R&D Engineer - Control Software Developer | Krakow, Lesser Poland | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95380299/R-D-Engineer-Control-Software-Developer) |
 | Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) | Ratingen, North Rhine-Westphalia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d) |
 | Category Specialist | Hangzhou, Zhejiang | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00014481/Category-Specialist) |
-| Automation Engineer / Field Service | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017212/Automation-Engineer-Field-Service) |
 | Power Electronics Control SW Senior / Principal R&D Engineer for SST (80-100%) | Baden-Daettwil, Aargau | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018311/Power-Electronics-Control-SW-Senior-Principal-R-D-Engineer-for-SST-80-100) |
+| Automation Engineer / Field Service | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017212/Automation-Engineer-Field-Service) |
 | Production Engineering Specialist | Xiamen, Fujian | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00014060/Production-Engineering-Specialist) |
-| Technical Project Manager – Condition-Based Monitoring & Remote Diagnostics 🏠 | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018333/Technical-Project-Manager-Condition-Based-Monitoring-Remote-Diagnostics) |
 | Mechanical Product Engineer 80-100% | Untersiggenthal, Aargau | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017860/Mechanical-Product-Engineer-80-100) |
+| Technical Project Manager – Condition-Based Monitoring & Remote Diagnostics 🏠 | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018333/Technical-Project-Manager-Condition-Based-Monitoring-Remote-Diagnostics) |
 | R&D Testing & Lab Specialist- Electronics Hardware | Xinhui, Guangdong | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00009948/R-D-Testing-Lab-Specialist-Electronics-Hardware) |
 | Power Electronics Engineering Senior Designer for SST (80-100%) | Baden-Daettwil, Aargau | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018313/Power-Electronics-Engineering-Senior-Designer-for-SST-80-100) |
 | Project Lead Engineer - System 800xA | Doha, Ad Dawhah | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA) |
@@ -273,11 +275,10 @@
 | R&D Software Engineer to ABB Process Control System | Vaesteras, Vastmanland County | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00010852/R-D-Software-Engineer-to-ABB-Process-Control-System) |
 | Data Science & AI Specialist - Temporary | Frosinone, Frosinone | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015841/Data-Science-AI-Specialist-Temporary) |
 | SW/FW Senior R&D Engineer for SST (80-100%) | Baden-Daettwil, Aargau | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00018307/SW-FW-Senior-R-D-Engineer-for-SST-80-100) |
-| Robot Engineer | Beersel, Flemish Brabant | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020153/Robot-Engineer) |
-| Global Product Management and Marketing Manager, Business Line Instrumentation | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019877/Global-Product-Management-and-Marketing-Manager-Business-Line-Instrumentation) |
-| Territory Sales Account Manager- Automation and Digital | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015425/Territory-Sales-Account-Manager-Automation-and-Digital) |
 | Field Service Engineer | Beersel, Flemish Brabant | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer) |
 | Head of Product Management KNX (m/f/d) | Heidelberg, Baden-Wurttemberg | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00017019/Head-of-Product-Management-KNX-m-f-d) |
+| Robot Engineer | Beersel, Flemish Brabant | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020153/Robot-Engineer) |
+| Global Product Management and Marketing Manager, Business Line Instrumentation | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019877/Global-Product-Management-and-Marketing-Manager-Business-Line-Instrumentation) |
 | Senior Field Service Engineer - Symphony Plus | Doha, Ad Dawhah | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015474/Senior-Field-Service-Engineer-Symphony-Plus) |
 | Senior Network & Cyber Security Engineer | Saint Neots, Cambridgeshire | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00015599/Senior-Network-Cyber-Security-Engineer) |
 
@@ -306,7 +307,7 @@
 | ID1 Equipment Maintenance Technician (Idaho Fab 1) | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38168295) |
 | Equipment Technician (AMHS-Automated Material Handling System) (Manassas) | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39256506) |
 | Product Quality Engineer | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28046874) |
-| Sr Dry Etch Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30704484) |
+| Sr Dry Etch Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38467162) |
 | Sr CAD Engineer, DEG | Richardson, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38954305) |
 | MTS IO Design Architect, HBM | Richardson, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38039139) |
 | Product Applications Engineer | Longmont, Colorado | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38368859) |
@@ -327,12 +328,12 @@
 | Process Engineer, APTD | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39170384) |
 | Intern - ASIC Design Verification | Minneapolis, Minnesota | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38168202) |
 | Field Applications Engineer | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39315524) |
-| intern - Engineer, Electrical Design | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39293741) |
 | Engineer, Advanced Modeling & AI Solutions | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/37951327) |
 | MTS, Data Science Agentic Platforms | Folsom, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30687259) |
 | Principal Electrical Design Engineer | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30791841) |
 | Engineer - SSD Failure Analysis | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30690503) |
 | MTS Data Scientist, Agentic Platforms | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30687413) |
+| intern - Engineer, Electrical Design | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39293741) |
 | Intern - Product Test Solutions Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38445052) |
 | Dry Etch Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27399302) |
 | Wet Etch Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27399944) |
@@ -344,15 +345,50 @@
 | Intern - Computer Engineer, AI/LLM | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39347936) |
 | Business Development Manager – AI Infrastructure Partnerships | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39049604) |
 | Member Technical Staff, Films | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30551892) |
-| Process and Equipment Technician - Veterans and Transitioning Military | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30950015) |
 | Equipment Engineer and Process Engineer - Veterans and Transitioning Military | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30948484) |
+| Process and Equipment Technician - Veterans and Transitioning Military | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30950015) |
 | Category Supplier Manager | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30858044) |
 
 </details>
 
 ---
 
-### 📁 **More Companies** (2 companies, 34 positions)
+### 📁 **More Companies** (3 companies, 61 positions)
+
+<details>
+<summary><strong>🔵 IBM</strong> (27 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Signal and Power Integrity/System Hardware Developer Engineer | ROCHESTER, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65411&source=WEB_Search_NA) |
+| Entry Level Signal and Power Integrity/System Hardware Developer Engineer | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79670&source=WEB_Search_NA) |
+| Hardware Test Engineer Intern | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73409&source=WEB_Search_NA) |
+| Engineering Manager-HCP Terraform Foundations-Production Engineering | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83082&source=WEB_Search_NA) |
+| Entry Level Hardware Test Engineer | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73410&source=WEB_Search_NA) |
+| Hardware System Design Engineer for Storage Platforms | Houston, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85245&source=WEB_Search_NA) |
+| Hardware Developer | Austin, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73405&source=WEB_Search_NA) |
+| Hardware Developer Engineer Intern | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73089&source=WEB_Search_NA) |
+| Hardware Developer Intern | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73023&source=WEB_Search_NA) |
+| Entry Level Hardware Developer | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74218&source=WEB_Search_NA) |
+| Sr. Software Engineer - Backend - HCP Terraform Foundations Web Engineering | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83098&source=WEB_Search_NA) |
+| Entry Level Hardware Developer Engineer | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73100&source=WEB_Search_NA) |
+| Hardware Developer Engineer (Cable/Interconnect) | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80857&source=WEB_Search_NA) |
+| Engineering Manager | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82479&source=WEB_Search_NA) |
+| Software Engineering Intern | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA) |
+| Software Engineering Manager | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81434&source=WEB_Search_NA) |
+| Consultant - AI Engineering | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67496&source=WEB_Search_NA) |
+| Compliance Lab Technician | POUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77600&source=WEB_Search_NA) |
+| Software Architect (Technical Lead, Performance Engineering) | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72351&source=WEB_Search_NA) |
+| AI/ML Engineering internship: SVL | San Jose, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84961&source=WEB_Search_NA) |
+| Engineering Manager - HashiCorp InfraGraph, Graph Engine Team | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75824&source=WEB_Search_NA) |
+| AI Software Research Engineer | Yorktown Heights, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79206&source=WEB_Search_NA) |
+| Data and AI Intern | Armonk, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82408&source=WEB_Search_NA) |
+| Data and AI Intern | RESEARCH TRIANGLE PARK, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82411&source=WEB_Search_NA) |
+| Quantum EDA Junior Developer | Yorktown Heights, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63351&source=WEB_Search_NA) |
+| Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83085&source=WEB_Search_NA) |
+| System Services Representatives - Austin | Austin, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82391&source=WEB_Search_NA) |
+
+</details>
 
 <details>
 <summary><strong>🏢 AiJobs</strong> (24 positions) </summary>
@@ -360,15 +396,15 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Strategic Finance, Hardware R&D Finance Manager | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/192479630-strategic-finance-hardware-r-d-finance-manager) |
-| QA Software Engineer, Consumer Products | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/191130823-qa-software-engineer-consumer-products) |
 | Counsel, Product | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/188750523-senior-counsel-product) |
+| QA Software Engineer, Consumer Products | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/191130823-qa-software-engineer-consumer-products) |
 | Hardware Application Engineer, Cloud Service Providers | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/188749675-senior-hardware-application-engineer-cloud-service-providers) |
 | System Software Engineer, GPU Virtualization | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/192476668-senior-system-software-engineer-gpu-virtualization) |
 | Data Center System Architect | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/191068074-senior-data-center-system-architect) |
 | DL Algorithms Engineer - Cosmos - New College Graduate | Santa Clara, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/190759846-dl-algorithms-engineer-cosmos-new-college-graduate-2026) |
 | System ASIC Engineer - Speed and Reliability | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/188749672-senior-system-asic-engineer-speed-and-reliability) |
-| Forward Deployed Engineer (FDE), Life Sciences | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/192479626-forward-deployed-engineer-fde-life-sciences) |
 | Developer Technology Engineer, High-Performance Databases – New College Grad | Santa Clara, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/190759851-developer-technology-engineer-high-performance-databases-new-college-grad-2025) |
+| Forward Deployed Engineer (FDE), Life Sciences | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/192479626-forward-deployed-engineer-fde-life-sciences) |
 | GenAI Algorithms Engineer — Model Optimizations for Inference | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/188749671-senior-genai-algorithms-engineer-model-optimizations-for-inference) |
 | Hands Assembly Technician, Neo | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/191713460-hands-assembly-technician-neo) |
 | Robot Assembly Technician, Hands | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/192328539-robot-assembly-technician-hands) |
@@ -411,15 +447,15 @@
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 31 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 30 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Stats**
-- **📁 Total Archived**: 31 positions
-- **🏢 Companies**: 7 companies
-- **⭐ FAANG+ Archived**: 31 positions
+- **📁 Total Archived**: 30 positions
+- **🏢 Companies**: 8 companies
+- **⭐ FAANG+ Archived**: 30 positions
 - **📅 Age**: 1+ weeks old
 
-### 📦 **Amazon** (31 positions) ⭐ FAANG+
+### 📦 **Amazon** (30 positions) ⭐ FAANG+
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -429,9 +465,9 @@
 | Electrical Liaison Engineer, Optical Inter-Satellite Link | Redmond, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3052960/electrical-liaison-engineer-optical-inter-satellite-link) |
 | Post-Silicon Systems Validation Engineer, Annapurna Labs | Austin, TX | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3125732/post-silicon-systems-validation-engineer-annapurna-labs) |
 | Data Center Delivery - Technical Infrastructure Program Manager, One-Intake Program Team | Herndon, VA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3144827/data-center-delivery-technical-infrastructure-program-manager-one-intake-program-team) |
-| Cost Analyst, AWS AI/ML Supply Chain | Seattle, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3144066/cost-analyst-aws-ai-ml-supply-chain) |
 | Software Development Engineer, AWS Vetting | Cupertino, CA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3144139/software-development-engineer-aws-vetting) |
 | Commodity Manager - PCB, FET, TIM, IMU, Antenna, Robotics Electronics Commodity Team | Irving, TX | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3134489/commodity-manager-pcb-fet-tim-imu-antenna-robotics-electronics-commodity-team) |
+| Cost Analyst, AWS AI/ML Supply Chain | Seattle, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3144066/cost-analyst-aws-ai-ml-supply-chain) |
 | Applied Scientist - Robotics Controls | North Reading, MA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3142811/applied-scientist-robotics-controls) |
 | Electrical Engineer, Amazon Leo | Redmond, WA | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3141570/electrical-engineer-amazon-leo) |
 | Software Dev Engineer, Antenna System Validation, Amazon Leo | Redmond, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3138224/software-dev-engineer-antenna-system-validation-amazon-leo) |
@@ -453,7 +489,6 @@
 | Technical Program Manager (TPM), AWS Cross Domain Services (Diode) | Arlington, VA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3105436/technical-program-manager-tpm-aws-cross-domain-services-diode) |
 | Software Development Engineer, Annapurna Labs | Seattle, WA | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3115268/software-development-engineer-annapurna-labs) |
 | Network Development Engineer, Annapurna Labs Infrastructure | Austin, TX | 4mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3079852/network-development-engineer-annapurna-labs-infrastructure) |
-| Integrated System Test Engineer, Amazon Leo Navigation and Control & Propulsion | Redmond, WA | 8mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2974080/integrated-system-test-engineer-amazon-leo-navigation-and-control-propulsion) |
 
 
 
@@ -478,13 +513,13 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 34 | 110% | Perfect for new grads |
-| 🟡 **Mid-Level** | 139 | 448% | 2-5 years experience |
-| 🔴 **Senior** | 132 | 426% | 5+ years experience |
+| 🟢 **Entry-Level** | 49 | 163% | Perfect for new grads |
+| 🟡 **Mid-Level** | 151 | 503% | 2-5 years experience |
+| 🔴 **Senior** | 133 | 443% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
-#### 💻 **Hardware Engineering** (305 archived positions)
+#### 💻 **Hardware Engineering** (333 archived positions)
 📦 Amazon
 
 ### 🌍 **Top Archived Locations**
@@ -493,10 +528,10 @@
 - **Boise, Idaho**: 30 archived positions
 - **Multiple, Locations**: 24 archived positions
 - **San Jose, California**: 23 archived positions
+- **Multiple, Various**: 21 archived positions
 - **Sunnyvale, CA**: 17 archived positions
-- **Multiple, Various**: 14 archived positions
+- **Multiple Cities, US**: 16 archived positions
 - **Santa Clara, CA**: 13 archived positions
-- **San Diego, California**: 10 archived positions
 
 </details>
 
@@ -505,12 +540,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 305 
-- **🏢 Companies**: 7 elite tech companies
-- **⭐ FAANG+ Jobs**: 58 premium opportunities  
+- **🔥 Active Positions**: 333 
+- **🏢 Companies**: 8 elite tech companies
+- **⭐ FAANG+ Jobs**: 59 premium opportunities  
 - **📅 Last Updated**: January 10, 2026
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 31 (older than 1 week)
+- **📁 Archived Jobs**: 30 (older than 1 week)
 
 ---
 
@@ -537,15 +572,15 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 34 | 11% | Perfect for new grads |
-| 🟡 **Mid-Level** | 139 | 46% | 2-5 years experience |
-| 🔴 **Senior** | 132 | 43% | 5+ years experience |
+| 🟢 **Entry-Level** | 49 | 15% | Perfect for new grads |
+| 🟡 **Mid-Level** | 151 | 45% | 2-5 years experience |
+| 🔴 **Senior** | 133 | 40% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (305 positions)
+### 💻 **Hardware Engineering** (333 positions)
 📦 Amazon
 
 ---
@@ -556,10 +591,10 @@
 - **Boise, Idaho**: 30 positions
 - **Multiple, Locations**: 24 positions
 - **San Jose, California**: 23 positions
+- **Multiple, Various**: 21 positions
 - **Sunnyvale, CA**: 17 positions
-- **Multiple, Various**: 14 positions
+- **Multiple Cities, US**: 16 positions
 - **Santa Clara, CA**: 13 positions
-- **San Diego, California**: 10 positions
 
 ---
 
@@ -600,7 +635,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 305 current opportunities from 7 elite companies**
+**🎯 333 current opportunities from 8 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
