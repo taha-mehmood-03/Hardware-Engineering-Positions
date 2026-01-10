@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Hardware Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Program Manager, Hardware Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076707-technical-program-manager-hardware-systems",
+    "id": "aijobs-technical-program-manager-hardware-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Finance, Hardware Product Finance",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Finance, Hardware Product Finance at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076708-strategic-finance-hardware-product-finance",
+    "id": "aijobs-strategic-finance-hardware-product-finance-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Mechanical Engineer - Hands",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "23h ago",
+    "job_description": "hardware engineering job for the role Mechanical Engineer - Hands at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076142-mechanical-engineer-hands",
+    "id": "aijobs-mechanical-engineer-hands-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Board Test Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manager, Board Test Engineering at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/193069133-manager-board-test-engineering",
+    "id": "aijobs-manager-board-test-engineering-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Engineer, Security Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Data Engineer, Security Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076711-data-engineer-security-products",
+    "id": "aijobs-data-engineer-security-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Frontend, Security Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer - Frontend, Security Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076710-software-engineer-frontend-security-products",
+    "id": "aijobs-software-engineer-frontend-security-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Codex for Teams",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Codex for Teams at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076712-software-engineer-codex-for-teams",
+    "id": "aijobs-software-engineer-codex-for-teams-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Verification and Infrastructure Engineer – New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role ASIC Verification and Infrastructure Engineer – New College Grad 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/193069135-asic-verification-and-infrastructure-engineer-new-college-grad-2026",
+    "id": "aijobs-asic-verification-and-infrastructure-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Researcher, Synthetic RL",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Researcher, Synthetic RL at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/193076705-researcher-synthetic-rl",
+    "id": "aijobs-researcher-synthetic-rl-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Developer, AI-driven Test and Automation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Developer, AI-driven Test and Automation at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/193069137-senior-developer-ai-driven-test-and-automation",
+    "id": "aijobs-developer-ai-driven-test-and-automation-santa-clara"
+  }
+]
