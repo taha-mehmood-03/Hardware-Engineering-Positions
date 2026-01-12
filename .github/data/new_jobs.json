@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Science Engineer",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Lead Data Science Engineer at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86204&source=WEB_Search_NA",
+    "id": "ibm-data-science-engineer-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representatives",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representatives at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84819&source=WEB_Search_NA",
+    "id": "ibm-system-services-representatives-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Legal Specialist",
+    "job_city": "Administration & TechnicianArmonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Legal Specialist at Administration & TechnicianArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80036&source=WEB_Search_NA",
+    "id": "ibm-legal-specialist-administration-technicianarmonk"
+  }
+]
