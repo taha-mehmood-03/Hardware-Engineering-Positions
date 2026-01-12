@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director of Technology Product Management – AI / ML",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Utah: (MS/PhD) Career Accelerator Program - Manufacturing Product Development Engineer",
+    "job_city": "Lehi",
+    "job_state": "UT",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director of Technology Product Management – AI / ML at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-of-technology-product-management-ai-ml/33099/88015187152",
-    "id": "arm-director-of-technology-product-management-ai-ml-cambridge"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director Hardware Application Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Director Hardware Application Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Hardware-Application-Engineering_2503345-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-hardware-application-engineering-santa-clara"
+    "job_description": "hardware engineering job for the role Utah: (MS/PhD) Career Accelerator Program - Manufacturing Product Development Engineer at Lehi, UT, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008686/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-utah-ms-phd-career-accelerator-program-manufacturing-product-development-engineer-lehi"
   }
 ]
