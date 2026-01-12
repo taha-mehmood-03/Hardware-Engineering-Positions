@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Data Science Engineer",
-    "job_city": "Dallas",
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, CFD Algorithm Development",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Lead Data Science Engineer at ProfessionalDallas, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86204&source=WEB_Search_NA",
-    "id": "ibm-data-science-engineer-dallas"
+    "job_posted_at": "45min ago",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, CFD Algorithm Development at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/194739595-senior-research-engineer-cfd-algorithm-development",
+    "id": "aijobs-research-engineer-cfd-algorithm-development-unknown"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "System Services Representatives",
-    "job_city": "Austin",
+    "employer_name": "AiJobs",
+    "job_title": "Software Test Engineer, Medical Devices",
+    "job_city": "United States",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representatives at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84819&source=WEB_Search_NA",
-    "id": "ibm-system-services-representatives-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Legal Specialist",
-    "job_city": "Administration & TechnicianArmonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Legal Specialist at Administration & TechnicianArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80036&source=WEB_Search_NA",
-    "id": "ibm-legal-specialist-administration-technicianarmonk"
+    "job_posted_at": "46min ago",
+    "job_description": "hardware engineering job for the role Staff Software Test Engineer, Medical Devices at United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/194739590-staff-software-test-engineer-medical-devices",
+    "id": "aijobs-software-test-engineer-medical-devices-united-states"
   }
 ]
