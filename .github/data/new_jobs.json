@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "System Architec",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Graduate CPU OS Verification Software/Hardware Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal System Architec at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-system-architec/33099/76721081920",
-    "id": "arm-system-architec-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance and PnP Modeling Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Performance and PnP Modeling Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/performance-and-pnp-modeling-architect/33099/90429389184",
-    "id": "arm-performance-and-pnp-modeling-architect-austin"
+    "job_description": "Hardware Engineering job for the role Graduate CPU OS Verification Software/Hardware Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-os-verification-software-hardware-engineer/33099/90508729488",
+    "id": "arm-graduate-cpu-os-verification-software-hardware-engineer-sophia-antipolis"
   }
 ]
