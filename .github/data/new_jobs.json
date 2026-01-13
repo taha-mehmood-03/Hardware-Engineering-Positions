@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Hardware Circuit Designer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Hardware Circuit Designer at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85255&source=WEB_Search_NA",
-    "id": "ibm-quantum-hardware-circuit-designer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Management Lead - API Management and iPaaS Go To Market",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Management Lead - API Management and iPaaS Go To Market at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85293&source=WEB_Search_NA",
-    "id": "ibm-product-management-lead-api-management-and-ipaas-go-to-market-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Phy Embedded Device Software Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Phy Embedded Device Software Engineer at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Staff-Embedded-Device-Software-Engineer---DSP-Firmware-Engineer---Embedded-Processors---Mixed-Signal---RTOS---PHY_2503443?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-phy-embedded-device-software-engineer-irvine"
   }
 ]
