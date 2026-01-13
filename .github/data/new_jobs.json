@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Verification Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Senior Hardware Systems Quality and Reliability Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Verification Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/cpu-verification-engineer/33099/86313574016",
-    "id": "arm-cpu-verification-engineer-bengaluru"
+    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Hardware Systems Quality and Reliability Engineer, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121436607239594694-senior-hardware-systems-quality-and-reliability-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-hardware-systems-quality-and-reliability-engineer-sunnyvale"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer in Test (Productization)",
+    "job_title": "Product Security Systems Architect",
     "job_city": "Munich",
     "job_state": "Germany",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer in Test (Productization) at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/senior-software-engineer-in-test-productization/33099/90537985104",
-    "id": "arm-software-engineer-in-test-productization-munich"
+    "job_description": "Hardware Engineering job for the role Product Security Systems Architect at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/product-security-systems-architect/33099/85172733696",
+    "id": "arm-product-security-systems-architect-munich"
   }
 ]
