@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Staff/Principal Engineer, SSD Tester System Architect",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Staff/Principal Engineer, SSD Tester System Architect at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30764689",
-    "id": "micron-staff-principal-engineer-ssd-tester-system-architect-san-jose"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Scientist & Project Lead",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Staff Research Scientist & Project Lead at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/196263468-staff-research-scientist-project-lead",
-    "id": "aijobs-research-scientist-project-lead-unknown"
+    "employer_name": "Google",
+    "job_title": "Senior Hardware Validation Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "22 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Hardware Validation Engineer, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143046649290072774-senior-hardware-validation-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-hardware-validation-engineer-sunnyvale"
   }
 ]
