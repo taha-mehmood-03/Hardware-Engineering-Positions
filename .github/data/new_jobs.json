@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Verification Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Verification Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/cpu-verification-engineer/33099/86313574016",
+    "id": "arm-cpu-verification-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test (Productization)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer in Test (Productization) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-software-engineer-in-test-productization/33099/90537985104",
+    "id": "arm-software-engineer-in-test-productization-munich"
+  }
+]
