@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "MHE Reliability Engineer, MHE Reliability Engineering Team",
-    "employer_name": "Amazon",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "hardware engineering job for the role MHE Reliability Engineer, MHE Reliability Engineering Team at Atlanta, GA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157915/mhe-reliability-engineer-mhe-reliability-engineering-team",
-    "job_posted_at": "2026-01-13T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-13T00:00:00.000Z",
-    "id": "amazon-mhe-reliability-engineer-mhe-reliability-engineering-team-atlanta"
+    "employer_name": "Arm",
+    "job_title": "Director, Cost Accountant",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Cost Accountant at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-cost-accountant/33099/90545972752",
+    "id": "arm-director-cost-accountant-san-jose"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision/ML Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Computer Vision/ML Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/195217192-computer-vision-ml-engineer",
+    "id": "aijobs-computer-vision-ml-engineer-unknown"
   }
 ]
