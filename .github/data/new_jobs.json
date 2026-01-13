@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Cost Accountant",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Hardware Development Engineer AWS AI & ML, Mainstream Accelerators",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Mainstream Accelerators at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157996/hardware-development-engineer-aws-ai-ml-mainstream-accelerators",
+    "job_posted_at": "2026-01-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-13T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-aws-ai-ml-mainstream-accelerators-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Systems Quality and Reliability Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, Cost Accountant at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/director-cost-accountant/33099/90545972752",
-    "id": "arm-director-cost-accountant-san-jose"
+    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Systems Quality and Reliability Engineer, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106312927878750918-hardware-systems-quality-and-reliability-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-systems-quality-and-reliability-engineer-sunnyvale"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Computer Vision/ML Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Computer Vision/ML Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/195217192-computer-vision-ml-engineer",
-    "id": "aijobs-computer-vision-ml-engineer-unknown"
+    "job_title": "Computer Vision (Software) Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "13h ago",
+    "job_description": "hardware engineering job for the role Computer Vision (Software) Engineer at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/195217193-computer-vision-software-engineer",
+    "id": "aijobs-computer-vision-software-engineer-us"
   }
 ]
