@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Data Center Infrastructure Engineer Intern",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3159355/data-center-infrastructure-engineer-intern",
-    "job_posted_at": "2026-01-14T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z",
-    "id": "amazon-data-center-infrastructure-engineer-intern-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SATCOM/RF Engineer - Functional (TS/SCI)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Analog IC Design Engineering Intern (GaN Devices)",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SATCOM/RF Engineer - Functional (TS/SCI) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86489&source=WEB_Search_NA",
-    "id": "ibm-satcom-rf-engineer-functional-ts-sci-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Project Manager-Oracle Enterprise Applications",
-    "job_city": "HUNTSVILLE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Project Manager-Oracle Enterprise Applications at ProfessionalHUNTSVILLE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83768&source=WEB_Search_NA",
-    "id": "ibm-project-manager-oracle-enterprise-applications-huntsville"
+    "job_description": "hardware engineering job for the role Analog IC Design Engineering Intern (GaN Devices) at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25004694/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-analog-ic-design-engineering-intern-gan-devices-"
   }
 ]
