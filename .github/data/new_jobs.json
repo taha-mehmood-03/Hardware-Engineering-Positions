@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Hardware Validation Engineer",
-    "job_city": "Sunnyvale",
+    "job_title": "System Development Engineer II, AWS Storage and Accelerator team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
     "job_state": "CA",
+    "job_description": "hardware engineering job for the role System Development Engineer II, AWS Storage and Accelerator team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3158518/system-development-engineer-ii-aws-storage-and-accelerator-team",
+    "job_posted_at": "2026-01-14T00:43:47.474Z",
+    "job_posted_at_datetime_utc": "2026-01-14T00:43:47.474Z",
+    "id": "amazon-system-development-engineer-ii-aws-storage-and-accelerator-team-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance Architecture & PnP Modeling Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "22 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Hardware Validation Engineer, Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143046649290072774-senior-hardware-validation-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-hardware-validation-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Performance Architecture & PnP Modeling Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/performance-architecture-and-pnp-modeling-engineer/33099/90564269344",
+    "id": "arm-performance-architecture-pnp-modeling-engineer-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Director, Test Development Operations",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Director, Test Development Operations at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Director--Test-Development-Operations_R258885?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-director-test-development-operations-us"
   }
 ]
