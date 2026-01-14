@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Customer Support Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Customer Support Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/senior-customer-support-engineer/33099/84729469312",
-    "id": "arm-customer-support-engineer-taipei"
+    "employer_name": "AiJobs",
+    "job_title": "Verification Infrastructure Engineer – NVIDIA SoCs",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Verification Infrastructure Engineer – NVIDIA SoCs at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/198053370-senior-verification-infrastructure-engineer-nvidia-socs",
+    "id": "aijobs-verification-infrastructure-engineer-nvidia-socs-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Engineer - Product Performance and Power",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Product Performance and Power at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/198053366-principal-hardware-engineer-product-performance-and-power",
+    "id": "aijobs-hardware-engineer-product-performance-and-power-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Metropolis Accelerated and Inferencing Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Director, Metropolis Accelerated and Inferencing Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/198053365-director-metropolis-accelerated-and-inferencing-software",
+    "id": "aijobs-director-metropolis-accelerated-and-inferencing-software-santa-clara"
   }
 ]
