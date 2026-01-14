@@ -1,32 +1,122 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Verification Infrastructure Engineer – NVIDIA SoCs",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Operations Program Manager, AI Infrastructure",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Verification Infrastructure Engineer – NVIDIA SoCs at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/198053370-senior-verification-infrastructure-engineer-nvidia-socs",
-    "id": "aijobs-verification-infrastructure-engineer-nvidia-socs-santa-clara"
+    "job_description": "hardware engineering job for the role Operations Program Manager, AI Infrastructure at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165090-operations-program-manager-ai-infrastructure",
+    "id": "aijobs-operations-program-manager-ai-infrastructure-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Hardware Engineer - Product Performance and Power",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Product Performance and Power at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/198053366-principal-hardware-engineer-product-performance-and-power",
-    "id": "aijobs-hardware-engineer-product-performance-and-power-santa-clara"
+    "job_title": "Corporate Development, Deal Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Corporate Development, Deal Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165094-corporate-development-deal-lead",
+    "id": "aijobs-corporate-development-deal-lead-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Director, Metropolis Accelerated and Inferencing Software",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Research Engineer, AI for Science",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Director, Metropolis Accelerated and Inferencing Software at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/198053365-director-metropolis-accelerated-and-inferencing-software",
-    "id": "aijobs-director-metropolis-accelerated-and-inferencing-software-santa-clara"
+    "job_description": "hardware engineering job for the role Research Engineer, AI for Science at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165084-research-engineer-ai-for-science",
+    "id": "aijobs-research-engineer-ai-for-science-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Full-Stack — Developer Experience",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Full-Stack — Developer Experience at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165091-software-engineer-full-stack-developer-experience",
+    "id": "aijobs-software-engineer-full-stack-developer-experience-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Content Integrity Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Content Integrity Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165099-content-integrity-analyst",
+    "id": "aijobs-content-integrity-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Corporate Development, Strategy & Scouting Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Corporate Development, Strategy & Scouting Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165092-corporate-development-strategy-scouting-lead",
+    "id": "aijobs-corporate-development-strategy-scouting-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Fraud & Risk Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Fraud & Risk Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183674790-fraud-risk-analyst",
+    "id": "aijobs-fraud-risk-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Engineer (FDE), Life Sciences - NYC",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Forward Deployed Engineer (FDE), Life Sciences - NYC at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165088-forward-deployed-engineer-fde-life-sciences-nyc",
+    "id": "aijobs-forward-deployed-engineer-fde-life-sciences-nyc-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Government Account Director, Defense",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Government Account Director, Defense at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165083-government-account-director-defense",
+    "id": "aijobs-government-account-director-defense-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "People Data & Reporting Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role People Data & Reporting Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165081-people-data-reporting-analyst",
+    "id": "aijobs-people-data-reporting-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Sales Industries",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Head of Sales Industries at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165098-head-of-sales-industries",
+    "id": "aijobs-head-of-sales-industries-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Engineer, Health AI",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full Stack Engineer, Health AI at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165093-full-stack-engineer-health-ai",
+    "id": "aijobs-full-stack-engineer-health-ai-united-states"
   }
 ]
