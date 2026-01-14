@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance & PNP Modeling Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Performance & PNP Modeling Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/performance-and-pnp-modeling-architect/33099/90588763344",
+    "id": "arm-performance-pnp-modeling-architect-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representatives - Austin",
+    "job_city": "Administration & TechnicianAustin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representatives - Austin at Administration & TechnicianAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82391&source=WEB_Search_NA",
+    "id": "ibm-system-services-representatives-austin-administration-technicianaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Nashville",
+    "job_city": "Administration & TechnicianNo City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Nashville at Administration & TechnicianNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79935&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-nashville-administration-technicianno-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Development - Apptio Costing Intern",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Development - Apptio Costing Intern at InternshipBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86505&source=WEB_Search_NA",
+    "id": "ibm-development-apptio-costing-intern-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer –  Strategy and Transformation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer –  Strategy and Transformation at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86491&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-strategy-and-transformation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Service Support Representative - Tulsa, OK",
+    "job_city": "Administration & TechnicianTulsa",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Service Support Representative - Tulsa, OK at Administration & TechnicianTulsa, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82838&source=WEB_Search_NA",
+    "id": "ibm-service-support-representative-tulsa-ok-administration-techniciantulsa"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer –  Hybrid Cloud and Data",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer –  Hybrid Cloud and Data at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86506&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-hybrid-cloud-and-data-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud HCM Technical - Fast Formulas",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud HCM Technical - Fast Formulas at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80259&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-hcm-technical-fast-formulas-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud Financials Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud Financials Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72683&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-financials-architect-multiple-cities"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "PCIe/CXL Architect",
+    "job_city": "7 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role PCIe/CXL Architect at 7 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2503563?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-pcie-cxl-architect-7-locations"
+  }
+]
