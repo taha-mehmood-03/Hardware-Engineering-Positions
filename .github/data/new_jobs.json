@@ -1,12 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Senior/Staff Software Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "job_title": "DevOps Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff Software Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-staff-software-engineer/33099/90609415024",
-    "id": "arm-senior-staff-software-engineer-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role Senior DevOps Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-engineer/33099/90612349888",
+    "id": "arm-devops-engineer-cambridge"
   }
 ]
