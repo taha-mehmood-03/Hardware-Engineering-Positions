@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior DevOps Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-engineer/33099/90612349888",
-    "id": "arm-devops-engineer-cambridge"
+    "employer_name": "AiJobs",
+    "job_title": "AI Software Engineer, LLM Inference Performance Analysis - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Software Engineer, LLM Inference Performance Analysis - New College Grad 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/200492594-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026",
+    "id": "aijobs-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Firmware Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Senior Firmware Engineer at US, WA, Seattle",
+    "job_apply_link": "https://www.aijobs.com/jobs/200492599-senior-firmware-engineer",
+    "id": "aijobs-firmware-engineer-seattle"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Compiler Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Compiler Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/200492600-senior-deep-learning-compiler-engineer",
+    "id": "aijobs-deep-learning-compiler-engineer-santa-clara"
   }
 ]
