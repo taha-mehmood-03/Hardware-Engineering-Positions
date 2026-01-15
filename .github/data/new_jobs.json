@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineering Professional",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineering Professional at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86170&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineering-professional-austin"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Mixed Signal IC Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Mixed Signal IC Design Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-IC-Design-Engineer_R253425-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mixed-signal-ic-design-engineer-2-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Algorithm Engineer / Robotics Algorithm Lead",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Algorithm Engineer / Robotics Algorithm Lead at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Algorithm-Engineer---Robotics-Algorithm-Lead_R258879?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-algorithm-engineer-robotics-algorithm-lead-us"
+    "job_title": "Hardware Development Engineer, Quantum Engineering, Fabrication, AWS CQC",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Quantum Engineering, Fabrication, AWS CQC at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160552/hardware-development-engineer-quantum-engineering-fabrication-aws-cqc",
+    "job_posted_at": "2026-01-15T22:20:22.011Z",
+    "job_posted_at_datetime_utc": "2026-01-15T22:20:22.011Z",
+    "id": "amazon-hardware-development-engineer-quantum-engineering-fabrication-aws-cqc-pasadena"
   }
 ]
