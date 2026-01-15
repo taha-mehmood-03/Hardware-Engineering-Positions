@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "job_title": "Technical Support Engineer, Grocery Robotics & Automation",
+    "employer_name": "Amazon",
+    "job_city": "Virtual Location - California",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Technical Support Engineer, Grocery Robotics & Automation at Virtual Location - California, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127712/technical-support-engineer-grocery-robotics-automation",
+    "job_posted_at": "2026-01-15T17:35:02.707Z",
+    "job_posted_at_datetime_utc": "2026-01-15T17:35:02.707Z",
+    "id": "amazon-technical-support-engineer-grocery-robotics-automation-virtual-location-california"
+  },
+  {
+    "job_title": "SDE, AWS Firmware Builder Services",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role SDE, AWS Firmware Builder Services at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160297/sde-aws-firmware-builder-services",
+    "job_posted_at": "2026-01-15T17:35:02.706Z",
+    "job_posted_at_datetime_utc": "2026-01-15T17:35:02.706Z",
+    "id": "amazon-sde-aws-firmware-builder-services-seattle"
+  },
+  {
+    "job_title": "SDE, AWS Firmware Builder Services",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role SDE, AWS Firmware Builder Services at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160316/sde-aws-firmware-builder-services",
+    "job_posted_at": "2026-01-15T17:35:02.706Z",
+    "job_posted_at_datetime_utc": "2026-01-15T17:35:02.706Z",
+    "id": "amazon-sde-aws-firmware-builder-services-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Designer, ML Tooling",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Designer, ML Tooling at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/product-designer-ml-tooling/33099/90394363856",
+    "id": "arm-product-designer-ml-tooling-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer c++",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer c++ at Manchester, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-software-engineer-c/33099/84654857584",
+    "id": "arm-software-engineer-c-manchester"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Performance & PNP Modeling Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Performance & PNP Modeling Architect at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-performance-and-pnp-modeling-architect/33099/90564269344",
+    "id": "arm-performance-pnp-modeling-architect-san-jose"
+  }
+]
