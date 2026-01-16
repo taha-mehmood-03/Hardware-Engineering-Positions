@@ -1,13 +1,12 @@
 [
   {
-    "job_title": "SDE - Firmware, AWS Hardware Engineering, Firmware Development",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role SDE - Firmware, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160283/sde-firmware-aws-hardware-engineering-firmware-development",
-    "job_posted_at": "2026-01-15T17:19:00.897Z",
-    "job_posted_at_datetime_utc": "2026-01-15T17:19:00.897Z",
-    "id": "amazon-sde-firmware-aws-hardware-engineering-firmware-development-cupertino"
+    "employer_name": "Arm",
+    "job_title": "Productization Lead Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Productization Lead Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-productization-lead-engineer/33099/90647570576",
+    "id": "arm-productization-lead-engineer-bengaluru"
   }
 ]
