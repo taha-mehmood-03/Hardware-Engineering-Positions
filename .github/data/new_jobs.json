@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Productization Lead Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Productization Lead Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-productization-lead-engineer/33099/90647570576",
-    "id": "arm-productization-lead-engineer-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "Automotive Hardware Safety Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Automotive Hardware Safety Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/202951440-automotive-hardware-safety-engineer",
+    "id": "aijobs-automotive-hardware-safety-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer – High Performance AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Distinguished Engineer – High Performance AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/202951434-distinguished-engineer-high-performance-ai",
+    "id": "aijobs-distinguished-engineer-high-performance-ai-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Design Engineer, Hardware Tools and Methodology Development",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "3min ago",
+    "job_description": "hardware engineering job for the role ASIC Design Engineer, Hardware Tools and Methodology Development at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/202951441-asic-design-engineer-hardware-tools-and-methodology-development",
+    "id": "aijobs-asic-design-engineer-hardware-tools-and-methodology-development-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Verification Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role ASIC Verification Engineer - New College Grad 2026 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/202951435-asic-verification-engineer-new-college-grad-2026",
+    "id": "aijobs-asic-verification-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer - Hardware Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer - Hardware Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/202951436-site-reliability-engineer-hardware-infrastructure",
+    "id": "aijobs-site-reliability-engineer-hardware-infrastructure-santa-clara"
   }
 ]
