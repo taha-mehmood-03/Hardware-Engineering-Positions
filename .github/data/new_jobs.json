@@ -1,82 +1,342 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Product Cybersecurity Verification & Validation Lead, ABB Robotics",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Product Cybersecurity Verification & Validation Lead, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022152/Product-Cybersecurity-Verification-Validation-Lead-ABB-Robotics",
-    "id": "abb-product-cybersecurity-verification-validation-lead-abb-robotics-vaesteras"
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer - Hardware",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer - Hardware at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520999-site-reliability-engineer-hardware",
+    "id": "aijobs-site-reliability-engineer-hardware-tn"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Answer Experience",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Answer Experience at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094291-engineering-manager-answer-experience",
-    "id": "aijobs-engineering-manager-answer-experience-united-states"
+    "job_title": "Site Reliability Engineer - Storage",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer - Storage at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203521002-site-reliability-engineer-storage",
+    "id": "aijobs-site-reliability-engineer-storage-tn"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094292-software-engineer-internship-co-op-applied-emerging-talent-fall-2026",
-    "id": "aijobs-software-engineer-internship-co-op-applied-emerging-talent-fall-2026-united-states"
+    "job_title": "Network Engineer - Backbone",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Network Engineer - Backbone at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520985-network-engineer-backbone",
+    "id": "aijobs-network-engineer-backbone-wa"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Fullstack Engineer, Safety Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Fullstack Engineer, Safety Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094289-fullstack-engineer-safety-engineering",
-    "id": "aijobs-fullstack-engineer-safety-engineering-united-states"
+    "job_title": "Network Engineer - Backbone",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Network Engineer - Backbone at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520984-network-engineer-backbone",
+    "id": "aijobs-network-engineer-backbone-ca"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Product Engagement Specialist",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Engagement Specialist at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094294-product-engagement-specialist",
-    "id": "aijobs-product-engagement-specialist-united-states"
+    "job_title": "Network Engineer - Edge",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Network Engineer - Edge at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520987-network-engineer-edge",
+    "id": "aijobs-network-engineer-edge-ca"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, International Growth- ChatGPT",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Full Stack Software Engineer, International Growth- ChatGPT at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094290-full-stack-software-engineer-international-growth-chatgpt",
-    "id": "aijobs-full-stack-software-engineer-international-growth-chatgpt-united-states"
+    "job_title": "Network Engineer - Edge",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Network Engineer - Edge at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520988-network-engineer-edge",
+    "id": "aijobs-network-engineer-edge-wa"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Head of Professional Services",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Head of Professional Services at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094298-head-of-professional-services",
-    "id": "aijobs-head-of-professional-services-united-states"
+    "job_title": "Site Reliability Engineer - Automation",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer - Automation at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520997-site-reliability-engineer-automation",
+    "id": "aijobs-site-reliability-engineer-automation-tn"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Head of Sales Development",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Head of Sales Development at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094297-head-of-sales-development",
-    "id": "aijobs-head-of-sales-development-united-states"
+    "job_title": "Member of Technical Staff, Pre-training Scaling",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "23min ago",
+    "job_description": "hardware engineering job for the role Member of Technical Staff, Pre-training Scaling at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545624-member-of-technical-staff-pre-training-scaling",
+    "id": "aijobs-member-of-technical-staff-pre-training-scaling-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role System Software Engineer at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520979-system-software-engineer",
+    "id": "aijobs-system-software-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Sourcing & Procurement Lead, Compute",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Senior Strategic Sourcing & Procurement Lead, Compute at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535608-senior-strategic-sourcing-procurement-lead-compute",
+    "id": "aijobs-strategic-sourcing-procurement-lead-compute-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of Technical Staff, Web-scale Multimodal Modeling",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "23min ago",
+    "job_description": "hardware engineering job for the role Member of Technical Staff, Web-scale Multimodal Modeling at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545637-member-of-technical-staff-web-scale-multimodal-modeling",
+    "id": "aijobs-member-of-technical-staff-web-scale-multimodal-modeling-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Architect",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Network Architect at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535607-network-architect",
+    "id": "aijobs-network-architect-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Infrastructure Engineer, Data Platform",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Infrastructure Engineer, Data Platform at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535610-infrastructure-engineer-data-platform",
+    "id": "aijobs-infrastructure-engineer-data-platform-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Project Manager, Compute & Business Operations",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Project Manager, Compute & Business Operations at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535606-project-manager-compute-business-operations",
+    "id": "aijobs-project-manager-compute-business-operations-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Operations Technician",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "34min ago",
+    "job_description": "hardware engineering job for the role Datacenter Operations Technician at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492344-datacenter-operations-technician",
+    "id": "aijobs-datacenter-operations-technician-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Research Engineer, GPU Programming",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Systems Research Engineer, GPU Programming at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535602-systems-research-engineer-gpu-programming",
+    "id": "aijobs-systems-research-engineer-gpu-programming-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Developer Productivity Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "25min ago",
+    "job_description": "hardware engineering job for the role Senior Developer Productivity Engineer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535620-senior-developer-productivity-engineer",
+    "id": "aijobs-developer-productivity-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of Technical Staff - Infrastructure Reliability",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Member of Technical Staff - Infrastructure Reliability at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545599-member-of-technical-staff-infrastructure-reliability",
+    "id": "aijobs-member-of-technical-staff-infrastructure-reliability-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Development Engineer (Ops&Deploy) -xAI Networking",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "29min ago",
+    "job_description": "hardware engineering job for the role Network Development Engineer (Ops&Deploy) -xAI Networking at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520983-network-development-engineer-ops-deploy-xai-networking",
+    "id": "aijobs-network-development-engineer-ops-deploy-xai-networking-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Researcher, Core ML",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role AI Researcher, Core ML at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535593-ai-researcher-core-ml",
+    "id": "aijobs-ai-researcher-core-ml-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Together Cloud Platform",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Together Cloud Platform at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535596-senior-software-engineer-together-cloud-platform",
+    "id": "aijobs-software-engineer-together-cloud-platform-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Development Engineer (Ops&Deploy)",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "34min ago",
+    "job_description": "hardware engineering job for the role Network Development Engineer (Ops&Deploy) at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492361-network-development-engineer-ops-deploy",
+    "id": "aijobs-network-development-engineer-ops-deploy-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Data Engineer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535619-senior-data-engineer",
+    "id": "aijobs-data-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, LLM Evaluation and Behavioral Analysis",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, LLM Evaluation and Behavioral Analysis at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535601-senior-research-engineer-llm-evaluation-and-behavioral-analysis",
+    "id": "aijobs-research-engineer-llm-evaluation-and-behavioral-analysis-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Development Engineer in Test",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Software Development Engineer in Test at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535622-senior-software-development-engineer-in-test",
+    "id": "aijobs-software-development-engineer-in-test-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer - Commerce",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Backend Engineer - Commerce at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535616-senior-backend-engineer-commerce",
+    "id": "aijobs-backend-engineer-commerce-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535604-site-reliability-engineer",
+    "id": "aijobs-site-reliability-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer, Distributed Storage and HPC & AI Infrastructure",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Staff Engineer, Distributed Storage and HPC & AI Infrastructure at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535591-staff-engineer-distributed-storage-and-hpc-ai-infrastructure",
+    "id": "aijobs-engineer-distributed-storage-and-hpc-ai-infrastructure-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Core Network Development Engineer - xAI Networking",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "34min ago",
+    "job_description": "hardware engineering job for the role Core Network Development Engineer - xAI Networking at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492321-core-network-development-engineer-xai-networking",
+    "id": "aijobs-core-network-development-engineer-xai-networking-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/HPC Network Development Engineer - Networking",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "34min ago",
+    "job_description": "hardware engineering job for the role AI/HPC Network Development Engineer - Networking at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492317-ai-hpc-network-development-engineer-networking",
+    "id": "aijobs-ai-hpc-network-development-engineer-networking-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/HPC Network Development Engineer - Networking",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "34min ago",
+    "job_description": "hardware engineering job for the role AI/HPC Network Development Engineer - Networking at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492319-ai-hpc-network-development-engineer-networking",
+    "id": "aijobs-ai-hpc-network-development-engineer-networking-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning, Platform Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Machine Learning, Platform Engineer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535613-machine-learning-platform-engineer",
+    "id": "aijobs-machine-learning-platform-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "MEP Manager, Data Centers",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "6d ago",
+    "job_description": "hardware engineering job for the role MEP Manager, Data Centers at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535618-mep-manager-data-centers",
+    "id": "aijobs-mep-manager-data-centers-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer, Inference Platform",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "26min ago",
+    "job_description": "hardware engineering job for the role Senior Backend Engineer, Inference Platform at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535617-senior-backend-engineer-inference-platform",
+    "id": "aijobs-backend-engineer-inference-platform-san-francisco"
   }
 ]
