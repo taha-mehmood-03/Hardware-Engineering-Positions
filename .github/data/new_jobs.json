@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer 2026  - Business Applications",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer 2026  - Business Applications at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-2026-business-applications-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Specialist 2026- Business Applications",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Package Specialist 2026- Business Applications at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87011&source=WEB_Search_NA",
+    "id": "ibm-associate-package-specialist-2026-business-applications-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate  Package Specialist 2026 - Application Operations",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate  Package Specialist 2026 - Application Operations at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87020&source=WEB_Search_NA",
+    "id": "ibm-associate-package-specialist-2026-application-operations-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Specialist -",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Security Specialist - 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87017&source=WEB_Search_NA",
+    "id": "ibm-associate-security-specialist-multiple-cities"
+  }
+]
