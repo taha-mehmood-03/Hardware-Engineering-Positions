@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manufacturing and Supply Chain Lead",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Manufacturing and Supply Chain Lead at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manufacturing-and-Supply-Chain-Lead_R260012?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manufacturing-and-supply-chain-lead-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Inference Compiler Engineer – Dubai",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "4d ago",
-    "job_description": "hardware engineering job for the role Inference Compiler Engineer – Dubai at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/194470210-inference-compiler-engineer-dubai",
-    "id": "aijobs-inference-compiler-engineer-dubai-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied AI/ML Scientist",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Applied AI/ML Scientist at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/200906926-applied-ai-ml-scientist",
-    "id": "aijobs-applied-ai-ml-scientist-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Models, Product Manager",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "23h ago",
-    "job_description": "hardware engineering job for the role AI Models, Product Manager at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/203589209-ai-models-product-manager",
-    "id": "aijobs-ai-models-product-manager-ca"
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Career Accelerator Program - Systems Marketing Engineer (SEM) - MS/PhD",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Career Accelerator Program - Systems Marketing Engineer (SEM) - MS/PhD at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008811/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-career-accelerator-program-systems-marketing-engineer-sem-ms-phd-dallas"
   }
 ]
