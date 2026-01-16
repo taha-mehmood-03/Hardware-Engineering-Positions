@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DevOps / Automation / Infrastructure Engineer - CPU development team",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior DevOps / Automation / Infrastructure Engineer - CPU development team at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-automation-infrastructure-engineer-cpu-development-team/33099/90612349888",
-    "id": "arm-devops-automation-infrastructure-engineer-cpu-development-team-cambridge"
+    "job_title": "SDE - Firmware, AWS Hardware Engineering, Firmware Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role SDE - Firmware, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160283/sde-firmware-aws-hardware-engineering-firmware-development",
+    "job_posted_at": "2026-01-15T17:19:00.897Z",
+    "job_posted_at_datetime_utc": "2026-01-15T17:19:00.897Z",
+    "id": "amazon-sde-firmware-aws-hardware-engineering-firmware-development-cupertino"
   }
 ]
