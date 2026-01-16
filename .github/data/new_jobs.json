@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Manager",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineering Manager at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86512&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-manager-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer Intern – Client Innovation Center (Entry Level)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Engineer Intern – Client Innovation Center (Entry Level) at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87269&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-intern-client-innovation-center-entry-level-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Engineer 2026 – Data Services",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2026 – Data Services at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87247&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-2026-data-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Business Transformation Consultant  2026 – Data Services",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Business Transformation Consultant  2026 – Data Services at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87233&source=WEB_Search_NA",
+    "id": "ibm-associate-business-transformation-consultant-2026-data-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Transformation Consultant Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Transformation Consultant Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87244&source=WEB_Search_NA",
+    "id": "ibm-business-transformation-consultant-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer  2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87273&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist Intern – Client Innovation Center (Entry Level)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist Intern – Client Innovation Center (Entry Level) 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87033&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-intern-client-innovation-center-entry-level-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Consultant  2026 – AWS, IBM&RedHat, Microsoft",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Consultant  2026 – AWS, IBM&RedHat, Microsoft at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87281&source=WEB_Search_NA",
+    "id": "ibm-associate-application-consultant-2026-aws-ibm-redhat-microsoft-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Developer Intern 2026 – Microsoft, Oracle, Application Operations, Salesforce and ServiceNow",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Developer Intern 2026 – Microsoft, Oracle, Application Operations, Salesforce and ServiceNow at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87239&source=WEB_Search_NA",
+    "id": "ibm-associate-developer-intern-2026-microsoft-oracle-application-operations-salesforce-and-servicenow-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer- Data Integration",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Engineer- Data Integration at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87238&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-data-integration-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist",
+    "job_city": "Irvine",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist at ProfessionalIrvine, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86731&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-irvine"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer Intern – Client Innovation Center (Entry Level)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer Intern – Client Innovation Center (Entry Level) at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-client-innovation-center-entry-level-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant  2026 - Cyber Threat Management",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Security Consultant  2026 - Cyber Threat Management at Entry LevelChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87231&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-2026-cyber-threat-management-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate  Application Developer  2026 – Salesforce",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate  Application Developer  2026 – Salesforce at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87201&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-2026-salesforce-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Package Consultant Intern 2026 – SAP, Workday, Microsoft, Oracle and Salesforce at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87213&source=WEB_Search_NA",
+    "id": "ibm-associate-package-consultant-intern-2026-sap-workday-microsoft-oracle-and-salesforce-multiple-cities"
+  }
+]
