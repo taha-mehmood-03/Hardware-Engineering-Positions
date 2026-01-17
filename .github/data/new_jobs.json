@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software Engineering - AV Frameworks",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manager, Software Engineering - AV Frameworks at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487291-manager-software-engineering-av-frameworks",
+    "id": "aijobs-manager-software-engineering-av-frameworks-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1w ago",
+    "job_description": "hardware engineering job for the role Senior Product Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487287-senior-product-architect",
+    "id": "aijobs-product-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Performance Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Performance Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487289-senior-performance-engineer",
+    "id": "aijobs-performance-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Enterprise Product Manager - Financials",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Enterprise Product Manager - Financials at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/205547501-enterprise-product-manager-financials",
+    "id": "aijobs-enterprise-product-manager-financials-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SRAM Co-Design Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior SRAM Co-Design Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487290-senior-sram-co-design-engineer",
+    "id": "aijobs-sram-co-design-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Marketing Manager ChatGPT, Campaigns",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Product Marketing Manager ChatGPT, Campaigns at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/205547500-product-marketing-manager-chatgpt-campaigns",
+    "id": "aijobs-product-marketing-manager-chatgpt-campaigns-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Recruiting Systems and Enablement Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Recruiting Systems and Enablement Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/205547498-recruiting-systems-and-enablement-lead",
+    "id": "aijobs-recruiting-systems-and-enablement-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deal Lead, Special Situtations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Deal Lead, Special Situtations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/205547502-deal-lead-special-situtations",
+    "id": "aijobs-deal-lead-special-situtations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Performance Engineer - AV Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Performance Engineer - AV Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487292-senior-software-performance-engineer-av-platform",
+    "id": "aijobs-software-performance-engineer-av-platform-santa-clara"
+  }
+]
