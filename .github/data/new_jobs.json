@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Intern, Signal Integrity Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern, Signal Integrity Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-signal-integrity-engineer/33099/90676541136",
-    "id": "arm-intern-signal-integrity-engineer-san-jose"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Mixed-Signal System Design Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Mixed-Signal System Design Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Mixed-Signal-System-Design-Engineer_R260147?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mixed-signal-system-design-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Power Management System Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Power Management System Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Power-Management-System-Engineer_R260148?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-power-management-system-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Embedded / Software System Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Embedded / Software System Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Embedded---Software-System-Engineer_R260149?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-system-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "System Design Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior System Design Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-System-Design-Engineer_R260101?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-system-design-engineer-us"
   }
 ]
