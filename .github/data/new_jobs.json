@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "IT Analyst",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role IT Analyst at New York, New York",
+    "job_apply_link": "https://www.aijobs.com/jobs/206097325-it-analyst",
+    "id": "aijobs-it-analyst-new-york"
+  }
+]
