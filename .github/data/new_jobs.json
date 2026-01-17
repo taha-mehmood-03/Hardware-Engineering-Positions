@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern, Signal Integrity Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern, Signal Integrity Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-signal-integrity-engineer/33099/90676541136",
+    "id": "arm-intern-signal-integrity-engineer-san-jose"
+  }
+]
