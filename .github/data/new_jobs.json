@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Generative Mechanical Design Research Intern",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Generative Mechanical Design Research Intern at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Generative-Mechanical-Design-Research-Intern_R256357?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-generative-mechanical-design-research-intern-us"
+    "employer_name": "IBM",
+    "job_title": "SAP HANA ABAP consultant",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP HANA ABAP consultant at ProfessionalBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87246&source=WEB_Search_NA",
+    "id": "ibm-sap-hana-abap-consultant-baton-rouge"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Copy of Principal Bring-Up and Characterisation Engineer",
+    "job_city": "United States",
+    "job_state": "Texas",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Copy of Principal Bring-Up and Characterisation Engineer at Austin, Texas, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/210987067-copy-of-principal-bring-up-and-characterisation-engineer",
+    "id": "aijobs-copy-of-principal-bring-up-and-characterisation-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Copy of Senior Bring-Up and Characterisation Engineer",
+    "job_city": "United States",
+    "job_state": "Texas",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Copy of Senior Bring-Up and Characterisation Engineer at Austin, Texas, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/210987068-copy-of-senior-bring-up-and-characterisation-engineer",
+    "id": "aijobs-copy-of-senior-bring-up-and-characterisation-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Copy of Staff Bring-Up and Characterisation Engineer",
+    "job_city": "United States",
+    "job_state": "Texas",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Copy of Staff Bring-Up and Characterisation Engineer at Austin, Texas, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/210987069-copy-of-staff-bring-up-and-characterisation-engineer",
+    "id": "aijobs-copy-of-staff-bring-up-and-characterisation-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Costing Accounting",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "6h ago",
+    "job_description": "hardware engineering job for the role Director of Costing Accounting at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/210987070-director-of-costing-accounting",
+    "id": "aijobs-director-of-costing-accounting-ca"
   }
 ]
