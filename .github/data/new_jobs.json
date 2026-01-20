@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Developer Technology",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Manager, Developer Technology at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/212863481-manager-developer-technology",
+    "id": "aijobs-manager-developer-technology-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Infrastructure Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Infrastructure Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/212863491-senior-asic-infrastructure-engineer",
+    "id": "aijobs-asic-infrastructure-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software DevOps Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Software DevOps Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/212863492-software-devops-engineer",
+    "id": "aijobs-software-devops-engineer-santa-clara"
+  }
+]
