@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, People Business Partner",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Kilby Systems Engineering Intern (MEMS)",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, People Business Partner at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/director-people-business-partner/33099/71419038352",
-    "id": "arm-director-people-business-partner-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineering Manager - Functional Safety Toolchain",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineering Manager - Functional Safety Toolchain at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/engineering-manager-functional-safety-toolchain/33099/90796340576",
-    "id": "arm-engineering-manager-functional-safety-toolchain-cambridge"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Sr. Field Applications Engineer - Broadmarket",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role Sr. Field Applications Engineer - Broadmarket at San Jose, California, United States of America + 3 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/39648681",
-    "id": "micron-sr-field-applications-engineer-broadmarket-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Mainframe Developer",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Mainframe Developer at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86660&source=WEB_Search_NA",
-    "id": "ibm-mainframe-developer-san-jose"
+    "job_description": "hardware engineering job for the role Kilby Systems Engineering Intern (MEMS) at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25005903/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-kilby-systems-engineering-intern-mems-"
   }
 ]
