@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Verification Engineer",
+    "job_city": "The Dalles",
+    "job_state": "OR",
+    "job_posted_at": "Recently",
+    "job_description": "9 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Verification Engineer, Hardware Test",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92031309068542662-verification-engineer-hardware-test?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-verification-engineer-the-dalles"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Manager - Low-Speed Synchronous Generator",
+    "job_city": "Vadodara",
+    "job_state": "Gujarāt",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Quality Manager - Low-Speed Synchronous Generator at Vadodara, Gujarāt, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022090/Quality-Manager-Low-Speed-Synchronous-Generator",
+    "id": "abb-quality-manager-low-speed-synchronous-generator-vadodara"
+  }
+]
