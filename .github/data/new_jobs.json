@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Backend Engineer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759452-backend-engineer-consumer-products",
+    "id": "aijobs-backend-engineer-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer - Rust, Go, C++",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Systems Software Engineer - Rust, Go, C++ at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/215709389-senior-systems-software-engineer-rust-go-c++",
+    "id": "aijobs-systems-software-engineer-rust-go-c-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183674791-software-engineer",
+    "id": "aijobs-software-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Frontend Engineer, Financial Web Platform",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Frontend Engineer, Financial Web Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759454-frontend-engineer-financial-web-platform",
+    "id": "aijobs-frontend-engineer-financial-web-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Android Engineer, Applied Foundations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Android Engineer, Applied Foundations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759451-android-engineer-applied-foundations",
+    "id": "aijobs-android-engineer-applied-foundations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-Stack Engineer, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full-Stack Engineer, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759453-full-stack-engineer-consumer-products",
+    "id": "aijobs-full-stack-engineer-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "iOS Engineer, Applied Foundations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role iOS Engineer, Applied Foundations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759455-ios-engineer-applied-foundations",
+    "id": "aijobs-ios-engineer-applied-foundations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Researcher, Preparedness",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Researcher, Preparedness at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759450-researcher-preparedness",
+    "id": "aijobs-researcher-preparedness-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Support Partner Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Support Partner Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759456-support-partner-manager",
+    "id": "aijobs-support-partner-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Success Engineer - San Francisco",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Success Engineer - San Francisco at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215759457-ai-success-engineer-san-francisco",
+    "id": "aijobs-ai-success-engineer-san-francisco-united-states"
+  }
+]
