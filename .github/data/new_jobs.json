@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "IP Management, Technical Program Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IP Management, Technical Program Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ip-management-technical-program-manager/33099/87495270352",
+    "id": "arm-ip-management-technical-program-manager-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal)",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal) at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/raleigh/cpu-performance-microarchitecture-exploration-engineer-senior-principal/33099/90807368400",
+    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-senior-principal-multiple"
+  }
+]
