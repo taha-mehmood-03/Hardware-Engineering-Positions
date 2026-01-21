@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Forward Deployed Engineer",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Network Support Engineer",
+    "job_city": "POUGHKEEPSIE",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Forward Deployed Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/215973566-forward-deployed-engineer",
-    "id": "aijobs-forward-deployed-engineer-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Network Support Engineer at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87893&source=WEB_Search_NA",
+    "id": "ibm-network-support-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative, San Jose CA",
+    "job_city": "Administration & TechnicianSan Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative, San Jose CA at Administration & TechnicianSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87884&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-san-jose-ca-administration-techniciansan-jose"
   }
 ]
