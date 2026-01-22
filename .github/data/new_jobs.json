@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer to ABB Ports",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Engineer to ABB Ports at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021915/Project-Engineer-to-ABB-Ports",
+    "id": "abb-project-engineer-to-abb-ports-vaesteras"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantum Systems Engineer - Quantum Computing",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Quantum Systems Engineer - Quantum Computing at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218565728-senior-quantum-systems-engineer-quantum-computing",
+    "id": "aijobs-quantum-systems-engineer-quantum-computing-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Deployment Engineer- Codex",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role AI Deployment Engineer- Codex at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597760-ai-deployment-engineer-codex",
+    "id": "aijobs-ai-deployment-engineer-codex-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Production Application Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Production Application Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218565732-production-application-engineer",
+    "id": "aijobs-production-application-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compiler Engineer - Backend GPU",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Compiler Engineer - Backend GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175280030-senior-compiler-engineer-backend-gpu",
+    "id": "aijobs-compiler-engineer-backend-gpu-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "People Data Automation Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role People Data Automation Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597749-people-data-automation-analyst",
+    "id": "aijobs-people-data-automation-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Deployment Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Deployment Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597762-ai-deployment-engineer",
+    "id": "aijobs-ai-deployment-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Deployment Engineer- ChatGPT Ecosystem",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role AI Deployment Engineer- ChatGPT Ecosystem at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597761-ai-deployment-engineer-chatgpt-ecosystem",
+    "id": "aijobs-ai-deployment-engineer-chatgpt-ecosystem-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Partner Director, Global Accenture Alliance",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Partner Director, Global Accenture Alliance at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597753-partner-director-global-accenture-alliance",
+    "id": "aijobs-partner-director-global-accenture-alliance-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Ads Integrity",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Ads Integrity at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597752-software-engineer-ads-integrity",
+    "id": "aijobs-software-engineer-ads-integrity-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Success Engineer - US Remote",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role AI Success Engineer - US Remote at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597757-ai-success-engineer-us-remote",
+    "id": "aijobs-ai-success-engineer-us-remote-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Success Engineer - NYC",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Success Engineer - NYC at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597758-ai-success-engineer-nyc",
+    "id": "aijobs-ai-success-engineer-nyc-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Success Engineer - EDU",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Success Engineer - EDU at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/218597759-ai-success-engineer-edu",
+    "id": "aijobs-ai-success-engineer-edu-united-states"
+  }
+]
