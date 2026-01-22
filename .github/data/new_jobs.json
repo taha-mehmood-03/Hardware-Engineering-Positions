@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Region OEM Channel Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Region OEM Channel Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021526/Region-OEM-Channel-Manager",
-    "id": "abb-region-oem-channel-manager-multiple"
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff/Principal Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-engineer/33099/82650131120",
+    "id": "arm-staff-principal-engineer-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Engineer, Hands",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role System Engineer, Hands at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/217696840-system-engineer-hands",
+    "id": "aijobs-system-engineer-hands-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Design Engineer, Hands",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "5d ago",
+    "job_description": "hardware engineering job for the role Product Design Engineer, Hands at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/217696841-product-design-engineer-hands",
+    "id": "aijobs-product-design-engineer-hands-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Capital Projects Manager- Infrastructure/Facilities",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "40min ago",
+    "job_description": "hardware engineering job for the role Capital Projects Manager- Infrastructure/Facilities at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/217696838-capital-projects-manager-infrastructure-facilities",
+    "id": "aijobs-capital-projects-manager-infrastructure-facilities-us"
   }
 ]
