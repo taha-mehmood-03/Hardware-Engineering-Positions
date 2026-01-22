@@ -1,103 +1,22 @@
 [
   {
-    "job_title": "Demand Planning Mgr, Spares, AIS-SC IPS",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Demand Planning Mgr, Spares, AIS-SC IPS at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3164983/demand-planning-mgr-spares-ais-sc-ips",
-    "job_posted_at": "2026-01-22T20:21:56.572Z",
-    "job_posted_at_datetime_utc": "2026-01-22T20:21:56.572Z",
-    "id": "amazon-demand-planning-mgr-spares-ais-sc-ips-herndon"
+    "employer_name": "Google",
+    "job_title": "Senior CPU Performance Architect",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "17 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior CPU Performance Architect",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109704867563348678-senior-cpu-performance-architect?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-cpu-performance-architect-mountain-view"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "QA/Test Developer (Performance Engineering)",
-    "job_city": "San Jose",
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer, Medical Device & Cloud Platform",
+    "job_city": "United States",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role QA/Test Developer (Performance Engineering) at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87331&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-performance-engineering-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Program Manager - Environmental Engineering & Remediation",
-    "job_city": "Herndon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Program Manager - Environmental Engineering & Remediation at ProfessionalHerndon, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87268&source=WEB_Search_NA",
-    "id": "ibm-program-manager-environmental-engineering-remediation-herndon"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Software Engineer - Backend",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Software Engineer - Backend at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83098&source=WEB_Search_NA",
-    "id": "ibm-sr-software-engineer-backend-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "HashiCorp Ecosystem Technical Strategist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role HashiCorp Ecosystem Technical Strategist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86223&source=WEB_Search_NA",
-    "id": "ibm-hashicorp-ecosystem-technical-strategist-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Appian Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Appian Developer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88205&source=WEB_Search_NA",
-    "id": "ibm-appian-developer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer (TS/SCI)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Developer (TS/SCI) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88159&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-ts-sci-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative",
-    "job_city": "DURHAM",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sales Development Representative at ProfessionalDURHAM, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86515&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-durham"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Mainframe Security Administrator",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Mainframe Security Administrator at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86958&source=WEB_Search_NA",
-    "id": "ibm-mainframe-security-administrator-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Circuit Engineer (TS/SCI)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Circuit Engineer (TS/SCI) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86488&source=WEB_Search_NA",
-    "id": "ibm-circuit-engineer-ts-sci-multiple-cities"
+    "job_posted_at": "22h ago",
+    "job_description": "hardware engineering job for the role Staff Backend Engineer, Medical Device & Cloud Platform at United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/219419910-staff-backend-engineer-medical-device-cloud-platform",
+    "id": "aijobs-backend-engineer-medical-device-cloud-platform-united-states"
   }
 ]
