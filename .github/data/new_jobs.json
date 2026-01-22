@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Power Systems Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Test Floor Operations/Process Engineering (Apprentice Conversion)",
+    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "4 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Power Systems Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132423951774032582-staff-power-systems-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-power-systems-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Test Floor Operations/Process Engineering (Apprentice Conversion) at Administration & TechnicianPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87871&source=WEB_Search_NA",
+    "id": "ibm-test-floor-operations-process-engineering-apprentice-conversion-administration-technicianpoughkeepsie"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior Engineering Manager",
-    "job_city": "Durham",
-    "job_state": "NC",
+    "employer_name": "IBM",
+    "job_title": "Lab Technician (Apprentice Conversion)",
+    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "37 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Engineering Manager, Google Cloud Dataflow, ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125035233635377862-senior-engineering-manager-google-cloud-dataflow-ml?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-engineering-manager-durham"
+    "job_description": "Hardware Engineering job for the role Lab Technician (Apprentice Conversion) at Administration & TechnicianPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87866&source=WEB_Search_NA",
+    "id": "ibm-lab-technician-apprentice-conversion-administration-technicianpoughkeepsie"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Testing & Lab Specialist",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role R&D Testing & Lab Specialist at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022333/R-D-Testing-Lab-Specialist",
-    "id": "abb-r-d-testing-lab-specialist-mebane"
+    "job_title": "Senior System Engineer",
+    "job_city": "Dammam",
+    "job_state": "Eastern Region",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior System Engineer at Dammam, Eastern Region, Saudi Arabia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020986/Senior-System-Engineer",
+    "id": "abb-senior-system-engineer-dammam"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "System Engineer",
+    "job_city": "Dammam",
+    "job_state": "Eastern Region",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role System Engineer at Dammam, Eastern Region, Saudi Arabia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020987/System-Engineer",
+    "id": "abb-system-engineer-dammam"
   }
 ]
