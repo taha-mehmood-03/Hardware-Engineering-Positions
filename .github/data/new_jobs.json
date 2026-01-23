@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer, Physical & Edge AI Platforms",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer, Physical & Edge AI Platforms at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/staff-software-engineer-physical-and-edge-ai-platforms/33099/90932054480",
+    "id": "arm-software-engineer-physical-edge-ai-platforms-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Floorplan CAD Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Floorplan CAD Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-floorplan-cad-engineer/33099/88536804336",
+    "id": "arm-soc-floorplan-cad-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88229&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-armonk"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/95380299/R-D-Engineer",
+    "id": "abb-r-d-engineer-krakow"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Robotics Applications Engineer – Humanoids Focus",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Robotics Applications Engineer – Humanoids Focus at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Robotics-Applications-Engineer---Humanoids-Focus_R256192?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-robotics-applications-engineer-humanoids-focus-us"
+  }
+]
