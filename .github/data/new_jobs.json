@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Compiler Engineer",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "8h ago",
-    "job_description": "hardware engineering job for the role Compiler Engineer at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/221412210-compiler-engineer",
-    "id": "aijobs-compiler-engineer-ca"
+    "employer_name": "Arm",
+    "job_title": "Hardware Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Hardware Emulation Engineer at Austin, Texas, San Diego, California, San Jose, California, Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-hardware-emulation-engineer/33099/88794276368",
+    "id": "arm-hardware-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Writer/Information Developer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Technical Writer/Information Developer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-technical-writer-information-developer/33099/89152220624",
+    "id": "arm-technical-writer-information-developer-austin"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Research Scientist, AI-Hardware Co-Design",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Research Scientist, AI-Hardware Co-Design at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Research-Scientist--Artificial-Intelligence_R255392?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-research-scientist-ai-hardware-co-design-us"
   }
 ]
