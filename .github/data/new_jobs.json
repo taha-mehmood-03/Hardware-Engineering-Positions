@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Senior/Staff Embedded Linux Engineer, Foundations",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior/Staff Embedded Linux Engineer, Foundations at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222985054-senior-staff-embedded-linux-engineer-foundations",
+    "id": "aijobs-senior-staff-embedded-linux-engineer-foundations-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Robot Diagnostics Engineering",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Robot Diagnostics Engineering at San Carlos, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222985056-senior-manager-robot-diagnostics-engineering",
+    "id": "aijobs-manager-robot-diagnostics-engineering-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Senior/Staff Systems Engineer, Foundations",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior/Staff Systems Engineer, Foundations at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222985055-senior-staff-systems-engineer-foundations",
+    "id": "aijobs-senior-staff-systems-engineer-foundations-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Robot Service Technician (All Levels)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Robot Service Technician (All Levels) at San Carlos, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222985058-robot-service-technician-all-levels",
+    "id": "aijobs-robot-service-technician-all-levels-us"
+  }
+]
