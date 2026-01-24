@@ -1,52 +1,52 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "ATE Senior Hardware Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Platform Systems",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role ATE Senior Hardware Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/223380036-ate-senior-hardware-engineer",
-    "id": "aijobs-ate-senior-hardware-engineer-santa-clara"
+    "job_description": "hardware engineering job for the role Software Engineer, Platform Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/223383205-software-engineer-platform-systems",
+    "id": "aijobs-software-engineer-platform-systems-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Research Engineer, Frontier Red Team (Hardware Lead)",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "21h ago",
-    "job_description": "hardware engineering job for the role Research Engineer, Frontier Red Team (Hardware Lead) at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/223371696-research-engineer-frontier-red-team-hardware-lead",
-    "id": "aijobs-research-engineer-frontier-red-team-hardware-lead-ca"
+    "job_title": "Engineering Manager,  Cloud Infrastructure Automation",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Engineering Manager,  Cloud Infrastructure Automation at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/223383208-engineering-manager-cloud-infrastructure-automation",
+    "id": "aijobs-engineering-manager-cloud-infrastructure-automation-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Debug System Engineer, Datacenter",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Product Manager, API Model Behavior",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Debug System Engineer, Datacenter at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/223380045-senior-debug-system-engineer-datacenter",
-    "id": "aijobs-debug-system-engineer-datacenter-santa-clara"
+    "job_description": "hardware engineering job for the role Product Manager, API Model Behavior at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/223383203-product-manager-api-model-behavior",
+    "id": "aijobs-product-manager-api-model-behavior-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Research Engineer,  Frontier Red Team (Autonomy)",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "21h ago",
-    "job_description": "hardware engineering job for the role Research Engineer,  Frontier Red Team (Autonomy) at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/223371697-research-engineer-frontier-red-team-autonomy",
-    "id": "aijobs-research-engineer-frontier-red-team-autonomy-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer - Tegra",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Internal Applications - Enterprise",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Systems Software Engineer - Tegra at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/223380034-systems-software-engineer-tegra",
-    "id": "aijobs-systems-software-engineer-tegra-santa-clara"
+    "job_description": "hardware engineering job for the role Software Engineer, Internal Applications - Enterprise at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/165912724-software-engineer-internal-applications-enterprise",
+    "id": "aijobs-software-engineer-internal-applications-enterprise-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Salesforce Engineer (GTM Systems)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Salesforce Engineer (GTM Systems) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/223383210-salesforce-engineer-gtm-systems",
+    "id": "aijobs-salesforce-engineer-gtm-systems-united-states"
   }
 ]
