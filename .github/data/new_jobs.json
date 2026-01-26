@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC RTL Integration and Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SoC RTL Integration and Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-soc-rtl-integration-and-performance-engineer/33099/90966596032",
+    "id": "arm-soc-rtl-integration-and-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC RTL performance Analysis Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC RTL performance Analysis Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-rtl-performance-analysis-engineer/33099/75738045056",
+    "id": "arm-soc-rtl-performance-analysis-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Algorithm Research",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern 2026: Quantum Algorithm Research at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88601&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-algorithm-research-multiple-cities"
+  }
+]
