@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Testing Engineer",
-    "job_city": "The Dalles",
-    "job_state": "OR",
-    "job_posted_at": "Recently",
-    "job_description": "11 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Testing Engineer, Verification",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92031309068542662-hardware-testing-engineer-verification?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-testing-engineer-the-dalles"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software and Automation / DevOps Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Software and Automation / DevOps Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-software-and-automation-devops-engineer/33099/91062824272",
-    "id": "arm-graduate-software-and-automation-devops-engineer-sophia-antipolis"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Public Sector Field CTO - HashiCorp Portfolio",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Public Sector Field CTO - HashiCorp Portfolio at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88570&source=WEB_Search_NA",
-    "id": "ibm-public-sector-field-cto-hashicorp-portfolio-no-city"
+    "employer_name": "Micron",
+    "job_title": "Photo Scanner Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Photo Scanner Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39739131",
+    "id": "micron-photo-scanner-engineer-boise"
   }
 ]
