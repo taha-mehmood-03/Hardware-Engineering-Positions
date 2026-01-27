@@ -1,62 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "IT Lab Tech - Thermal Apprentice",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "Technical Product Manger",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IT Lab Tech - Thermal Apprentice at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86951&source=WEB_Search_NA",
-    "id": "ibm-it-lab-tech-thermal-apprentice-poughkeepsie"
+    "job_description": "Hardware Engineering job for the role Technical Product Manger at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86252&source=WEB_Search_NA",
+    "id": "ibm-technical-product-manger-austin"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Quantum Device Signal Delivery Test and Measurement Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Device Signal Delivery Test and Measurement Scientist at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87257&source=WEB_Search_NA",
-    "id": "ibm-quantum-device-signal-delivery-test-and-measurement-scientist-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Sales & Delivery Leader",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Sales & Delivery Leader at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88970&source=WEB_Search_NA",
-    "id": "ibm-business-sales-delivery-leader-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Maximo MAS Developer/Data & Integration",
+    "job_title": "Data Analyst",
     "job_city": "Rocket Center",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo MAS Developer/Data & Integration at ProfessionalRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88922&source=WEB_Search_NA",
-    "id": "ibm-maximo-mas-developer-data-integration-rocket-center"
+    "job_description": "Hardware Engineering job for the role Senior Data Analyst at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88923&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-rocket-center"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Maximo MAS Lead Developer",
-    "job_city": "Rocket Center",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo MAS Lead Developer at ProfessionalRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88918&source=WEB_Search_NA",
-    "id": "ibm-maximo-mas-lead-developer-rocket-center"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Maximo Report Developer",
-    "job_city": "Rocket Center",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo Report Developer at ProfessionalRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88920&source=WEB_Search_NA",
-    "id": "ibm-maximo-report-developer-rocket-center"
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Supervisor - 2nd Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Supervisor - 2nd Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022166/Warehouse-Internal-Logistics-Supervisor-2nd-Shift",
+    "id": "abb-warehouse-internal-logistics-supervisor-2nd-shift-mebane"
   }
 ]
