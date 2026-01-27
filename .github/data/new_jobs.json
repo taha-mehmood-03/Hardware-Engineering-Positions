@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Robotics Operations",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "13min ago",
-    "job_description": "hardware engineering job for the role Director of Robotics Operations at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/229464469-director-of-robotics-operations",
-    "id": "aijobs-director-of-robotics-operations-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer, Computer Vision - Robotics",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "13min ago",
-    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer, Computer Vision - Robotics at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/229464465-senior-machine-learning-engineer-computer-vision-robotics",
-    "id": "aijobs-machine-learning-engineer-computer-vision-robotics-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Robotics & Autonomous Systems",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "13min ago",
-    "job_description": "hardware engineering job for the role Software Engineer - Robotics & Autonomous Systems at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/229464467-software-engineer-robotics-autonomous-systems",
-    "id": "aijobs-software-engineer-robotics-autonomous-systems-ca"
+    "job_title": "Optical Network Development Engineer, Network Product Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Optical Network Development Engineer, Network Product Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3167949/optical-network-development-engineer-network-product-development",
+    "job_posted_at": "2026-01-27T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
+    "id": "amazon-optical-network-development-engineer-network-product-development-cupertino"
   }
 ]
