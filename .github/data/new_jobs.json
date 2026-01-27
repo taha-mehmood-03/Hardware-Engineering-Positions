@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "CPU RTL Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "28 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU RTL Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89773750509019846-cpu-rtl-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-cpu-rtl-engineer-austin"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Navigation Systems Architect (PN&T)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Principal Navigation Systems Architect (PN&T) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Principal-Navigation-Systems-Architect--PN-T-_R260123?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-navigation-systems-architect-pn-t-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "IC Validation Engineer Intern - PhD Degree",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role IC Validation Engineer Intern - PhD Degree at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/IC-Validation-Engineer-Intern---Master-s-Degree_2503012-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ic-validation-engineer-intern-phd-degree-westlake-village"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Device Management Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Senior Device Management Engineer at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/229027521-senior-device-management-engineer",
+    "id": "aijobs-device-management-engineer-us"
   }
 ]
