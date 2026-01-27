@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior CPU RTL Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Hardware Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "31 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior CPU RTL Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125463897946628806-senior-cpu-rtl-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-cpu-rtl-engineer-mountain-view"
+    "job_description": "Hardware Engineering job for the role Senior Hardware Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/senior-hardware-engineer/33099/81161101824",
+    "id": "arm-hardware-engineer-lund"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Software Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff/Principal Software Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-software-engineer/33099/90984609200",
+    "id": "arm-staff-principal-software-engineer-bengaluru"
   }
 ]
