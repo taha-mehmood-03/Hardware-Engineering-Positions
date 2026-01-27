@@ -1,12 +1,92 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Staff Backend Engineer, Medical Device & Cloud Platform",
-    "job_city": "United States",
+    "employer_name": "Arm",
+    "job_title": "Sr Performance Benchmarking Engineer (CPU Performance Team)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr Performance Benchmarking Engineer (CPU Performance Team) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/sr-performance-benchmarking-engineer-cpu-performance-team/33099/76001825360",
+    "id": "arm-sr-performance-benchmarking-engineer-cpu-performance-team-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Multi-Die (3DIC/2.5D) CAD & Methodology Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Multi-Die (3DIC/2.5D) CAD & Methodology Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-multi-die-3dic-2-5d-cad-and-methodology-engineer/33099/87648492176",
+    "id": "arm-multi-die-3dic-2-5d-cad-methodology-engineer-san-diego"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Materials and Chemical Management Professional",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "23h ago",
-    "job_description": "hardware engineering job for the role Senior Staff Backend Engineer, Medical Device & Cloud Platform at United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/228176566-senior-staff-backend-engineer-medical-device-cloud-platform",
-    "id": "aijobs-staff-backend-engineer-medical-device-cloud-platform-united-states"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Materials and Chemical Management Professional at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86800&source=WEB_Search_NA",
+    "id": "ibm-materials-and-chemical-management-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SW DevOps Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SW DevOps Engineer at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88562&source=WEB_Search_NA",
+    "id": "ibm-sw-devops-engineer-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sales Development Representative - Apptio AMS Select",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sales Development Representative - Apptio AMS Select at Entry LevelDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88272&source=WEB_Search_NA",
+    "id": "ibm-sales-development-representative-apptio-ams-select-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Technology Architect",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP Technology Architect at ProfessionalPARAMUS, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72352&source=WEB_Search_NA",
+    "id": "ibm-sap-technology-architect-paramus"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategic Account Manager",
+    "job_city": "Minneapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Strategic Account Manager at ProfessionalMinneapolis, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88527&source=WEB_Search_NA",
+    "id": "ibm-strategic-account-manager-minneapolis"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Applications Engineer",
+    "job_city": "Knoxville",
+    "job_state": "TN",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Applications Engineer at Knoxville, TN, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008923/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-applications-engineer-knoxville"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Android Applications Software Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Android Applications Software Engineer III at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/228632197-android-applications-software-engineer-iii",
+    "id": "aijobs-android-applications-software-engineer-unknown"
   }
 ]
