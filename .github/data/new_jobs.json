@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Module Project Manager",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Module Project Manager at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Module-Project-Manager_R260167?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-module-project-manager-us"
+    "employer_name": "Arm",
+    "job_title": "IP Verification Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior IP Verification Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-ip-verification-engineer/33099/90280187792",
+    "id": "arm-ip-verification-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Architect",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal SoC Architect at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-soc-architect/33099/68408481088",
+    "id": "arm-soc-architect-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager, Verification & Validation",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Program Manager, Verification & Validation at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/technical-program-manager-verification-and-validation/33099/91107871792",
+    "id": "arm-technical-program-manager-verification-validation-multiple"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer – HashiCorp Secure Products",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer – HashiCorp Secure Products at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89180&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-hashicorp-secure-products-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Rrepresentative Boston North",
+    "job_city": "Administration & TechnicianBoston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Service Rrepresentative Boston North at Administration & TechnicianBoston, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89163&source=WEB_Search_NA",
+    "id": "ibm-system-service-rrepresentative-boston-north-administration-technicianboston"
   }
 ]
