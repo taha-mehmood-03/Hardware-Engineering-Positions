@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Technical Writer Summer Internship – 2026 (US)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Technical Writer Summer Internship – 2026 (US) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3168973/technical-writer-summer-internship-2026-us",
+    "job_posted_at": "2026-01-28T20:28:39.635Z",
+    "job_posted_at_datetime_utc": "2026-01-28T20:28:39.636Z",
+    "id": "amazon-technical-writer-summer-internship-2026-us-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "CMP Process Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CMP Process Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87234&source=WEB_Search_NA",
+    "id": "ibm-cmp-process-engineer-yorktown-heights"
+  }
+]
