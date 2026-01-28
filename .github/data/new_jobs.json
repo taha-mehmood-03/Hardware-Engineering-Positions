@@ -1,103 +1,22 @@
 [
   {
-    "job_title": "Power Systems Test Engineer, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Power Systems Test Engineer, Amazon Leo at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3168598/power-systems-test-engineer-amazon-leo",
-    "job_posted_at": "2026-01-28T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z",
-    "id": "amazon-power-systems-test-engineer-amazon-leo-redmond"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Staff CPU RTL Design Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "26 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff CPU RTL Design Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83589358380032710-staff-cpu-rtl-design-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-staff-cpu-rtl-design-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sr Verification Engineer  - CPU team",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr Verification Engineer  - CPU team at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/sr-verification-engineer-cpu-team/33099/88536804352",
-    "id": "arm-sr-verification-engineer-cpu-team-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Application Performance Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Application Performance Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/principal-application-performance-engineer/33099/90807374528",
-    "id": "arm-application-performance-engineer-manchester"
+    "employer_name": "Micron",
+    "job_title": "Data Scientist, Agentic Platform",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Principal Data Scientist, Agentic Platform at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30687413",
+    "id": "micron-data-scientist-agentic-platform-san-jose"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Formal Verification Engineer - Firmware",
-    "job_city": "Santa Clara",
+    "job_title": "Computer Vision / Machine Learning Engineer - 3D Vision & Perception",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "54min ago",
-    "job_description": "hardware engineering job for the role Formal Verification Engineer - Firmware at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/230478113-formal-verification-engineer-firmware",
-    "id": "aijobs-formal-verification-engineer-firmware-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Sensing, Consumer Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Software Engineer - Sensing, Consumer Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/230485871-software-engineer-sensing-consumer-products",
-    "id": "aijobs-software-engineer-sensing-consumer-products-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Post Silicon Feature Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Post Silicon Feature Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/230478114-senior-post-silicon-feature-development-engineer",
-    "id": "aijobs-post-silicon-feature-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Vendor Security Program Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Vendor Security Program Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/230485869-vendor-security-program-manager",
-    "id": "aijobs-vendor-security-program-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Private Equity Partnerships Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Private Equity Partnerships Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/230485872-private-equity-partnerships-manager",
-    "id": "aijobs-private-equity-partnerships-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Abuse Investigator",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Technical Abuse Investigator at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/230485866-technical-abuse-investigator",
-    "id": "aijobs-technical-abuse-investigator-unknown"
+    "job_posted_at": "7h ago",
+    "job_description": "hardware engineering job for the role Senior Computer Vision / Machine Learning Engineer - 3D Vision & Perception at Sunnyvale, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/230582744-senior-computer-vision-machine-learning-engineer-3d-vision-perception",
+    "id": "aijobs-computer-vision-machine-learning-engineer-3d-vision-perception-us"
   }
 ]
