@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Production operator",
-    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "SAP Sales EMS Support Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Production operator at Administration & TechnicianPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89409&source=WEB_Search_NA",
-    "id": "ibm-production-operator-administration-technicianpoughkeepsie"
+    "job_description": "Hardware Engineering job for the role Senior SAP Sales EMS Support Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-sap-sales-ems-support-analyst/33099/58542077616",
+    "id": "arm-sap-sales-ems-support-analyst-bengaluru"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Full Stack Developer (DoD Secret)",
+    "job_title": "Entry Level Hardware and Systems Engineer",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware and Systems Engineer at Entry LevelHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89140&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-and-systems-engineer-hopewell-junction"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ASIC Digital Design Engineer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role ASIC Digital Design Engineer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89489&source=WEB_Search_NA",
+    "id": "ibm-asic-digital-design-engineer-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Designer II - HashiCorp Vault",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Developer (DoD Secret) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88159&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-dod-secret-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Senior Product Designer II - HashiCorp Vault at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88980&source=WEB_Search_NA",
+    "id": "ibm-product-designer-ii-hashicorp-vault-multiple-cities"
   }
 ]
