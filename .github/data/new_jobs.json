@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "STA Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff STA Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-sta-engineer/33099/87570617744",
+    "id": "arm-sta-engineer-san-diego"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, VMS",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, VMS at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/231156192-senior-software-engineer-vms",
+    "id": "aijobs-software-engineer-vms-unknown"
+  }
+]
