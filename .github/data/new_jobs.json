@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer- Physical Verification & PD",
+    "job_city": "Noida",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer- Physical Verification & PD at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/staff-engineer-physical-verification-and-pd/33099/84770916400",
+    "id": "arm-engineer-physical-verification-pd-noida"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "FPGA Design/RTL Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal FPGA Design/RTL Engineer at Austin, Texas, San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-fpga-design-rtl-engineer/33099/88648836080",
+    "id": "arm-fpga-design-rtl-engineer-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Systems Researcher (Embedded Intelligence)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Systems Researcher (Embedded Intelligence) at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/231502926-ai-systems-researcher-embedded-intelligence",
+    "id": "aijobs-ai-systems-researcher-embedded-intelligence-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Tactile Sensing Researcher / Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Tactile Sensing Researcher / Engineer at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/231502928-tactile-sensing-researcher-engineer",
+    "id": "aijobs-tactile-sensing-researcher-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Innovator",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role System Innovator at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/231502925-system-innovator",
+    "id": "aijobs-system-innovator-us"
+  }
+]
