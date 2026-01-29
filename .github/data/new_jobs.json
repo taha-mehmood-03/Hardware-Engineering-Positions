@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Hardware Development Engineer, Memory, AWS Hardware Components",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer, Memory, AWS Hardware Components at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3169609/hardware-development-engineer-memory-aws-hardware-components",
-    "job_posted_at": "2026-01-29T15:42:49.090Z",
-    "job_posted_at_datetime_utc": "2026-01-29T15:42:49.090Z",
-    "id": "amazon-hardware-development-engineer-memory-aws-hardware-components-cupertino"
+    "employer_name": "IBM",
+    "job_title": "Production operator",
+    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Production operator at Administration & TechnicianPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89409&source=WEB_Search_NA",
+    "id": "ibm-production-operator-administration-technicianpoughkeepsie"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Analog/Mixed-Signal Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Analog/Mixed-Signal Design Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analog-Mixed-Signal-Design-Engineer_R260398?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analog-mixed-signal-design-engineer-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Full Stack Developer (DoD Secret)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Full Stack Developer (DoD Secret) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88159&source=WEB_Search_NA",
+    "id": "ibm-full-stack-developer-dod-secret-multiple-cities"
   }
 ]
