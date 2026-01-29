@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "DevOps / Infrastructure Engineer – On-Prem Linux & CI (CPU Development Team)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior DevOps / Infrastructure Engineer – On-Prem Linux & CI (CPU Development Team) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-infrastructure-engineer-on-prem-linux-and-ci-cpu-development-team/33099/90612349888",
+    "id": "arm-devops-infrastructure-engineer-on-prem-linux-ci-cpu-development-team-cambridge"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - EDA Cluster Builds and Decoms",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager - EDA Cluster Builds and Decoms at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661573-senior-technical-program-manager-eda-cluster-builds-and-decoms",
+    "id": "aijobs-technical-program-manager-eda-cluster-builds-and-decoms-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Technical Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Datacenter Technical Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661569-datacenter-technical-program-manager",
+    "id": "aijobs-datacenter-technical-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-stack Software Engineer – Verification Data Platform",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Senior Full-stack Software Engineer – Verification Data Platform at US, NC, Durham",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661575-senior-full-stack-software-engineer-verification-data-platform",
+    "id": "aijobs-full-stack-software-engineer-verification-data-platform-durham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Developer Documentation and Experience",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Developer Documentation and Experience at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661571-senior-manager-developer-documentation-and-experience",
+    "id": "aijobs-manager-developer-documentation-and-experience-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Embedded Controller",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Embedded Controller at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661579-senior-system-software-engineer-embedded-controller",
+    "id": "aijobs-system-software-engineer-embedded-controller-santa-clara"
+  }
+]
