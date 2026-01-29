@@ -1,52 +1,23 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Hardware Regulatory & Compliance Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Hardware Regulatory & Compliance Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/231669854-hardware-regulatory-compliance-engineer",
-    "id": "aijobs-hardware-regulatory-compliance-engineer-united-states"
+    "job_title": "Hardware Development Engineer, Memory, AWS Hardware Components",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Memory, AWS Hardware Components at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3169609/hardware-development-engineer-memory-aws-hardware-components",
+    "job_posted_at": "2026-01-29T15:42:49.090Z",
+    "job_posted_at_datetime_utc": "2026-01-29T15:42:49.090Z",
+    "id": "amazon-hardware-development-engineer-memory-aws-hardware-components-cupertino"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Encryption",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Encryption at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/231669856-software-engineer-encryption",
-    "id": "aijobs-software-engineer-encryption-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Identity Infrastructure",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Identity Infrastructure at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/231669858-engineering-manager-identity-infrastructure",
-    "id": "aijobs-engineering-manager-identity-infrastructure-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Manager, Private Computing & Encryption",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Manager, Private Computing & Encryption at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/231669850-product-manager-private-computing-encryption",
-    "id": "aijobs-product-manager-private-computing-encryption-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Knowledge Innovation",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Technical Program Manager, Knowledge Innovation at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/231669852-technical-program-manager-knowledge-innovation",
-    "id": "aijobs-technical-program-manager-knowledge-innovation-united-states"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog/Mixed-Signal Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog/Mixed-Signal Design Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analog-Mixed-Signal-Design-Engineer_R260398?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-mixed-signal-design-engineer-2-locations"
   }
 ]
