@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Commodity Manager, Robotics Supply Chain",
-    "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Commodity Manager, Robotics Supply Chain at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170005/commodity-manager-robotics-supply-chain",
-    "job_posted_at": "2026-01-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
-    "id": "amazon-commodity-manager-robotics-supply-chain-north-reading"
+    "employer_name": "Micron",
+    "job_title": "Metals/Films Process Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Metals/Films Process Development Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39785910",
+    "id": "micron-metals-films-process-development-engineer-boise"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Test Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Test Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Test-Engineering_2600290?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-test-engineering-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "IBM Research Creative Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Research Creative Developer Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90211&source=WEB_Search_NA",
+    "id": "ibm-ibm-research-creative-developer-intern-multiple-cities"
   }
 ]
