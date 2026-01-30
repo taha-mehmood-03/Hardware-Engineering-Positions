@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "ASIC Implementation Lead",
-    "job_city": "Sunnyvale",
+    "job_title": "SDE - BIOS/UEFI, AWS Hardware Engineering, Firmware Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "44 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Implementation Lead",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116534806967132870-asic-implementation-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-asic-implementation-lead-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Engineering Manager",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "49 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, Payments Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131789431290897094-engineering-manager-payments-platform?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-engineering-manager-boulder"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Experienced SoC Design Engineer",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Experienced SoC Design Engineer at Bristol, United Kingdom, Manchester, United Kingdom, Cambridge, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/experienced-soc-design-engineer/33099/84654857392",
-    "id": "arm-experienced-soc-design-engineer-bristol"
+    "job_description": "hardware engineering job for the role SDE - BIOS/UEFI, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160283/sde-bios-uefi-aws-hardware-engineering-firmware-development",
+    "job_posted_at": "2026-01-26T13:56:31.864Z",
+    "job_posted_at_datetime_utc": "2026-01-26T13:56:31.864Z",
+    "id": "amazon-sde-bios-uefi-aws-hardware-engineering-firmware-development-cupertino"
   }
 ]
