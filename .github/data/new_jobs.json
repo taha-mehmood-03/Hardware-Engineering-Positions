@@ -1,82 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Embedded Firmware Engineer – Actuators & Drives",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "ASIC Implementation Lead",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Embedded Firmware Engineer – Actuators & Drives at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426634-embedded-firmware-engineer-actuators-drives",
-    "id": "aijobs-embedded-firmware-engineer-actuators-drives-us"
+    "job_posted_at": "Recently",
+    "job_description": "44 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Implementation Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116534806967132870-asic-implementation-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-asic-implementation-lead-sunnyvale"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Test & Validation Engineer – Motors & Actuators",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Test & Validation Engineer – Motors & Actuators at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426635-test-validation-engineer-motors-actuators",
-    "id": "aijobs-test-validation-engineer-motors-actuators-us"
+    "employer_name": "Google",
+    "job_title": "Engineering Manager",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "49 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, Payments Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131789431290897094-engineering-manager-payments-platform?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-engineering-manager-boulder"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Camera Validation Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Camera Validation Engineer at San Carlos, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426638-camera-validation-engineer",
-    "id": "aijobs-camera-validation-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Electrical Engineer – Actuators & Drives",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Electrical Engineer – Actuators & Drives at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426641-senior-electrical-engineer-actuators-drives",
-    "id": "aijobs-electrical-engineer-actuators-drives-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical Engineer - Actuators",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Mechanical Engineer - Actuators at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426636-mechanical-engineer-actuators",
-    "id": "aijobs-mechanical-engineer-actuators-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "RF Engineer, Robot Head",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role RF Engineer, Robot Head at San Carlos, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426633-rf-engineer-robot-head",
-    "id": "aijobs-rf-engineer-robot-head-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Motor Control Engineer – Robotic Actuators",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Motor Control Engineer – Robotic Actuators at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426637-motor-control-engineer-robotic-actuators",
-    "id": "aijobs-motor-control-engineer-robotic-actuators-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Full Stack Engineer, Manufacturing Data Platform",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Full Stack Engineer, Manufacturing Data Platform at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/232426642-full-stack-engineer-manufacturing-data-platform",
-    "id": "aijobs-full-stack-engineer-manufacturing-data-platform-us"
+    "employer_name": "Arm",
+    "job_title": "Experienced SoC Design Engineer",
+    "job_city": "Bristol",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Experienced SoC Design Engineer at Bristol, United Kingdom, Manchester, United Kingdom, Cambridge, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/bristol/experienced-soc-design-engineer/33099/84654857392",
+    "id": "arm-experienced-soc-design-engineer-bristol"
   }
 ]
