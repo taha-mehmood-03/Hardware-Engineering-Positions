@@ -1,122 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Adobe Workfront Architect",
-    "job_city": "No City",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Cybersecurity Development Program",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Adobe Workfront Architect at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87897&source=WEB_Search_NA",
-    "id": "ibm-adobe-workfront-architect-no-city"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Security Lead, L4E",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Security Lead, L4E at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/232577276-security-lead-l4e",
-    "id": "aijobs-security-lead-l4e-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Power Architect",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Power Architect at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584269-power-architect",
-    "id": "aijobs-power-architect-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, API Experience",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, API Experience at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584271-engineering-manager-api-experience",
-    "id": "aijobs-engineering-manager-api-experience-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Physical Security Systems Design Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Physical Security Systems Design Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584270-physical-security-systems-design-engineer",
-    "id": "aijobs-physical-security-systems-design-engineer-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Marketing Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Marketing Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584266-product-marketing-manager",
-    "id": "aijobs-product-marketing-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Applied Research",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Technical Program Manager, Applied Research at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584268-technical-program-manager-applied-research",
-    "id": "aijobs-technical-program-manager-applied-research-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer, Monetization",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Research Engineer, Monetization at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584272-research-engineer-monetization",
-    "id": "aijobs-research-engineer-monetization-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Embedded Software Engineer - Yocto and Linux for Tegra",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Senior Embedded Software Engineer - Yocto and Linux for Tegra at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/232577277-senior-embedded-software-engineer-yocto-and-linux-for-tegra",
-    "id": "aijobs-embedded-software-engineer-yocto-and-linux-for-tegra-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Designer, Health AI",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Lead Product Designer, Health AI at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584265-lead-product-designer-health-ai",
-    "id": "aijobs-product-designer-health-ai-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Deployment Manager - NYC",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role AI Deployment Manager - NYC at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584276-ai-deployment-manager-nyc",
-    "id": "aijobs-ai-deployment-manager-nyc-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Deployment Manager - US Remote",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role AI Deployment Manager - US Remote at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/232584274-ai-deployment-manager-us-remote",
-    "id": "aijobs-ai-deployment-manager-us-remote-unknown"
+    "job_description": "hardware engineering job for the role Cybersecurity Development Program at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25003704/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-cybersecurity-development-program-"
   }
 ]
