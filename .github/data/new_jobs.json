@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "SDE - BIOS/UEFI, AWS Hardware Engineering, Firmware Development",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role SDE - BIOS/UEFI, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160283/sde-bios-uefi-aws-hardware-engineering-firmware-development",
-    "job_posted_at": "2026-01-26T13:56:31.864Z",
-    "job_posted_at_datetime_utc": "2026-01-26T13:56:31.864Z",
-    "id": "amazon-sde-bios-uefi-aws-hardware-engineering-firmware-development-cupertino"
+    "employer_name": "Arm",
+    "job_title": "Quality Specialist",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quality Specialist at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/quality-specialist/33099/87328936112",
+    "id": "arm-quality-specialist-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ServiceNow Developer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role ServiceNow Developer at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87329&source=WEB_Search_NA",
+    "id": "ibm-servicenow-developer-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Assembler",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Assembler at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021675/Assembler",
+    "id": "abb-assembler-mebane"
   }
 ]
