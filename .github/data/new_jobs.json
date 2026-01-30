@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SAP RAR Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP RAR Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-rar-analyst/33099/91185266880",
+    "id": "arm-sap-rar-analyst-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Workfront Architect",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Workfront Architect at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87897&source=WEB_Search_NA",
+    "id": "ibm-workfront-architect-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative",
+    "job_city": "Administration & TechnicianChicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative at Administration & TechnicianChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89490&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-administration-technicianchicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion : Entry Level Supply Chain Operations Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role 2026 Intern Conversion : Entry Level Supply Chain Operations Professional at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90235&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-entry-level-supply-chain-operations-professional-multiple-cities"
+  }
+]
