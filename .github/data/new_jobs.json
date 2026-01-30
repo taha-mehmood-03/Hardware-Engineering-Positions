@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Specialized Hardware Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Performance Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "16 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Specialized Hardware Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83435212003779270-senior-specialized-hardware-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-specialized-hardware-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Senior Performance Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-performance-engineer/33099/91178900416",
+    "id": "arm-performance-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager, Data Center Post Silicon",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Program Manager, Data Center Post Silicon at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/technical-program-manager-data-center-post-silicon/33099/91178892192",
+    "id": "arm-technical-program-manager-data-center-post-silicon-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Metrology Engineer - DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Metrology Engineer - DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39783702",
+    "id": "micron-metrology-engineer-dram-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/231057048-senior-machine-learning-engineer",
+    "id": "aijobs-machine-learning-engineer-unknown"
   }
 ]
