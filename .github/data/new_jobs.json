@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Hardware Design Engineer - DSP/Optical/PAM4/Controller/SerDes",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Staff Hardware Design Engineer - DSP/Optical/PAM4/Controller/SerDes at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Design-Engineer---DSP-Optical-FPGA-Controller-SerDes_2600178?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-hardware-design-engineer-dsp-optical-pam4-controller-serdes-irvine"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Infrastructure Engineering Lead, IT",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Infrastructure Engineering Lead, IT at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/233368702-infrastructure-engineering-lead-it",
+    "id": "aijobs-infrastructure-engineering-lead-it-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Networking Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Networking Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/233356749-senior-software-engineer-networking-platform",
+    "id": "aijobs-software-engineer-networking-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Video",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Video at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/233356750-senior-system-software-engineer-video",
+    "id": "aijobs-system-software-engineer-video-santa-clara"
+  }
+]
