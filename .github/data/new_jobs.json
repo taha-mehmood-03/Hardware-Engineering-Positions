@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-performance-engineer/33099/91222164192",
+    "id": "arm-graduate-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern, AI Research",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern, AI Research at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/intern-ai-research/33099/91222162512",
+    "id": "arm-intern-ai-research-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Data Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Data Engineer at San Jose, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/graduate-data-engineer/33099/91222161216",
+    "id": "arm-graduate-data-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Data Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Data Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/graduate-data-engineer/33099/91222161216",
+    "id": "arm-graduate-data-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern, Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern, Design Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-design-engineer/33099/91222160640",
+    "id": "arm-intern-design-engineer-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Systems Applications",
+    "job_city": "US",
+    "job_state": "IL",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Staff Engineer, Systems Applications at US, IL, Home Office",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-IL-Home-Office/Staff-Engineer--Systems-Applications_R260221?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-systems-applications-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Deep Agentic Reasoning Engineer (Lorenz Labs)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Deep Agentic Reasoning Engineer (Lorenz Labs) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer--AI-ML-Software_R257953?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-deep-agentic-reasoning-engineer-lorenz-labs-2-locations"
+  }
+]
