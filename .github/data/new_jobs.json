@@ -1,53 +1,62 @@
 [
   {
-    "job_title": "ASIC II - AMZ26051.4",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role ASIC II - AMZ26051.4 at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3167930/asic-ii-amz26051-4",
-    "job_posted_at": "2026-01-28T18:45:30.439Z",
-    "job_posted_at_datetime_utc": "2026-01-28T18:45:30.439Z",
-    "id": "amazon-asic-ii-amz26051-4-austin"
+    "employer_name": "Arm",
+    "job_title": "Intern, Cloud AI Software Ecosystem Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern, Cloud AI Software Ecosystem Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-cloud-ai-software-ecosystem-development/33099/91308955872",
+    "id": "arm-intern-cloud-ai-software-ecosystem-development-san-jose"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Formal Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Intern Financial Strategic Planning Analyst",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Formal Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-formal-verification-engineer/33099/91306556352",
-    "id": "arm-formal-verification-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Intern Financial Strategic Planning Analyst at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-financial-strategic-planning-analyst/33099/91308955616",
+    "id": "arm-intern-financial-strategic-planning-analyst-san-jose"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Investment Director Venture Capital",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role Investment Director Venture Capital at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39759187",
-    "id": "micron-investment-director-venture-capital-san-jose"
+    "job_title": "Scheduling Manager - OI",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Scheduling Manager - OI at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39759167",
+    "id": "micron-scheduling-manager-oi-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Engineer - HashiCorp Vault",
-    "job_city": "Multiple Cities",
+    "job_title": "Infrastructure Lab Technician Apprentice",
+    "job_city": "POUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer - HashiCorp Vault at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89472&source=WEB_Search_NA",
-    "id": "ibm-engineer-hashicorp-vault-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Infrastructure Lab Technician Apprentice at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88938&source=WEB_Search_NA",
+    "id": "ibm-infrastructure-lab-technician-apprentice-poughkeepsie"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Adobe Workfront Fusion Consultant",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Adobe Workfront Fusion Consultant at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89816&source=WEB_Search_NA",
-    "id": "ibm-adobe-workfront-fusion-consultant-no-city"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Design Verification Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Design Verification Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NJ-Somerset/Staff-Design-Verification-Engineer_R260164-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-design-verification-engineer-2-locations"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Robotics Engineer",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Robotics Engineer at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/238615635-robotics-engineer",
+    "id": "aijobs-robotics-engineer-ca"
   }
 ]
