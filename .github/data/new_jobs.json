@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Timing Constraints Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Timing Constraints Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/timing-constraints-engineer/33099/89323820896",
+    "id": "arm-timing-constraints-engineer-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Core Services",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Core Services at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/237986878-engineering-manager-core-services",
+    "id": "aijobs-engineering-manager-core-services-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Structural Test Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Manager, Structural Test Engineering at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/237973196-manager-structural-test-engineering",
+    "id": "aijobs-manager-structural-test-engineering-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Neural Graphics Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Neural Graphics Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/237973185-senior-system-software-engineer-neural-graphics-performance",
+    "id": "aijobs-system-software-engineer-neural-graphics-performance-santa-clara"
+  }
+]
