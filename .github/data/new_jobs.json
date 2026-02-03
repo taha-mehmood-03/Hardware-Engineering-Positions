@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer /Senior Engineer / Principal Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer /Senior Engineer / Principal Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineer-senior-engineer-principal-engineer/33099/91330428912",
+    "id": "arm-engineer-senior-engineer-principal-engineer-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Embodied AI/AGI researcher",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "6d ago",
+    "job_description": "hardware engineering job for the role Embodied AI/AGI researcher at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/240113115-embodied-ai-agi-researcher",
+    "id": "aijobs-embodied-ai-agi-researcher-us"
+  }
+]
