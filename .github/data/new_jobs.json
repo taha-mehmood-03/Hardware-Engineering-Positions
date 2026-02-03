@@ -1,162 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "ASIC Formal Verification Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "43 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Formal Verification Engineer, TPU Compute",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/130170963059712710-asic-formal-verification-engineer-tpu-compute?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-asic-formal-verification-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior DFT Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "44 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior DFT Engineer, Test Infrastructure, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84646233867461318-senior-dft-engineer-test-infrastructure-google-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-senior-dft-engineer-sunnyvale"
+    "employer_name": "ABB",
+    "job_title": "System Engineering Coop - Fall",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role System Engineering Coop - Fall 2026 at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026",
+    "id": "abb-system-engineering-coop-fall-cleveland"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Component Engineer - Microelectronics Technical Support",
-    "job_city": "Madrid",
-    "job_state": "Madrid",
+    "job_title": "R&D Electronic Engineer",
+    "job_city": "Vittuone",
+    "job_state": "Milano",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Component Engineer - Microelectronics Technical Support at Madrid, Madrid, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024162/Component-Engineer-Microelectronics-Technical-Support",
-    "id": "abb-component-engineer-microelectronics-technical-support-madrid"
+    "job_description": "hardware engineering job for the role R&D Electronic Engineer at Vittuone, Milano, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022679/R-D-Electronic-Engineer",
+    "id": "abb-r-d-electronic-engineer-vittuone"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager – LPU Silicon",
-    "job_city": "Santa Clara",
+    "employer_name": "MARVELL",
+    "job_title": "AI Systems Engineer – Analog Design",
+    "job_city": "Irvine",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Technical Program Manager – LPU Silicon at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804279-senior-technical-program-manager-lpu-silicon",
-    "id": "aijobs-technical-program-manager-lpu-silicon-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Software Engineer, ChatGPT Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Backend Software Engineer, ChatGPT Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804572-backend-software-engineer-chatgpt-engineering",
-    "id": "aijobs-backend-software-engineer-chatgpt-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - DPU Platform",
-    "job_city": "Westford",
-    "job_state": "MA",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - DPU Platform at US, MA, Westford",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804265-senior-software-engineer-dpu-platform",
-    "id": "aijobs-software-engineer-dpu-platform-westford"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, CapEx Accounting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Manager, CapEx Accounting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804575-senior-manager-capex-accounting",
-    "id": "aijobs-manager-capex-accounting-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "iOS Software Engineer, ChatGPT Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role iOS Software Engineer, ChatGPT Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804570-ios-software-engineer-chatgpt-engineering",
-    "id": "aijobs-ios-software-engineer-chatgpt-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, ChatGPT Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Full Stack Software Engineer, ChatGPT Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804571-full-stack-software-engineer-chatgpt-engineering",
-    "id": "aijobs-full-stack-software-engineer-chatgpt-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Forward Deployed Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Manager, Forward Deployed Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804564-manager-forward-deployed-engineering",
-    "id": "aijobs-manager-forward-deployed-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science Manager, Integrity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Data Science Manager, Integrity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804569-data-science-manager-integrity",
-    "id": "aijobs-data-science-manager-integrity-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Android Engineer, ChatGPT Enigneering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Android Engineer, ChatGPT Enigneering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804573-android-engineer-chatgpt-enigneering",
-    "id": "aijobs-android-engineer-chatgpt-enigneering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Account Director, Digital Native Large Enterprise",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Account Director, Digital Native Large Enterprise at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804574-account-director-digital-native-large-enterprise",
-    "id": "aijobs-account-director-digital-native-large-enterprise-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Network Security Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Network Security Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/165251493-network-security-engineer",
-    "id": "aijobs-network-security-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Trade Compliance Specialist",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "hardware engineering job for the role Trade Compliance Specialist at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804567-trade-compliance-specialist",
-    "id": "aijobs-trade-compliance-specialist-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Policy –Policy Manager (Child Safety)",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Policy –Policy Manager (Child Safety) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804565-product-policy-policy-manager-child-safety",
-    "id": "aijobs-product-policy-policy-manager-child-safety-united-states"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal AI Systems Engineer – Analog Design at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-AI-Systems-Engineer---Analog-Design_2600158-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-systems-engineer-analog-design-irvine"
   }
 ]
