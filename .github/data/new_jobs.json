@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Manager II",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "46 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager II, Site Reliability Engineering, Cloud DevOps",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113894789354529478-engineering-manager-ii-site-reliability-engineering-cloud-devops?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-engineering-manager-ii-new-york"
+    "employer_name": "MARVELL",
+    "job_title": "Applications Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Principal Applications Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Applications-Engineer_2600262?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-applications-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Architect DSP",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Architect DSP at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Architect-DSP_2600308?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-architect-dsp-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director of Hardware Engineering – High-Speed Board Design & Signal Integrity",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Director of Hardware Engineering – High-Speed Board Design & Signal Integrity at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-of-Hardware-Engineering---High-Speed-Board-Design---Signal-Integrity_2600126?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-of-hardware-engineering-high-speed-board-design-signal-integrity-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Product Manager/Product Line Manager - Custom Silicon Solutions / ASIC / System Management and Security",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Product Manager/Product Line Manager - Custom Silicon Solutions / ASIC / System Management and Security at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-of-Product-Management-AI-System-Management-and-Security_2503353?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-product-manager-product-line-manager-custom-silicon-solutions-asic-system-management-and-security-santa-clara"
   }
 ]
