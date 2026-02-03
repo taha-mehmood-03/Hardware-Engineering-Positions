@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Senior/Staff Implant Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Senior/Staff Implant Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39942751",
-    "id": "micron-senior-staff-implant-equipment-engineer-boise"
+    "employer_name": "IBM",
+    "job_title": "Delivery Manager",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Delivery Manager at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90491&source=WEB_Search_NA",
+    "id": "ibm-delivery-manager-dallas"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Mixed-Signal/Analog Design Engineer",
-    "job_city": "US",
-    "job_state": "CO",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Mixed-Signal/Analog Design Engineer at US, CO, Colorado Springs, Chapel Hills",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/Senior-Mixed-Signal-Analog-Design-Engineer_R258797?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-mixed-signal-analog-design-engineer-us"
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "EPI Process Engineer",
+    "job_city": "Lehi",
+    "job_state": "UT",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role EPI Process Engineer at Lehi, UT, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009030/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-epi-process-engineer-lehi"
   }
 ]
