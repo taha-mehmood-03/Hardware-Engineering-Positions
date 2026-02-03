@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer /Senior Engineer / Principal Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Hardware Reliability Engineer",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Engineer /Senior Engineer / Principal Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineer-senior-engineer-principal-engineer/33099/91330428912",
-    "id": "arm-engineer-senior-engineer-principal-engineer-bengaluru"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Embodied AI/AGI researcher",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "6d ago",
-    "job_description": "hardware engineering job for the role Embodied AI/AGI researcher at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/240113115-embodied-ai-agi-researcher",
-    "id": "aijobs-embodied-ai-agi-researcher-us"
+    "job_description": "28 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Reliability Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/75761355281310406-hardware-reliability-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-reliability-engineer-atlanta"
   }
 ]
