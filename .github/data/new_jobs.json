@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Hardware Research Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Compiler Engineer LLVM/C++",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Hardware Research Scientist at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=88976&source=WEB_Search_NA",
-    "id": "ibm-quantum-hardware-research-scientist-yorktown-heights"
+    "job_description": "Hardware Engineering job for the role Senior Compiler Engineer LLVM/C++ at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-compiler-engineer-llvm-c/33099/91340991520",
+    "id": "arm-compiler-engineer-llvm-c-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Global Quality ESD Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Global Quality ESD Technician at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39767402",
+    "id": "micron-global-quality-esd-technician-boise"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Research Scientist - Industrial communication networks",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Research Scientist - Industrial communication networks at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023083/Research-Scientist-Industrial-communication-networks",
+    "id": "abb-research-scientist-industrial-communication-networks-vaesteras"
   }
 ]
