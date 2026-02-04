@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "job_title": "Hardware Development System Engineer, Hardware Product System Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development System Engineer, Hardware Product System Engineering at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3171882/hardware-development-system-engineer-hardware-product-system-engineering",
+    "job_posted_at": "2026-02-03T01:55:04.095Z",
+    "job_posted_at_datetime_utc": "2026-02-03T01:55:04.095Z",
+    "id": "amazon-hardware-development-system-engineer-hardware-product-system-engineering-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role RTL Design Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/rtl-design-engineer/33099/91351745680",
+    "id": "arm-rtl-design-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full Stack Software Engineer – IBM Quantum (f/m/x)",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Full Stack Software Engineer – IBM Quantum (f/m/x) at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90246&source=WEB_Search_NA",
+    "id": "ibm-full-stack-software-engineer-ibm-quantum-f-m-x-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager Fall Co-op",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Manager Fall Co-op 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91213&source=WEB_Search_NA",
+    "id": "ibm-product-manager-fall-co-op-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer 2026 ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer 2026 ELH at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91237&source=WEB_Search_NA",
+    "id": "ibm-software-developer-2026-elh-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Coop Fall",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Coop Fall 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91210&source=WEB_Search_NA",
+    "id": "ibm-software-developer-coop-fall-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Management 2026 ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management 2026 ELH at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
+    "id": "ibm-product-management-2026-elh-multiple-cities"
+  }
+]
