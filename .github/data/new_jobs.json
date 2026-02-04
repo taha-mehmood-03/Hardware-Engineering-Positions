@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Systems Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-architect/33099/91369585280",
+    "id": "arm-systems-architect-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Electrical Engineer - Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Electrical Engineer - Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/243573942-electrical-engineer-systems",
+    "id": "aijobs-electrical-engineer-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Power Engineer, Hardware",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Power Engineer, Hardware at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/243573943-power-engineer-hardware",
+    "id": "aijobs-power-engineer-hardware-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Frontend Engineer, ChatGPT Engineering",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Frontend Engineer, ChatGPT Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/243573948-frontend-engineer-chatgpt-engineering",
+    "id": "aijobs-frontend-engineer-chatgpt-engineering-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Order to Cash, Order Management & Billing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Order to Cash, Order Management & Billing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/243573951-order-to-cash-order-management-billing",
+    "id": "aijobs-order-to-cash-order-management-billing-united-states"
+  }
+]
