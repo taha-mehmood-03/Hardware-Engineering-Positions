@@ -1,12 +1,53 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern  - Design Architecture, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Intern  - Design Architecture, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39917008",
-    "id": "micron-intern-design-architecture-hbm-richardson"
+    "job_title": "Interaction Designer, Devices Experience Design",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Interaction Designer, Devices Experience Design at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3173999/interaction-designer-devices-experience-design",
+    "job_posted_at": "2026-02-04T17:46:30.333Z",
+    "job_posted_at_datetime_utc": "2026-02-04T17:46:30.334Z",
+    "id": "amazon-interaction-designer-devices-experience-design-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Real Time Interconnect Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Real Time Interconnect Architect at Cambridge, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-real-time-interconnect-architect/33099/79031267008",
+    "id": "arm-real-time-interconnect-architect-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Power Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Power Architect at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/soc-power-architect/33099/91376666464",
+    "id": "arm-soc-power-architect-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research Scientist (Digital Circuit Design)",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Research Scientist (Digital Circuit Design) at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91236&source=WEB_Search_NA",
+    "id": "ibm-research-scientist-digital-circuit-design-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Staff Member for Db2 for z/OS",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Technical Staff Member for Db2 for z/OS at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89533&source=WEB_Search_NA",
+    "id": "ibm-technical-staff-member-for-db2-for-z-os-san-jose"
   }
 ]
