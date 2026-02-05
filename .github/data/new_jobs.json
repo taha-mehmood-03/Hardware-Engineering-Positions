@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Design Lead",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion: Hardware Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Design Lead at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/chandler/principal-design-lead/33099/89635878832",
-    "id": "arm-design-lead-multiple"
+    "job_description": "Hardware Engineering job for the role 2026 Intern Conversion: Hardware Developer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91953&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-hardware-developer-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Computing Systems Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Computing Systems Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90509&source=WEB_Search_NA",
+    "id": "ibm-quantum-computing-systems-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Enterprise Database Architect Lead",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Enterprise Database Architect Lead at ProfessionalPARAMUS, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92054&source=WEB_Search_NA",
+    "id": "ibm-enterprise-database-architect-lead-paramus"
   }
 ]
