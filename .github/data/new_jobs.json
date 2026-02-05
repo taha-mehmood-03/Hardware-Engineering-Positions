@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Events Manager (Contract)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Events Manager (Contract) at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-events-manager-contract/33099/91405931408",
+    "id": "arm-events-manager-contract-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer ELH 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91689&source=WEB_Search_NA",
+    "id": "ibm-software-developer-elh-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Management ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management ELH 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
+    "id": "ibm-product-management-elh-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Quality Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Quality Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/246459246-product-quality-engineer",
+    "id": "aijobs-product-quality-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Safety Architect, Drive OS",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Senior Safety Architect, Drive OS at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/246438573-senior-safety-architect-drive-os",
+    "id": "aijobs-safety-architect-drive-os-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Project Management Office",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "hardware engineering job for the role Senior Director, Project Management Office at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/246438575-senior-director-project-management-office",
+    "id": "aijobs-director-project-management-office-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Enterprise Systems Architect, AI",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Enterprise Systems Architect, AI at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/246459249-enterprise-systems-architect-ai",
+    "id": "aijobs-enterprise-systems-architect-ai-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Success Engineer, Government",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role AI Success Engineer, Government at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/246459244-ai-success-engineer-government",
+    "id": "aijobs-ai-success-engineer-government-unknown"
+  }
+]
