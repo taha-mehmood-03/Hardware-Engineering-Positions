@@ -1,92 +1,102 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware System Integration Lab Generalist",
-    "job_city": "Goleta",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "22 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware System Integration Lab Generalist",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90327075440730822-hardware-system-integration-lab-generalist?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-hardware-system-integration-lab-generalist-goleta"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Deep Agentic Reasoning Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Deep Agentic Reasoning Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Deep-Agentic-Reasoning-Engineer-_R260369?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-deep-agentic-reasoning-engineer-2-locations"
   },
   {
-    "employer_name": "Google",
-    "job_title": "CPU SoC Verification Engineer",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "39 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU SoC Verification Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134110734412849862-cpu-soc-verification-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-cpu-soc-verification-engineer-san-diego"
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Order Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Order Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358344-engineering-manager-order-systems",
+    "id": "aijobs-engineering-manager-order-systems-united-states"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Intern Network Performance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Network Performance Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-network-performance-engineer/33099/91442653280",
-    "id": "arm-intern-network-performance-engineer-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Identity Infrastructure Engineering",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Identity Infrastructure Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166132203-software-engineer-identity-infrastructure-engineering",
+    "id": "aijobs-software-engineer-identity-infrastructure-engineering-united-states"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Linux System Administrator",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Staff Linux System Administrator at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40066482",
-    "id": "micron-linux-system-administrator-boise"
+    "employer_name": "AiJobs",
+    "job_title": "Monetization Product Marketing Manager, Advertising",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Monetization Product Marketing Manager, Advertising at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358343-monetization-product-marketing-manager-advertising",
+    "id": "aijobs-monetization-product-marketing-manager-advertising-united-states"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "SubK C Senior Microsoft Windows Administrator",
-    "job_city": "Hampton",
+    "employer_name": "AiJobs",
+    "job_title": "Product Marketing Lead, ChatGPT",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Marketing Lead, ChatGPT at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358342-product-marketing-lead-chatgpt",
+    "id": "aijobs-product-marketing-lead-chatgpt-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Marketing Manager, Privacy",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Product Marketing Manager, Privacy at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358340-product-marketing-manager-privacy",
+    "id": "aijobs-product-marketing-manager-privacy-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Designer, Consumer Ads Experience",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Product Designer, Consumer Ads Experience at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358336-product-designer-consumer-ads-experience",
+    "id": "aijobs-product-designer-consumer-ads-experience-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Counsel, Privacy",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Counsel, Privacy at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358337-counsel-privacy",
+    "id": "aijobs-counsel-privacy-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Account Director, Insurance",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SubK C Senior Microsoft Windows Administrator at ProfessionalHampton, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91692&source=WEB_Search_NA",
-    "id": "ibm-subk-c-senior-microsoft-windows-administrator-hampton"
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Account Director, Insurance at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358346-account-director-insurance",
+    "id": "aijobs-account-director-insurance-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer, Kubernetes and KubeVirt",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer, Kubernetes and KubeVirt at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/249303569-senior-system-software-engineer-kubernetes-and-kubevirt",
-    "id": "aijobs-system-software-engineer-kubernetes-and-kubevirt-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Commercial Launch Technician",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Commercial Launch Technician at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/249316596-commercial-launch-technician",
-    "id": "aijobs-commercial-launch-technician-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Linux Graphics Senior Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Linux Graphics Senior Software Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/249303566-linux-graphics-senior-software-engineer",
-    "id": "aijobs-linux-graphics-senior-software-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Security System Test Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Product Security System Test Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/249303572-senior-product-security-system-test-engineer",
-    "id": "aijobs-product-security-system-test-engineer-santa-clara"
+    "job_title": "Product Marketing Manager, Frontier",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Product Marketing Manager, Frontier at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/249358341-product-marketing-manager-frontier",
+    "id": "aijobs-product-marketing-manager-frontier-unknown"
   }
 ]
