@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Modeling & Compiler Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate GPU Modeling & Compiler Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-gpu-modeling-and-compiler-engineer/33099/70199981248",
+    "id": "arm-graduate-gpu-modeling-compiler-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Strategic Planning Analyst",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Strategic Planning Analyst at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-strategic-planning-analyst/33099/91308955616",
+    "id": "arm-intern-strategic-planning-analyst-san-jose"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "System Application Engineer - CTS",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Application Engineer - CTS at Santa Clara, CA, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008487/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-system-application-engineer-cts-santa-clara"
+  }
+]
