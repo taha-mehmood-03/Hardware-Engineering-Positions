@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Commercial Operations",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Commercial Operations at San Jose, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-commercial-operations/33099/79065803104",
+    "id": "arm-manager-commercial-operations-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Product Management, Infrastructure AI / ML",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Product Management, Infrastructure AI / ML at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-product-management-infrastructure-ai-ml/33099/85067784144",
+    "id": "arm-director-of-product-management-infrastructure-ai-ml-san-jose"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Finance Program Manager, Robotics",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Business Finance Program Manager, Robotics at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/249729723-business-finance-program-manager-robotics",
+    "id": "aijobs-business-finance-program-manager-robotics-us"
+  }
+]
