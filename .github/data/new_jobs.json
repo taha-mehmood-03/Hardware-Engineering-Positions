@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "FPGA Design Verification Engineer",
+    "job_city": "Goleta",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "50 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: FPGA Design Verification Engineer, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121954913960764102-fpga-design-verification-engineer-quantum-ai?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-fpga-design-verification-engineer-goleta"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "Engineering Manager, Agentic Vault",
-    "job_city": "Multiple Cities",
+    "job_title": "Backend Software Developer – IBM Quantum",
+    "job_city": "Yorktown Heights",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineering Manager, Agentic Vault at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89187&source=WEB_Search_NA",
-    "id": "ibm-engineering-manager-agentic-vault-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Backend Software Developer – IBM Quantum at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90963&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-ibm-quantum-yorktown-heights"
   }
 ]
