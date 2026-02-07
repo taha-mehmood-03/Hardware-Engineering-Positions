@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software Engineering - Libraries Devops and Infrastructure",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Software Engineering - Libraries Devops and Infrastructure at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/252219609-senior-manager-software-engineering-libraries-devops-and-infrastructure",
+    "id": "aijobs-manager-software-engineering-libraries-devops-and-infrastructure-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Sourcer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Sourcer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/252232705-technical-sourcer",
+    "id": "aijobs-technical-sourcer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Lab Technician",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Engineering Lab Technician at US, OR, Hillsboro",
+    "job_apply_link": "https://www.aijobs.com/jobs/252219596-engineering-lab-technician",
+    "id": "aijobs-engineering-lab-technician-hillsboro"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Machine Learning Engineer - VLSI Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Applied Machine Learning Engineer - VLSI Design at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/252219607-applied-machine-learning-engineer-vlsi-design",
+    "id": "aijobs-applied-machine-learning-engineer-vlsi-design-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Distributed Data Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer, Distributed Data Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/252232706-machine-learning-engineer-distributed-data-systems",
+    "id": "aijobs-machine-learning-engineer-distributed-data-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Platform Architecture Engineer, GeForce NOW",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Platform Architecture Engineer, GeForce NOW at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/252219594-platform-architecture-engineer-geforce-now",
+    "id": "aijobs-platform-architecture-engineer-geforce-now-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Account Director, State and Local Government",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Account Director, State and Local Government at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/252232704-account-director-state-and-local-government",
+    "id": "aijobs-account-director-state-and-local-government-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Project Manager, Recruiting Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Project Manager, Recruiting Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/252232703-project-manager-recruiting-operations",
+    "id": "aijobs-project-manager-recruiting-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Procurement Operations Leader",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Procurement Operations Leader at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/252232709-procurement-operations-leader",
+    "id": "aijobs-procurement-operations-leader-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Financial Risk Management",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Financial Risk Management at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/192479634-senior-manager-financial-risk-management",
+    "id": "aijobs-manager-financial-risk-management-united-states"
+  }
+]
