@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Research Scientist (AI)",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "3d ago",
-    "job_description": "hardware engineering job for the role Staff Research Scientist (AI) at Boston, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/250516736-staff-research-scientist-ai",
-    "id": "aijobs-research-scientist-ai-us"
+    "employer_name": "IBM",
+    "job_title": "Engineering Manager, HashiCorp Secure Products",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineering Manager, HashiCorp Secure Products at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90969&source=WEB_Search_NA",
+    "id": "ibm-engineering-manager-hashicorp-secure-products-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "IT Intern (Summer 2026)",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "X-Force Senior Incident Response Consultant North America",
+    "job_city": "No City",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role IT Intern (Summer 2026) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/250402596-it-intern-summer-2026",
-    "id": "aijobs-it-intern-summer-2026-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role X-Force Senior Incident Response Consultant North America at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90217&source=WEB_Search_NA",
+    "id": "ibm-x-force-senior-incident-response-consultant-north-america-no-city"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer - Embedded SW/Microcontroller/Bare-Metal Drivers",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Firmware Engineer - Embedded SW/Microcontroller/Bare-Metal Drivers at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Firmware-Engineer---Embedded-SW-Microcontroller-Bare-Metal-Drivers_2600356?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-embedded-sw-microcontroller-bare-metal-drivers-santa-clara"
   }
 ]
