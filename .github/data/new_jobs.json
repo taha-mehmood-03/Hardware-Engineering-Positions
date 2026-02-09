@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3176626/systems-development-engineer-manufacturing-test-infrastructure-project-kuiper",
+    "job_posted_at": "2026-02-09T05:56:27.897Z",
+    "job_posted_at_datetime_utc": "2026-02-09T05:56:27.897Z",
+    "id": "amazon-systems-development-engineer-manufacturing-test-infrastructure-project-kuiper-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Level 6 Software Engineer Apprentice, Digital Technology Solutions",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Level 6 Software Engineer Apprentice, Digital Technology Solutions at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/level-6-software-engineer-apprentice-digital-technology-solutions/33099/91537670304",
+    "id": "arm-level-6-software-engineer-apprentice-digital-technology-solutions-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Level 4 Software Engineering Apprenticeship (Development or DevOps Pathway)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Level 4 Software Engineering Apprenticeship (Development or DevOps Pathway) at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/level-4-software-engineering-apprenticeship-development-or-devops-pathway/33099/91537670016",
+    "id": "arm-level-4-software-engineering-apprenticeship-development-or-devops-pathway-cambridge"
+  }
+]
