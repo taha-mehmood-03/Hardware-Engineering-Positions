@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Performance & PnP Modeling Architect",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Product Manager 2026 ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Performance & PnP Modeling Architect at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-performance-and-pnp-modeling-architect/33099/90429389184",
-    "id": "arm-performance-pnp-modeling-architect-multiple"
+    "job_description": "Hardware Engineering job for the role Product Manager 2026 ELH at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
+    "id": "ibm-product-manager-2026-elh-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ELH Site Reliability Engineer Lowell, SVL, Austin",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role ELH Site Reliability Engineer Lowell, SVL, Austin at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=65792&source=WEB_Search_NA",
+    "id": "ibm-elh-site-reliability-engineer-lowell-svl-austin-multiple-cities"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principle Application Engineer - SSD and HDD embedded controllers/Multi-core ARM-based embedded system",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principle Application Engineer - SSD and HDD embedded controllers/Multi-core ARM-based embedded system at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Application-Engineer---SSD-and-HDD-embedded-controllers-Multi-core-ARM-based-embedded-system_2600246?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principle-application-engineer-ssd-and-hdd-embedded-controllers-multi-core-arm-based-embedded-system-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Validation Engineer",
+    "job_city": "US-CA - Santa Clara",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Validation Engineer at US-CA - Santa Clara",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---Santa-Clara/Senior-Staff-Validation-Engineer_2600340?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-validation-engineer-us-ca-santa-clara"
   }
 ]
