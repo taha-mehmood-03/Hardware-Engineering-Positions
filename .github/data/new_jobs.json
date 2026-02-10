@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Frontend Engineer - Hashicorp Vault",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager – SoC Program Operations & Execution Support",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Frontend Engineer - Hashicorp Vault at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92458&source=WEB_Search_NA",
-    "id": "ibm-frontend-engineer-hashicorp-vault-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Embedded Video Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Embedded Video Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/259745225-senior-embedded-video-engineer",
-    "id": "aijobs-embedded-video-engineer-unknown"
+    "job_description": "Hardware Engineering job for the role Technical Program Manager – SoC Program Operations & Execution Support at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/technical-program-manager-soc-program-operations-and-execution-support/33099/91571567120",
+    "id": "arm-technical-program-manager-soc-program-operations-execution-support-bengaluru"
   }
 ]
