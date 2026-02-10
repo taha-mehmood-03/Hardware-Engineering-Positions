@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "IP EDA & Automation Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IP EDA & Automation Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/ip-eda-and-automation-engineer/33099/88831460496",
-    "id": "arm-ip-eda-automation-engineer-austin"
+    "employer_name": "ABB",
+    "job_title": "Project Engineer Marine & Ports",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Project Engineer Marine & Ports at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/94622195/Project-Engineer-Marine-Ports",
+    "id": "abb-project-engineer-marine-ports-rotterdam"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "PCB Design Engineer",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role PCB Design Engineer at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/PCB-Design-Engineer_R260151?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-pcb-design-engineer-us"
+    "employer_name": "ABB",
+    "job_title": "Automation Field Service Engineer",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role Automation Field Service Engineer at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/95302561/Automation-Field-Service-Engineer",
+    "id": "abb-automation-field-service-engineer-rotterdam"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "PM, Project / Program Management",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal PM, Project / Program Management at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-PM--Project---Program-Management_R260692?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-pm-project-program-management-2-locations"
+    "employer_name": "ABB",
+    "job_title": "Resident Senior Field Service Technician (Gary, IN)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Resident Senior Field Service Technician (Gary, IN) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Senior-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-senior-field-service-technician-gary-in-remote"
   }
 ]
