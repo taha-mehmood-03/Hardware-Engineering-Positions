@@ -1,142 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Forward Deployed Engineer - Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "IP EDA & Automation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Forward Deployed Engineer - Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93233&source=WEB_Search_NA",
-    "id": "ibm-forward-deployed-engineer-intern-multiple-cities"
+    "job_description": "Hardware Engineering job for the role IP EDA & Automation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/ip-eda-and-automation-engineer/33099/88831460496",
+    "id": "arm-ip-eda-automation-engineer-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Forward Deployed Engineer  - Entry Level",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Forward Deployed Engineer  - Entry Level at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93224&source=WEB_Search_NA",
-    "id": "ibm-forward-deployed-engineer-entry-level-multiple-cities"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Analog IC Design Engineering Intern (GaN Device)",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Analog IC Design Engineering Intern (GaN Device) at United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25004837/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-analog-ic-design-engineering-intern-gan-device-"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "FPGA Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Principal FPGA Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179447-principal-fpga-engineer",
-    "id": "aijobs-fpga-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Controls",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Autonomy Engineer, Controls at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179444-autonomy-engineer-controls",
-    "id": "aijobs-autonomy-engineer-controls-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Software Engineering, Web Platform",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "5d ago",
-    "job_description": "hardware engineering job for the role Director of Software Engineering, Web Platform at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179443-director-of-software-engineering-web-platform",
-    "id": "aijobs-director-of-software-engineering-web-platform-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Electrical Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Electrical Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179448-electrical-engineer",
-    "id": "aijobs-electrical-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Computer Vision",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "15min ago",
-    "job_description": "hardware engineering job for the role Autonomy Engineer, Computer Vision at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179451-autonomy-engineer-computer-vision",
-    "id": "aijobs-autonomy-engineer-computer-vision-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Engineering, Autonomy",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Director of Engineering, Autonomy at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179446-director-of-engineering-autonomy",
-    "id": "aijobs-director-of-engineering-autonomy-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Mechanical Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179449-mechanical-engineer",
-    "id": "aijobs-mechanical-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Navigation & Sensing",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Autonomy Engineer, Navigation & Sensing at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179445-autonomy-engineer-navigation-sensing",
-    "id": "aijobs-autonomy-engineer-navigation-sensing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Data Engineer",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "PCB Design Engineer",
     "job_city": "US",
-    "job_state": "CO",
-    "job_posted_at": "3d ago",
-    "job_description": "hardware engineering job for the role Computer Vision Data Engineer at Longmont, CO, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/261146888-computer-vision-data-engineer",
-    "id": "aijobs-computer-vision-data-engineer-us"
+    "job_state": "NC",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role PCB Design Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/PCB-Design-Engineer_R260151?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-pcb-design-engineer-us"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "SRE/DevOps Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "1w ago",
-    "job_description": "hardware engineering job for the role Senior SRE/DevOps Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179454-senior-sre-devops-engineer",
-    "id": "aijobs-sre-devops-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Software Engineer, LiveOps",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "16min ago",
-    "job_description": "hardware engineering job for the role Backend Software Engineer, LiveOps at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179450-backend-software-engineer-liveops",
-    "id": "aijobs-backend-software-engineer-liveops-united-states"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "PM, Project / Program Management",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal PM, Project / Program Management at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-PM--Project---Program-Management_R260692?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-pm-project-program-management-2-locations"
   }
 ]
