@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Technical Product Manager-SSD",
+    "job_city": "Folsom",
+    "job_state": "California",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Principal Technical Product Manager-SSD at Folsom, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40100327",
+    "id": "micron-technical-product-manager-ssd-folsom"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Sourcing Manager, High Speed Interconnects",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Sourcing Manager, High Speed Interconnects at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988432-strategic-sourcing-manager-high-speed-interconnects",
+    "id": "aijobs-strategic-sourcing-manager-high-speed-interconnects-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Sourcing Manager, Memory Storage & CPUs",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Strategic Sourcing Manager, Memory Storage & CPUs at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169087208-strategic-sourcing-manager-memory-storage-cpus",
+    "id": "aijobs-strategic-sourcing-manager-memory-storage-cpus-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Logistics Coordinator",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Logistics Coordinator at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988430-logistics-coordinator",
+    "id": "aijobs-logistics-coordinator-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Soft Goods Designer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Soft Goods Designer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988433-technical-soft-goods-designer",
+    "id": "aijobs-technical-soft-goods-designer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DL Algorithms Engineer - Cosmos",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior DL Algorithms Engineer - Cosmos at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/260959650-senior-dl-algorithms-engineer-cosmos",
+    "id": "aijobs-dl-algorithms-engineer-cosmos-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Buyer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Buyer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988431-buyer",
+    "id": "aijobs-buyer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Software Engineer, ChatGPT Partnerships",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full Stack Software Engineer, ChatGPT Partnerships at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988436-full-stack-software-engineer-chatgpt-partnerships",
+    "id": "aijobs-full-stack-software-engineer-chatgpt-partnerships-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer - B2B Connectors",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Backend Software Engineer - B2B Connectors at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988437-backend-software-engineer-b2b-connectors",
+    "id": "aijobs-backend-software-engineer-b2b-connectors-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Analytics Engineer, Real Estate and Workplace",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Analytics Engineer, Real Estate and Workplace at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988435-analytics-engineer-real-estate-and-workplace",
+    "id": "aijobs-analytics-engineer-real-estate-and-workplace-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "iOS Engineer, Social Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role iOS Engineer, Social Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/260988438-ios-engineer-social-products",
+    "id": "aijobs-ios-engineer-social-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Staff Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/260959647-senior-staff-software-engineer",
+    "id": "aijobs-staff-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Power Integrity Methodology CAD Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "21min ago",
+    "job_description": "hardware engineering job for the role Senior Power Integrity Methodology CAD Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/260959657-senior-power-integrity-methodology-cad-engineer",
+    "id": "aijobs-power-integrity-methodology-cad-engineer-santa-clara"
+  }
+]
