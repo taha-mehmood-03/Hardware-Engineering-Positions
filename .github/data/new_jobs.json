@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "GPU Hardware Intern",
-    "job_city": "Lund",
-    "job_state": "Sweden",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role GPU Hardware Intern at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/gpu-hardware-intern/33099/88144979184",
-    "id": "arm-gpu-hardware-intern-lund"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Line Management",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Product Line Management at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Product-Line-Management_R260631?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-line-management-us"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Harness Integration Technician",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "20h ago",
-    "job_description": "hardware engineering job for the role Harness Integration Technician at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/166365699-harness-integration-technician",
-    "id": "aijobs-harness-integration-technician-ca"
+    "job_title": "Thermal-Mechanical Manufacturing Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "17h ago",
+    "job_description": "hardware engineering job for the role Thermal-Mechanical Manufacturing Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/263832593-thermal-mechanical-manufacturing-engineer",
+    "id": "aijobs-thermal-mechanical-manufacturing-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Development Infrastructure Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Hardware Development Infrastructure Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/263832595-hardware-development-infrastructure-engineer",
+    "id": "aijobs-hardware-development-infrastructure-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Cross-functional Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer - Cross-functional Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/263832597-software-engineer-cross-functional-systems",
+    "id": "aijobs-software-engineer-cross-functional-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/263832596-full-stack-engineer-chatgpt-ecosystem-apps-platform-sdk",
+    "id": "aijobs-full-stack-engineer-chatgpt-ecosystem-apps-platform-sdk-united-states"
   }
 ]
