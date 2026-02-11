@@ -1,12 +1,43 @@
 [
   {
+    "job_title": "Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Fairfax",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering at Fairfax, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179275/critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering",
+    "job_posted_at": "2026-02-11T21:30:46.202Z",
+    "job_posted_at_datetime_utc": "2026-02-11T21:30:46.202Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering-fairfax"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "Services & Modernization Sales Manager",
+    "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "hardware engineering job for the role Services & Modernization Sales Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021105/Services-Modernization-Sales-Manager",
-    "id": "abb-services-modernization-sales-manager-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Digital Automation & Control Engineer at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
+    "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer SW/FW Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Engineer SW/FW Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer-SW-FW-Engineer_2600254?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-sw-fw-engineer-westborough"
   }
 ]
