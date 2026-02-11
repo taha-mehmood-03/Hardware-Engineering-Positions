@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Camera Module Design Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "64 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Camera Module Design Engineer, Google Beam",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110925873883816646-senior-camera-module-design-engineer-google-beam?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-senior-camera-module-design-engineer-mountain-view"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "SoC Clock, Power, Reset Design Lead",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "GPU Hardware Intern",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Clock, Power, Reset Design Lead at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom, Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/soc-clock-power-reset-design-lead/33099/91376666464",
-    "id": "arm-soc-clock-power-reset-design-lead-cambridge"
+    "job_description": "Hardware Engineering job for the role GPU Hardware Intern at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/gpu-hardware-intern/33099/88144979184",
+    "id": "arm-gpu-hardware-intern-lund"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer (Pharma/Biotech/Chemical)",
-    "job_city": "Cork",
-    "job_state": "Cork",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
-    "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
+    "employer_name": "AiJobs",
+    "job_title": "Harness Integration Technician",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "20h ago",
+    "job_description": "hardware engineering job for the role Harness Integration Technician at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/166365699-harness-integration-technician",
+    "id": "aijobs-harness-integration-technician-ca"
   }
 ]
