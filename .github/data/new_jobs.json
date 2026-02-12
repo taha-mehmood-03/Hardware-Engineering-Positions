@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Component and Product Quality Engineer, Interconnects",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "16h ago",
-    "job_description": "hardware engineering job for the role Component and Product Quality Engineer, Interconnects at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/266919766-component-and-product-quality-engineer-interconnects",
-    "id": "aijobs-component-and-product-quality-engineer-interconnects-united-states"
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - Lewis J Bennett High School (Buffalo, NY)",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - Lewis J Bennett High School (Buffalo, NY) at InternshipBuffalo, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93712&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-lewis-j-bennett-high-school-buffalo-ny-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 2 (US)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role P-TECH at IBM Summer Intern 2026 - Level 2 (US) at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93295&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-2-us-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Operating Systems Engineer | Consumer Devices",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "16h ago",
-    "job_description": "hardware engineering job for the role Operating Systems Engineer | Consumer Devices at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/266919767-operating-systems-engineer-%7C-consumer-devices",
-    "id": "aijobs-operating-systems-engineer-consumer-devices-united-states"
+    "job_title": "Research Engineer Neural Reconstruction",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "17h ago",
+    "job_description": "hardware engineering job for the role Senior Research Engineer Neural Reconstruction at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/266919066-senior-research-engineer-neural-reconstruction",
+    "id": "aijobs-research-engineer-neural-reconstruction-santa-clara"
   }
 ]
