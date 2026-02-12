@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Cloud Developer",
-    "job_city": "Austin",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Event Marketing Manager (APAC)",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Cloud Developer 2026 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93738&source=WEB_Search_NA",
-    "id": "ibm-entry-level-cloud-developer-austin"
+    "job_description": "Hardware Engineering job for the role Event Marketing Manager (APAC) at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/event-marketing-manager-apac/33099/91642495248",
+    "id": "arm-event-marketing-manager-apac-taipei"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - HashiCorp Secure",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Event Specialist, APAC",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer - HashiCorp Secure at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92878&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-hashicorp-secure-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Event Specialist, APAC at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/event-specialist-apac/33099/91642495136",
+    "id": "arm-event-specialist-apac-taipei"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer FPGA Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Engineer FPGA Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-fpga-engineer/33099/91642494368",
+    "id": "arm-engineer-fpga-engineer-bengaluru"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "US East Channels Business Development",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role US East Channels Business Development at Available in one of 14 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007934/US-East-Channels-Business-Development",
+    "id": "abb-us-east-channels-business-development-multiple"
   }
 ]
