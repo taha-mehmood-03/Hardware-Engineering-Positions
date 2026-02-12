@@ -1,23 +1,53 @@
 [
   {
-    "job_title": "Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities",
+    "job_title": "Cleared Data Center Electrical Field Engineer, Field Engineering",
     "employer_name": "Amazon",
-    "job_city": "Hermiston",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities at Hermiston, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179342/critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities",
-    "job_posted_at": "2026-02-12T00:03:02.672Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:03:02.672Z",
-    "id": "amazon-critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities-hermiston"
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cleared Data Center Electrical Field Engineer, Field Engineering at San Antonio, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179463/cleared-data-center-electrical-field-engineer-field-engineering",
+    "job_posted_at": "2026-02-12T02:56:23.017Z",
+    "job_posted_at_datetime_utc": "2026-02-12T02:56:23.017Z",
+    "id": "amazon-cleared-data-center-electrical-field-engineer-field-engineering-san-antonio"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Camera VCM Firmware Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "61 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Camera VCM Firmware Engineer, Google Pixel",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125236442921083590-camera-vcm-firmware-engineer-google-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-camera-vcm-firmware-engineer-mountain-view"
+    "employer_name": "ABB",
+    "job_title": "Proposals Specialist – Industrial / EPC / Data Center",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Proposals Specialist – Industrial / EPC / Data Center at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016229/Proposals-Specialist-Industrial-EPC-Data-Center",
+    "id": "abb-proposals-specialist-industrial-epc-data-center-multiple"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Device Hardware",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Device Hardware at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/265243678-software-engineer-device-hardware",
+    "id": "aijobs-software-engineer-device-hardware-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Operations Research Analyst",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Operations Research Analyst at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/265243680-operations-research-analyst",
+    "id": "aijobs-operations-research-analyst-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Data Scientist at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/265243679-data-scientist",
+    "id": "aijobs-data-scientist-unknown"
   }
 ]
