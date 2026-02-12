@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Robotics Systems Eng II , Tech Deployment",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Robotics Systems Eng II , Tech Deployment at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179692/robotics-systems-eng-ii-tech-deployment",
-    "job_posted_at": "2026-02-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "id": "amazon-robotics-systems-eng-ii-tech-deployment-austin"
+    "employer_name": "ABB",
+    "job_title": "VFD Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role VFD Support Specialist I at Available in one of 43 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024693/VFD-Support-Specialist-I",
+    "id": "abb-vfd-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
   }
 ]
