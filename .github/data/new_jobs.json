@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Critical Infrastructure Mechanical Engineer, Data Center Field Services Engineering",
+    "job_title": "Electrical Field Engineer I, JAN Field Engineering",
     "employer_name": "Amazon",
-    "job_city": "Fairless Hills",
-    "job_state": "PA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Data Center Field Services Engineering at Fairless Hills, PA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180317/critical-infrastructure-mechanical-engineer-data-center-field-services-engineering",
-    "job_posted_at": "2026-02-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-data-center-field-services-engineering-fairless-hills"
+    "job_city": "MS",
+    "job_state": "USA",
+    "job_description": "hardware engineering job for the role Electrical Field Engineer I, JAN Field Engineering at MS, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180324/electrical-field-engineer-i-jan-field-engineering",
+    "job_posted_at": "2026-02-12T22:27:58.176Z",
+    "job_posted_at_datetime_utc": "2026-02-12T22:27:58.176Z",
+    "id": "amazon-electrical-field-engineer-i-jan-field-engineering-ms"
   },
   {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering, JAN Field Engineering",
     "employer_name": "Amazon",
-    "job_city": "Hamlet",
-    "job_state": "NC",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Hamlet, NC, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180309/critical-infrastructure-electrical-engineer-field-engineering",
-    "job_posted_at": "2026-02-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-hamlet"
-  },
-  {
-    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Hamlet",
-    "job_state": "NC",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Hamlet, NC, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180298/critical-infrastructure-mechanical-engineer-field-engineering",
-    "job_posted_at": "2026-02-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-hamlet"
-  },
-  {
-    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Covington",
-    "job_state": "GA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Covington, GA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180306/critical-infrastructure-mechanical-engineer-field-engineering",
-    "job_posted_at": "2026-02-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-covington"
+    "job_city": "MS",
+    "job_state": "USA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering, JAN Field Engineering at MS, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180334/critical-infrastructure-mechanical-engineer-field-engineering-jan-field-engineering",
+    "job_posted_at": "2026-02-12T22:27:58.176Z",
+    "job_posted_at_datetime_utc": "2026-02-12T22:27:58.176Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-jan-field-engineering-ms"
   }
 ]
