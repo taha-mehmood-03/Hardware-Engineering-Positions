@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Component and Product Quality Engineer, Interconnects",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Component and Product Quality Engineer, Interconnects at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/266919766-component-and-product-quality-engineer-interconnects",
+    "id": "aijobs-component-and-product-quality-engineer-interconnects-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Operating Systems Engineer | Consumer Devices",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "16h ago",
+    "job_description": "hardware engineering job for the role Operating Systems Engineer | Consumer Devices at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/266919767-operating-systems-engineer-%7C-consumer-devices",
+    "id": "aijobs-operating-systems-engineer-consumer-devices-united-states"
+  }
+]
