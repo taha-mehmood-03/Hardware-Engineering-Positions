@@ -1,32 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - Lewis J Bennett High School (Buffalo, NY)",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - Lewis J Bennett High School (Buffalo, NY) at InternshipBuffalo, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93712&source=WEB_Search_NA",
-    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-lewis-j-bennett-high-school-buffalo-ny-buffalo"
+    "job_title": "Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities",
+    "employer_name": "Amazon",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities at Atlanta, GA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180050/critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities",
+    "job_posted_at": "2026-02-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities-atlanta"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 2 (US)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "SoC RAS Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role P-TECH at IBM Summer Intern 2026 - Level 2 (US) at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93295&source=WEB_Search_NA",
-    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-2-us-multiple-cities"
+    "job_description": "Hardware Engineering job for the role SoC RAS Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-ras-architect/33099/80327386912",
+    "id": "arm-soc-ras-architect-austin"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer Neural Reconstruction",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "17h ago",
-    "job_description": "hardware engineering job for the role Senior Research Engineer Neural Reconstruction at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/266919066-senior-research-engineer-neural-reconstruction",
-    "id": "aijobs-research-engineer-neural-reconstruction-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer (Productization)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer (Productization) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/principal-software-engineer-productization/33099/89196349088",
+    "id": "arm-software-engineer-productization-munich"
   }
 ]
