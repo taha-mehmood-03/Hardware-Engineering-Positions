@@ -1,43 +1,23 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering",
+    "job_title": "Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities",
     "employer_name": "Amazon",
-    "job_city": "Fairfax",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering at Fairfax, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179275/critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering",
-    "job_posted_at": "2026-02-11T21:30:46.202Z",
-    "job_posted_at_datetime_utc": "2026-02-11T21:30:46.202Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering-fairfax"
+    "job_city": "Hermiston",
+    "job_state": "OR",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Fire Protection Engineer (Field Engineering), DCC Communities at Hermiston, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179342/critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities",
+    "job_posted_at": "2026-02-12T00:03:02.672Z",
+    "job_posted_at_datetime_utc": "2026-02-12T00:03:02.672Z",
+    "id": "amazon-critical-infrastructure-fire-protection-engineer-field-engineering-dcc-communities-hermiston"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer SW/FW Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer SW/FW Engineer at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer-SW-FW-Engineer_2600254?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-sw-fw-engineer-westborough"
+    "employer_name": "Google",
+    "job_title": "Camera VCM Firmware Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "61 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Camera VCM Firmware Engineer, Google Pixel",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125236442921083590-camera-vcm-firmware-engineer-google-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-camera-vcm-firmware-engineer-mountain-view"
   }
 ]
