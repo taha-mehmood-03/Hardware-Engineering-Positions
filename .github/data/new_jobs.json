@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "ECAD Application Development Engineer, Design Technologies",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role ECAD Application Development Engineer, Design Technologies at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3181878/ecad-application-development-engineer-design-technologies",
-    "job_posted_at": "2026-02-16T16:41:47.748Z",
-    "job_posted_at_datetime_utc": "2026-02-16T16:41:47.748Z",
-    "id": "amazon-ecad-application-development-engineer-design-technologies-sunnyvale"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU uArch Exploration Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Business System Analyst - Workday Security",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal CPU uArch Exploration Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-cpu-uarch-exploration-engineer/33099/90807368400",
-    "id": "arm-cpu-uarch-exploration-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Business System Analyst - Workday Security at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93656&source=WEB_Search_NA",
+    "id": "ibm-business-system-analyst-workday-security-multiple-cities"
   }
 ]
