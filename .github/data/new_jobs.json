@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Service Engineer Analytics",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Service Engineer Analytics at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024114/Service-Engineer-Analytics",
-    "id": "abb-service-engineer-analytics-rotterdam"
+    "job_title": "Hardware Engineer, Prime Air, Propulsion, Prime Air",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Engineer, Prime Air, Propulsion, Prime Air at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3181767/hardware-engineer-prime-air-propulsion-prime-air",
+    "job_posted_at": "2026-02-16T15:41:37.701Z",
+    "job_posted_at_datetime_utc": "2026-02-16T15:41:37.701Z",
+    "id": "amazon-hardware-engineer-prime-air-propulsion-prime-air-seattle"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineer",
-    "job_city": "Saint-Laurent",
-    "job_state": "Quebec",
+    "job_title": "Test Engineering Specialist (80 - 100%)",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
-    "id": "abb-application-engineer-saint-laurent"
+    "job_description": "hardware engineering job for the role Test Engineering Specialist (80 - 100%) at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024568/Test-Engineering-Specialist-80-100",
+    "id": "abb-test-engineering-specialist-80-100-quartino"
   }
 ]
