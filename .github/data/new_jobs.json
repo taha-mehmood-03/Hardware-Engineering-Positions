@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Business System Analyst - Workday Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business System Analyst - Workday Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93656&source=WEB_Search_NA",
-    "id": "ibm-business-system-analyst-workday-security-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Optical Engineer, Advanced Photonic IC Development",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Optical Engineer, Advanced Photonic IC Development at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Optical-Engineer--Advanced-Photonic-IC-Development_2600259?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-optical-engineer-advanced-photonic-ic-development-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "DFT Engineer",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff DFT Engineer at Burlington, VT",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Staff-DFT-Engineer_2600395?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-dft-engineer-burlington"
   }
 ]
