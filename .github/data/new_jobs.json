@@ -1,22 +1,43 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Project Controller",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Project Controller at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024600/Project-Controller",
-    "id": "abb-project-controller-multiple"
+    "job_title": "Solution Architect, Annapurna ML",
+    "employer_name": "Amazon",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_description": "hardware engineering job for the role Solution Architect, Annapurna ML at Charlotte, NC, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3182216/solution-architect-annapurna-ml",
+    "job_posted_at": "2026-02-16T22:28:25.944Z",
+    "job_posted_at_datetime_utc": "2026-02-16T22:28:25.944Z",
+    "id": "amazon-solution-architect-annapurna-ml-charlotte"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Silicon Photonics Advanced Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Silicon Photonics Advanced Development Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Silicon-Photonics-Advanced-Development-Engineer_2600184?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-silicon-photonics-advanced-development-engineer-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Agentic AI Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
+    "id": "abb-agentic-ai-intern-summer-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Cloud and Edge Solutions Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
+    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   }
 ]
