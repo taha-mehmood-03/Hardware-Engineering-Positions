@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Optical Engineer, Advanced Photonic IC Development",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Optical Engineer, Advanced Photonic IC Development at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Optical-Engineer--Advanced-Photonic-IC-Development_2600259?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-optical-engineer-advanced-photonic-ic-development-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer at ProfessionalHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93263&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-hopewell-junction"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "DFT Engineer",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff DFT Engineer at Burlington, VT",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Staff-DFT-Engineer_2600395?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-dft-engineer-burlington"
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Engineering Technologist",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Manufacturing Engineering Technologist at ProfessionalAlbany, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94902&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-engineering-technologist-albany"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Service Support Reprensatitave N.W. Texas",
+    "job_city": "Administration & TechnicianCoppell",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Service Support Reprensatitave N.W. Texas at Administration & TechnicianCoppell, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=78623&source=WEB_Search_NA",
+    "id": "ibm-service-support-reprensatitave-n-w-texas-administration-techniciancoppell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mulesoft Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Mulesoft Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92873&source=WEB_Search_NA",
+    "id": "ibm-mulesoft-lead-multiple-cities"
   }
 ]
