@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Hardware Support Engineer , Field Hardware Support Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Beaumont",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Support Engineer , Field Hardware Support Engineering at Beaumont, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3182976/hardware-support-engineer-field-hardware-support-engineering",
+    "job_posted_at": "2026-02-17T17:56:47.173Z",
+    "job_posted_at_datetime_utc": "2026-02-17T17:56:47.173Z",
+    "id": "amazon-hardware-support-engineer-field-hardware-support-engineering-beaumont"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SAP Finance Functional Lead",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal SAP Finance Functional Lead at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-sap-finance-functional-lead/33099/91837180272",
+    "id": "arm-sap-finance-functional-lead-bengaluru"
+  }
+]
