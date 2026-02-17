@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Applications Engineer | Motor Control",
-    "job_city": "Dallas",
-    "job_state": "TX",
+    "employer_name": "IBM",
+    "job_title": "Implementation Consultant MAWM",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Applications Engineer | Motor Control at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009160/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-applications-engineer-motor-control-dallas"
+    "job_description": "Hardware Engineering job for the role Senior Implementation Consultant MAWM at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95170&source=WEB_Search_NA",
+    "id": "ibm-implementation-consultant-mawm-multiple-cities"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Analog/Mixed Signal IC Verification",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Analog/Mixed Signal IC Verification at US, TX, Dallas, Tollway",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Design-Verification-Engineering_R260594?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-analog-mixed-signal-ic-verification-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "RF Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior RF Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Senior-RF-Engineer_R260166-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-rf-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog IC Engineer",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Analog IC Engineer at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Analog-IC-Engineer_R261021?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-ic-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Edge AI SOC Performance Architect",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Edge AI SOC Performance Architect at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Compute-System-Engineer_R253948?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-edge-ai-soc-performance-architect-us"
   }
 ]
