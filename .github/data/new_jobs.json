@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Project Manager – Core Software Center of Excellence - ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Project Manager – Core Software Center of Excellence - ELH at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94575&source=WEB_Search_NA",
+    "id": "ibm-technical-project-manager-core-software-center-of-excellence-elh-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Management Practice Coach",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Management Practice Coach at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93346&source=WEB_Search_NA",
+    "id": "ibm-product-management-practice-coach-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "UI Business Analyst",
+    "job_city": "PRINCETON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior UI Business Analyst at ProfessionalPRINCETON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95280&source=WEB_Search_NA",
+    "id": "ibm-ui-business-analyst-princeton"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant Intern 2026- SAP HANA SCM SD",
+    "job_city": "COLUMBIA",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Consultant Intern 2026- SAP HANA SCM SD at InternshipCOLUMBIA, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94205&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-intern-2026-sap-hana-scm-sd-columbia"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Oracle Package Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Oracle Package Specialist 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95215&source=WEB_Search_NA",
+    "id": "ibm-entry-level-oracle-package-specialist-multiple-cities"
+  }
+]
