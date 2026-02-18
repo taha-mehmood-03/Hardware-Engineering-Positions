@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Embedded Systems",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Embedded Systems at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-software-engineer-embedded-systems/33099/89339433472",
+    "id": "arm-software-engineer-embedded-systems-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Tools & Licensing Applications Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Tools & Licensing Applications Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/tools-and-licensing-applications-engineer/33099/91865746480",
+    "id": "arm-tools-licensing-applications-engineer-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "HBM Memory Subsystem Architect – MTS/SMTS/DMTS",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role HBM Memory Subsystem Architect – MTS/SMTS/DMTS at Richardson, Texas, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40330632",
+    "id": "micron-hbm-memory-subsystem-architect-mts-smts-dmts-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Engineer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Development Engineer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92503&source=WEB_Search_NA",
+    "id": "ibm-software-development-engineer-san-jose"
+  }
+]
