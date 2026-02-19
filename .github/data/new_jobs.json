@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "job_title": "Lab Manager, NPD Interconnects, Network Product Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Lab Manager, NPD Interconnects, Network Product Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3184507/lab-manager-npd-interconnects-network-product-development",
+    "job_posted_at": "2026-02-19T01:01:50.178Z",
+    "job_posted_at_datetime_utc": "2026-02-19T01:01:50.178Z",
+    "id": "amazon-lab-manager-npd-interconnects-network-product-development-cupertino"
+  },
+  {
+    "job_title": "PCB Global Category Manager, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role PCB Global Category Manager, Amazon Leo at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3184488/pcb-global-category-manager-amazon-leo",
+    "job_posted_at": "2026-02-19T00:01:50.179Z",
+    "job_posted_at_datetime_utc": "2026-02-19T00:01:50.179Z",
+    "id": "amazon-pcb-global-category-manager-amazon-leo-bellevue"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr. Analog Design Engineer",
+    "job_city": "Minneapolis",
+    "job_state": "Minnesota",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Sr. Analog Design Engineer at Minneapolis, Minnesota, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40350170",
+    "id": "micron-sr-analog-design-engineer-minneapolis"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Digital System Verification Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Digital System Verification Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40350171",
+    "id": "micron-digital-system-verification-engineer-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Spark Scala Developer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Spark Scala Developer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87296&source=WEB_Search_NA",
+    "id": "ibm-spark-scala-developer-san-jose"
+  }
+]
