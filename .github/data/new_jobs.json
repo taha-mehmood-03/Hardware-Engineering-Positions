@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Program Manager – Data Center",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Program Manager – Data Center at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/technical-program-manager-data-center/33099/91358259984",
-    "id": "arm-technical-program-manager-data-center-bengaluru"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer",
-    "job_city": "Vaasa",
-    "job_state": "Pohjanmaa",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Automation Engineer at Vaasa, Pohjanmaa, Finland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023288/Automation-Engineer",
-    "id": "abb-automation-engineer-vaasa"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Level Power and Mixed Signal Design Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Level Power and Mixed Signal Design Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Level-Power-and-Mixed-Signal-Design-Engineer_R260806-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-level-power-and-mixed-signal-design-engineer-us"
   }
 ]
