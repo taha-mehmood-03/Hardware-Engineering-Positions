@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager – Data Center",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Program Manager – Data Center at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/technical-program-manager-data-center/33099/91358259984",
+    "id": "arm-technical-program-manager-data-center-bengaluru"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation Engineer",
+    "job_city": "Vaasa",
+    "job_state": "Pohjanmaa",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Automation Engineer at Vaasa, Pohjanmaa, Finland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023288/Automation-Engineer",
+    "id": "abb-automation-engineer-vaasa"
+  }
+]
