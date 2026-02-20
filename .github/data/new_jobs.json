@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Scaled Testing Specialist",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
-    "job_posted_at": "Recently",
-    "job_description": "93 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Scaled Testing Specialist, Responsible AI, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91734232354693830-scaled-testing-specialist-responsible-ai-trust-and-safety?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=5",
-    "id": "google-scaled-testing-specialist-washington-d-c"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Intern - SSD Systems Design Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
+    "job_title": "Intern – Memory Systems Architecture & AI Accelerators",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Intern - SSD Systems Design Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40346777",
-    "id": "micron-intern-ssd-systems-design-engineer-longmont"
+    "job_description": "hardware engineering job for the role Intern – Memory Systems Architecture & AI Accelerators at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40385418",
+    "id": "micron-intern-memory-systems-architecture-ai-accelerators-san-jose"
   }
 ]
