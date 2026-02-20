@@ -1,44 +1,24 @@
 [
   {
-    "job_title": "Hardware Test Engineer, RDPI Global Engineering Hardware",
+    "job_title": "System Development Eng, PCIe, AWS PCIe and Signal Integrity Team",
     "employer_name": "Amazon",
-    "job_city": "Westboro",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Hardware Test Engineer, RDPI Global Engineering Hardware at Westboro, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3185599/hardware-test-engineer-rdpi-global-engineering-hardware",
-    "job_posted_at": "2026-02-19T23:57:17.264Z",
-    "job_posted_at_datetime_utc": "2026-02-19T23:57:17.264Z",
-    "id": "amazon-hardware-test-engineer-rdpi-global-engineering-hardware-westboro"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role System Development Eng, PCIe, AWS PCIe and Signal Integrity Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3185659/system-development-eng-pcie-aws-pcie-and-signal-integrity-team",
+    "job_posted_at": "2026-02-20T02:16:15.064Z",
+    "job_posted_at_datetime_utc": "2026-02-20T02:16:15.064Z",
+    "id": "amazon-system-development-eng-pcie-aws-pcie-and-signal-integrity-team-seattle"
   },
   {
-    "job_title": "Robotics Systems Engineer , Tech Deployment",
+    "job_title": "Hardware Development Eng, PCIe, AWS PCIe and Signal Integrity Team",
     "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Robotics Systems Engineer , Tech Deployment at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3185605/robotics-systems-engineer-tech-deployment",
-    "job_posted_at": "2026-02-19T23:57:17.264Z",
-    "job_posted_at_datetime_utc": "2026-02-19T23:57:17.264Z",
-    "id": "amazon-robotics-systems-engineer-tech-deployment-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "FPGA Design/RTL Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role FPGA Design/RTL Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/fpga-design-rtl-engineer/33099/91922656064",
-    "id": "arm-fpga-design-rtl-engineer-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Industry Account Technical Leader",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Industry Account Technical Leader at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95281&source=WEB_Search_NA",
-    "id": "ibm-industry-account-technical-leader-multiple-cities"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Eng, PCIe, AWS PCIe and Signal Integrity Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3185658/hardware-development-eng-pcie-aws-pcie-and-signal-integrity-team",
+    "job_posted_at": "2026-02-20T02:16:15.064Z",
+    "job_posted_at_datetime_utc": "2026-02-20T02:16:15.064Z",
+    "id": "amazon-hardware-development-eng-pcie-aws-pcie-and-signal-integrity-team-seattle"
   }
 ]
