@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern – Memory Systems Architecture & AI Accelerators",
+    "employer_name": "Arm",
+    "job_title": "Field Application Engineer – Datacenter",
     "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Intern – Memory Systems Architecture & AI Accelerators at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40385418",
-    "id": "micron-intern-memory-systems-architecture-ai-accelerators-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Field Application Engineer – Datacenter at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-field-application-engineer-datacenter/33099/91958992272",
+    "id": "arm-field-application-engineer-datacenter-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Applications Engineer - CloudAI",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Field Applications Engineer - CloudAI at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-field-applications-engineer-cloudai/33099/91958992288",
+    "id": "arm-field-applications-engineer-cloudai-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "PLM Solutions Architect Lead",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role PLM Solutions Architect Lead at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/PLM-Solutions-Architect-Lead_R260801?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-plm-solutions-architect-lead-us"
   }
 ]
