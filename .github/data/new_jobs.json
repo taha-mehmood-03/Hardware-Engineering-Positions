@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Platform Analytics & AI Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Platform Analytics & AI Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/platform-analytics-and-ai-engineer/33099/86006621520",
+    "id": "arm-platform-analytics-ai-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Recruiter",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Lead Technical Recruiter at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/lead-technical-recruiter/33099/91848205488",
+    "id": "arm-technical-recruiter-san-diego"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Program Manager Lead Full Scope Poly",
+    "job_city": "Herndon",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Program Manager Lead Full Scope Poly at ProfessionalHerndon, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=78625&source=WEB_Search_NA",
+    "id": "ibm-technical-program-manager-lead-full-scope-poly-herndon"
+  }
+]
