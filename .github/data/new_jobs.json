@@ -1,32 +1,73 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Field Application Engineer – Datacenter",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Field Application Engineer – Datacenter at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-field-application-engineer-datacenter/33099/91958992272",
-    "id": "arm-field-application-engineer-datacenter-san-jose"
+    "job_title": "Software Development Engineer, AWS Hardware Engineering, AWS PCIe and Signal Integrity Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Hardware Engineering, AWS PCIe and Signal Integrity Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3185066/software-development-engineer-aws-hardware-engineering-aws-pcie-and-signal-integrity-team",
+    "job_posted_at": "2026-02-20T04:06:38.011Z",
+    "job_posted_at_datetime_utc": "2026-02-20T04:06:38.011Z",
+    "id": "amazon-software-development-engineer-aws-hardware-engineering-aws-pcie-and-signal-integrity-team-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Field Applications Engineer - CloudAI",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Sioux Falls, SD",
+    "job_city": "Administration & TechnicianNo City",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Field Applications Engineer - CloudAI at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-field-applications-engineer-cloudai/33099/91958992288",
-    "id": "arm-field-applications-engineer-cloudai-san-jose"
+    "job_description": "Hardware Engineering job for the role System Services Representative - Sioux Falls, SD at Administration & TechnicianNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95251&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-sioux-falls-sd-administration-technicianno-city"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "PLM Solutions Architect Lead",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role PLM Solutions Architect Lead at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/PLM-Solutions-Architect-Lead_R260801?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-plm-solutions-architect-lead-us"
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Co-op 2026 – Advanced Analytics – Financial Services",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist Co-op 2026 – Advanced Analytics – Financial Services at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96261&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-co-op-2026-advanced-analytics-financial-services-university-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer Co-op 2026 - Data Services - Financial Services",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Engineer Co-op 2026 - Data Services - Financial Services at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96264&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-co-op-2026-data-services-financial-services-university-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Apache Iceberg Developer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Apache Iceberg Developer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87299&source=WEB_Search_NA",
+    "id": "ibm-apache-iceberg-developer-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Consultant Co-op 2026 - CyberDefend - Financial Services",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security Consultant Co-op 2026 - CyberDefend - Financial Services at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96248&source=WEB_Search_NA",
+    "id": "ibm-security-consultant-co-op-2026-cyberdefend-financial-services-university-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96258&source=WEB_Search_NA",
+    "id": "ibm-security-consultant-co-op-2026-security-strategy-risk-compliance-services-financial-services-university-park"
   }
 ]
