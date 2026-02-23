@@ -1,13 +1,33 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering - AMER",
     "employer_name": "Amazon",
-    "job_city": "New Carlisle",
-    "job_state": "IN",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at New Carlisle, IN, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186909/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering - AMER at Mesa, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186958/electrical-engineer-data-center-colocation-regional-engineering-amer",
     "job_posted_at": "2026-02-23T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-new-carlisle"
+    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-amer-mesa"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - SSD Firmware - CICD",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Intern - SSD Firmware - CICD at San Jose, California, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40386001",
+    "id": "micron-intern-ssd-firmware-cicd-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship - IS Operations Support",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Internship - IS Operations Support at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026218/Internship-IS-Operations-Support",
+    "id": "abb-internship-is-operations-support-krakow"
   }
 ]
