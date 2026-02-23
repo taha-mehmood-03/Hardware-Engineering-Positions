@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "System Test Architect – GPU Engineering",
-    "job_city": "Lund",
-    "job_state": "Sweden",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Career Accelerator Program - Test Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Test Architect – GPU Engineering at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/system-test-architect-gpu-engineering/33099/92055000048",
-    "id": "arm-system-test-architect-gpu-engineering-lund"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Workplace Coordinator",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Workplace Coordinator at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/workplace-coordinator/33099/92054996400",
-    "id": "arm-workplace-coordinator-cambridge"
+    "job_description": "hardware engineering job for the role Career Accelerator Program - Test Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008380/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-career-accelerator-program-test-engineer-"
   }
 ]
