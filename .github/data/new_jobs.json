@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering - AMER",
-    "employer_name": "Amazon",
-    "job_city": "Mesa",
-    "job_state": "AZ",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering - AMER at Mesa, AZ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186958/electrical-engineer-data-center-colocation-regional-engineering-amer",
-    "job_posted_at": "2026-02-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-amer-mesa"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - SSD Firmware - CICD",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Intern - SSD Firmware - CICD at San Jose, California, United States of America + 3 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/40386001",
-    "id": "micron-intern-ssd-firmware-cicd-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship - IS Operations Support",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Internship - IS Operations Support at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026218/Internship-IS-Operations-Support",
-    "id": "abb-internship-is-operations-support-krakow"
+    "employer_name": "IBM",
+    "job_title": "Tech Support Co-Op Fall",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Tech Support Co-Op Fall 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96256&source=WEB_Search_NA",
+    "id": "ibm-tech-support-co-op-fall-multiple-cities"
   }
 ]
