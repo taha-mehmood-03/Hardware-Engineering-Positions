@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Critical Infrastructure Mechanical Engineer, Data Center Field Services Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Berwick",
+    "job_state": "PA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Data Center Field Services Engineering at Berwick, PA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186867/critical-infrastructure-mechanical-engineer-data-center-field-services-engineering",
+    "job_posted_at": "2026-02-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-data-center-field-services-engineering-berwick"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Engineer-Verification",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Engineer-Verification at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-engineer-verification/33099/88372470128",
+    "id": "arm-senior-staff-engineer-verification-bengaluru"
+  }
+]
