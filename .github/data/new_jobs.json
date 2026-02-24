@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Intern 2026 -  Cambridge",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer Intern 2026 -  Cambridge at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94107&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-2026-cambridge-multiple-cities"
+    "job_title": "Hardware Development Eng, AWS PCIe and Signal Integrity Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Eng, AWS PCIe and Signal Integrity Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3188636/hardware-development-eng-aws-pcie-and-signal-integrity-team",
+    "job_posted_at": "2026-02-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "id": "amazon-hardware-development-eng-aws-pcie-and-signal-integrity-team-seattle"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Maker Checker",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Maker Checker at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025673/Maker-Checker",
-    "id": "abb-maker-checker-remote"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer,  Mixed Signal Designer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Principal Engineer,  Mixed Signal Designer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Principal-Engineer---Mixed-Signal-Designer_R260276?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-mixed-signal-designer-us"
   }
 ]
