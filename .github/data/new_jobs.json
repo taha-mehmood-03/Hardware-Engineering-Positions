@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "Hardware Development Eng, AWS PCIe and Signal Integrity Team",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Hardware Development Eng, AWS PCIe and Signal Integrity Team at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3188636/hardware-development-eng-aws-pcie-and-signal-integrity-team",
-    "job_posted_at": "2026-02-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "id": "amazon-hardware-development-eng-aws-pcie-and-signal-integrity-team-seattle"
+    "employer_name": "IBM",
+    "job_title": "Product Manager - IBM Storage (Apprentice Conversion)",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Manager - IBM Storage (Apprentice Conversion) at ProfessionalTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90198&source=WEB_Search_NA",
+    "id": "ibm-product-manager-ibm-storage-apprentice-conversion-tucson"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer,  Mixed Signal Designer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Principal Engineer,  Mixed Signal Designer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Principal-Engineer---Mixed-Signal-Designer_R260276?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-mixed-signal-designer-us"
+    "employer_name": "IBM",
+    "job_title": "Software Developer ELH - Cambridge",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer ELH - Cambridge at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94132&source=WEB_Search_NA",
+    "id": "ibm-software-developer-elh-cambridge-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager Intern 2026 - Cambridge",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Manager Intern 2026 - Cambridge at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94090&source=WEB_Search_NA",
+    "id": "ibm-product-manager-intern-2026-cambridge-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager - Cambridge",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Product Manager - Cambridge at Entry LevelCambridge, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96162&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-cambridge-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Business Transformation Consultant – Microsoft Experience – Co-op",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Business Transformation Consultant – Microsoft Experience – Co-op 2026 at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95999&source=WEB_Search_NA",
+    "id": "ibm-associate-business-transformation-consultant-microsoft-experience-co-op-new-york"
   }
 ]
