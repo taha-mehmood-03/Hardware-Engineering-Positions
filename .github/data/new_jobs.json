@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Director",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Product Manager I",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Director at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/technical-director/33099/92109739856",
-    "id": "arm-technical-director-bengaluru"
+    "job_description": "15 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager I, TUBE, Google Global Network",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94134968749302470-product-manager-i-tube-google-global-network?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-product-manager-i-atlanta"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Specialist",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Quality Specialist at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024887/Quality-Specialist",
+    "id": "abb-quality-specialist-beijing"
   }
 ]
