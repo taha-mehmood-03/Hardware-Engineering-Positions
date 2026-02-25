@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Platform and DevOps Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Platform and DevOps Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-platform-and-devops-engineer/33099/84406379248",
-    "id": "arm-platform-and-devops-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "FPGA Prototyping/Emulation Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role FPGA Prototyping/Emulation Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/fpga-prototyping-emulation-engineer/33099/91922656064",
-    "id": "arm-fpga-prototyping-emulation-engineer-austin"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "ELDS Fabrication Warehouse Internal Logistics Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role ELDS Fabrication Warehouse Internal Logistics Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024975/ELDS-Fabrication-Warehouse-Internal-Logistics-Operator-1st-shift",
-    "id": "abb-elds-fabrication-warehouse-internal-logistics-operator-1st-shift-mebane"
+    "job_title": "Associate Channel Director",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Associate Channel Director at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
+    "id": "abb-associate-channel-director-multiple"
   }
 ]
