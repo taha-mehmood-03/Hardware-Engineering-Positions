@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graphics Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Infrastructure TPM, Infra Capacity Delivery, Infra Capacity Delivery, Infra Capacity Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery, Infra Capacity Delivery, Infra Capacity Delivery at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3189143/infrastructure-tpm-infra-capacity-delivery-infra-capacity-delivery-infra-capacity-delivery",
+    "job_posted_at": "2026-02-25T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-infra-capacity-delivery-infra-capacity-delivery-herndon"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware System Design Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graphics Software Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graphics-software-engineer/33099/92118503008",
-    "id": "arm-graphics-software-engineer-cambridge"
+    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware System Design Engineer, AI/TPU Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99774707485549254-hardware-system-design-engineer-aitpu-infrastructure?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-system-design-engineer-sunnyvale"
   },
   {
     "employer_name": "ABB",
-    "job_title": "QCS Product Manager",
+    "job_title": "Portfolio and Technology Manager, Marine Systems",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role QCS Product Manager at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017804/QCS-Product-Manager",
-    "id": "abb-qcs-product-manager-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Portfolio and Technology Manager, Marine Systems at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025633/Portfolio-and-Technology-Manager-Marine-Systems",
+    "id": "abb-portfolio-and-technology-manager-marine-systems-multiple"
   }
 ]
