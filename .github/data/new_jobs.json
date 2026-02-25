@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Infrastructure TPM, Infra Capacity Delivery, Infra Capacity Delivery, Infra Capacity Delivery",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery, Infra Capacity Delivery, Infra Capacity Delivery at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3189143/infrastructure-tpm-infra-capacity-delivery-infra-capacity-delivery-infra-capacity-delivery",
-    "job_posted_at": "2026-02-25T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-infra-capacity-delivery-infra-capacity-delivery-herndon"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Hardware System Design Engineer",
+    "job_title": "Hardware Validation Lead",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware System Design Engineer, AI/TPU Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99774707485549254-hardware-system-design-engineer-aitpu-infrastructure?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-hardware-system-design-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Portfolio and Technology Manager, Marine Systems",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Portfolio and Technology Manager, Marine Systems at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025633/Portfolio-and-Technology-Manager-Marine-Systems",
-    "id": "abb-portfolio-and-technology-manager-marine-systems-multiple"
+    "job_description": "50 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Validation Lead, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86962648242889414-hardware-validation-lead-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-hardware-validation-lead-sunnyvale"
   }
 ]
