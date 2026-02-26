@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Technical Program Management (TPM) - Mechanical Systems, DCE - Mechanical Products & Services (MPS)",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Technical Program Management (TPM) - Mechanical Systems, DCE - Mechanical Products & Services (MPS) at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186294/technical-program-management-tpm-mechanical-systems-dce-mechanical-products-services-mps",
-    "job_posted_at": "2026-02-20T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-20T00:00:00.000Z",
-    "id": "amazon-technical-program-management-tpm-mechanical-systems-dce-mechanical-products-services-mps-austin"
+    "employer_name": "IBM",
+    "job_title": "Environmental Program Manager",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Environmental Program Manager at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95282&source=WEB_Search_NA",
+    "id": "ibm-environmental-program-manager-poughkeepsie"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Manufacturing Test Engineer",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Manufacturing Test Engineer at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Manufacturing-Test-Engineer_2600432?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-manufacturing-test-engineer-irvine"
+    "employer_name": "IBM",
+    "job_title": "Platform Technical Architect - Automation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Platform Technical Architect - Automation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96012&source=WEB_Search_NA",
+    "id": "ibm-platform-technical-architect-automation-multiple-cities"
   }
 ]
