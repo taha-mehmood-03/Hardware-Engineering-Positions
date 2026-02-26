@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "R&D Software Engineer within Automation and Control at ABB Ports",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role R&D Software Engineer within Automation and Control at ABB Ports at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025275/R-D-Software-Engineer-within-Automation-and-Control-at-ABB-Ports",
-    "id": "abb-r-d-software-engineer-within-automation-and-control-at-abb-ports-vaesteras"
+    "employer_name": "Google",
+    "job_title": "Senior Technical Program Manager",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "8 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Technical Program Manager, Immersive Hardware, XR",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72956003976389318-senior-technical-program-manager-immersive-hardware-xr?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-technical-program-manager-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Information Developer / Technical Writer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Information Developer / Technical Writer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-information-developer-technical-writer/33099/90588504128",
+    "id": "arm-information-developer-technical-writer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SOC Design Engineer",
+    "job_city": "Sheffield",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SOC Design Engineer at Sheffield, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/soc-design-engineer/33099/92159278144",
+    "id": "arm-soc-design-engineer-sheffield"
   }
 ]
