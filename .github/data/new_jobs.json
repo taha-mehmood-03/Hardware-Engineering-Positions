@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "UI Project Manager - Scrum Master",
-    "job_city": "PRINCETON",
+    "job_title": "Entry Level Firmware Developer",
+    "job_city": "ROCHESTER",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role UI Project Manager - Scrum Master at ProfessionalPRINCETON, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95279&source=WEB_Search_NA",
-    "id": "ibm-ui-project-manager-scrum-master-princeton"
+    "job_description": "Hardware Engineering job for the role Entry Level Firmware Developer at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97077&source=WEB_Search_NA",
+    "id": "ibm-entry-level-firmware-developer-rochester"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Integration Developer (TS)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Product Test Engineer | Radar",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Integration Developer (TS) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97497&source=WEB_Search_NA",
-    "id": "ibm-integration-developer-ts-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Client Solutions Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Client Solutions Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94921&source=WEB_Search_NA",
-    "id": "ibm-storage-client-solutions-engineer-multiple-cities"
+    "job_description": "hardware engineering job for the role Product Test Engineer | Radar at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009008/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-product-test-engineer-radar-dallas"
   }
 ]
