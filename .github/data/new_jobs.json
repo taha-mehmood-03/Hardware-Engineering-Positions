@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - Memory Design Engineer, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Memory Design Engineer, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40531254",
-    "id": "micron-new-college-grad-memory-design-engineer-hbm-richardson"
+    "job_title": "Software Engineer AI/ML, AWS Neuron Distributed Training Team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Engineer AI/ML, AWS Neuron Distributed Training Team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3191926/software-engineer-ai-ml-aws-neuron-distributed-training-team",
+    "job_posted_at": "2026-02-27T17:40:53.535Z",
+    "job_posted_at_datetime_utc": "2026-02-27T17:40:53.535Z",
+    "id": "amazon-software-engineer-ai-ml-aws-neuron-distributed-training-team-cupertino"
   }
 ]
