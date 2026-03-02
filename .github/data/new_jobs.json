@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Information Developer-Technical Writer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Senior Test Engineering Manager",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Information Developer-Technical Writer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/staff-information-developer-technical-writer/33099/92118497456",
-    "id": "arm-information-developer-technical-writer-manchester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer Co-op – Fall Sales Co-op Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer Co-op – Fall Sales Co-op Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96251&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-co-op-fall-sales-co-op-program-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "MBA 6 Month Intern – Financial Analyst (Armonk, NY)",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role MBA 6 Month Intern – Financial Analyst (Armonk, NY) at InternshipArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97414&source=WEB_Search_NA",
-    "id": "ibm-mba-6-month-intern-financial-analyst-armonk-ny-armonk"
+    "job_description": "53 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Test Engineering Manager, Global Manufacturing",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74479424581313222-senior-test-engineering-manager-global-manufacturing?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-test-engineering-manager-atlanta"
   }
 ]
