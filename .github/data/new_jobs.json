@@ -1,32 +1,43 @@
 [
   {
+    "job_title": "Data Center Logistics Site Lead",
+    "employer_name": "Amazon",
+    "job_city": "Manassas",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Data Center Logistics Site Lead at Manassas, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193464/data-center-logistics-site-lead",
+    "job_posted_at": "2026-03-02T20:32:01.060Z",
+    "job_posted_at_datetime_utc": "2026-03-02T20:32:01.060Z",
+    "id": "amazon-data-center-logistics-site-lead-manassas"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "New College Grad - Product Development Failure Analysis Engineer",
+    "job_title": "Intern - Validation Strategy AI/ML",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Product Development Failure Analysis Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40485553",
-    "id": "micron-new-college-grad-product-development-failure-analysis-engineer-boise"
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - Validation Strategy AI/ML at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40437210",
+    "id": "micron-intern-validation-strategy-ai-ml-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Goldstine Postdoctoral Fellowship",
-    "job_city": "Multiple Cities",
+    "job_title": "AI Productivity Engineer / Developer Team Manager - Select Territory",
+    "job_city": "New York",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Goldstine Postdoctoral Fellowship at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97873&source=WEB_Search_NA",
-    "id": "ibm-goldstine-postdoctoral-fellowship-multiple-cities"
+    "job_description": "Hardware Engineering job for the role AI Productivity Engineer / Developer Team Manager - Select Territory at ProfessionalNew York, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96701&source=WEB_Search_NA",
+    "id": "ibm-ai-productivity-engineer-developer-team-manager-select-territory-new-york"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Customs Operations Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Customs Operations Specialist at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020199/Customs-Operations-Specialist",
-    "id": "abb-customs-operations-specialist-multiple"
+    "employer_name": "IBM",
+    "job_title": "Sales Development Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sales Development Engineer at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=98141&source=WEB_Search_NA",
+    "id": "ibm-sales-development-engineer-austin"
   }
 ]
