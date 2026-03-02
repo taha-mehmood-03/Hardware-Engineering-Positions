@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Embedded Software Lead",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Embedded Software Lead at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40530944",
+    "id": "micron-embedded-software-lead-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Datacenter Technician",
+    "job_city": "Administration & TechnicianAshburn",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Datacenter Technician at Administration & TechnicianAshburn, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96387&source=WEB_Search_NA",
+    "id": "ibm-datacenter-technician-administration-technicianashburn"
+  }
+]
