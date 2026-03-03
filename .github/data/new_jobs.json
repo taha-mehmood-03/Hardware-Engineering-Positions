@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Applied Scientist, Quantum Device Packaging & Environment R&D, Device Team, AWS Center for Quantum Computing, Device Team",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Applied Scientist, Quantum Device Packaging & Environment R&D, Device Team, AWS Center for Quantum Computing, Device Team at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193702/applied-scientist-quantum-device-packaging-environment-r-d-device-team-aws-center-for-quantum-computing-device-team",
+    "job_posted_at": "2026-03-03T01:00:43.205Z",
+    "job_posted_at_datetime_utc": "2026-03-03T01:00:43.205Z",
+    "id": "amazon-applied-scientist-quantum-device-packaging-environment-r-d-device-team-aws-center-for-quantum-computing-device-team-pasadena"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Hypervisor Build role",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Power Hypervisor Build role at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99202&source=WEB_Search_NA",
+    "id": "ibm-power-hypervisor-build-role-rochester"
+  }
+]
