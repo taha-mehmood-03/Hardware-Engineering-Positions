@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Application Architect for Oracle Cloud",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Architect for Oracle Cloud at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97932&source=WEB_Search_NA",
-    "id": "ibm-application-architect-for-oracle-cloud-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer - Federal -  Data and AI",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer - Federal -  Data and AI at ProfessionalWASHINGTON, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96306&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-federal-data-and-ai-washington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer - Observability and FinOps",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer - Observability and FinOps at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96682&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-observability-and-finops-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Engineer - Asset Lifecycle Management",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer - Asset Lifecycle Management at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96685&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-asset-lifecycle-management-no-city"
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Design Engineer - PCB Board Level Circuit Design Simulation Test",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Hardware Design Engineer - PCB Board Level Circuit Design Simulation Test at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Hardware-Design-Engineer---PCB-Board-Level-Circuit-Design-Simulation-Test_2503706?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-design-engineer-pcb-board-level-circuit-design-simulation-test-santa-clara"
   }
 ]
