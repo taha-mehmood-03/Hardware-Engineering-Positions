@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Engineer",
+    "employer_name": "Arm",
+    "job_title": "Regional Service Delivery Analyst",
     "job_city": "Austin",
-    "job_state": "TX",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "24 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Engineer, Global Manufacturing Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/102346628391674566-product-engineer-global-manufacturing-engineering?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-product-engineer-austin"
+    "job_description": "Hardware Engineering job for the role Regional Service Delivery Analyst at Austin, Texas, Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/austin/regional-service-delivery-analyst/33099/92348218944",
+    "id": "arm-regional-service-delivery-analyst-austin"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior Product Engineer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Recently",
-    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Engineer, Global Manufacturing Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93097914535944902-senior-product-engineer-global-manufacturing-engineering?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-product-engineer-atlanta"
+    "employer_name": "Micron",
+    "job_title": "MTS Digital Design Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role MTS Digital Design Engineer, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40623857",
+    "id": "micron-mts-digital-design-engineer-hbm-richardson"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "IBM Z Resiliency Solutions Sales Specialist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM Z Resiliency Solutions Sales Specialist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97068&source=WEB_Search_NA",
-    "id": "ibm-ibm-z-resiliency-solutions-sales-specialist-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Packaging SI/PI Senior Staff Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Advanced Packaging SI/PI Senior Staff Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Advanced-Packaging-SI-PI-Senior-Staff-Engineer_2600535?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-packaging-si-pi-senior-staff-engineer-2-locations"
   }
 ]
