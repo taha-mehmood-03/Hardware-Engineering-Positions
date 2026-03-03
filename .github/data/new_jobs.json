@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "AI Foundations - Research Scientist",
-    "job_city": "Cambridge",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Product Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Foundations - Research Scientist at ProfessionalCambridge, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97798&source=WEB_Search_NA",
-    "id": "ibm-ai-foundations-research-scientist-cambridge"
+    "job_description": "24 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Engineer, Global Manufacturing Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/102346628391674566-product-engineer-global-manufacturing-engineering?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-product-engineer-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Product Engineer",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Engineer, Global Manufacturing Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93097914535944902-senior-product-engineer-global-manufacturing-engineering?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-product-engineer-atlanta"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Technical Sales Engineer - Staff Resident Solutions Architect",
-    "job_city": "Denver",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - Staff Resident Solutions Architect at ProfessionalDenver, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95603&source=WEB_Search_NA",
-    "id": "ibm-technical-sales-engineer-staff-resident-solutions-architect-denver"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud ERP Tech Lead",
+    "job_title": "IBM Z Resiliency Solutions Sales Specialist",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Oracle Cloud ERP Tech Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97091&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-erp-tech-lead-multiple-cities"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Career Accelerator Program - Product, Test & Validation Engineer",
-    "job_city": "Knoxville",
-    "job_state": "TN",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Career Accelerator Program - Product, Test & Validation Engineer at Knoxville, TN, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009504/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-product-test-validation-engineer-knoxville"
+    "job_description": "Hardware Engineering job for the role IBM Z Resiliency Solutions Sales Specialist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97068&source=WEB_Search_NA",
+    "id": "ibm-ibm-z-resiliency-solutions-sales-specialist-multiple-cities"
   }
 ]
