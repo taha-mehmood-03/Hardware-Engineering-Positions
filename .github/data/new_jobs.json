@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Camera Process Engineer",
+    "job_title": "Camera OIS Systems Engineer",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "57 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Camera Process Engineer, Google Beam",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106218146272027334-camera-process-engineer-google-beam?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-camera-process-engineer-mountain-view"
+    "job_description": "63 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Camera OIS Systems Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113826354419376838-camera-ois-systems-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-camera-ois-systems-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Architect",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior System Architect at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-system-architect/33099/88854230832",
+    "id": "arm-system-architect-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer - SoC CAD Flow & EDA Support",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineer - SoC CAD Flow & EDA Support at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineer-soc-cad-flow-and-eda-support/33099/92112509808",
+    "id": "arm-engineer-soc-cad-flow-eda-support-bengaluru"
   }
 ]
