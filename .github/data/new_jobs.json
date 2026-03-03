@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Regional Service Delivery Analyst",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Regional Service Delivery Analyst at Austin, Texas, Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/austin/regional-service-delivery-analyst/33099/92348218944",
-    "id": "arm-regional-service-delivery-analyst-austin"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "MTS Digital Design Engineer, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role MTS Digital Design Engineer, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40623857",
-    "id": "micron-mts-digital-design-engineer-hbm-richardson"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Advanced Packaging SI/PI Senior Staff Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Advanced Packaging SI/PI Senior Staff Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Advanced-Packaging-SI-PI-Senior-Staff-Engineer_2600535?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-advanced-packaging-si-pi-senior-staff-engineer-2-locations"
+    "job_title": "Sr. Manager, Corporate Venture Capital",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "hardware engineering job for the role Sr. Manager, Corporate Venture Capital at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40642719",
+    "id": "micron-sr-manager-corporate-venture-capital-san-jose"
   }
 ]
