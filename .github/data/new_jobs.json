@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Embedded SDE",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Embedded SDE at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3196237/embedded-sde",
+    "job_posted_at": "2026-03-04T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
+    "id": "amazon-embedded-sde-sunnyvale"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Represenative for Colorado Springs",
+    "job_city": "Administration & TechnicianDenver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Represenative for Colorado Springs at Administration & TechnicianDenver, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97437&source=WEB_Search_NA",
+    "id": "ibm-system-services-represenative-for-colorado-springs-administration-techniciandenver"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Service Support Representative - NW- Texas",
+    "job_city": "Administration & TechnicianDallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Service Support Representative - NW- Texas at Administration & TechnicianDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99691&source=WEB_Search_NA",
+    "id": "ibm-service-support-representative-nw-texas-administration-techniciandallas"
+  }
+]
