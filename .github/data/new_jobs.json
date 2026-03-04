@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Technical Program Manager I",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "11 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager I, Hardware Development, Pixel",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128595310283760326-technical-program-manager-i-hardware-development-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-technical-program-manager-i-mountain-view"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Project Manager - IT Engineering",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Project Manager - IT Engineering at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-project-manager-it-engineering/33099/92334085600",
-    "id": "arm-project-manager-it-engineering-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Regional Service Delivery Specialist",
+    "job_title": "Intern Implementation Engineer - CPU",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Regional Service Delivery Specialist at Austin, Texas, Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/austin/regional-service-delivery-specialist/33099/92348218944",
-    "id": "arm-regional-service-delivery-specialist-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "TPIP QRE (Quality and Reliability Engineer)",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior TPIP QRE (Quality and Reliability Engineer) at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-tpip-qre-quality-and-reliability-engineer/33099/92385806864",
-    "id": "arm-tpip-qre-quality-and-reliability-engineer-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Kubecost Product Intern",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Kubecost Product Intern at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=98259&source=WEB_Search_NA",
-    "id": "ibm-kubecost-product-intern-austin"
+    "job_description": "Hardware Engineering job for the role Intern Implementation Engineer - CPU at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-implementation-engineer-cpu/33099/92388290016",
+    "id": "arm-intern-implementation-engineer-cpu-austin"
   }
 ]
