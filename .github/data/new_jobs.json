@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Program Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "12 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager, Industrial Design, Devices and Services",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116196633053405894-program-manager-industrial-design-devices-and-services?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-program-manager-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Technical Lead",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "64 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Technical Lead, Supply Strategy and Portfolio Planning",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95439090471576262-senior-technical-lead-supply-strategy-and-portfolio-planning?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-senior-technical-lead-sunnyvale"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "System Manager HPC",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Senior System Manager HPC at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40670872",
+    "id": "micron-system-manager-hpc-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "DevSecOps/IT Software Project Manager",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role DevSecOps/IT Software Project Manager at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100335&source=WEB_Search_NA",
+    "id": "ibm-devsecops-it-software-project-manager-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "X-Force Incident Response Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role X-Force Incident Response Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97858&source=WEB_Search_NA",
+    "id": "ibm-x-force-incident-response-consultant-no-city"
+  }
+]
