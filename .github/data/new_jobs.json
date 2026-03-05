@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Licensing Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Licensing Manager at Austin, Texas, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-licensing-manager/33099/92397375120",
+    "id": "arm-licensing-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Patent Attorney",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Patent Attorney at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/patent-attorney/33099/92408536880",
+    "id": "arm-patent-attorney-cambridge"
+  }
+]
