@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Back-end Senior Engineer - HashiCorp Vault",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Engineer/Senior Engineer Cloud Site Reliability Engineer (SRE)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Back-end Senior Engineer - HashiCorp Vault at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99652&source=WEB_Search_NA",
-    "id": "ibm-back-end-senior-engineer-hashicorp-vault-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship / Master-Thesis (m/f/d): ABB Robotics Research",
-    "job_city": "Ladenburg",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Internship / Master-Thesis (m/f/d): ABB Robotics Research at Ladenburg, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027844/Internship-Master-Thesis-m-f-d-ABB-Robotics-Research",
-    "id": "abb-internship-master-thesis-m-f-d-abb-robotics-research-ladenburg"
+    "job_description": "Hardware Engineering job for the role Engineer/Senior Engineer Cloud Site Reliability Engineer (SRE) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/engineer-senior-engineer-cloud-site-reliability-engineer-sre/33099/92454809168",
+    "id": "arm-engineer-senior-engineer-cloud-site-reliability-engineer-sre-cambridge"
   }
 ]
