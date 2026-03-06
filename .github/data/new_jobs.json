@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "(Senior) Verification Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role (Senior) Verification Engineer at Cambridge, United Kingdom, Budapest, Hungary, Sophia Antipolis, France, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer/33099/92446005248",
+    "id": "arm-senior-verification-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Design Engineer – Custom Digital Hard Macros (Physical IP)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff/Principal Design Engineer – Custom Digital Hard Macros (Physical IP) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-design-engineer-custom-digital-hard-macros-physical-ip/33099/90400650432",
+    "id": "arm-staff-principal-design-engineer-custom-digital-hard-macros-physical-ip-bengaluru"
+  }
+]
