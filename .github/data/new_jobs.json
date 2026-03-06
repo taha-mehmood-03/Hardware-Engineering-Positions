@@ -1,12 +1,24 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY)",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY) at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99684&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hire-technical-support-engineer-poughkeepsie-ny-poughkeepsie"
+    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Jeffersonville",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Jeffersonville, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3198594/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_posted_at": "2026-03-06T18:33:51.748Z",
+    "job_posted_at_datetime_utc": "2026-03-06T18:33:51.748Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-jeffersonville"
+  },
+  {
+    "job_title": "Critical Infrastructure Electrical Engineer, Data Center Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Frederick",
+    "job_state": "MD",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Data Center Field Engineering at Frederick, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3198588/critical-infrastructure-electrical-engineer-data-center-field-engineering",
+    "job_posted_at": "2026-03-06T18:33:51.748Z",
+    "job_posted_at_datetime_utc": "2026-03-06T18:33:51.748Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-data-center-field-engineering-frederick"
   }
 ]
