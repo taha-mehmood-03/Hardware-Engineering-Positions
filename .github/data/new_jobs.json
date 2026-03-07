@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
+    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Hardware Engineer – Board Design / Package Design",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Hardware Engineer – Board Design / Package Design at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Design-Engineer---DSP-Optical-FPGA-Controller-SerDes_2600178?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-hardware-engineer-board-design-package-design-irvine"
+  }
+]
