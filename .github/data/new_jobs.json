@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer, Analog and Mixed Signal IC Design - TPG",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Staff Engineer, Analog and Mixed Signal IC Design - TPG at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40708515",
+    "id": "micron-engineer-analog-and-mixed-signal-ic-design-tpg-boise"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Chapter Lead – Electronics Hardware: Critical Power (Napier, NZ & Richmond, US)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Chapter Lead – Electronics Hardware: Critical Power (Napier, NZ & Richmond, US) at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026364/Chapter-Lead-Electronics-Hardware-Critical-Power-Napier-NZ-Richmond-US",
+    "id": "abb-chapter-lead-electronics-hardware-critical-power-napier-nz-richmond-us-multiple"
+  }
+]
