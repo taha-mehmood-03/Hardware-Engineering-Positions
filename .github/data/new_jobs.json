@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Product Manager 2026 Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Campaign Manager, Cloud AI",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Manager 2026 Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92361&source=WEB_Search_NA",
-    "id": "ibm-product-manager-2026-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "X-Force Senior DevSecOps Engineer",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role X-Force Senior DevSecOps Engineer at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100438&source=WEB_Search_NA",
-    "id": "ibm-x-force-senior-devsecops-engineer-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr Solutions Architect - Databricks",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr Solutions Architect - Databricks at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99720&source=WEB_Search_NA",
-    "id": "ibm-sr-solutions-architect-databricks-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manufacturing Test Engineer",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manufacturing Test Engineer at ProfessionalHouston, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100424&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-test-engineer-houston"
+    "job_description": "Hardware Engineering job for the role Senior Campaign Manager, Cloud AI at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-campaign-manager-cloud-ai/33099/92576472128",
+    "id": "arm-campaign-manager-cloud-ai-san-jose"
   }
 ]
