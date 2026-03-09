@@ -1,22 +1,62 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "Sr Customer Validation Engineer",
+    "job_title": "Customer Validation Engineer",
     "job_city": "Longmont",
     "job_state": "Colorado",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Sr Customer Validation Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40710486",
-    "id": "micron-sr-customer-validation-engineer-longmont"
+    "job_description": "hardware engineering job for the role Staff Customer Validation Engineer at Longmont, Colorado, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40710487",
+    "id": "micron-customer-validation-engineer-longmont"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "HW Development Manager",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role HW Development Manager at ProfessionalTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99258&source=WEB_Search_NA",
+    "id": "ibm-hw-development-manager-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Forward Deployed Engineer Co-Op Fall",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Forward Deployed Engineer Co-Op Fall 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93243&source=WEB_Search_NA",
+    "id": "ibm-forward-deployed-engineer-co-op-fall-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Manager",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Development Manager at ProfessionalDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99577&source=WEB_Search_NA",
+    "id": "ibm-software-development-manager-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Manager",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Development Manager at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99584&source=WEB_Search_NA",
+    "id": "ibm-software-development-manager-poughkeepsie"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Software Architect",
+    "job_title": "Embedded Software Technical Lead",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Lead Software Architect at US, TX, Austin, Plaza on the Lake",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Lead-Software-Architect_R261350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-software-architect-us"
+    "job_description": "hardware engineering job for the role Embedded Software Technical Lead at US, TX, Austin, Plaza on the Lake",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Technical-Lead_R261351-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-technical-lead-us"
   }
 ]
