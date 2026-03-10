@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Firmware Enablement Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "Senior Research Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Firmware Enablement Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/senior-firmware-enablement-engineer/33099/84729469312",
-    "id": "arm-firmware-enablement-engineer-taipei"
+    "job_description": "47 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Research Engineer, Cloud AI Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140292215627752134-senior-research-engineer-cloud-ai-research?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-research-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern AI Engineer - CPU",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern AI Engineer - CPU at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/intern-ai-engineer-cpu/33099/92596916400",
+    "id": "arm-intern-ai-engineer-cpu-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate SoC Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate SoC Performance Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-soc-performance-engineer/33099/92596916336",
+    "id": "arm-graduate-soc-performance-engineer-austin"
   }
 ]
