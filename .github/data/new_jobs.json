@@ -1,13 +1,12 @@
 [
   {
-    "job_title": "Field Support Engineer, eero",
-    "employer_name": "Amazon",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_description": "hardware engineering job for the role Field Support Engineer, eero at Boise, ID, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3200363/field-support-engineer-eero",
-    "job_posted_at": "2026-03-10T03:44:47.713Z",
-    "job_posted_at_datetime_utc": "2026-03-10T03:44:47.713Z",
-    "id": "amazon-field-support-engineer-eero-boise"
+    "employer_name": "Arm",
+    "job_title": "Firmware Enablement Engineer",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Firmware Enablement Engineer at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/senior-firmware-enablement-engineer/33099/84729469312",
+    "id": "arm-firmware-enablement-engineer-taipei"
   }
 ]
