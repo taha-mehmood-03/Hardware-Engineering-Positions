@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Research Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "46 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Research Engineer, Cloud AI Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96225851170792134-staff-research-engineer-cloud-ai-research?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-staff-research-engineer-sunnyvale"
+    "job_title": "Network Deployment Build Mgr, GND AMER",
+    "employer_name": "Amazon",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_description": "hardware engineering job for the role Network Deployment Build Mgr, GND AMER at Mesa, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3200811/network-deployment-build-mgr-gnd-amer",
+    "job_posted_at": "2026-03-10T15:59:47.680Z",
+    "job_posted_at_datetime_utc": "2026-03-10T15:59:47.680Z",
+    "id": "amazon-network-deployment-build-mgr-gnd-amer-mesa"
   }
 ]
