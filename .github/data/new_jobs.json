@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Manager, Security Firmware",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Manager, Security Firmware at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40709869",
-    "id": "micron-manager-security-firmware-longmont"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Member of Technical Staff, Memory Innovation (AI & Machine Learning)",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Member of Technical Staff, Memory Innovation (AI & Machine Learning) at Folsom, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/29338749",
-    "id": "micron-member-of-technical-staff-memory-innovation-ai-machine-learning-folsom"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Firmware Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Staff Firmware Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40777717",
-    "id": "micron-firmware-engineer-longmont"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Manager in Life Science",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Project Manager in Life Science at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023276/Project-Manager-in-Life-Science",
-    "id": "abb-project-manager-in-life-science-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer - high-speed optical interconnects /custom silicon/ASIC design / microcontroller architectures /",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Firmware Engineer - high-speed optical interconnects /custom silicon/ASIC design / microcontroller architectures / at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Firmware-Engineer---high-speed-optical-interconnects--custom-silicon-ASIC-design---microcontroller-architectures--_2600701?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-high-speed-optical-interconnects-custom-silicon-asic-design-microcontroller-architectures-santa-clara"
   }
 ]
