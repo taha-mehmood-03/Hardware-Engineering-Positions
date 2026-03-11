@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "Engineer, SSD Validation",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Staff Engineer, SSD Validation at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40710643",
-    "id": "micron-engineer-ssd-validation-longmont"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - Design Architect, HBM",
+    "job_title": "New College Grad - PSE Design Validation Engineer, HBM",
     "job_city": "Richardson",
     "job_state": "Texas",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Design Architect, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40687588",
-    "id": "micron-new-college-grad-design-architect-hbm-richardson"
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role New College Grad - PSE Design Validation Engineer, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40795187",
+    "id": "micron-new-college-grad-pse-design-validation-engineer-hbm-richardson"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Validation Lead",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Validation Lead at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Validation-Lead_2600693?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-validation-lead-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Validation Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Staff Validation Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff-Validation-Engineer_2600694-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-validation-engineer-santa-clara"
   }
 ]
