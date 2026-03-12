@@ -1,13 +1,52 @@
 [
   {
-    "job_title": "Manufacturing Engineer Manager – Space Hardware, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Merritt Island",
-    "job_state": "FL",
-    "job_description": "hardware engineering job for the role Manufacturing Engineer Manager – Space Hardware, Project Kuiper at Merritt Island, FL, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3203777/manufacturing-engineer-manager-space-hardware-project-kuiper",
-    "job_posted_at": "2026-03-12T20:31:45.275Z",
-    "job_posted_at_datetime_utc": "2026-03-12T20:31:45.275Z",
-    "id": "amazon-manufacturing-engineer-manager-space-hardware-project-kuiper-merritt-island"
+    "employer_name": "IBM",
+    "job_title": "Quantum Control Systems Integration and Test Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Control Systems Integration and Test Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103003&source=WEB_Search_NA",
+    "id": "ibm-quantum-control-systems-integration-and-test-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Specialist",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Brand Technical Specialist at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102562&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr Software Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr Software Engineer at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96766&source=WEB_Search_NA",
+    "id": "ibm-sr-software-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Wisconsin (Milwaukee - Madison)",
+    "job_city": "Administration & TechnicianMILWAUKEE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Wisconsin (Milwaukee - Madison) at Administration & TechnicianMILWAUKEE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102097&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-wisconsin-milwaukee-madison-administration-technicianmilwaukee"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
   }
 ]
