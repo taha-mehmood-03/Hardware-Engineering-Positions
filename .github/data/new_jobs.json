@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Robotics Systems Eng I, Tech Deployment",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Robotics Systems Eng I, Tech Deployment at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3203415/robotics-systems-eng-i-tech-deployment",
-    "job_posted_at": "2026-03-12T16:01:17.755Z",
-    "job_posted_at_datetime_utc": "2026-03-12T16:01:17.755Z",
-    "id": "amazon-robotics-systems-eng-i-tech-deployment-austin"
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Advanced Packaging Technology Development Engineer - APTD",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role New College Grad - Advanced Packaging Technology Development Engineer - APTD at Boise, Idaho, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40795751",
+    "id": "micron-new-college-grad-advanced-packaging-technology-development-engineer-aptd-boise"
   },
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Applications Engineer | BCP",
-    "job_city": "Knoxville",
-    "job_state": "TN",
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager Technical Specialist",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Applications Engineer | BCP at Knoxville, TN, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009529/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-applications-engineer-bcp-knoxville"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Product Development Process Lead",
-    "job_city": "Ireland",
-    "job_state": "Limerick",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Product Development Process Lead at Ireland, Limerick",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Product-Development-Process-Lead_R260800?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-product-development-process-lead-ireland"
+    "job_description": "Hardware Engineering job for the role Customer Success Manager Technical Specialist at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102564&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-technical-specialist-armonk"
   }
 ]
