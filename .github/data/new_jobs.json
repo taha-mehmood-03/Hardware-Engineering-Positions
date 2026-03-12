@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solutions Engineer Terminal & Logistics",
+    "job_city": "Etten-Leur",
+    "job_state": "Netherlands",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Digital Solutions Engineer Terminal & Logistics at Etten-Leur, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018259/Digital-Solutions-Engineer-Terminal-Logistics",
+    "id": "abb-digital-solutions-engineer-terminal-logistics-etten-leur"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship Service Operations",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Internship Service Operations at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028165/Internship-Service-Operations",
+    "id": "abb-internship-service-operations-rotterdam"
+  }
+]
