@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware/Hardware Engineer -PCIe post silicon bring up, function validations, protocol",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Firmware/Hardware Engineer -PCIe post silicon bring up, function validations, protocol at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-hardware-engineer-pcie-post-silicon-bring-up-function-validations-protocol-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware/Hardware Engineer - RISC-V Architecture / PCIe: protocol, post silicon bring up, validation)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Firmware/Hardware Engineer - RISC-V Architecture / PCIe: protocol, post silicon bring up, validation) at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---RISC-V-Architecture---PCIe--protocol--post-silicon-bring-up--validation-_2600654?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-hardware-engineer-risc-v-architecture-pcie-protocol-post-silicon-bring-up-validation-santa-clara"
+    "job_title": "Mechanical Engineer II, Amazon Robotics",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Mechanical Engineer II, Amazon Robotics at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3204492/mechanical-engineer-ii-amazon-robotics",
+    "job_posted_at": "2026-03-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
+    "id": "amazon-mechanical-engineer-ii-amazon-robotics-north-reading"
   }
 ]
