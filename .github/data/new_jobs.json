@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Mechanical Engineer II, Amazon Robotics",
-    "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Mechanical Engineer II, Amazon Robotics at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3204492/mechanical-engineer-ii-amazon-robotics",
-    "job_posted_at": "2026-03-13T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
-    "id": "amazon-mechanical-engineer-ii-amazon-robotics-north-reading"
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Android Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Android Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-android-engineer/33099/88843444304",
+    "id": "arm-senior-staff-android-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Application Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Field Application Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/staff-field-application-engineer/33099/92735368528",
+    "id": "arm-field-application-engineer-multiple"
   }
 ]
