@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Salesforce Solution Engineer – Healthcare & Life Sciences",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Salesforce Solution Engineer – Healthcare & Life Sciences at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103001&source=WEB_Search_NA",
-    "id": "ibm-salesforce-solution-engineer-healthcare-life-sciences-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Growth Operations Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Growth Operations Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102081&source=WEB_Search_NA",
-    "id": "ibm-growth-operations-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Integration Software Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior SAP Integration Software Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95957&source=WEB_Search_NA",
-    "id": "ibm-sap-integration-software-engineer-multiple-cities"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Design Engineer Intern",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Digital Design Engineer Intern at US, MA, Chelmsford, Elizabeth",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Digital-Design-Engineer-Intern_R257717?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-intern-us"
   }
 ]
