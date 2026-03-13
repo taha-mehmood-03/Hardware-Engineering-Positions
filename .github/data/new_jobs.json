@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Sr. Server/Rack Manufacturing Engineer, Hardware Engineering - Manufacturing",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Sr. Server/Rack Manufacturing Engineer, Hardware Engineering - Manufacturing at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3201743/sr-server-rack-manufacturing-engineer-hardware-engineering-manufacturing",
+    "job_posted_at": "2026-03-11T14:00:53.116Z",
+    "job_posted_at_datetime_utc": "2026-03-11T14:00:53.116Z",
+    "id": "amazon-sr-server-rack-manufacturing-engineer-hardware-engineering-manufacturing-austin"
+  },
+  {
+    "job_title": "Sr. Hardware Test Engineer, Launch Vehicle Integration - Electrical Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Merritt Island",
+    "job_state": "FL",
+    "job_description": "hardware engineering job for the role Sr. Hardware Test Engineer, Launch Vehicle Integration - Electrical Engineering at Merritt Island, FL, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160577/sr-hardware-test-engineer-launch-vehicle-integration-electrical-engineering",
+    "job_posted_at": "2026-03-10T14:00:53.116Z",
+    "job_posted_at_datetime_utc": "2026-03-10T14:00:53.116Z",
+    "id": "amazon-sr-hardware-test-engineer-launch-vehicle-integration-electrical-engineering-merritt-island"
+  }
+]
