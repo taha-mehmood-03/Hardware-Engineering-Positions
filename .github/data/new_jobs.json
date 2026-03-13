@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Systems Service Representative (SSR)",
-    "job_city": "Administration & TechnicianBethesda",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Systems Service Representative (SSR) at Administration & TechnicianBethesda, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100827&source=WEB_Search_NA",
-    "id": "ibm-systems-service-representative-ssr-administration-technicianbethesda"
+    "employer_name": "MARVELL",
+    "job_title": "Firmware/Hardware Engineer -PCIe post silicon bring up, function validations, protocol",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Firmware/Hardware Engineer -PCIe post silicon bring up, function validations, protocol at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-hardware-engineer-pcie-post-silicon-bring-up-function-validations-protocol-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware/Hardware Engineer - RISC-V Architecture / PCIe: protocol, post silicon bring up, validation)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Staff Firmware/Hardware Engineer - RISC-V Architecture / PCIe: protocol, post silicon bring up, validation) at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---RISC-V-Architecture---PCIe--protocol--post-silicon-bring-up--validation-_2600654?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-hardware-engineer-risc-v-architecture-pcie-protocol-post-silicon-bring-up-validation-santa-clara"
   }
 ]
