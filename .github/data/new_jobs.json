@@ -1,22 +1,42 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Engineer – Multi-Physics Sign-off (Timing, PDN & Thermal)",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Engineer – Multi-Physics Sign-off (Timing, PDN & Thermal) at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-engineer-multi-physics-sign-off-timing-pdn-and-thermal/33099/87648492176",
+    "id": "arm-engineer-multi-physics-sign-off-timing-pdn-thermal-san-diego"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Member of Technical Staff, AI‑Optimized DRAM Architect",
-    "job_city": "Richardson",
-    "job_state": "Texas",
+    "job_title": "Data Science Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Senior Member of Technical Staff, AI‑Optimized DRAM Architect at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40795189",
-    "id": "micron-member-of-technical-staff-ai-optimized-dram-architect-richardson"
+    "job_description": "hardware engineering job for the role Data Science Manager at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39713424",
+    "id": "micron-data-science-manager-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Customer Success Engineer",
-    "job_city": "New York",
+    "job_title": "Delivery Operations Leader - Quantum Strategic Partnerships",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Customer Success Engineer at ProfessionalNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100057&source=WEB_Search_NA",
-    "id": "ibm-customer-success-engineer-new-york"
+    "job_description": "Hardware Engineering job for the role Delivery Operations Leader - Quantum Strategic Partnerships at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102072&source=WEB_Search_NA",
+    "id": "ibm-delivery-operations-leader-quantum-strategic-partnerships-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Engagement Leader",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Engagement Leader at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102069&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-leader-multiple-cities"
   }
 ]
