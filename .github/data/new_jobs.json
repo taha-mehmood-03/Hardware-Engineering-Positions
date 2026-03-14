@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "AI-optimized Physical/Platform Architect",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role AI-optimized Physical/Platform Architect at Folsom, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40795609",
-    "id": "micron-ai-optimized-physical-platform-architect-folsom"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Design Architect(Datapath), HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Staff  Design Architect(Datapath), HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40777689",
-    "id": "micron-design-architect-datapath-hbm-richardson"
+    "employer_name": "IBM",
+    "job_title": "AI Foundations: Research Engineer",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Foundations: Research Engineer at ProfessionalCambridge, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102624&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-engineer-cambridge"
   }
 ]
