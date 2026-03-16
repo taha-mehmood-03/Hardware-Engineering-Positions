@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Richmond",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Richmond, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3205629/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_posted_at": "2026-03-16T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-16T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-richmond"
+  },
+  {
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Richmond",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Richmond, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3205619/critical-infrastructure-mechanical-engineer-field-engineering",
+    "job_posted_at": "2026-03-16T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-16T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-richmond"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Wafer Bonding Process Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role New College Grad - Wafer Bonding Process Development Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40837704",
+    "id": "micron-new-college-grad-wafer-bonding-process-development-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role New College Grad - Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40876714",
+    "id": "micron-new-college-grad-equipment-engineer-boise"
+  }
+]
