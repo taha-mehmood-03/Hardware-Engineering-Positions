@@ -1,44 +1,82 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Richmond",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Richmond, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3205629/critical-infrastructure-electrical-engineer-field-engineering",
-    "job_posted_at": "2026-03-16T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-16T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-richmond"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test",
+    "job_city": "Galway",
+    "job_state": "Ireland",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer in Test at Galway, Ireland",
+    "job_apply_link": "https://careers.arm.com/job/galway/software-engineer-in-test/33099/92848813200",
+    "id": "arm-software-engineer-in-test-galway"
   },
   {
-    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Richmond",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Richmond, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3205619/critical-infrastructure-mechanical-engineer-field-engineering",
-    "job_posted_at": "2026-03-16T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-16T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-richmond"
+    "employer_name": "Arm",
+    "job_title": "Release Automation Engineer (Embedded)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Release Automation Engineer (Embedded) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-release-automation-engineer-embedded/33099/92848813072",
+    "id": "arm-release-automation-engineer-embedded-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Procurement Associate",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Procurement Associate at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/procurement-associate/33099/92848809232",
+    "id": "arm-procurement-associate-bengaluru"
   },
   {
     "employer_name": "Micron",
-    "job_title": "New College Grad - Wafer Bonding Process Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Wafer Bonding Process Development Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40837704",
-    "id": "micron-new-college-grad-wafer-bonding-process-development-engineer-boise"
+    "job_title": "Sr Customer Validation Engineer, SSD",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Sr Customer Validation Engineer, SSD at Longmont, Colorado, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40837789",
+    "id": "micron-sr-customer-validation-engineer-ssd-longmont"
   },
   {
     "employer_name": "Micron",
-    "job_title": "New College Grad - Equipment Engineer",
+    "job_title": "Dry Etch Advanced DRAM Process Development Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40876714",
-    "id": "micron-new-college-grad-equipment-engineer-boise"
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Dry Etch Advanced DRAM Process Development Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40711959",
+    "id": "micron-dry-etch-advanced-dram-process-development-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - HCP Terraform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer II - HCP Terraform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102949&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-hcp-terraform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineer - App Development (US FSM East)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer - App Development (US FSM East) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101045&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-app-development-us-fsm-east-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Z Software Development Manager",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Z Software Development Manager at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102990&source=WEB_Search_NA",
+    "id": "ibm-ibm-z-software-development-manager-poughkeepsie"
   }
 ]
