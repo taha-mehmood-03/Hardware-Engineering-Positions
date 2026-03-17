@@ -1,22 +1,52 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Manager, Tax",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Graduate GPU Hardware Verification Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager, Tax at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-tax/33099/91071107856",
-    "id": "arm-manager-tax-san-jose"
+    "job_description": "Hardware Engineering job for the role Graduate GPU Hardware Verification Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-gpu-hardware-verification-engineer/33099/88144979280",
+    "id": "arm-graduate-gpu-hardware-verification-engineer-lund"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Memory Controller  IP Performance Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Graduate Engineer, Design Automation, Front-End & AI Driven Methodologies",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Memory Controller  IP Performance Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/memory-controller-ip-performance-architect/33099/92887605136",
-    "id": "arm-memory-controller-ip-performance-architect-austin"
+    "job_description": "Hardware Engineering job for the role Graduate Engineer, Design Automation, Front-End & AI Driven Methodologies at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-engineer-design-automation-front-end-and-ai-driven-methodologies/33099/92890266176",
+    "id": "arm-graduate-engineer-design-automation-front-end-ai-driven-methodologies-san-diego"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr Design Architect, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 7 days ago",
+    "job_description": "hardware engineering job for the role Sr Design Architect, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40687588",
+    "id": "micron-sr-design-architect-hbm-richardson"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer - Digital ASIC and Signal Processing Chip Architect/Systems Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Staff-Engineer---Digital-ASIC-and-Signal-Processing-Chip-Architect-Systems-Engineer_R260551-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-asic-and-signal-processing-chip-architect-systems-engineer-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Product Applications Engineer (FPGA)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Product Applications Engineer (FPGA) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Product-Applications-Engineer--FPGA-_R261279?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-applications-engineer-fpga-2-locations"
   }
 ]
