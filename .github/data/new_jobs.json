@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "SOC Modeling Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Manager of Software Technology & Products",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior SOC Modeling Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-soc-modeling-engineer/33099/86309347216",
-    "id": "arm-soc-modeling-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Senior Manager of Software Technology & Products at Cambridge, United Kingdom, Manchester, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-manager-of-software-technology-and-products/33099/82122547648",
+    "id": "arm-manager-of-software-technology-products-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - AI/ML",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Verification Engineer - AI/ML at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/staff-verification-engineer-ai-ml/33099/92879749088",
+    "id": "arm-verification-engineer-ai-ml-lund"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Marketing Consultant - Marketing Performance Management & Analytics",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Marketing Consultant - Marketing Performance Management & Analytics at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102494&source=WEB_Search_NA",
+    "id": "ibm-marketing-consultant-marketing-performance-management-analytics-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales– Intern Co-op",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales– Intern Co-op at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103622&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-intern-co-op-multiple-cities"
   }
 ]
