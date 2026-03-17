@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Firmware Test Engineer, SSD",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Firmware Test Engineer, SSD at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40876529",
-    "id": "micron-firmware-test-engineer-ssd-longmont"
+    "job_title": "Hardware Dev Engr II, Amazon LEO",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Dev Engr II, Amazon LEO at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206758/hardware-dev-engr-ii-amazon-leo",
+    "job_posted_at": "2026-03-17T15:58:14.614Z",
+    "job_posted_at_datetime_utc": "2026-03-17T15:58:14.614Z",
+    "id": "amazon-hardware-dev-engr-ii-amazon-leo-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Quantum Sales Executive - Americas",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Quantum Sales Executive - Americas at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100873&source=WEB_Search_NA",
+    "id": "ibm-ibm-quantum-sales-executive-americas-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Director, Customer Lifecycle Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Customer Lifecycle Management at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103105&source=WEB_Search_NA",
+    "id": "ibm-director-customer-lifecycle-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader - Mayo/CHS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Account Technical Leader - Mayo/CHS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102538&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-mayo-chs-multiple-cities"
   }
 ]
