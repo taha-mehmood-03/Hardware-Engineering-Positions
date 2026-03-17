@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Product Development Engineer - Automation, OneMHS",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Product Development Engineer - Automation, OneMHS at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206054/product-development-engineer-automation-onemhs",
-    "job_posted_at": "2026-03-16T22:31:20.573Z",
-    "job_posted_at_datetime_utc": "2026-03-16T22:31:20.573Z",
-    "id": "amazon-product-development-engineer-automation-onemhs-bellevue"
+    "employer_name": "IBM",
+    "job_title": "Forward Deployed Engineer Co-Op Fall 2026 RTP",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Forward Deployed Engineer Co-Op Fall 2026 RTP at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93243&source=WEB_Search_NA",
+    "id": "ibm-forward-deployed-engineer-co-op-fall-2026-rtp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Apprentice",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer Apprentice at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102065&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-apprentice-poughkeepsie"
   }
 ]
