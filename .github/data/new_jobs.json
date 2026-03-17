@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Thermal Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Sr. Staff Thermal Engineer at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff-Thermal-Engineer_2600779?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-thermal-engineer-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Principal Application Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Sr. Principal Application Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Principal-Application-Engineer_2600462?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-application-engineer-santa-clara"
+  }
+]
