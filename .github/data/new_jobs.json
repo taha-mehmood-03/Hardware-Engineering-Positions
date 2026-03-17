@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "Applied Scientist - ML and Robotics",
-    "employer_name": "Amazon",
-    "job_city": "North Reading",
+    "employer_name": "IBM",
+    "job_title": "Threat Management Sales Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Threat Management Sales Specialist at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100027&source=WEB_Search_NA",
+    "id": "ibm-threat-management-sales-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Digital Design Engineering",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Digital Design Engineering at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Staff-Engineer--Digital-Design-Engineering_R261443?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-design-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, AI/ML Software",
+    "job_city": "US",
     "job_state": "MA",
-    "job_description": "hardware engineering job for the role Applied Scientist - ML and Robotics at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3207170/applied-scientist-ml-and-robotics",
-    "job_posted_at": "2026-03-17T20:36:55.623Z",
-    "job_posted_at_datetime_utc": "2026-03-17T20:36:55.623Z",
-    "id": "amazon-applied-scientist-ml-and-robotics-north-reading"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, AI/ML Software at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Engineer--AI-ML-Software_R257956?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-ai-ml-software-us"
   }
 ]
