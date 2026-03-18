@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Test Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Test Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-test-architect/33099/92899969040",
-    "id": "arm-test-architect-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Principal Test Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Test Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-test-architect/33099/92899969024",
-    "id": "arm-principal-test-architect-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solution Architect",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Solution Architect at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103564&source=WEB_Search_NA",
-    "id": "ibm-solution-architect-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103550&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-armonk"
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Packaging SI/PI Principal Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Advanced Packaging SI/PI Principal Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Advanced-Packaging-SI-PI-Principal-Engineer_2600796?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-packaging-si-pi-principal-engineer-2-locations"
   }
 ]
