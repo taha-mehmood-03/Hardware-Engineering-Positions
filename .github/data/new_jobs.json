@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Consultant",
-    "job_city": "Bethesda",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Consultant at ProfessionalBethesda, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103593&source=WEB_Search_NA",
-    "id": "ibm-technical-consultant-bethesda"
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Service Account Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027477/Service-Account-Manager",
+    "id": "abb-service-account-manager-multiple"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Marketing Associate - IBM Quantum",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Marketing Associate - IBM Quantum at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100794&source=WEB_Search_NA",
-    "id": "ibm-technical-marketing-associate-ibm-quantum-new-york"
+    "employer_name": "ABB",
+    "job_title": "AI Commercial Excellence Lead",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role AI Commercial Excellence Lead at Available in one of 17 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028981/AI-Commercial-Excellence-Lead",
+    "id": "abb-ai-commercial-excellence-lead-multiple"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Sales Platform & AI Productivity Leader",
-    "job_city": "Atlanta",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Sales Platform & AI Productivity Leader at ProfessionalAtlanta, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104040&source=WEB_Search_NA",
-    "id": "ibm-technical-sales-platform-ai-productivity-leader-atlanta"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Search & Digital Content Experience Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Search & Digital Content Experience Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102528&source=WEB_Search_NA",
-    "id": "ibm-ai-search-digital-content-experience-consultant-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "R&D Application Engineer, ABB Robotics",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Application Engineer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004849/R-D-Application-Engineer-ABB-Robotics",
+    "id": "abb-r-d-application-engineer-abb-robotics-vaesteras"
   }
 ]
