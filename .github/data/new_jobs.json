@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Project Specialist, Data Center Services COE",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Project Specialist, Data Center Services COE at Available in one of 53 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027000/Project-Specialist-Data-Center-Services-COE",
-    "id": "abb-project-specialist-data-center-services-coe-multiple"
+    "employer_name": "Arm",
+    "job_title": "Test Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Test Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-test-architect/33099/92899969040",
+    "id": "arm-test-architect-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "R&D Test Engineer",
-    "job_city": "Malmo",
-    "job_state": "Skane County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role R&D Test Engineer at Malmo, Skane County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026505/R-D-Test-Engineer",
-    "id": "abb-r-d-test-engineer-malmo"
+    "employer_name": "Arm",
+    "job_title": "Principal Test Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Test Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-test-architect/33099/92899969024",
+    "id": "arm-principal-test-architect-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Solution Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103564&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103550&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-armonk"
   }
 ]
