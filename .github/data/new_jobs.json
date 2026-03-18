@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Service Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Service Account Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027477/Service-Account-Manager",
-    "id": "abb-service-account-manager-multiple"
+    "employer_name": "Micron",
+    "job_title": "Firmware Test Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Senior Firmware Test Engineer at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40916702",
+    "id": "micron-firmware-test-engineer-san-jose"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "AI Commercial Excellence Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role AI Commercial Excellence Lead at Available in one of 17 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028981/AI-Commercial-Excellence-Lead",
-    "id": "abb-ai-commercial-excellence-lead-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Digital Design Engineer",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Digital Design Engineer at 4 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Digital-Design-Engineer_2600840-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-digital-design-engineer-4-locations"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "R&D Application Engineer, ABB Robotics",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role R&D Application Engineer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004849/R-D-Application-Engineer-ABB-Robotics",
-    "id": "abb-r-d-application-engineer-abb-robotics-vaesteras"
+    "employer_name": "MARVELL",
+    "job_title": "ASIC Design Engineer",
+    "job_city": "16 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role ASIC Design Engineer at 16 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/ASIC-Design-Engineer_2600835?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-asic-design-engineer-16-locations"
   }
 ]
