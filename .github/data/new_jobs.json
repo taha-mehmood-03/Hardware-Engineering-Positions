@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Platform Security Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Platform Security Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/platform-security-architect/33099/92918577104",
+    "id": "arm-platform-security-architect-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant, Data Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Managing Consultant, Data Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103615&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-data-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Design Technician Apprentice",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Design Technician Apprentice at InternshipHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97070&source=WEB_Search_NA",
+    "id": "ibm-hardware-design-technician-apprentice-hopewell-junction"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IT Lab Tech - Optical Apprentice",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IT Lab Tech - Optical Apprentice at InternshipHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97517&source=WEB_Search_NA",
+    "id": "ibm-it-lab-tech-optical-apprentice-hopewell-junction"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Infrastructure Lab Technician Apprentice",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Infrastructure Lab Technician Apprentice at InternshipROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103901&source=WEB_Search_NA",
+    "id": "ibm-infrastructure-lab-technician-apprentice-rochester"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Lead Engineer",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Lead Engineer at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017564/Project-Lead-Engineer",
+    "id": "abb-project-lead-engineer-vaesteras"
+  }
+]
