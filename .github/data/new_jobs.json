@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Backend Software Developer – IBM Quantum",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Security Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Backend Software Developer – IBM Quantum at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100867&source=WEB_Search_NA",
-    "id": "ibm-backend-software-developer-ibm-quantum-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manager, Security Risk & Compliance",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manager, Security Risk & Compliance at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99601&source=WEB_Search_NA",
-    "id": "ibm-manager-security-risk-compliance-austin"
+    "job_description": "Hardware Engineering job for the role Security Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/security-architect/33099/88819756832",
+    "id": "arm-security-architect-cambridge"
   }
 ]
