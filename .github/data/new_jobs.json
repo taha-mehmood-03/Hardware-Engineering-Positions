@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Event Specialist",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Event Specialist at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/event-specialist/33099/91642495136",
+    "id": "arm-event-specialist-taipei"
+  }
+]
