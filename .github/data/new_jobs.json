@@ -1,42 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Power Model Development Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Power Model Development Engineer at San Diego, California, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-power-model-development-engineer/33099/87648489712",
-    "id": "arm-power-model-development-engineer-san-diego"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Engineering – Agentic AI & Workflow Automation",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Software Engineering – Agentic AI & Workflow Automation at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104582&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-engineering-agentic-ai-workflow-automation-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Lead - API /.Net",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Lead - API /.Net at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104650&source=WEB_Search_NA",
-    "id": "ibm-technical-lead-api-net-dallas"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/PCIE/PHY",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/PCIE/PHY at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Firmware-Software-Engineer--Embedded-SoC-Microcontroller-DSP-SERDES-PCIE-PHY_2600794?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-software-engineer-embedded-soc-microcontroller-dsp-serdes-pcie-phy-santa-clara"
+    "job_title": "Fire Protection Engineer, Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Fire Protection Engineer, Fleet Remediation Engineering at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10372667/fire-protection-engineer-fleet-remediation-engineering",
+    "job_posted_at": "2026-03-20T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-20T00:00:00.000Z",
+    "id": "amazon-fire-protection-engineer-fleet-remediation-engineering-herndon"
   }
 ]
