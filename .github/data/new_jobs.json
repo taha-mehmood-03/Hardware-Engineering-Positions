@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Mechanical Engineer, Optical Inter-Satellite Link, Amazon LEO",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Optical Inter-Satellite Link, Amazon LEO at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10374239/mechanical-engineer-optical-inter-satellite-link-amazon-leo",
+    "job_posted_at": "2026-03-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-23T00:00:00.000Z",
+    "id": "amazon-mechanical-engineer-optical-inter-satellite-link-amazon-leo-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Sales Engineer - Staff Resident Solutions Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - Staff Resident Solutions Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105406&source=WEB_Search_NA",
+    "id": "ibm-technical-sales-engineer-staff-resident-solutions-architect-multiple-cities"
+  }
+]
