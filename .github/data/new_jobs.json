@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Embedded Software Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role New College Grad - Embedded Software Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41025899",
+    "id": "micron-new-college-grad-embedded-software-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist  Intern 2026- SAP HANA SCM MM",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist  Intern 2026- SAP HANA SCM MM at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89762&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-intern-2026-sap-hana-scm-mm-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist  Intern 2026- SAP HANA SCM SD",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist  Intern 2026- SAP HANA SCM SD at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89763&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-intern-2026-sap-hana-scm-sd-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist Intern 2026- SAP CX",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist Intern 2026- SAP CX at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89757&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-intern-2026-sap-cx-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist Intern 2026- HANA BASIS",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist Intern 2026- HANA BASIS at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89753&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-intern-2026-hana-basis-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer\t2026- Asset Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer\t2026- Asset Management at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89813&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-asset-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer Intern 2026- Azure Cloud Migration",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer Intern 2026- Azure Cloud Migration at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89769&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-2026-azure-cloud-migration-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Consultant 2026 - Azure Cloud",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Consultant 2026 - Azure Cloud at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89830&source=WEB_Search_NA",
+    "id": "ibm-application-consultant-2026-azure-cloud-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Consultant  Intern 2026- Azure Cloud",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Consultant  Intern 2026- Azure Cloud at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89758&source=WEB_Search_NA",
+    "id": "ibm-application-consultant-intern-2026-azure-cloud-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer 2026- Salesforce",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer 2026- Salesforce at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89793&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-salesforce-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "\"Application Developer\t Intern 2026- Oracle Middleware",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role \"Application Developer\t Intern 2026- Oracle Middleware at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89833&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-2026-oracle-middleware-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer Intern 2026- Asset Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer Intern 2026- Asset Management at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89823&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-2026-asset-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer Intern 2026 - Salesforce",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer Intern 2026 - Salesforce at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89729&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-2026-salesforce-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- SAP HANA SCM MM",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- SAP HANA SCM MM at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89800&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-sap-hana-scm-mm-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- SAP HANA FIN FI",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- SAP HANA FIN FI at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89794&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-sap-hana-fin-fi-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- SAP SCM SD",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- SAP SCM SD at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89807&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-sap-scm-sd-baton-rouge"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Package Layout Design Senior Staff Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Package Layout Design Senior Staff Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Package-Layout-Design-Senior-Staff-Engineer_2600934?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-package-layout-design-senior-staff-engineer-2-locations"
+  }
+]
