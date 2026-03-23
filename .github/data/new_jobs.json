@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Application Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Application Sales Specialist at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028235/Application-Sales-Specialist",
-    "id": "abb-application-sales-specialist-multiple"
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - GPU & Velox Architecture",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer - GPU & Velox Architecture at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101295&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-gpu-velox-architecture-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Platform Engineer– Presto SaaS (BYOC, GPU Platforms)",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Cloud Platform Engineer– Presto SaaS (BYOC, GPU Platforms) at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101453&source=WEB_Search_NA",
+    "id": "ibm-cloud-platform-engineer-presto-saas-byoc-gpu-platforms-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer-DevOps - Subhendu Maji",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer-DevOps - Subhendu Maji at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104337&source=WEB_Search_NA",
+    "id": "ibm-application-developer-devops-subhendu-maji-no-city"
   }
 ]
