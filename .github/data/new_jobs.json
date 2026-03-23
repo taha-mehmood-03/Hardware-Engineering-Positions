@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "ServiceNow ITSM Specialist",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ServiceNow ITSM Specialist at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/servicenow-itsm-specialist/33099/93099171552",
-    "id": "arm-servicenow-itsm-specialist-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician (WA/OR)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Field Service Technician (WA/OR) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021826/Field-Service-Technician-WA-OR",
+    "id": "abb-field-service-technician-wa-or-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manager - Proposals, Tendering & Applications",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Manager - Proposals, Tendering & Applications at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028057/Manager-Proposals-Tendering-Applications",
+    "id": "abb-manager-proposals-tendering-applications-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IQC team Leader-SWG",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role IQC team Leader-SWG at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029492/IQC-team-Leader-SWG",
+    "id": "abb-iqc-team-leader-swg-xiamen"
   }
 ]
