@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Security & Compliance Engineer",
+    "job_title": "Technical Solution Architect - IBM Ecosystems",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Security & Compliance Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104930&source=WEB_Search_NA",
-    "id": "ibm-security-compliance-engineer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Technical Solution Architect - IBM Ecosystems at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104965&source=WEB_Search_NA",
+    "id": "ibm-technical-solution-architect-ibm-ecosystems-multiple-cities"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Product Applications Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Product Applications Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Product-Applications-Engineer_R261536?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-product-applications-engineer-2-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Field Technical Leader – DCE",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Field Technical Leader – DCE at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Field-Technical-Leader---DCE_R261416?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-technical-leader-dce-us"
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineer - App & Runtimes (Core to Modernize)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer - App & Runtimes (Core to Modernize) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104085&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-app-runtimes-core-to-modernize-multiple-cities"
   }
 ]
