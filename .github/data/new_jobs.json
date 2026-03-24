@@ -1,23 +1,42 @@
 [
   {
-    "job_title": "Mechanical Engineer, Optical Inter-Satellite Link, Amazon LEO",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Mechanical Engineer, Optical Inter-Satellite Link, Amazon LEO at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10374239/mechanical-engineer-optical-inter-satellite-link-amazon-leo",
-    "job_posted_at": "2026-03-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-23T00:00:00.000Z",
-    "id": "amazon-mechanical-engineer-optical-inter-satellite-link-amazon-leo-redmond"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Technical Sales Engineer - Staff Resident Solutions Architect",
+    "job_title": "Customer Success Engineer - Network Management (US FSM East)",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Sales Engineer - Staff Resident Solutions Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105406&source=WEB_Search_NA",
-    "id": "ibm-technical-sales-engineer-staff-resident-solutions-architect-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Customer Success Engineer - Network Management (US FSM East) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104602&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-network-management-us-fsm-east-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant  Intern 2026- Workday HCM & Compensation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Consultant  Intern 2026- Workday HCM & Compensation at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89755&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-intern-2026-workday-hcm-compensation-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ABB Discovery Trainee @Motion High Power (100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role ABB Discovery Trainee @Motion High Power (100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027531/ABB-Discovery-Trainee-Motion-High-Power-100",
+    "id": "abb-abb-discovery-trainee-motion-high-power-100-untersiggenthal"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Firmware Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-2-locations"
   }
 ]
