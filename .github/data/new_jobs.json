@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Center Hardware Specialist II",
-    "job_city": "New York",
-    "job_state": "USA",
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "34 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Center Hardware Specialist II, Google Cloud (Fixed-Term Contract)",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93499978772554438-data-center-hardware-specialist-ii-google-cloud-fixedterm-contract?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-data-center-hardware-specialist-ii-new-york"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Embedded-Firmware-Software-Engineer---Networking-PAM4-DSP-data-center-ODSP-AI-connectivity_2600793?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-embedded-firmware-software-engineer-networking-pam4-dsp-data-center-odsp-aec-microled-ai-connectivity-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI Connectivity",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Firmware/Software Engineer- Embedded SoC/Microcontroller/DSP/SERDES/AEC/Microled/ODSP/PHY/AI Connectivity at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Firmware-Software-Engineer--Embedded-SoC-Microcontroller-DSP-SERDES-PCIE-PHY_2600794?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-software-engineer-embedded-soc-microcontroller-dsp-serdes-aec-microled-odsp-phy-ai-connectivity-santa-clara"
+    "job_description": "Hardware Engineering job for the role Staff Verification Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/staff-verification-engineer/33099/69202964112",
+    "id": "arm-verification-engineer-lund"
   }
 ]
