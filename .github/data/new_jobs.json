@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Project Manager - Machine Learning",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Project Manager - Machine Learning at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/senior-project-manager-machine-learning/33099/69202964112",
+    "id": "arm-project-manager-machine-learning-lund"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Hardware Modeling - Research Scientist",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Hardware Modeling - Research Scientist at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103421&source=WEB_Search_NA",
+    "id": "ibm-quantum-hardware-modeling-research-scientist-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mainframe Modernization SME",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Mainframe Modernization SME at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105465&source=WEB_Search_NA",
+    "id": "ibm-mainframe-modernization-sme-multiple-cities"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "(Senior) Scientist Electromagnetic Actuation Technologies (m/f/d)",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role (Senior) Scientist Electromagnetic Actuation Technologies (m/f/d) at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029255/-Senior-Scientist-Electromagnetic-Actuation-Technologies-m-f-d",
-    "id": "abb-senior-scientist-electromagnetic-actuation-technologies-m-f-d-mannheim"
+    "job_title": "ELDS LV SWGR Trainer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS LV SWGR Trainer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028223/ELDS-LV-SWGR-Trainer",
+    "id": "abb-elds-lv-swgr-trainer-mebane"
   }
 ]
