@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director of Engineering Compute Platform",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Data Center Hardware Specialist I",
+    "job_city": "New York",
+    "job_state": "USA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director of Engineering Compute Platform at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-of-engineering-compute-platform/33099/72186021104",
-    "id": "arm-director-of-engineering-compute-platform-cambridge"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "(New College Grad) Probe Equipment Engineer (Shift Quality)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role (New College Grad) Probe Equipment Engineer (Shift Quality) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40097542",
-    "id": "micron-new-college-grad-probe-equipment-engineer-shift-quality-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 -100%) R&D HW Engineer",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
-    "id": "abb-80-100-r-d-hw-engineer-quartino"
+    "job_description": "29 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Center Hardware Specialist I, Google Cloud (Fixed-Term Contract)",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123096727258309318-data-center-hardware-specialist-i-google-cloud-fixedterm-contract?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-data-center-hardware-specialist-i-new-york"
   }
 ]
