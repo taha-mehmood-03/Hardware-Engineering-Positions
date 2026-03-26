@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Private Cloud Platforms",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, Private Cloud Platforms at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-private-cloud-platforms/33099/72186021104",
-    "id": "arm-director-private-cloud-platforms-cambridge"
+    "job_title": "Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Jessup",
+    "job_state": "MD",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer (Field Engineer), ADC Field Engineering at Jessup, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10377029/critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering",
+    "job_posted_at": "2026-03-26T15:00:02.327Z",
+    "job_posted_at_datetime_utc": "2026-03-26T15:00:02.327Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineer-adc-field-engineering-jessup"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Application Engineer Broadmarket",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "hardware engineering job for the role Staff Application Engineer Broadmarket at Folsom, California, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41062579",
-    "id": "micron-application-engineer-broadmarket-folsom"
+    "job_title": "(New College Grad) HBM Product Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role (New College Grad) HBM Product Manager at Boise, Idaho, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40879657",
+    "id": "micron-new-college-grad-hbm-product-manager-boise"
   }
 ]
