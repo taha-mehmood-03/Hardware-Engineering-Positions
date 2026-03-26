@@ -1,23 +1,23 @@
 [
   {
-    "job_title": "System Electrical Engineer, eero",
+    "job_title": "Mechanical Engineer",
     "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role System Electrical Engineer, eero at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10377555/system-electrical-engineer-eero",
-    "job_posted_at": "2026-03-26T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
-    "id": "amazon-system-electrical-engineer-eero-san-francisco"
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Mechanical Engineer at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10377590/mechanical-engineer",
+    "job_posted_at": "2026-03-26T21:29:13.834Z",
+    "job_posted_at_datetime_utc": "2026-03-26T21:29:13.834Z",
+    "id": "amazon-mechanical-engineer-north-reading"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Packaging Assembly Laboratory Technician (Apprentice Conversion) - Nicholas Burachowski",
-    "job_city": "Administration & TechnicianHOPEWELL JUNCTION",
+    "job_title": "Software Engineer",
+    "job_city": "Houston",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Packaging Assembly Laboratory Technician (Apprentice Conversion) - Nicholas Burachowski at Administration & TechnicianHOPEWELL JUNCTION, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106238&source=WEB_Search_NA",
-    "id": "ibm-packaging-assembly-laboratory-technician-apprentice-conversion-nicholas-burachowski-administration-technicianhopewell-junction"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer at ProfessionalHouston, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106226&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-houston"
   }
 ]
