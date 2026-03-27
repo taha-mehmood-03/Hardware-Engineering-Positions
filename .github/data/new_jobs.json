@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Senior/Staff Design Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Performance Modelling Engineer - Interconnect IP",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff Design Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-design-engineer/33099/91795069200",
-    "id": "arm-senior-staff-design-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Staff Performance Modelling Engineer - Interconnect IP at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-performance-modelling-engineer-interconnect-ip/33099/82097795984",
+    "id": "arm-performance-modelling-engineer-interconnect-ip-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Research Scientist - Networked Automation Systems",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Research Scientist - Networked Automation Systems at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029570/Research-Scientist-Networked-Automation-Systems",
+    "id": "abb-research-scientist-networked-automation-systems-vaesteras"
   }
 ]
