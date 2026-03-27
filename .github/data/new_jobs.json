@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Robotics Systems Engineer I",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Robotics Systems Engineer I at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10377775/robotics-systems-engineer-i",
+    "job_posted_at": "2026-03-27T00:10:29.869Z",
+    "job_posted_at_datetime_utc": "2026-03-27T00:10:29.869Z",
+    "id": "amazon-robotics-systems-engineer-i-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Foundations - Software Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104327&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-software-engineer-multiple-cities"
+  }
+]
