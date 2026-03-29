@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Director Marketing, China",
+    "job_city": "Shanghai",
+    "job_state": "China",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Director Marketing, China at Shanghai, China",
+    "job_apply_link": "https://careers.arm.com/job/shanghai/senior-director-marketing-china/33099/91071107200",
+    "id": "arm-director-marketing-china-shanghai"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Digital Content Strategist",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Digital Content Strategist at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/digital-content-strategist/33099/90588504096",
+    "id": "arm-digital-content-strategist-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Marketing, China",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Director of Marketing, China at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-of-marketing-china/33099/90429388704",
+    "id": "arm-director-of-marketing-china-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Industry Analyst Relations and Competitive Intelligence",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Manager, Industry Analyst Relations and Competitive Intelligence at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/manager-industry-analyst-relations-and-competitive-intelligence/33099/91107868896",
+    "id": "arm-manager-industry-analyst-relations-and-competitive-intelligence-san-jose"
+  }
+]
