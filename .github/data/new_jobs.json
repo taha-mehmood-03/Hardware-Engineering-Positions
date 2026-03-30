@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr. Digital Design Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 17 days ago",
+    "job_description": "hardware engineering job for the role Sr. Digital Design Engineer, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40754722",
+    "id": "micron-sr-digital-design-engineer-hbm-richardson"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Fab Support Equipment Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 18 days ago",
+    "job_description": "hardware engineering job for the role Fab Support Equipment Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40646062",
+    "id": "micron-fab-support-equipment-technician-manassas"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineering Insights Analyst - Power BI / SQL / Databricks / Semiconductor Industry",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineering Insights Analyst - Power BI / SQL / Databricks / Semiconductor Industry at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineering-Insights-Analyst---Power-BI---SQL---Databricks---Semiconductor-Industry_2600829?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineering-insights-analyst-power-bi-sql-databricks-semiconductor-industry-santa-clara"
+  }
+]
