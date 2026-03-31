@@ -1,12 +1,33 @@
 [
   {
+    "job_title": "Cloud Hardware Development - Optics",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development - Optics at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10379761/cloud-hardware-development-optics",
+    "job_posted_at": "2026-03-31T00:10:57.831Z",
+    "job_posted_at_datetime_utc": "2026-03-31T00:10:57.831Z",
+    "id": "amazon-cloud-hardware-development-optics-cupertino"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Engineer, Photo Track Equipment Development",
+    "job_title": "Verification Design Engineer, DRAM",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Staff Engineer, Photo Track Equipment Development at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41139988",
-    "id": "micron-engineer-photo-track-equipment-development-boise"
+    "job_description": "hardware engineering job for the role Staff Verification Design Engineer, DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40081563",
+    "id": "micron-verification-design-engineer-dram-boise"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Design Verification",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Design Verification at US, NC, Durham",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Principal-Engineer--Design-Verification_R261421-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-design-verification-us"
   }
 ]
