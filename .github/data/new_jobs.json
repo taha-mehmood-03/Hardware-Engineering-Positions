@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer, Developer Platforms & AI Services",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Software Engineer, Developer Platforms & AI Services at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/graduate-software-engineer-developer-platforms-and-ai-services/33099/93428434880",
+    "id": "arm-graduate-software-engineer-developer-platforms-ai-services-seattle"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "z Hardware Brand Sales Specialist",
-    "job_city": "Multiple Cities",
+    "job_title": "Industry Consultant - AI for Energy",
+    "job_city": "San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role z Hardware Brand Sales Specialist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106550&source=WEB_Search_NA",
-    "id": "ibm-z-hardware-brand-sales-specialist-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Industry Consultant - AI for Energy at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106259&source=WEB_Search_NA",
+    "id": "ibm-industry-consultant-ai-for-energy-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Solutions",
+    "job_city": "Piscataway",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud Solutions at ProfessionalPiscataway, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106811&source=WEB_Search_NA",
+    "id": "ibm-cloud-solutions-piscataway"
   }
 ]
