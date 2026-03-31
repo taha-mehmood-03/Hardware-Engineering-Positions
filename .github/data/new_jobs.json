@@ -1,42 +1,13 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Digital IC Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Digital IC Design Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Principal-Digital-IC-Design-Engineer_2601012?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-digital-ic-design-engineer-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Design Verification Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Design Verification Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Principal-Design-Verification-Engineer_2601014?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-design-verification-engineer-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Design Verification Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Design Verification Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Senior-Staff-Design-Verification-Engineer_2601015?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-design-verification-engineer-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director, Enterprise Security Architecture & Strategy",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Director, Enterprise Security Architecture & Strategy at 4 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director--Enterprise-Security-Architecture---Strategy_2600985?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-enterprise-security-architecture-strategy-4-locations"
+    "job_title": "Power Test Liaison Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Power Test Liaison Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10380711/power-test-liaison-engineer-satellite-power-hardware-in-the-loop-amazon-leo",
+    "job_posted_at": "2026-03-31T21:33:54.055Z",
+    "job_posted_at_datetime_utc": "2026-03-31T21:33:54.055Z",
+    "id": "amazon-power-test-liaison-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond"
   }
 ]
