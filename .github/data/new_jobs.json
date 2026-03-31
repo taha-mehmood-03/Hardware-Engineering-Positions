@@ -1,32 +1,43 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Engineer, Developer Platforms & AI Services",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Software Engineer, Developer Platforms & AI Services at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/graduate-software-engineer-developer-platforms-and-ai-services/33099/93428434880",
-    "id": "arm-graduate-software-engineer-developer-platforms-ai-services-seattle"
+    "job_title": "Radiation Effects Test Engineer, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Radiation Effects Test Engineer, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10380650/radiation-effects-test-engineer-amazon-leo",
+    "job_posted_at": "2026-03-31T19:48:42.412Z",
+    "job_posted_at_datetime_utc": "2026-03-31T19:48:42.412Z",
+    "id": "amazon-radiation-effects-test-engineer-amazon-leo-redmond"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Industry Consultant - AI for Energy",
-    "job_city": "San Francisco",
+    "job_title": "Data Engineer 2026- Data Integration",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Industry Consultant - AI for Energy at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106259&source=WEB_Search_NA",
-    "id": "ibm-industry-consultant-ai-for-energy-san-francisco"
+    "job_description": "Hardware Engineering job for the role Data Engineer 2026- Data Integration at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89835&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-2026-data-integration-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Cloud Solutions",
-    "job_city": "Piscataway",
+    "job_title": "Application Developer 2026- Adobe Experience Manager",
+    "job_city": "Buffalo",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cloud Solutions at ProfessionalPiscataway, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106811&source=WEB_Search_NA",
-    "id": "ibm-cloud-solutions-piscataway"
+    "job_description": "Hardware Engineering job for the role Application Developer 2026- Adobe Experience Manager at Entry LevelBuffalo, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89810&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-adobe-experience-manager-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer 2026- Service Now",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer 2026- Service Now at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89817&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-service-now-baton-rouge"
   }
 ]
