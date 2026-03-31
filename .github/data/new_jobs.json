@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Data Center Hardware Specialist II",
+    "job_city": "Texas",
+    "job_state": "USA",
+    "job_posted_at": "Recently",
+    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Center Hardware Specialist II, Google Cloud (Fixed-Term Contract)",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90542829364748998-data-center-hardware-specialist-ii-google-cloud-fixedterm-contract?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-data-center-hardware-specialist-ii-texas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Test Firmware Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Staff Test Firmware Engineer at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41136451",
+    "id": "micron-test-firmware-engineer-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Consultant, Data Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Consultant, Data Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106888&source=WEB_Search_NA",
+    "id": "ibm-sr-consultant-data-engineer-multiple-cities"
+  }
+]
