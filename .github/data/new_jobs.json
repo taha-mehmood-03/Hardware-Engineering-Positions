@@ -1,53 +1,12 @@
 [
   {
-    "job_title": "Cleared Data Center Mechanical Field Engineer, ADC Field Engineering, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Hilliard",
-    "job_state": "OH",
-    "job_description": "hardware engineering job for the role Cleared Data Center Mechanical Field Engineer, ADC Field Engineering, Field Engineering at Hilliard, OH, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381703/cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering",
-    "job_posted_at": "2026-04-01T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "id": "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering-hilliard"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Veeva Regulatory Consultant",
-    "job_city": "Multiple Cities",
+    "job_title": "Operations Integration Intern",
+    "job_city": "Armonk",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Veeva Regulatory Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107025&source=WEB_Search_NA",
-    "id": "ibm-veeva-regulatory-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Vault Safety + Quality Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Vault Safety + Quality Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107024&source=WEB_Search_NA",
-    "id": "ibm-vault-safety-quality-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud SCM Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Oracle Cloud SCM Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107752&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-scm-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AECC 2.0 - Platform Network Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AECC 2.0 - Platform Network Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107643&source=WEB_Search_NA",
-    "id": "ibm-aecc-2-0-platform-network-engineer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Operations Integration Intern at InternshipArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107576&source=WEB_Search_NA",
+    "id": "ibm-operations-integration-intern-armonk"
   }
 ]
