@@ -1,44 +1,53 @@
 [
   {
-    "job_title": "Embedded Software Development Engineer II, Baseboard Management Controller",
+    "job_title": "Cleared Data Center Mechanical Field Engineer, ADC Field Engineering, Field Engineering",
     "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, Baseboard Management Controller at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381620/embedded-software-development-engineer-ii-baseboard-management-controller",
+    "job_city": "Hilliard",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role Cleared Data Center Mechanical Field Engineer, ADC Field Engineering, Field Engineering at Hilliard, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381703/cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering",
     "job_posted_at": "2026-04-01T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "id": "amazon-embedded-software-development-engineer-ii-baseboard-management-controller-cupertino"
+    "id": "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering-hilliard"
   },
   {
-    "job_title": "System Development Engineer, Cloud AI/ML/storage server teams",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role System Development Engineer, Cloud AI/ML/storage server teams at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381607/system-development-engineer-cloud-ai-ml-storage-server-teams",
-    "job_posted_at": "2026-04-01T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "id": "amazon-system-development-engineer-cloud-ai-ml-storage-server-teams-cupertino"
+    "employer_name": "IBM",
+    "job_title": "Veeva Regulatory Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Veeva Regulatory Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107025&source=WEB_Search_NA",
+    "id": "ibm-veeva-regulatory-consultant-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Member of Technical Staff, AI Engineering",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Member of Technical Staff, AI Engineering at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41155446",
-    "id": "micron-member-of-technical-staff-ai-engineering-boise"
+    "employer_name": "IBM",
+    "job_title": "Vault Safety + Quality Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Vault Safety + Quality Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107024&source=WEB_Search_NA",
+    "id": "ibm-vault-safety-quality-consultant-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Principle Systems Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Principle Systems Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41139979",
-    "id": "micron-principle-systems-engineer-san-jose"
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud SCM Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud SCM Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107752&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-scm-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AECC 2.0 - Platform Network Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AECC 2.0 - Platform Network Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107643&source=WEB_Search_NA",
+    "id": "ibm-aecc-2-0-platform-network-engineer-multiple-cities"
   }
 ]
