@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, SoC Power and Clocking Technology",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, SoC Power and Clocking Technology at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-soc-power-and-clocking-technology/33099/93501890720",
-    "id": "arm-director-soc-power-and-clocking-technology-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director, SoC Power and Clocking Technology",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, SoC Power and Clocking Technology at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-director-soc-power-and-clocking-technology/33099/93501874192",
-    "id": "arm-director-soc-power-and-clocking-technology-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Trade Compliance Analyst",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Trade Compliance Analyst at US, MA, Chelmsford, Elizabeth",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Trade-Compliance-Analyst_R261805?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-trade-compliance-analyst-us"
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Team Lead",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Team Lead at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030668/Warehouse-Internal-Logistics-Team-Lead",
+    "id": "abb-warehouse-internal-logistics-team-lead-phoenix"
   }
 ]
