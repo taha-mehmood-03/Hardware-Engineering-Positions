@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Engineering Lab Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "3 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Lab Manager, Platforms Infrastructure Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125905820553487046-engineering-lab-manager-platforms-infrastructure-engineering?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-engineering-lab-manager-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Analytics Engineer - 12 month FTC",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Analytics Engineer - 12 month FTC at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/analytics-engineer-12-month-ftc/33099/93494555328",
+    "id": "arm-analytics-engineer-12-month-ftc-cambridge"
+  }
+]
