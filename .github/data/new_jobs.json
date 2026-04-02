@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Product Test Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Product Test Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41183852",
-    "id": "micron-product-test-engineer-boise"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "MEMS Mechanical Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role MEMS Mechanical Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-Mechanical-Engineer_R261850?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mems-mechanical-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Embedded AI Tooling Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Embedded AI Tooling Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-AI-Tooling-Engineer_R261712?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-ai-tooling-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Applications (ATE/Power)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Product Applications (ATE/Power) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--Product-Applications--ATE-Power-_R253811?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-applications-ate-power-2-locations"
   }
 ]
