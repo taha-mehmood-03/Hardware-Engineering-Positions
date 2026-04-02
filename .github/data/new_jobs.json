@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Developer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Developer 2026 at Entry LevelSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100310&source=WEB_Search_NA",
-    "id": "ibm-associate-developer-san-francisco"
+    "job_title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, EC2 UltraServer Delivery Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381876/software-development-engineer-ec2-ultraserver-delivery-team",
+    "job_posted_at": "2026-04-02T01:07:31.347Z",
+    "job_posted_at_datetime_utc": "2026-04-02T01:07:31.347Z",
+    "id": "amazon-software-development-engineer-ec2-ultraserver-delivery-team-seattle"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Digital Design Engineering",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Digital Design Engineering at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Staff-Engineer--Digital-Design-Engineering_R261443?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-digital-design-engineering-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Ceph Performance Engineer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Ceph Performance Engineer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107725&source=WEB_Search_NA",
+    "id": "ibm-ceph-performance-engineer-tucson"
   }
 ]
