@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Power Electronics Engineer, Prime Air, Propulsion, Prime Air",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Power Electronics Engineer, Prime Air, Propulsion, Prime Air at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10376637/power-electronics-engineer-prime-air-propulsion-prime-air",
-    "job_posted_at": "2026-04-06T16:57:47.003Z",
-    "job_posted_at_datetime_utc": "2026-04-06T16:57:47.003Z",
-    "id": "amazon-power-electronics-engineer-prime-air-propulsion-prime-air-seattle"
+    "employer_name": "MARVELL",
+    "job_title": "T4 - Hardware & Silicon Validation Senior Staff Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role T4 - Hardware & Silicon Validation Senior Staff Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/T4---Hardware---Silicon-Validation-Senior-Staff-Engineer_2600979?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-t4-hardware-silicon-validation-senior-staff-engineer-santa-clara"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Emulation and Prototyping Architect - SoC Performance/Power Exploration/Verification",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Emulation and Prototyping Architect - SoC Performance/Power Exploration/Verification at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/emulation-and-prototyping-architect-soc-performance-power-exploration-verification/33099/93651282064",
-    "id": "arm-emulation-and-prototyping-architect-soc-performance-power-exploration-verification-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineering Manager",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineering Manager at ProfessionalBellevue, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107415&source=WEB_Search_NA",
-    "id": "ibm-software-engineering-manager-bellevue"
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Design Verification Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Staff Design Verification Engineer at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Sr-Staff-Design-Verification-Engineer_2601057?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-design-verification-engineer-irvine"
   }
 ]
