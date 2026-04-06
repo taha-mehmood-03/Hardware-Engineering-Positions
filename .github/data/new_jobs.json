@@ -1,13 +1,43 @@
 [
   {
-    "job_title": "Prototyping Lab Lead, Amazon Robotics",
+    "job_title": "DCOSE Manager, Data Center Operations Support Engineering",
     "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Prototyping Lab Lead, Amazon Robotics at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10383990/prototyping-lab-lead-amazon-robotics",
-    "job_posted_at": "2026-04-06T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "id": "amazon-prototyping-lab-lead-amazon-robotics-north-reading"
+    "job_city": "Plain City",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role DCOSE Manager, Data Center Operations Support Engineering at Plain City, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3203324/dcose-manager-data-center-operations-support-engineering",
+    "job_posted_at": "2026-04-06T15:45:14.072Z",
+    "job_posted_at_datetime_utc": "2026-04-06T15:45:14.072Z",
+    "id": "amazon-dcose-manager-data-center-operations-support-engineering-plain-city"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Thin Films Advanced DRAM Process Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Thin Films Advanced DRAM Process Development Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41159835",
+    "id": "micron-thin-films-advanced-dram-process-development-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer - Thin Films CVD/DIFF Adv DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Staff Engineer - Thin Films CVD/DIFF Adv DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41152488",
+    "id": "micron-engineer-thin-films-cvd-diff-adv-dram-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "R&D Thin Films Process Development Engineer Advanced DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role R&D Thin Films Process Development Engineer Advanced DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41159844",
+    "id": "micron-r-d-thin-films-process-development-engineer-advanced-dram-boise"
   }
 ]
