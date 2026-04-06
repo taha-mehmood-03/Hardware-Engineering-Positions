@@ -1,62 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "GPU Acceleration-Velox Product Manager",
+    "job_title": "Quantum Engagement Leader - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Engagement Leader - Chicago at ProfessionalChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106809&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-leader-chicago-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Veeva Vault Consultant",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role GPU Acceleration-Velox Product Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106905&source=WEB_Search_NA",
-    "id": "ibm-gpu-acceleration-velox-product-manager-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Veeva Vault Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106891&source=WEB_Search_NA",
+    "id": "ibm-veeva-vault-consultant-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Presto Product Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Presto Product Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106904&source=WEB_Search_NA",
-    "id": "ibm-presto-product-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AWS Cloud Architect",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior AWS Cloud Architect at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108024&source=WEB_Search_NA",
-    "id": "ibm-aws-cloud-architect-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud AMS ABM/OTL Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Oracle Cloud AMS ABM/OTL Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108265&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-ams-abm-otl-lead-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Patent BDE",
-    "job_city": "Irvine",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Patent BDE at ProfessionalIrvine, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105453&source=WEB_Search_NA",
-    "id": "ibm-patent-bde-irvine"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Software Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010038/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-software-engineer-dallas"
+    "employer_name": "ABB",
+    "job_title": "Stage Technische Bedrijfskunde",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Stage Technische Bedrijfskunde at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029006/Stage-Technische-Bedrijfskunde",
+    "id": "abb-stage-technische-bedrijfskunde-rotterdam"
   }
 ]
