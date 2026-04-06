@@ -1,42 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer at ProfessionalBellevue, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107718&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-bellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "z/OS System Programmer",
-    "job_city": "DURHAM",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role z/OS System Programmer at ProfessionalDURHAM, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107989&source=WEB_Search_NA",
-    "id": "ibm-z-os-system-programmer-durham"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager - Apptio Platform",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Product Manager - Apptio Platform at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107961&source=WEB_Search_NA",
-    "id": "ibm-product-manager-apptio-platform-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AECC 2.0 - Cybersecurity Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AECC 2.0 - Cybersecurity Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107653&source=WEB_Search_NA",
-    "id": "ibm-aecc-2-0-cybersecurity-engineer-multiple-cities"
+    "job_title": "Prototyping Lab Lead, Amazon Robotics",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Prototyping Lab Lead, Amazon Robotics at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10383990/prototyping-lab-lead-amazon-robotics",
+    "job_posted_at": "2026-04-06T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "id": "amazon-prototyping-lab-lead-amazon-robotics-north-reading"
   }
 ]
