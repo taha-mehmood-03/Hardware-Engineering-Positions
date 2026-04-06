@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Engagement Leader - Chicago",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Engagement Leader - Chicago at ProfessionalChicago, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106809&source=WEB_Search_NA",
-    "id": "ibm-quantum-engagement-leader-chicago-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Veeva Vault Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Veeva Vault Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106891&source=WEB_Search_NA",
-    "id": "ibm-veeva-vault-consultant-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Stage Technische Bedrijfskunde",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Stage Technische Bedrijfskunde at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029006/Stage-Technische-Bedrijfskunde",
-    "id": "abb-stage-technische-bedrijfskunde-rotterdam"
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Reliability Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Reliability Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Reliability-Engineer_2601147-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-reliability-engineer-santa-clara"
   }
 ]
