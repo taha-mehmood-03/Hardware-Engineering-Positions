@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Testing and Manufacturing Engineer",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "28 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Testing and Manufacturing Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138423803385389766-hardware-testing-and-manufacturing-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-hardware-testing-and-manufacturing-engineer-chicago"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software ML Engineer",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software ML Engineer at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/senior-software-ml-engineer/33099/85208808304",
+    "id": "arm-software-ml-engineer-raanana"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Design Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/senior-design-engineer/33099/93672511360",
+    "id": "arm-design-engineer-trondheim"
+  }
+]
