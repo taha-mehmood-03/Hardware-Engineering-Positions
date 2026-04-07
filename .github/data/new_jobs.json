@@ -1,45 +1,24 @@
 [
   {
-    "job_title": "Data Center Regional Electrical Engineer (Field Engineering), AWS Support Engineer",
+    "job_title": "Industrial Design Engineer, World Wide Engineering & Innovation - Automation",
     "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Data Center Regional Electrical Engineer (Field Engineering), AWS Support Engineer at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385071/data-center-regional-electrical-engineer-field-engineering-aws-support-engineer",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Industrial Design Engineer, World Wide Engineering & Innovation - Automation at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385180/industrial-design-engineer-world-wide-engineering-innovation-automation",
     "job_posted_at": "2026-04-07T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "id": "amazon-data-center-regional-electrical-engineer-field-engineering-aws-support-engineer-herndon"
+    "id": "amazon-industrial-design-engineer-world-wide-engineering-innovation-automation-bellevue"
   },
   {
-    "job_title": "Mechanical Field Engineer, JAN Field Engineering",
+    "job_title": "Product Lifecyle Manager, OEM, Networking and Optics",
     "employer_name": "Amazon",
-    "job_city": "Canton",
-    "job_state": "MS",
-    "job_description": "hardware engineering job for the role Mechanical Field Engineer, JAN Field Engineering at Canton, MS, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385063/mechanical-field-engineer-jan-field-engineering",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Product Lifecyle Manager, OEM, Networking and Optics at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385132/product-lifecyle-manager-oem-networking-and-optics",
     "job_posted_at": "2026-04-07T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "id": "amazon-mechanical-field-engineer-jan-field-engineering-canton"
-  },
-  {
-    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering Services at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381878/embedded-software-development-engineer-ii-aws-hardware-engineering-services",
-    "job_posted_at": "2026-04-01T13:15:59.915Z",
-    "job_posted_at_datetime_utc": "2026-04-01T13:15:59.915Z",
-    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-services-cupertino"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director, Software Product Management – Robotics",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, Software Product Management – Robotics at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-software-product-management-robotics/33099/93438701296",
-    "id": "arm-director-software-product-management-robotics-san-jose"
+    "id": "amazon-product-lifecyle-manager-oem-networking-and-optics-seattle"
   }
 ]
