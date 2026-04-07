@@ -1,22 +1,45 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Group Product Manager",
-    "job_city": "Mountain View",
+    "job_title": "Data Center Regional Electrical Engineer (Field Engineering), AWS Support Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Data Center Regional Electrical Engineer (Field Engineering), AWS Support Engineer at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385071/data-center-regional-electrical-engineer-field-engineering-aws-support-engineer",
+    "job_posted_at": "2026-04-07T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "id": "amazon-data-center-regional-electrical-engineer-field-engineering-aws-support-engineer-herndon"
+  },
+  {
+    "job_title": "Mechanical Field Engineer, JAN Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Canton",
+    "job_state": "MS",
+    "job_description": "hardware engineering job for the role Mechanical Field Engineer, JAN Field Engineering at Canton, MS, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385063/mechanical-field-engineer-jan-field-engineering",
+    "job_posted_at": "2026-04-07T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "id": "amazon-mechanical-field-engineer-jan-field-engineering-canton"
+  },
+  {
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "7 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Group Product Manager, Pixel Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121169923324945094-group-product-manager-pixel-platform?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-group-product-manager-mountain-view"
+    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering Services at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381878/embedded-software-development-engineer-ii-aws-hardware-engineering-services",
+    "job_posted_at": "2026-04-01T13:15:59.915Z",
+    "job_posted_at_datetime_utc": "2026-04-01T13:15:59.915Z",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-services-cupertino"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Product Manager, Performance Tooling and Analysis",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Director, Software Product Management – Robotics",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Product Manager, Performance Tooling and Analysis at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-product-manager-performance-tooling-and-analysis/33099/89134883440",
-    "id": "arm-product-manager-performance-tooling-and-analysis-austin"
+    "job_description": "Hardware Engineering job for the role Senior Director, Software Product Management – Robotics at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-software-product-management-robotics/33099/93438701296",
+    "id": "arm-director-software-product-management-robotics-san-jose"
   }
 ]
