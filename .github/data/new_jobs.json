@@ -1,22 +1,83 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Design Tooling Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Design Tooling Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-design-tooling-engineer/33099/93733073936",
-    "id": "arm-graduate-design-tooling-engineer-austin"
+    "job_title": "Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10386441/hardware-development-engineer-ec2-networking-and-outpost-hardware-team-hardware-engineering-services",
+    "job_posted_at": "2026-04-08T18:40:39.110Z",
+    "job_posted_at_datetime_utc": "2026-04-08T18:40:39.110Z",
+    "id": "amazon-hardware-development-engineer-ec2-networking-and-outpost-hardware-team-hardware-engineering-services-cupertino"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Field Robotic System Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Field Robotic System Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Field-Robotic-System-Engineer_R262004?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-robotic-system-engineer-2-locations"
+    "employer_name": "Micron",
+    "job_title": "Engineer, APTD Dry Etch",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Staff Engineer, APTD Dry Etch at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41236186",
+    "id": "micron-engineer-aptd-dry-etch-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cryogenic Design Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cryogenic Design Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108301&source=WEB_Search_NA",
+    "id": "ibm-cryogenic-design-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Wisconsin (Milwaukee - Madison)",
+    "job_city": "MILWAUKEE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Wisconsin (Milwaukee - Madison) at ProfessionalMILWAUKEE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108743&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-wisconsin-milwaukee-madison-milwaukee"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer - Austin, TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer - Austin, TX at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108477&source=WEB_Search_NA",
+    "id": "ibm-software-developer-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Forward Deployed Engineer - Cloudability MSP",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Forward Deployed Engineer - Cloudability MSP at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108736&source=WEB_Search_NA",
+    "id": "ibm-forward-deployed-engineer-cloudability-msp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Program Manager  TS/SCI W/FSP",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Program Manager  TS/SCI W/FSP at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99674&source=WEB_Search_NA",
+    "id": "ibm-technical-program-manager-ts-sci-w-fsp-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Summer job / Sommarjobb för AU Process Control Platform - Mechanical Engineer-1",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Summer job / Sommarjobb för AU Process Control Platform - Mechanical Engineer-1 at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031183/Summer-job-Sommarjobb-för-AU-Process-Control-Platform-Mechanical-Engineer-1",
+    "id": "abb-summer-job-sommarjobb-f-r-au-process-control-platform-mechanical-engineer-1-vaesteras"
   }
 ]
