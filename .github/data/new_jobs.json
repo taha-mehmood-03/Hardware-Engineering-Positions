@@ -1,32 +1,92 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Software Security Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Firmware Developer",
+    "job_city": "Munich",
+    "job_state": "Germany",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Security Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/software-security-engineer/33099/93717066544",
-    "id": "arm-software-security-engineer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Firmware Developer at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-firmware-developer/33099/78612045584",
+    "id": "arm-firmware-developer-munich"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "CMDB Product Owner",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "System Service Representative - Monroe, LA",
+    "job_city": "MONROE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CMDB Product Owner at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/cmdb-product-owner/33099/93146358928",
-    "id": "arm-cmdb-product-owner-cambridge"
+    "job_description": "Hardware Engineering job for the role System Service Representative - Monroe, LA at ProfessionalMONROE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=86493&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-monroe-la-monroe"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Represenative for Colorado Springs",
+    "job_city": "Denver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Represenative for Colorado Springs at ProfessionalDenver, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97437&source=WEB_Search_NA",
+    "id": "ibm-system-services-represenative-for-colorado-springs-denver"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Service Support Representative - NW- Texas",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Service Support Representative - NW- Texas at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99691&source=WEB_Search_NA",
+    "id": "ibm-service-support-representative-nw-texas-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Sioux Falls, SD",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative - Sioux Falls, SD at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95251&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-sioux-falls-sd-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Services Professional",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Services Professional at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89804&source=WEB_Search_NA",
+    "id": "ibm-technical-services-professional-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud Tech SCM Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud Tech SCM Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108266&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-tech-scm-developer-multiple-cities"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
+    "job_title": "Electronics Engineer - Embedded",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
-    "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
+    "job_description": "hardware engineering job for the role Electronics Engineer - Embedded at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027410/Electronics-Engineer-Embedded",
+    "id": "abb-electronics-engineer-embedded-vaesteras"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate Consumer System Applications Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Associate Consumer System Applications Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Consumer-System-Applications-Engineer_R261544?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-consumer-system-applications-engineer-us"
   }
 ]
