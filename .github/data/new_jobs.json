@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Test Development Engineer",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Test Development Engineer at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Test-Development-Engineer_2601204?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-test-development-engineer-irvine"
+    "employer_name": "Arm",
+    "job_title": "Software Security Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Security Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/software-security-engineer/33099/93717066544",
+    "id": "arm-software-security-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CMDB Product Owner",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CMDB Product Owner at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/cmdb-product-owner/33099/93146358928",
+    "id": "arm-cmdb-product-owner-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
+    "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
   }
 ]
