@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Hardware Safety & Compliance Engineer, Hardware Safety & Compliance",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Safety & Compliance Engineer, Hardware Safety & Compliance at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10386860/hardware-safety-compliance-engineer-hardware-safety-compliance",
+    "job_posted_at": "2026-04-09T05:20:38.303Z",
+    "job_posted_at_datetime_utc": "2026-04-09T05:20:38.303Z",
+    "id": "amazon-hardware-safety-compliance-engineer-hardware-safety-compliance-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal/Staff Customer Quality Enginee",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal/Staff Customer Quality Enginee at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/principal-staff-customer-quality-enginee/33099/90640405136",
+    "id": "arm-principal-staff-customer-quality-enginee-taipei"
+  }
+]
