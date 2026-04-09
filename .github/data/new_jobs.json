@@ -1,13 +1,23 @@
 [
   {
-    "job_title": "System Development Engineer, AI/ML (Accelerator) Server",
+    "job_title": "HW Commodity Specialist II - AMZ14745.4",
     "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role System Development Engineer, AI/ML (Accelerator) Server at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10387072/system-development-engineer-ai-ml-accelerator-server",
-    "job_posted_at": "2026-04-09T12:24:40.093Z",
-    "job_posted_at_datetime_utc": "2026-04-09T12:24:40.093Z",
-    "id": "amazon-system-development-engineer-ai-ml-accelerator-server-cupertino"
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role HW Commodity Specialist II - AMZ14745.4 at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10381312/hw-commodity-specialist-ii-amz14745-4",
+    "job_posted_at": "2026-04-08T19:21:47.219Z",
+    "job_posted_at_datetime_utc": "2026-04-08T19:21:47.219Z",
+    "id": "amazon-hw-commodity-specialist-ii-amz14745-4-herndon"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Foundry Developer",
+    "job_city": "HUNTSVILLE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Foundry Developer at ProfessionalHUNTSVILLE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108001&source=WEB_Search_NA",
+    "id": "ibm-foundry-developer-huntsville"
   }
 ]
