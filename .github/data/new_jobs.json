@@ -1,24 +1,42 @@
 [
   {
-    "job_title": "Project Design Mechanical Engineer, Fleet Remediation Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Project Design Mechanical Engineer, Fleet Remediation Engineering at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10388617/project-design-mechanical-engineer-fleet-remediation-engineering",
-    "job_posted_at": "2026-04-10T16:46:27.346Z",
-    "job_posted_at_datetime_utc": "2026-04-10T16:46:27.346Z",
-    "id": "amazon-project-design-mechanical-engineer-fleet-remediation-engineering-herndon"
+    "employer_name": "Arm",
+    "job_title": "Director, Smartphone Strategy and Go To Market",
+    "job_city": "Shenzhen",
+    "job_state": "China",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Smartphone Strategy and Go To Market at Shenzhen, China, Shanghai, China, Beijing, China",
+    "job_apply_link": "https://careers.arm.com/job/shenzhen/director-smartphone-strategy-and-go-to-market/33099/93447794096",
+    "id": "arm-director-smartphone-strategy-and-go-to-market-shenzhen"
   },
   {
-    "job_title": "Robotics Systems Engineer I, Amazon Robotics Deployment Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Robotics Systems Engineer I, Amazon Robotics Deployment Engineering at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10388636/robotics-systems-engineer-i-amazon-robotics-deployment-engineering",
-    "job_posted_at": "2026-04-10T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "id": "amazon-robotics-systems-engineer-i-amazon-robotics-deployment-engineering-austin"
+    "employer_name": "Arm",
+    "job_title": "Principal, Strategic Partnerships",
+    "job_city": "Shanghai",
+    "job_state": "China",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal, Strategic Partnerships at Shanghai, China",
+    "job_apply_link": "https://careers.arm.com/job/shanghai/principal-strategic-partnerships/33099/89295297344",
+    "id": "arm-principal-strategic-partnerships-shanghai"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Memory Market Intelligence & Yield Manager",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Memory Market Intelligence & Yield Manager at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/memory-market-intelligence-and-yield-manager/33099/93806840048",
+    "id": "arm-memory-market-intelligence-yield-manager-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Systems Application - Aerospace and Defense",
+    "job_city": "52 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Systems Application - Aerospace and Defense at 52 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Staff-Engineer--Systems-Application---Aerospace-and-Defense_R257908?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-systems-application-aerospace-and-defense-52-locations"
   }
 ]
