@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Proactive Threat Defence, Senior Mgr",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Graduate Engineer - System IP",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Proactive Threat Defence, Senior Mgr at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/proactive-threat-defence-senior-mgr/33099/91369576304",
-    "id": "arm-proactive-threat-defence-senior-mgr-cambridge"
+    "job_description": "Hardware Engineering job for the role Graduate Engineer - System IP at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-engineer-system-ip/33099/90386075120",
+    "id": "arm-graduate-engineer-system-ip-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Engineer - System IP",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Graduate Engineer - System IP at Austin, Texas, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-engineer-system-ip/33099/90386075120",
+    "id": "arm-graduate-engineer-system-ip-austin"
   }
 ]
