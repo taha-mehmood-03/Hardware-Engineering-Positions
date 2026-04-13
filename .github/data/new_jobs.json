@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr Design Engineer/Architect, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Sr Design Engineer/Architect, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40687588",
-    "id": "micron-sr-design-engineer-architect-hbm-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Unit Process Engineer (Wets Process)",
-    "job_city": "Albany",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Unit Process Engineer (Wets Process) at ProfessionalAlbany, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109770&source=WEB_Search_NA",
-    "id": "ibm-unit-process-engineer-wets-process-albany"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Oracle",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Developer 2026- Oracle at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-oracle-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Architect",
-    "job_city": "PRINCETON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Architect - Hybrid Cloud Management at ProfessionalPRINCETON, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109585&source=WEB_Search_NA",
-    "id": "ibm-application-architect-princeton"
-  },
-  {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Reliability Product Test Engineer - RF",
+    "job_title": "Internship - Robotics",
     "job_city": "US",
-    "job_state": "NC",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Reliability Product Test Engineer - RF at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Reliability-Product-Test-Engineer---RF_R261669?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-reliability-product-test-engineer-rf-us"
+    "job_description": "hardware engineering job for the role Internship - Robotics at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Internship---Robotics_R261623?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-internship-robotics-us"
   }
 ]
