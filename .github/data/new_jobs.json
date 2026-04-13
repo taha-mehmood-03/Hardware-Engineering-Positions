@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Lithia Springs",
+    "job_state": "GA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Lithia Springs, GA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10390544/critical-infrastructure-mechanical-engineer-field-engineering",
+    "job_posted_at": "2026-04-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-lithia-springs"
+  },
+  {
+    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Lubbock",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Lubbock, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10390542/critical-infrastructure-electrical-engineer-field-engineering",
+    "job_posted_at": "2026-04-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-lubbock"
+  },
+  {
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Lubbock",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering at Lubbock, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10390541/critical-infrastructure-mechanical-engineer-field-engineering",
+    "job_posted_at": "2026-04-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-lubbock"
+  }
+]
