@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Red Hat Cloud Migration",
-    "job_city": "Multiple Cities",
+    "job_title": "Mask Layout Designer - Rochester, MN",
+    "job_city": "ROCHESTER",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Developer 2026- Red Hat Cloud Migration at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89715&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-red-hat-cloud-migration-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer / UX Designer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Developer / UX Designer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109245&source=WEB_Search_NA",
-    "id": "ibm-application-developer-ux-designer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Mask Layout Designer - Rochester, MN at ProfessionalROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108958&source=WEB_Search_NA",
+    "id": "ibm-mask-layout-designer-rochester-mn-rochester"
   },
   {
     "employer_name": "MARVELL",
-    "job_title": "Sr Staff Firmware Engineer - Windows Kernel Drivers",
+    "job_title": "System QA Engineer",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Sr Staff Firmware Engineer - Windows Kernel Drivers at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff-Firmware-Engineer---Windows-Kernel-Drivers_2601339?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-staff-firmware-engineer-windows-kernel-drivers-santa-clara"
+    "job_description": "hardware engineering job for the role Staff System QA Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-System-QA-Engineer_2601094-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-system-qa-engineer-santa-clara"
   }
 ]
