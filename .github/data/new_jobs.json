@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Systems Architect - AGI CPU",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Systems Architect - AGI CPU at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-architect-agi-cpu/33099/93958008512",
-    "id": "arm-systems-architect-agi-cpu-austin"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Firmware Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 13 days ago",
-    "job_description": "hardware engineering job for the role Staff Firmware Engineer at San Jose, California, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41159831",
-    "id": "micron-firmware-engineer-san-jose"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Quantum Control Systems Engineer (Hardware & Embedded Systems)",
-    "job_city": "Yorktown Heights",
+    "job_title": "Global Security - Penetration Testing Consultant - X-Force Red",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Control Systems Engineer (Hardware & Embedded Systems) at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109558&source=WEB_Search_NA",
-    "id": "ibm-quantum-control-systems-engineer-hardware-embedded-systems-yorktown-heights"
+    "job_description": "Hardware Engineering job for the role Global Security - Penetration Testing Consultant - X-Force Red at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108031&source=WEB_Search_NA",
+    "id": "ibm-global-security-penetration-testing-consultant-x-force-red-austin"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Analog/Mixed Signal IC Verification",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Analog/Mixed Signal IC Verification at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Design-Verification-Engineering_R260594?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-analog-mixed-signal-ic-verification-2-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Systems Engineer – Analog Garage",
-    "job_city": "US",
+    "employer_name": "MARVELL",
+    "job_title": "Principal Digital IC Design Engineer",
+    "job_city": "Westborough",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Systems Engineer – Analog Garage at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Systems-Engineer---Analog-Garage_R261737?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-systems-engineer-analog-garage-us"
+    "job_description": "hardware engineering job for the role Senior Principal Digital IC Design Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2601226?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-digital-ic-design-engineer-westborough"
   }
 ]
