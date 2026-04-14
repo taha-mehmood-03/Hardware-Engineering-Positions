@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Global Security - Penetration Testing Consultant - X-Force Red",
-    "job_city": "Austin",
+    "job_title": "Application Developer 2026- Red Hat Cloud Migration",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Global Security - Penetration Testing Consultant - X-Force Red at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108031&source=WEB_Search_NA",
-    "id": "ibm-global-security-penetration-testing-consultant-x-force-red-austin"
+    "job_description": "Hardware Engineering job for the role Application Developer 2026- Red Hat Cloud Migration at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89715&source=WEB_Search_NA",
+    "id": "ibm-application-developer-2026-red-hat-cloud-migration-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer / UX Designer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer / UX Designer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109245&source=WEB_Search_NA",
+    "id": "ibm-application-developer-ux-designer-multiple-cities"
   },
   {
     "employer_name": "MARVELL",
-    "job_title": "Principal Digital IC Design Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
+    "job_title": "Sr Staff Firmware Engineer - Windows Kernel Drivers",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal Digital IC Design Engineer at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2601226?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-digital-ic-design-engineer-westborough"
+    "job_description": "hardware engineering job for the role Sr Staff Firmware Engineer - Windows Kernel Drivers at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff-Firmware-Engineer---Windows-Kernel-Drivers_2601339?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-firmware-engineer-windows-kernel-drivers-santa-clara"
   }
 ]
