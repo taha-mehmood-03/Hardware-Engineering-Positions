@@ -1,42 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer - Platform & Connector Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer - Platform & Connector Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109015&source=WEB_Search_NA",
-    "id": "ibm-engineer-platform-connector-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer II - Agent Harness & Workflow Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer II - Agent Harness & Workflow Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109020&source=WEB_Search_NA",
-    "id": "ibm-engineer-ii-agent-harness-workflow-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer - Security, Compliance & Policy Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer - Security, Compliance & Policy Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109017&source=WEB_Search_NA",
-    "id": "ibm-engineer-security-compliance-policy-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer - Data, Schema & Knowledge Systems",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer - Data, Schema & Knowledge Systems at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109019&source=WEB_Search_NA",
-    "id": "ibm-engineer-data-schema-knowledge-systems-multiple-cities"
+    "job_title": "Systems Engineer, Hardware Validation, AMZL Engineering and Innovation",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Systems Engineer, Hardware Validation, AMZL Engineering and Innovation at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10391319/systems-engineer-hardware-validation-amzl-engineering-and-innovation",
+    "job_posted_at": "2026-04-14T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "id": "amazon-systems-engineer-hardware-validation-amzl-engineering-and-innovation-bellevue"
   }
 ]
