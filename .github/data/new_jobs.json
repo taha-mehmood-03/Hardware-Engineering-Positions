@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Verification and Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Verification and Emulation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-verification-and-emulation-engineer/33099/75738045056",
+    "id": "arm-soc-verification-and-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC RTL Performance Verification and Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC RTL Performance Verification and Emulation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-rtl-performance-verification-and-emulation-engineer/33099/86766479840",
+    "id": "arm-soc-rtl-performance-verification-and-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC RTL Verification Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SoC RTL Verification Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-soc-rtl-verification-engineer/33099/90966596032",
+    "id": "arm-soc-rtl-verification-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer (Apprentice Conversion) -  Bronn Burgener",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer (Apprentice Conversion) -  Bronn Burgener at ProfessionalTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110057&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-apprentice-conversion-bronn-burgener-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Manager",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Delivery Manager at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109773&source=WEB_Search_NA",
+    "id": "ibm-delivery-manager-armonk"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Application Engineer - Early Career",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Application Engineer - Early Career at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-application-engineer-early-career-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer - Early Career",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Firmware Engineer - Early Career at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-early-career-2-locations"
+  }
+]
