@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-houston"
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- Supply Chain (Materials Management)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- Supply Chain (Materials Management) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89800&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-supply-chain-materials-management-baton-rouge"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Algorithms Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Algorithms Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Algorithms-Engineer_R261975?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-algorithms-engineer-us"
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- Finance",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- Finance at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89794&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-finance-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- Supply Chain (Sales & Delivery)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package Specialist 2026- Supply Chain (Sales & Delivery) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89807&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-supply-chain-sales-delivery-baton-rouge"
   }
 ]
