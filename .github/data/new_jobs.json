@@ -1,43 +1,32 @@
 [
   {
-    "job_title": "Robotics - Hardware Development Engineer Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Robotics - Hardware Development Engineer Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10394153/robotics-hardware-development-engineer-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
-    "job_posted_at": "2026-04-16T19:46:32.849Z",
-    "job_posted_at_datetime_utc": "2026-04-16T19:46:32.849Z",
-    "id": "amazon-robotics-hardware-development-engineer-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more-boston"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate CPU Physical Implementation Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "IBM",
+    "job_title": "CyberArk Architect",
+    "job_city": "Dallas",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate CPU Physical Implementation Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-physical-implementation-engineer/33099/94035947072",
-    "id": "arm-graduate-cpu-physical-implementation-engineer-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role Senior CyberArk Architect at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106814&source=WEB_Search_NA",
+    "id": "ibm-cyberark-architect-dallas"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "HBM Design Architect",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Staff HBM Design Architect at Richardson, Texas, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41139985",
-    "id": "micron-hbm-design-architect-richardson"
+    "employer_name": "IBM",
+    "job_title": "C/C++ Software Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role C/C++ Software Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109267&source=WEB_Search_NA",
+    "id": "ibm-c-c-software-developer-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "QCS Senior Resident Service Technician - St. Francisville, LA",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - St. Francisville, LA at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030504/QCS-Senior-Resident-Service-Technician-St-Francisville-LA",
-    "id": "abb-qcs-senior-resident-service-technician-st-francisville-la-remote"
+    "employer_name": "IBM",
+    "job_title": "Java Software Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Java Software Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109269&source=WEB_Search_NA",
+    "id": "ibm-java-software-developer-multiple-cities"
   }
 ]
