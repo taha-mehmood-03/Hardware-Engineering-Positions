@@ -1,23 +1,32 @@
 [
   {
-    "job_title": "Robotics Systems Engineer I",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Robotics Systems Engineer I at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393830/robotics-systems-engineer-i",
-    "job_posted_at": "2026-04-16T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "id": "amazon-robotics-systems-engineer-i-seattle"
+    "employer_name": "Arm",
+    "job_title": "Information Developer/Technical Writer - Tech Comms System IP",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Information Developer/Technical Writer - Tech Comms System IP at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-information-developer-technical-writer-tech-comms-system-ip/33099/92155533200",
+    "id": "arm-information-developer-technical-writer-tech-comms-system-ip-manchester"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Product Safety Test Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Solutions Lead, Robotics - Go-To-Market",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "8 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Safety Test Engineer, Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119519945066193606-product-safety-test-engineer-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-product-safety-test-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Solutions Lead, Robotics - Go-To-Market at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/solutions-lead-robotics-go-to-market/33099/94033890208",
+    "id": "arm-solutions-lead-robotics-go-to-market-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director, Physical AI - Go-To-Market",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Director, Physical AI - Go-To-Market at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-physical-ai-go-to-market/33099/94033890176",
+    "id": "arm-director-physical-ai-go-to-market-multiple"
   }
 ]
