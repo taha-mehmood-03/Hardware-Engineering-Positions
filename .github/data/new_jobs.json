@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "CyberArk Architect",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior CyberArk Architect at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106814&source=WEB_Search_NA",
-    "id": "ibm-cyberark-architect-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "C/C++ Software Developer",
+    "job_title": "Adobe Project Manager",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role C/C++ Software Developer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109267&source=WEB_Search_NA",
-    "id": "ibm-c-c-software-developer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Java Software Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Java Software Developer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109269&source=WEB_Search_NA",
-    "id": "ibm-java-software-developer-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Adobe Project Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108965&source=WEB_Search_NA",
+    "id": "ibm-adobe-project-manager-multiple-cities"
   }
 ]
