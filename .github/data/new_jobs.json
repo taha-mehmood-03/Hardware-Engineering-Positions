@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Verification and Emulation Engineer",
+    "job_city": "Sheffield",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff SoC Verification and Emulation Engineer at Sheffield, United Kingdom, Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/staff-soc-verification-and-emulation-engineer/33099/83883357936",
+    "id": "arm-soc-verification-and-emulation-engineer-sheffield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Network Project Lead Engineer",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Network Project Lead Engineer at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030429/Network-Project-Lead-Engineer",
+    "id": "abb-network-project-lead-engineer-vaesteras"
+  }
+]
