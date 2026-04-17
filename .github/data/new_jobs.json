@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10394867/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams",
-    "job_posted_at": "2026-04-17T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "id": "amazon-cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams-cupertino"
+    "employer_name": "Micron",
+    "job_title": "Industry 4.0 Analyst",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Industry 4.0 Analyst at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41522688",
+    "id": "micron-industry-4-0-analyst-boise"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Lead Engineer",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Project Lead Engineer at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/94622195/Project-Lead-Engineer",
+    "id": "abb-project-lead-engineer-rotterdam"
   }
 ]
