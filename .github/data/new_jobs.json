@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant - Financial Services, Cybersecurity",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant - Financial Services, Cybersecurity at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107329&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-financial-services-cybersecurity-new-york"
+    "job_title": "Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10394867/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams",
+    "job_posted_at": "2026-04-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "id": "amazon-cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams-cupertino"
   }
 ]
