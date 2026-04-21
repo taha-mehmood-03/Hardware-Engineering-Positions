@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "job_title": "Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10396855/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-hardware-engineering-services",
+    "job_posted_at": "2026-04-20T20:05:49.258Z",
+    "job_posted_at_datetime_utc": "2026-04-20T20:05:49.258Z",
+    "id": "amazon-cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-hardware-engineering-services-cupertino"
+  },
+  {
+    "job_title": "Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering, RRL Technical Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Florence",
+    "job_state": "KY",
+    "job_description": "hardware engineering job for the role Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering, RRL Technical Engineering at Florence, KY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10396771/product-test-engineer-machine-learning-hardware-rrl-technical-engineering-rrl-technical-engineering",
+    "job_posted_at": "2026-04-20T19:05:49.258Z",
+    "job_posted_at_datetime_utc": "2026-04-20T19:05:49.258Z",
+    "id": "amazon-product-test-engineer-machine-learning-hardware-rrl-technical-engineering-rrl-technical-engineering-florence"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "C++ Modelling Engineer – Virtual Platforms",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior C++ Modelling Engineer – Virtual Platforms at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-c-modelling-engineer-virtual-platforms/33099/94207629520",
+    "id": "arm-c-modelling-engineer-virtual-platforms-cambridge"
+  }
+]
