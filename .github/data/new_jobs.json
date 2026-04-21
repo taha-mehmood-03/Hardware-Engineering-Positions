@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Principal Software Engineer",
+    "job_title": "Sourcing Recruiter, Storage and Analytics, AWS, PES TA",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Sourcing Recruiter, Storage and Analytics, AWS, PES TA at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10397425/sourcing-recruiter-storage-and-analytics-aws-pes-ta",
+    "job_posted_at": "2026-04-21T00:28:54.325Z",
+    "job_posted_at_datetime_utc": "2026-04-21T00:28:54.325Z",
+    "id": "amazon-sourcing-recruiter-storage-and-analytics-aws-pes-ta-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Design Verification Engineer - Coherent Interconnect",
     "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Principal Software Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
-    "id": "abb-principal-software-engineer-multiple"
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Design Verification Engineer - Coherent Interconnect at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-staff-design-verification-engineer-coherent-interconnect/33099/94196585776",
+    "id": "arm-senior-staff-design-verification-engineer-coherent-interconnect-multiple"
   }
 ]
