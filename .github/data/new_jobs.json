@@ -1,23 +1,42 @@
 [
   {
-    "job_title": "Sourcing Recruiter, Storage and Analytics, AWS, PES TA",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Sourcing Recruiter, Storage and Analytics, AWS, PES TA at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10397425/sourcing-recruiter-storage-and-analytics-aws-pes-ta",
-    "job_posted_at": "2026-04-21T00:28:54.325Z",
-    "job_posted_at_datetime_utc": "2026-04-21T00:28:54.325Z",
-    "id": "amazon-sourcing-recruiter-storage-and-analytics-aws-pes-ta-san-diego"
+    "employer_name": "Micron",
+    "job_title": "Firmware Test Engineer, SSD",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 4 days ago",
+    "job_description": "hardware engineering job for the role Staff Firmware Test Engineer, SSD at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41380265",
+    "id": "micron-firmware-test-engineer-ssd-san-jose"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff Design Verification Engineer - Coherent Interconnect",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior/Staff Design Verification Engineer - Coherent Interconnect at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-staff-design-verification-engineer-coherent-interconnect/33099/94196585776",
-    "id": "arm-senior-staff-design-verification-engineer-coherent-interconnect-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Signal Integrity Engineer – HFSS/SiWave/PCB/Package - Sr Staff Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Signal Integrity Engineer – HFSS/SiWave/PCB/Package - Sr Staff Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Design-Engineer---DSP-Optical-FPGA-Controller-SerDes_2600178?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-signal-integrity-engineer-hfss-siwave-pcb-package-sr-staff-engineer-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "ASIC Security Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role ASIC Security Architect at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/ASIC-Security-Architect_2601327?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-asic-security-architect-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "ASIC Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role ASIC Architect at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/ASIC-Architect_2601312?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-asic-architect-santa-clara"
   }
 ]
