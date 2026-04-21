@@ -1,44 +1,13 @@
 [
   {
-    "job_title": "DC Infra Eng II - AMZ9971266",
+    "job_title": "Supply Chain Manager, Electrical Assemblies",
     "employer_name": "Amazon",
-    "job_city": "Umatilla",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9971266 at Umatilla, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393937/dc-infra-eng-ii-amz9971266",
-    "job_posted_at": "2026-04-18T15:12:48.621Z",
-    "job_posted_at_datetime_utc": "2026-04-18T15:12:48.621Z",
-    "id": "amazon-dc-infra-eng-ii-amz9971266-umatilla"
-  },
-  {
-    "job_title": "DC Infra Eng II - AMZ9673820",
-    "employer_name": "Amazon",
-    "job_city": "Hermiston",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9673820 at Hermiston, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393935/dc-infra-eng-ii-amz9673820",
-    "job_posted_at": "2026-04-18T15:12:48.621Z",
-    "job_posted_at_datetime_utc": "2026-04-18T15:12:48.621Z",
-    "id": "amazon-dc-infra-eng-ii-amz9673820-hermiston"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software ML Engineer",
-    "job_city": "Galway",
-    "job_state": "Ireland",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software ML Engineer at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/senior-software-ml-engineer/33099/93485591024",
-    "id": "arm-software-ml-engineer-galway"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Global Loans and Trials Asset Coordinator",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Global Loans and Trials Asset Coordinator at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110300&source=WEB_Search_NA",
-    "id": "ibm-global-loans-and-trials-asset-coordinator-poughkeepsie"
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Supply Chain Manager, Electrical Assemblies at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10398162/supply-chain-manager-electrical-assemblies",
+    "job_posted_at": "2026-04-21T16:00:01.356Z",
+    "job_posted_at_datetime_utc": "2026-04-21T16:00:01.356Z",
+    "id": "amazon-supply-chain-manager-electrical-assemblies-austin"
   }
 ]
