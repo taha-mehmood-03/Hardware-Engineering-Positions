@@ -1,13 +1,33 @@
 [
   {
-    "job_title": "Critical Infrastructure Mechanical Engineer, ADC Field Engineering",
+    "job_title": "Hardware Development Engineer, Avionics Electrical Engineering, Amazon Leo",
     "employer_name": "Amazon",
-    "job_city": "Culpeper",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, ADC Field Engineering at Culpeper, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10398381/critical-infrastructure-mechanical-engineer-adc-field-engineering",
-    "job_posted_at": "2026-04-21T17:04:25.323Z",
-    "job_posted_at_datetime_utc": "2026-04-21T17:04:25.323Z",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-adc-field-engineering-culpeper"
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Avionics Electrical Engineering, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10398685/hardware-development-engineer-avionics-electrical-engineering-amazon-leo",
+    "job_posted_at": "2026-04-21T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-avionics-electrical-engineering-amazon-leo-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Applications Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/applications-engineer/33099/94222456880",
+    "id": "arm-applications-engineer-chandler"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Enablement and Training Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Enablement and Training Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110348&source=WEB_Search_NA",
+    "id": "ibm-ai-enablement-and-training-lead-multiple-cities"
   }
 ]
