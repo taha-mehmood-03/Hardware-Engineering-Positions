@@ -1,43 +1,33 @@
 [
   {
-    "job_title": "Electrical Engineer, RDPI",
+    "job_title": "Sr Avionics Lab Engineer, Amazon Leo Satellite Avionics/Sub",
     "employer_name": "Amazon",
-    "job_city": "Westboro",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Electrical Engineer, RDPI at Westboro, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10399668/electrical-engineer-rdpi",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Sr Avionics Lab Engineer, Amazon Leo Satellite Avionics/Sub at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10399785/sr-avionics-lab-engineer-amazon-leo-satellite-avionics-sub",
     "job_posted_at": "2026-04-22T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "id": "amazon-electrical-engineer-rdpi-westboro"
+    "id": "amazon-sr-avionics-lab-engineer-amazon-leo-satellite-avionics-sub-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Engineer - CPU Implementation",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Qualification and Failure Analysis Lab Technician",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Engineer - CPU Implementation at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-engineer-cpu-implementation/33099/91189319008",
-    "id": "arm-graduate-engineer-cpu-implementation-cambridge"
+    "job_description": "Hardware Engineering job for the role Qualification and Failure Analysis Lab Technician at ProfessionalROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111659&source=WEB_Search_NA",
+    "id": "ibm-qualification-and-failure-analysis-lab-technician-rochester"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer - Video",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Associate SAP SCM Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Verification Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/principal-verification-engineer-video/33099/88424979152",
-    "id": "arm-verification-engineer-video-manchester"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer - Video",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Design Engineer - Video at Cambridge, United Kingdom, Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-design-engineer-video/33099/84401269216",
-    "id": "arm-design-engineer-video-cambridge"
+    "job_description": "Hardware Engineering job for the role Associate SAP SCM Consultant at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111210&source=WEB_Search_NA",
+    "id": "ibm-associate-sap-scm-consultant-multiple-cities"
   }
 ]
