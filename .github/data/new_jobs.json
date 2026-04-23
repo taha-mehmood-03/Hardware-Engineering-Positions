@@ -1,43 +1,24 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "SAP PS/CO Solution Architect",
-    "job_city": "Denver",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP PS/CO Solution Architect at ProfessionalDenver, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111475&source=WEB_Search_NA",
-    "id": "ibm-sap-ps-co-solution-architect-denver"
+    "job_title": "Avionics Lab Engineer, Amazon Leo Satellite Avionics/Sub",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Avionics Lab Engineer, Amazon Leo Satellite Avionics/Sub at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10399785/avionics-lab-engineer-amazon-leo-satellite-avionics-sub",
+    "job_posted_at": "2026-04-22T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "id": "amazon-avionics-lab-engineer-amazon-leo-satellite-avionics-sub-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant/IT Systems Admin",
-    "job_city": "Williston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Security Consultant/IT Systems Admin at ProfessionalWilliston, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111191&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-it-systems-admin-williston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Fan-out Wafer Level Packaging Executive Focal Point",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM Fan-out Wafer Level Packaging Executive Focal Point at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111673&source=WEB_Search_NA",
-    "id": "ibm-ibm-fan-out-wafer-level-packaging-executive-focal-point-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Services Professional (Apprentice Conversion)",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Services Professional (Apprentice Conversion) at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111946&source=WEB_Search_NA",
-    "id": "ibm-technical-services-professional-apprentice-conversion-poughkeepsie"
+    "employer_name": "ABB",
+    "job_title": "ELSP Team Leader - BABA",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role ELSP Team Leader - BABA at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032156/ELSP-Team-Leader-BABA",
+    "id": "abb-elsp-team-leader-baba-mebane"
   },
   {
     "employer_name": "ABB",
