@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Graphics Performance Engineer",
-    "job_city": "Manchester",
+    "job_title": "Performance Modelling Engineer - CPU",
+    "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graphics Performance Engineer at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/graphics-performance-engineer/33099/80144718528",
-    "id": "arm-graphics-performance-engineer-manchester"
+    "job_description": "Hardware Engineering job for the role Performance Modelling Engineer - CPU at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/performance-modelling-engineer-cpu/33099/78996735840",
+    "id": "arm-performance-modelling-engineer-cpu-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Director",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Director at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-director/33099/94287646272",
+    "id": "arm-technical-director-cambridge"
   }
 ]
