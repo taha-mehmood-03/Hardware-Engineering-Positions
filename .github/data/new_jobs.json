@@ -1,65 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director of Software Engineering (Systems Software)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director of Software Engineering (Systems Software) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-of-software-engineering-systems-software/33099/94291614704",
-    "id": "arm-director-of-software-engineering-systems-software-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant 2026 - Finance",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant 2026 - Finance at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89794&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-2026-finance-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant 2026 - Supply Chain (Materials Management)",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant 2026 - Supply Chain (Materials Management) at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89800&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-2026-supply-chain-materials-management-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant 2026 - Business Applications",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant 2026 - Business Applications at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87011&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-2026-business-applications-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant 2026 - Application Operations",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant 2026 - Application Operations at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87020&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-2026-application-operations-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant 2026 - Supply Chain (Sales & Distribution)",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant 2026 - Supply Chain (Sales & Distribution) at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89807&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-2026-supply-chain-sales-distribution-baton-rouge"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
@@ -68,15 +8,5 @@
     "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
     "id": "abb-80-100-r-d-hw-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior ICSS Lead Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior ICSS Lead Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032351/Senior-ICSS-Lead-Engineer",
-    "id": "abb-senior-icss-lead-engineer-multiple"
   }
 ]
