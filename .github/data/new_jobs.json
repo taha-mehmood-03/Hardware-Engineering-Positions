@@ -1,35 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal/Staff Applications Engineer (SoC & Bring-up)",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal/Staff Applications Engineer (SoC & Bring-up) at Hsinchu, Taiwan, Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-staff-applications-engineer-soc-and-bring-up/33099/91578530592",
-    "id": "arm-principal-staff-applications-engineer-soc-bring-up-hsinchu"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP HANA ABAP Consultant/Lead",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP HANA ABAP Consultant/Lead at ProfessionalBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111666&source=WEB_Search_NA",
-    "id": "ibm-sap-hana-abap-consultant-lead-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales– Co-op",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technology Sales– Co-op at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103622&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-co-op-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
