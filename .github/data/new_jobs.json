@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Scaling Technical Lead",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Scaling Technical Lead at ProfessionalHouston, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111955&source=WEB_Search_NA",
-    "id": "ibm-scaling-technical-lead-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "z Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role z Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111711&source=WEB_Search_NA",
-    "id": "ibm-z-architect-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cybersecurity Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cybersecurity Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107653&source=WEB_Search_NA",
-    "id": "ibm-cybersecurity-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Apptio Cloudability MSP Technical Account Manager (TAM)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Apptio Cloudability MSP Technical Account Manager (TAM) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110881&source=WEB_Search_NA",
-    "id": "ibm-apptio-cloudability-msp-technical-account-manager-tam-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Senior Field Service Technician (Gary, IN)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Resident Senior Field Service Technician (Gary, IN) at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Senior-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-senior-field-service-technician-gary-in-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 -100%) R&D HW Engineer",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
-    "id": "abb-80-100-r-d-hw-engineer-quartino"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate Product Development Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Associate Product Development Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Product-Development-Engineering_R256047?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-product-development-engineering-us"
   }
 ]
