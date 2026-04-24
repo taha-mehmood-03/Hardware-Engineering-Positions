@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Architecture Formal Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Architecture Formal Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-architecture-formal-engineer/33099/89039360960",
+    "id": "arm-architecture-formal-engineer-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineer",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
+    "id": "abb-application-engineer-saint-laurent"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
