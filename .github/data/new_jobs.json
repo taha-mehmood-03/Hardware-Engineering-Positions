@@ -1,33 +1,33 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Principal/Staff Applications Engineer (SoC & Bring-up)",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal/Staff Applications Engineer (SoC & Bring-up) at Hsinchu, Taiwan, Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-staff-applications-engineer-soc-and-bring-up/33099/91578530592",
+    "id": "arm-principal-staff-applications-engineer-soc-bring-up-hsinchu"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "Data Engineer – IBM Quantum",
+    "job_title": "SAP HANA ABAP Consultant/Lead",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SAP HANA ABAP Consultant/Lead at ProfessionalBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111666&source=WEB_Search_NA",
+    "id": "ibm-sap-hana-abap-consultant-lead-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales– Co-op",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Engineer – IBM Quantum at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111407&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-ibm-quantum-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineer",
-    "job_city": "Saint-Laurent",
-    "job_state": "Quebec",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
-    "id": "abb-application-engineer-saint-laurent"
+    "job_description": "Hardware Engineering job for the role Technology Sales– Co-op at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103622&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-co-op-multiple-cities"
   },
   {
     "employer_name": "ABB",
