@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Associate Mechanical Design Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
+    "id": "abb-associate-mechanical-design-engineer-mebane"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Associate Project Engineer",
     "job_city": "Houston",
     "job_state": "Texas",
