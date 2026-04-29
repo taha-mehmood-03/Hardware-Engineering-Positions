@@ -1,13 +1,53 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Test Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Test Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-test-engineer/33099/92899969040",
+    "id": "arm-test-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer, AI Agents",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer, AI Agents at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/software-engineer-ai-agents/33099/94500679568",
+    "id": "arm-software-engineer-ai-agents-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer, AI Agents",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer, AI Agents at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-software-engineer-ai-agents/33099/94500679728",
+    "id": "arm-software-engineer-ai-agents-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Solutions Architect, Windows on Arm",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Solutions Architect, Windows on Arm at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-solutions-architect-windows-on-arm/33099/82643346864",
+    "id": "arm-solutions-architect-windows-on-arm-austin"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Sr. Systems Design Engineer, SSD Validation",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
+    "job_title": "BIOS Firmware Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Sr. Systems Design Engineer, SSD Validation at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41752114",
-    "id": "micron-sr-systems-design-engineer-ssd-validation-longmont"
+    "job_description": "hardware engineering job for the role Staff BIOS Firmware Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41673688",
+    "id": "micron-bios-firmware-engineer-boise"
   },
   {
     "employer_name": "ABB",
@@ -34,7 +74,7 @@
     "job_title": "Business Development Manager - LA Metro",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
     "id": "abb-business-development-manager-la-metro-multiple"
@@ -44,7 +84,7 @@
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
     "id": "abb-80-100-r-d-hw-engineer-quartino"
@@ -54,7 +94,7 @@
     "job_title": "Automation Engineer (Pharma/Biotech/Chemical)",
     "job_city": "Cork",
     "job_state": "Cork",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
@@ -64,7 +104,7 @@
     "job_title": "Associate Field Service Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
+    "job_posted_at": "3 weeks ago",
     "job_description": "hardware engineering job for the role Associate Field Service Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026716/Associate-Field-Service-Engineer",
     "id": "abb-associate-field-service-engineer-multiple"
