@@ -1,84 +1,54 @@
 [
   {
-    "job_title": "Satellite Test Hardware Engineer, Integrated Vehicle Test Team",
+    "job_title": "Systems Development Engineer (AWS Generative AI & ML Servers), AWS HW Engineering",
     "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Satellite Test Hardware Engineer, Integrated Vehicle Test Team at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10407093/satellite-test-hardware-engineer-integrated-vehicle-test-team",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Systems Development Engineer (AWS Generative AI & ML Servers), AWS HW Engineering at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10407236/systems-development-engineer-aws-generative-ai-ml-servers-aws-hw-engineering",
     "job_posted_at": "2026-04-29T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-04-29T00:00:00.000Z",
-    "id": "amazon-satellite-test-hardware-engineer-integrated-vehicle-test-team-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sr. Product Manager - Compute Subsystems (Physical AI)",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Product Manager - Compute Subsystems (Physical AI) at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/sr-product-manager-compute-subsystems-physical-ai/33099/94526853472",
-    "id": "arm-sr-product-manager-compute-subsystems-physical-ai-austin"
+    "id": "amazon-systems-development-engineer-aws-generative-ai-ml-servers-aws-hw-engineering-austin"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Physical Design Engineer",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "hardware engineering job for the role Staff Physical Design Engineer at Minneapolis, Minnesota, United States of America + 4 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41709383",
-    "id": "micron-physical-design-engineer-minneapolis"
+    "job_title": "Design Architecture, Member of Technical Staff,HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Design Architecture, Member of Technical Staff,HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41709659",
+    "id": "micron-design-architecture-member-of-technical-staff-hbm-richardson"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Mechanical Design Engineer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
-    "id": "abb-associate-mechanical-design-engineer-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Category Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
-    "id": "abb-category-manager-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Category Manager at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025542/Category-Manager",
-    "id": "abb-category-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
     "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028671/Business-Development-Manager",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-houston"
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
@@ -139,15 +109,5 @@
     "job_description": "hardware engineering job for the role Category Manager IS/IT for ABB Robotics at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017334/Category-Manager-IS-IT-for-ABB-Robotics",
     "id": "abb-category-manager-is-it-for-abb-robotics-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
   }
 ]
