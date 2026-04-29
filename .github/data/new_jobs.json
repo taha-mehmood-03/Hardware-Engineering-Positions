@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Distinguished Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Distinguished Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/distinguished-engineer/33099/94519190352",
-    "id": "arm-distinguished-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Service Design & Transition Specialist",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Service Design & Transition Specialist at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-service-design-and-transition-specialist/33099/92334085632",
-    "id": "arm-service-design-transition-specialist-cambridge"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
@@ -51,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Control Systems Specialist",
-    "job_city": "Brno",
-    "job_state": "Jihomoravský kraj",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/92805119/Control-Systems-Specialist",
-    "id": "abb-control-systems-specialist-brno"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -81,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Automation Engineer (Pharma/Biotech/Chemical)",
     "job_city": "Cork",
     "job_state": "Cork",
@@ -98,6 +58,16 @@
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Control Systems Specialist",
+    "job_city": "Brno",
+    "job_state": "Jihomoravský kraj",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
+    "id": "abb-control-systems-specialist-brno"
   },
   {
     "employer_name": "ABB",
@@ -118,15 +88,5 @@
     "job_description": "hardware engineering job for the role Category Manager IS/IT for ABB Robotics at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017334/Category-Manager-IS-IT-for-ABB-Robotics",
     "id": "abb-category-manager-is-it-for-abb-robotics-shanghai"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "For: 2600793 Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role For: 2600793 Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Software---Firmware-Engineering---RTOS-low-level-platform-ARM-RISC-V-Drivers-SoC_2601183?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-for-2600793-senior-principal-embedded-firmware-software-engineer-networking-pam4-dsp-data-center-odsp-aec-microled-ai-connectivity-westborough"
   }
 ]
