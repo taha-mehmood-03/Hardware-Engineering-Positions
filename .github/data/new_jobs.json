@@ -1,5 +1,135 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff ATE Test Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff ATE Test Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-ate-test-engineer/33099/93101913968",
+    "id": "arm-senior-staff-ate-test-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Electronics Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Electronics Engineer at Cambridge, United Kingdom, Munich, Germany, Sophia Antipolis, France, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/electronics-engineer/33099/90634306128",
+    "id": "arm-electronics-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineering Capacity Planning Manager",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Engineering Capacity Planning Manager at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/engineering-capacity-planning-manager/33099/89386728912",
+    "id": "arm-engineering-capacity-planning-manager-multiple"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Engineering - Data AI - Florida",
+    "job_city": "CORAL GABLES",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Customer Success Engineering - Data AI - Florida at ProfessionalCORAL GABLES, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111226&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineering-data-ai-florida-coral-gables"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Consultant, Analytics Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sr. Consultant, Analytics Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112439&source=WEB_Search_NA",
+    "id": "ibm-sr-consultant-analytics-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative  Detroit Michigan",
+    "job_city": "Detroit",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative  Detroit Michigan at ProfessionalDetroit, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111182&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-detroit-michigan-detroit"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Engineer 2026- FutureNow - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2026- FutureNow - Chicago at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112424&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-2026-futurenow-chicago-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer AWS 2026 - FutureNow - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer AWS 2026 - FutureNow - Chicago at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112429&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-aws-2026-futurenow-chicago-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Development Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Business Development Analyst at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111156&source=WEB_Search_NA",
+    "id": "ibm-business-development-analyst-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud HCM Solution Architect - Core HR/Benefits/Compensation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Cloud HCM Solution Architect - Core HR/Benefits/Compensation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112731&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-hcm-solution-architect-core-hr-benefits-compensation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Data & AI Business Development Executive",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Oracle Data & AI Business Development Executive at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111976&source=WEB_Search_NA",
+    "id": "ibm-oracle-data-ai-business-development-executive-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Java Software Developer (Full Stack)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Java Software Developer (Full Stack) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109270&source=WEB_Search_NA",
+    "id": "ibm-java-software-developer-full-stack-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Specialist 2026 - FutureNow - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Security Specialist 2026 - FutureNow - Chicago at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=112434&source=WEB_Search_NA",
+    "id": "ibm-associate-security-specialist-2026-futurenow-chicago-chicago"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
