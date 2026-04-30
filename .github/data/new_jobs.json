@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineering (SRE) Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Director, Physical AI - Go-To-Market (Robotics)",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineering (SRE) Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=110957&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineering-sre-manager-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Senior Director, Physical AI - Go-To-Market (Robotics) at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-physical-ai-go-to-market-robotics/33099/94033890176",
+    "id": "arm-director-physical-ai-go-to-market-robotics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -24,7 +24,7 @@
     "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
+    "job_posted_at": "3 months ago",
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
@@ -34,10 +34,20 @@
     "job_title": "Business Development Manager - LA Metro",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
     "id": "abb-business-development-manager-la-metro-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Control Systems Specialist",
+    "job_city": "Brno",
+    "job_state": "Jihomoravský kraj",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
+    "id": "abb-control-systems-specialist-brno"
   },
   {
     "employer_name": "ABB",
@@ -64,20 +74,10 @@
     "job_title": "Automation Engineer (Pharma/Biotech/Chemical)",
     "job_city": "Cork",
     "job_state": "Cork",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Control Systems Specialist",
-    "job_city": "Brno",
-    "job_state": "Jihomoravský kraj",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
-    "id": "abb-control-systems-specialist-brno"
   },
   {
     "employer_name": "ABB",
@@ -94,7 +94,7 @@
     "job_title": "Category Manager IS/IT for ABB Robotics",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
+    "job_posted_at": "5 weeks ago",
     "job_description": "hardware engineering job for the role Category Manager IS/IT for ABB Robotics at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017334/Category-Manager-IS-IT-for-ABB-Robotics",
     "id": "abb-category-manager-is-it-for-abb-robotics-shanghai"
