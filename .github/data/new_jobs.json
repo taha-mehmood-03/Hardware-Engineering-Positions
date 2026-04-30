@@ -1,23 +1,65 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Consultant - Energy & Carbon Services",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
-    "id": "abb-consultant-energy-carbon-services-multiple"
+    "job_title": "Network Technician III, Network Technician, Network Product Design",
+    "employer_name": "Amazon",
+    "job_city": "Kent",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Network Technician III, Network Technician, Network Product Design at Kent, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408135/network-technician-iii-network-technician-network-product-design",
+    "job_posted_at": "2026-04-30T18:19:11.838Z",
+    "job_posted_at_datetime_utc": "2026-04-30T18:19:11.838Z",
+    "id": "amazon-network-technician-iii-network-technician-network-product-design-kent"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager, West Region, Robotics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager, West Region, Robotics at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023874/Business-Development-Manager-West-Region-Robotics",
-    "id": "abb-business-development-manager-west-region-robotics-multiple"
+    "job_title": "Lab Technician II, Network Product Development",
+    "employer_name": "Amazon",
+    "job_city": "Kent",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Lab Technician II, Network Product Development at Kent, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408136/lab-technician-ii-network-product-development",
+    "job_posted_at": "2026-04-30T18:19:11.838Z",
+    "job_posted_at_datetime_utc": "2026-04-30T18:19:11.838Z",
+    "id": "amazon-lab-technician-ii-network-product-development-kent"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager – Manufacturing Test Operations",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager – Manufacturing Test Operations at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-manager-manufacturing-test-operations/33099/94564327792",
+    "id": "arm-manager-manufacturing-test-operations-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer (Formal Verification)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Verification Engineer (Formal Verification) at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-formal-verification/33099/94207623024",
+    "id": "arm-verification-engineer-formal-verification-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI & Data Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI & Data Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=111412&source=WEB_Search_NA",
+    "id": "ibm-ai-data-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Director of Pre‑Sales, Financial Services",
+    "job_city": "CORAL GABLES",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Pre‑Sales, Financial Services at ProfessionalCORAL GABLES, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=111970&source=WEB_Search_NA",
+    "id": "ibm-director-of-pre-sales-financial-services-coral-gables"
   },
   {
     "employer_name": "ABB",
@@ -28,6 +70,16 @@
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,16 +120,6 @@
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineer",
-    "job_city": "Saint-Laurent",
-    "job_state": "Quebec",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
-    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
