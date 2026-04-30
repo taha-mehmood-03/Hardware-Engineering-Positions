@@ -1,43 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Physical AI - Go-To-Market (Robotics)",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Global Security - Senior Penetration Testing Consultant - X-Force Red",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, Physical AI - Go-To-Market (Robotics) at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-physical-ai-go-to-market-robotics/33099/94033890176",
-    "id": "arm-director-physical-ai-go-to-market-robotics-multiple"
+    "job_description": "Hardware Engineering job for the role Global Security - Senior Penetration Testing Consultant - X-Force Red at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112440&source=WEB_Search_NA",
+    "id": "ibm-global-security-senior-penetration-testing-consultant-x-force-red-austin"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_title": "Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
+    "id": "abb-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, West Region, Robotics",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
+    "job_description": "hardware engineering job for the role Business Development Manager, West Region, Robotics at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023874/Business-Development-Manager-West-Region-Robotics",
+    "id": "abb-business-development-manager-west-region-robotics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +68,16 @@
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineer",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
+    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
