@@ -1,65 +1,45 @@
 [
   {
-    "job_title": "Network Technician III, Network Technician, Network Product Design",
+    "job_title": "Systems Development Engineer, Tech Deploy- Systems Integration",
     "employer_name": "Amazon",
-    "job_city": "Kent",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Network Technician III, Network Technician, Network Product Design at Kent, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408135/network-technician-iii-network-technician-network-product-design",
-    "job_posted_at": "2026-04-30T18:19:11.838Z",
-    "job_posted_at_datetime_utc": "2026-04-30T18:19:11.838Z",
-    "id": "amazon-network-technician-iii-network-technician-network-product-design-kent"
+    "job_city": "N.Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Systems Development Engineer, Tech Deploy- Systems Integration at N.Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408270/systems-development-engineer-tech-deploy-systems-integration",
+    "job_posted_at": "2026-04-30T19:59:16.105Z",
+    "job_posted_at_datetime_utc": "2026-04-30T19:59:16.105Z",
+    "id": "amazon-systems-development-engineer-tech-deploy-systems-integration-n-reading"
   },
   {
-    "job_title": "Lab Technician II, Network Product Development",
+    "job_title": "Electrical Field Engineer, JAN Field Engineering",
     "employer_name": "Amazon",
-    "job_city": "Kent",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Lab Technician II, Network Product Development at Kent, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408136/lab-technician-ii-network-product-development",
-    "job_posted_at": "2026-04-30T18:19:11.838Z",
-    "job_posted_at_datetime_utc": "2026-04-30T18:19:11.838Z",
-    "id": "amazon-lab-technician-ii-network-product-development-kent"
+    "job_city": "Canton",
+    "job_state": "MS",
+    "job_description": "hardware engineering job for the role Electrical Field Engineer, JAN Field Engineering at Canton, MS, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408240/electrical-field-engineer-jan-field-engineering",
+    "job_posted_at": "2026-04-30T18:59:16.106Z",
+    "job_posted_at_datetime_utc": "2026-04-30T18:59:16.106Z",
+    "id": "amazon-electrical-field-engineer-jan-field-engineering-canton"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Manager – Manufacturing Test Operations",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager – Manufacturing Test Operations at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-manager-manufacturing-test-operations/33099/94564327792",
-    "id": "arm-manager-manufacturing-test-operations-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer (Formal Verification)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer (Formal Verification) at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-formal-verification/33099/94207623024",
-    "id": "arm-verification-engineer-formal-verification-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI & Data Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI & Data Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=111412&source=WEB_Search_NA",
-    "id": "ibm-ai-data-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Director of Pre‑Sales, Financial Services",
-    "job_city": "CORAL GABLES",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director of Pre‑Sales, Financial Services at ProfessionalCORAL GABLES, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=111970&source=WEB_Search_NA",
-    "id": "ibm-director-of-pre-sales-financial-services-coral-gables"
+    "employer_name": "ABB",
+    "job_title": "Application Engineer",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
+    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
