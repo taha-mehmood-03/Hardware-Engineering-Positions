@@ -1,6 +1,4 @@
 [
-  "abb-elds-lv-swgr-quality-inspector-2nd-shift-mebane",
-  "abb-elds-lv-swgr-team-leader-1st-shift-mebane",
   "abb-elds-lv-swgr-trainer-1st-shift-mebane",
   "abb-elds-lv-swgr-trainer-mebane",
   "abb-elds-mv-swgr-1st-shift-mebane",
@@ -2724,6 +2722,7 @@
   "amazon-post-silicon-systems-validation-engineer-annapurna-labs-austin",
   "amazon-power-electronics-engineer-prime-air-propulsion-prime-air-seattle",
   "amazon-power-systems-test-engineer-amazon-leo-redmond",
+  "amazon-power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
   "amazon-power-test-liaison-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
   "amazon-pre-construction-manager-amer-southeast-ml-data-center-pre-construction-atlanta",
   "amazon-pre-construction-manager-amer-west-data-center-construction-dallas",
@@ -7391,6 +7390,7 @@
   "ibm-software-engineer-incident-excellence-hashicorp-austin",
   "ibm-software-engineer-intern-ai-accelerators-research-multiple-cities",
   "ibm-software-engineer-intern-entry-level-sales-program-multiple-cities",
+  "ibm-software-engineer-irvine",
   "ibm-software-engineer-lowell",
   "ibm-software-engineer-multiple-cities",
   "ibm-software-engineer-noobaa-development-coral-gables",
