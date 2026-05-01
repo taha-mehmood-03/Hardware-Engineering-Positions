@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "(New College Grad) HBM Technical Customer Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role (New College Grad) HBM Technical Customer Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41709382",
-    "id": "micron-new-college-grad-hbm-technical-customer-manager-boise"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -41,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Associate Hardware Project Engineer",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Associate Hardware Project Engineer at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032415/Associate-Hardware-Project-Engineer",
+    "id": "abb-associate-hardware-project-engineer-cleveland"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Control Systems Specialist",
     "job_city": "Brno",
     "job_state": "Jihomoravský kraj",
@@ -58,16 +58,6 @@
     "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
     "id": "abb-80-100-r-d-hw-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Hardware Project Engineer",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Associate Hardware Project Engineer at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032415/Associate-Hardware-Project-Engineer",
-    "id": "abb-associate-hardware-project-engineer-cleveland"
   },
   {
     "employer_name": "ABB",
