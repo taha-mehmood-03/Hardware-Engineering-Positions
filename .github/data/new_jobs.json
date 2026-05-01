@@ -1,23 +1,13 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Director, Strategic Sales – Cloud AI & Datacenter",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "job_title": "Technical Enablement Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, Strategic Sales – Cloud AI & Datacenter at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/director-strategic-sales-cloud-ai-and-datacenter/33099/94488911584",
-    "id": "arm-director-strategic-sales-cloud-ai-datacenter-waltham"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager, Market Intelligence - Physical AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Manager, Market Intelligence - Physical AI at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/manager-market-intelligence-physical-ai/33099/94311949968",
-    "id": "arm-manager-market-intelligence-physical-ai-san-jose"
+    "job_description": "Hardware Engineering job for the role Senior Technical Enablement Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-technical-enablement-engineer/33099/94590504976",
+    "id": "arm-technical-enablement-engineer-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -28,6 +18,16 @@
     "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
     "id": "abb-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, West Region, Robotics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager, West Region, Robotics at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023874/Business-Development-Manager-West-Region-Robotics",
+    "id": "abb-business-development-manager-west-region-robotics-multiple"
   },
   {
     "employer_name": "ABB",

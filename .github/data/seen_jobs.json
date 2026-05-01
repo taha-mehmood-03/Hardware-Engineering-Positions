@@ -1,5 +1,4 @@
 [
-  "abb-elds-fabrication-warehouse-internal-logistics-operator-1st-shift-mebane",
   "abb-elds-lv-swgr-production-operator-1st-shift-mebane",
   "abb-elds-lv-swgr-production-operator-2nd-shift-mebane",
   "abb-elds-lv-swgr-quality-inspector-2nd-shift-mebane",
@@ -4685,6 +4684,7 @@
   "arm-technical-director-austin",
   "arm-technical-director-bengaluru",
   "arm-technical-director-cambridge",
+  "arm-technical-enablement-engineer-cambridge",
   "arm-technical-program-director-ai-san-jose",
   "arm-technical-program-manager-bengaluru",
   "arm-technical-program-manager-data-center-bengaluru",
