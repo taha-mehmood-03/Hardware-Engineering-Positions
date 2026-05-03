@@ -1,6 +1,4 @@
 [
-  "abb-elds-mv-swgr-production-operator-1st-shift-8-mebane",
-  "abb-elds-mv-swgr-production-operator-1st-shift-mebane",
   "abb-elds-mv-swgr-production-operator-2nd-shift-mebane",
   "abb-elds-nam-operations-controller-multiple",
   "abb-elds-production-operator-epoxy-line-1st-shift-mebane",
@@ -110,6 +108,7 @@
   "abb-industrial-engineer-configuration-manager-multiple",
   "abb-industrial-sales-specialist-west-multiple",
   "abb-industry-application-engineer-semiconductor-multiple",
+  "abb-industry-sales-manager-hazardous-area-industries-iec-lv-motors-multiple",
   "abb-industry-sales-manager-multiple",
   "abb-industry-sales-specialist-multiple",
   "abb-industry-segment-sales-manager-infrastructure-multiple",
@@ -246,6 +245,7 @@
   "abb-product-specialist-motion-services-not-specific",
   "abb-product-support-engineer-not-specific",
   "abb-production-engineering-specialist-not-specific",
+  "abb-production-engineering-specialist-selmer",
   "abb-production-engineering-specialist-xiamen",
   "abb-production-operator-entry-mebane",
   "abb-production-operator-smart-power-lp-2nd-shift-mebane",
