@@ -1,6 +1,4 @@
 [
-  "abb-elds-quality-specialist-mebane",
-  "abb-elds-sales-specialist-pb-not-specific",
   "abb-elds-special-processes-department-production-operator-1st-shift-mebane",
   "abb-elds-warehouse-internal-logistics-operator-mebane",
   "abb-electrical-designer-robotics-projects-ciudad-de-mexico",
@@ -4229,6 +4227,7 @@
   "arm-performance-engineer-eda-workloads-austin",
   "arm-performance-engineer-multiple",
   "arm-performance-engineer-pre-silicon-cambridge",
+  "arm-performance-engineer-san-jose",
   "arm-performance-modelling-engineer-cambridge",
   "arm-performance-modelling-engineer-cpu-cambridge",
   "arm-performance-modelling-engineer-interconnect-ip-cambridge",
@@ -8474,6 +8473,7 @@
   "micron-construction-controls-program-manager-boise",
   "micron-customer-technology-solutions-architecture-boise",
   "micron-customer-validation-engineer-longmont",
+  "micron-customer-validation-engineer-ssd-longmont",
   "micron-data-engineer-boise",
   "micron-data-science-manager-boise",
   "micron-data-scientist-agentic-platform-boise",
