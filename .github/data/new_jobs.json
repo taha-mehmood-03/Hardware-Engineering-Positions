@@ -1,35 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Solutions Sales Engineer - Confluent",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Solutions Sales Engineer - Confluent at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113568&source=WEB_Search_NA",
-    "id": "ibm-solutions-sales-engineer-confluent-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategic Account Manager - Confluent (Life Sciences)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Strategic Account Manager - Confluent (Life Sciences) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113545&source=WEB_Search_NA",
-    "id": "ibm-strategic-account-manager-confluent-life-sciences-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Specialist - Fusion Storage",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technology Sales Specialist - Fusion Storage at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113390&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-specialist-fusion-storage-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
@@ -180,13 +150,23 @@
     "id": "abb-automation-hw-engineer-multiple"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity",
-    "job_city": "Westborough",
-    "job_state": "MA",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Design Engineer - Automotive",
+    "job_city": "4 Locations",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Software---Firmware-Engineering---RTOS-low-level-platform-ARM-RISC-V-Drivers-SoC_2601183?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-embedded-firmware-software-engineer-networking-pam4-dsp-data-center-odsp-aec-microled-ai-connectivity-westborough"
+    "job_description": "hardware engineering job for the role Digital Design Engineer - Automotive at 4 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Centennial/Digital-Design-Engineer---Automotive_R258787?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-automotive-4-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Central Applications",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Engineer, Central Applications at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Engineer--Central-Applications_R254408?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-central-applications-2-locations"
   }
 ]
