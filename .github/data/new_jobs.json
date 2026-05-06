@@ -1,84 +1,43 @@
 [
   {
-    "job_title": "Global Category Manager, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Global Category Manager, Amazon Leo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3184488/global-category-manager-amazon-leo",
-    "job_posted_at": "2026-05-06T18:21:40.039Z",
-    "job_posted_at_datetime_utc": "2026-05-06T18:21:40.039Z",
-    "id": "amazon-global-category-manager-amazon-leo-bellevue"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "STO Manger",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role STO Manger at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/sto-manger/33099/94780999952",
-    "id": "arm-sto-manger-austin"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Oracle Cloud FIN Tech Lead",
-    "job_city": "Multiple Cities",
+    "job_title": "DevOps Engineer - IBM Quantum",
+    "job_city": "Yorktown Heights",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Oracle Cloud FIN Tech Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=97091&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-fin-tech-lead-multiple-cities"
+    "job_description": "Hardware Engineering job for the role DevOps Engineer - IBM Quantum at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113749&source=WEB_Search_NA",
+    "id": "ibm-devops-engineer-ibm-quantum-yorktown-heights"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Controller, Distribution Centers",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Business Controller, Distribution Centers at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033198/Business-Controller-Distribution-Centers",
-    "id": "abb-business-controller-distribution-centers-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Consultant - Energy & Carbon Services",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
-    "id": "abb-consultant-energy-carbon-services-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Coordinator",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Field Service Coordinator at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022914/Field-Service-Coordinator",
-    "id": "abb-field-service-coordinator-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager, West Region, Robotics",
+    "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager, West Region, Robotics at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023874/Business-Development-Manager-West-Region-Robotics",
-    "id": "abb-business-development-manager-west-region-robotics-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
-    "id": "abb-associate-field-service-technician-cleveland"
+    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -89,6 +48,26 @@
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Project Manager",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
+    "id": "abb-r-d-project-manager-bartlesville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -129,16 +108,6 @@
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineer",
-    "job_city": "Saint-Laurent",
-    "job_state": "Quebec",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
-    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
@@ -219,5 +188,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   }
 ]
