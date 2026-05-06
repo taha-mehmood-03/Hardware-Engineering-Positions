@@ -11,23 +11,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032038/Field-Service-Technician",
-    "id": "abb-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
+    "job_title": "Data Center COE Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 14 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,33 +31,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-houston"
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Field Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
+    "id": "abb-associate-field-service-technician-cleveland"
   },
   {
     "employer_name": "ABB",
     "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
+    "job_posted_at": "6 days ago",
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027587/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
+    "job_title": "Application Engineer",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
+    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
@@ -188,65 +188,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "FPGA/Firmware Design Engineer - FPGA architecture, design, modelling, simulation, and verification.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff FPGA/Firmware Design Engineer - FPGA architecture, design, modelling, simulation, and verification. at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-FPGA-Firmware-Design-Engineer---FPGA-architecture--design--modelling--simulation--and-verification_2601555?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-fpga-firmware-design-engineer-fpga-architecture-design-modelling-simulation-and-verification-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Software Engineer -  PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) and validation workflows.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Software Engineer -  PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) and validation workflows. at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Software-Engineer----PHY-layer-concepts--eg--SERDES--USB--PCIe--Ethernet--and-validation-workflows_2601413?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-software-engineer-phy-layer-concepts-e-g-serdes-usb-pcie-ethernet-and-validation-workflows-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Software Engineer - Central IP applications team /ownership of pre-silicon and post-silicon API support",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Software Engineer - Central IP applications team /ownership of pre-silicon and post-silicon API support at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Engineer---Central-IP-applications-team--ownership-of-pre-silicon-and-post-silicon-API-support_2601411?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-software-engineer-central-ip-applications-team-ownership-of-pre-silicon-and-post-silicon-api-support-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Software/Firmware Engineer-RISC-V validation backbone - spanning MCU integration, firmware, and automation",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Software/Firmware Engineer-RISC-V validation backbone - spanning MCU integration, firmware, and automation at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Firmware-Engineer-RISC-V-validation-backbone---spanning-MCU-integration--firmware--and-automation_2601556-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-software-firmware-engineer-risc-v-validation-backbone-spanning-mcu-integration-firmware-and-automation-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Software Engineer-PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) / Validation Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Software Engineer-PHY layer concepts (e.g., SERDES, USB, PCIe, Ethernet) / Validation Infrastructure at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Software-Engineer-PHY-layer-concepts--eg--SERDES--USB--PCIe--Ethernet----Validation-Infrastructure_2601409?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-software-engineer-phy-layer-concepts-e-g-serdes-usb-pcie-ethernet-validation-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sr. Staff Software Engineer/Embedded System Level Firmware - BGP, OSPF, VXLAN, EVPN, SDN, network virtualization",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Sr. Staff Software Engineer/Embedded System Level Firmware - BGP, OSPF, VXLAN, EVPN, SDN, network virtualization at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Sr-Staff-Software-Engineer-Embedded-System-Level-Firmware---BGP--OSPF--VXLAN--EVPN--SDN--network-virtualization_2601444?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-staff-software-engineer-embedded-system-level-firmware-bgp-ospf-vxlan-evpn-sdn-network-virtualization-2-locations"
   }
 ]
