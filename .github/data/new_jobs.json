@@ -1,47 +1,5 @@
 [
   {
-    "job_title": "Manufacturing Test Engineer, AWS Manufacturing and Repair",
-    "employer_name": "Amazon",
-    "job_city": "Florence",
-    "job_state": "KY",
-    "job_description": "hardware engineering job for the role Manufacturing Test Engineer, AWS Manufacturing and Repair at Florence, KY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413095/manufacturing-test-engineer-aws-manufacturing-and-repair",
-    "job_posted_at": "2026-05-07T00:42:44.266Z",
-    "job_posted_at_datetime_utc": "2026-05-07T00:42:44.266Z",
-    "id": "amazon-manufacturing-test-engineer-aws-manufacturing-and-repair-florence"
-  },
-  {
-    "job_title": "Manufacturing Test Engineer, Manufacturing Test Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Florence",
-    "job_state": "KY",
-    "job_description": "hardware engineering job for the role Manufacturing Test Engineer, Manufacturing Test Engineer at Florence, KY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413096/manufacturing-test-engineer-manufacturing-test-engineer",
-    "job_posted_at": "2026-05-07T00:42:44.266Z",
-    "job_posted_at_datetime_utc": "2026-05-07T00:42:44.266Z",
-    "id": "amazon-manufacturing-test-engineer-manufacturing-test-engineer-florence"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Test Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Test Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/staff-test-engineer/33099/92899969040",
-    "id": "arm-test-engineer-chandler"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Manager - HIG HBM PSE - Design Validation",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Senior Manager - HIG HBM PSE - Design Validation at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41806425",
-    "id": "micron-manager-hig-hbm-pse-design-validation-richardson"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -230,15 +188,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Intern - Robotics (Dexterity Data & Visual) - PhD",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Intern - Robotics (Dexterity Data & Visual) - PhD at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Intern---Robotics--Dexterity-Data---Visual----PhD_R262321?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-intern-robotics-dexterity-data-visual-phd-us"
   }
 ]
