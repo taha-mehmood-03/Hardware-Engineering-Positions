@@ -1,74 +1,43 @@
 [
   {
-    "job_title": "Satellite Systems Engineer, Amazon Leo - Avionics Verification and Test",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Satellite Systems Engineer, Amazon Leo - Avionics Verification and Test at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10414021/satellite-systems-engineer-amazon-leo-avionics-verification-and-test",
-    "job_posted_at": "2026-05-07T19:57:21.551Z",
-    "job_posted_at_datetime_utc": "2026-05-07T19:57:21.551Z",
-    "id": "amazon-satellite-systems-engineer-amazon-leo-avionics-verification-and-test-redmond"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Memory Design Engineer | HBM - TPG",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Memory Design Engineer | HBM - TPG at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41851975",
-    "id": "micron-memory-design-engineer-hbm-tpg-richardson"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "ELDS LV SWGR Team Leader 1st Shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role ELDS LV SWGR Team Leader 1st Shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033970/ELDS-LV-SWGR-Team-Leader-1st-Shift",
-    "id": "abb-elds-lv-swgr-team-leader-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Category Manager at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025542/Category-Manager",
-    "id": "abb-category-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Production Operator 1st Shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator 1st Shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026149/ELDS-MV-SWGR-Production-Operator-1st-Shift",
-    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Mechanical Design Engineer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
-    "id": "abb-associate-mechanical-design-engineer-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELSP Team Leader - BABA",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role ELSP Team Leader - BABA at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032156/ELSP-Team-Leader-BABA",
-    "id": "abb-elsp-team-leader-baba-mebane"
+    "job_description": "hardware engineering job for the role Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032038/Field-Service-Technician",
+    "id": "abb-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "empower Business Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role empower Business Functional Analyst at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
+    "id": "abb-empower-business-functional-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -89,6 +58,26 @@
     "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
     "id": "abb-associate-project-engineer-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
@@ -221,13 +210,13 @@
     "id": "abb-automation-hw-engineer-multiple"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Product Operations Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Product Operations Manager II at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Product-Operations-Manager-II_R262327?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-operations-manager-us"
   }
 ]
