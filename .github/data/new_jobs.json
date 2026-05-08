@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, IP and CSS Product Management",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, IP and CSS Product Management at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-ip-and-css-product-management/33099/87789072608",
-    "id": "arm-director-ip-and-css-product-management-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Field Applications Engineer (FAE)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Field Applications Engineer (FAE) at Cambridge, United Kingdom, Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-field-applications-engineer-fae/33099/94859311120",
-    "id": "arm-field-applications-engineer-fae-cambridge"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "HBM SoC Design Engineer",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted 22 days ago",
-    "job_description": "hardware engineering job for the role HBM SoC Design Engineer at Folsom, California, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41044579",
-    "id": "micron-hbm-soc-design-engineer-folsom"
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -38,16 +18,6 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 14 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
     "id": "abb-data-center-coe-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Account Manager, Laboratory Automation",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,6 +48,16 @@
     "job_description": "hardware engineering job for the role Account Manager, Laboratory Automation at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026229/Account-Manager-Laboratory-Automation",
     "id": "abb-account-manager-laboratory-automation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -151,16 +121,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 -100%) R&D HW Engineer",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
-    "id": "abb-80-100-r-d-hw-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer",
     "job_city": "Ahmedabad",
     "job_state": "Gujarāt",
@@ -168,6 +128,16 @@
     "job_description": "hardware engineering job for the role Field Service Engineer at Ahmedabad, Gujarāt, India",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030437/Field-Service-Engineer",
     "id": "abb-field-service-engineer-ahmedabad"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(80 -100%) R&D HW Engineer",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
+    "id": "abb-80-100-r-d-hw-engineer-quartino"
   },
   {
     "employer_name": "ABB",
@@ -288,5 +258,75 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog Design Engineer - Hearable/Wearable",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog Design Engineer - Hearable/Wearable at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analog-Design-Engineer_R257756?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-design-engineer-hearable-wearable-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog & Mixed-Signal Design Engineer - Power/ATE",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Analog & Mixed-Signal Design Engineer - Power/ATE at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/Principal-Analog---Mixed-Signal-Design-Engineer_R258818-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-mixed-signal-design-engineer-power-ate-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Mixed-Signal/Analog Design Engineer - Power/ATE",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Mixed-Signal/Analog Design Engineer - Power/ATE at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/Principal-Mixed-Signal-Analog-Design-Engineer_R258796?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mixed-signal-analog-design-engineer-power-ate-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog & Mixed-Signal Design Engineer - Power/ATE",
+    "job_city": "US",
+    "job_state": "CO",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog & Mixed-Signal Design Engineer - Power/ATE at US, CO, Colorado Springs, Chapel Hills",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Chapel-Hills/Staff-Analog---Mixed-Signal-Design-Engineer_R258819?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-mixed-signal-design-engineer-power-ate-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Power Module Design Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Power Module Design Manager at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Sr-Power-Module-Design-Manager_R262275?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-power-module-design-manager-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Automotive Product and Test Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Automotive Product and Test Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Automotive-Product-and-Test-Engineering_R262483?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-automotive-product-and-test-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Research Scientist, Machine Learning",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Research Scientist, Machine Learning at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-Research-Scientist--Machine-Learning_R262485?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-research-scientist-machine-learning-us"
   }
 ]
