@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Maximo Delivery Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo Delivery Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113540&source=WEB_Search_NA",
-    "id": "ibm-maximo-delivery-consultant-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -21,33 +11,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_title": "Project Planning & Control Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Project Planning & Control Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031246/Project-Planning-Control-Manager",
+    "id": "abb-project-planning-control-manager-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "ELDS MV SWGR Production Operator- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024653/ELDS-MV-SWGR-Production-Operator-1st-shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Warehouse/Internal Logistics",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role ELSP Warehouse/Internal Logistics at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033895/ELSP-Warehouse-Internal-Logistics",
+    "id": "abb-elsp-warehouse-internal-logistics-mebane"
   },
   {
     "employer_name": "ABB",
@@ -58,6 +48,16 @@
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Engineer",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025395/Application-Engineer",
+    "id": "abb-application-engineer-saint-laurent"
   },
   {
     "employer_name": "ABB",
