@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "CPU Commodity Manager",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "3 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU Commodity Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84063837912736454-cpu-commodity-manager?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-cpu-commodity-manager-austin"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "GPU Verification Engineer",
-    "job_city": "Raanana",
-    "job_state": "Israel",
+    "job_title": "HPC Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior GPU Verification Engineer at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/senior-gpu-verification-engineer/33099/92956824784",
-    "id": "arm-gpu-verification-engineer-raanana"
+    "job_description": "Hardware Engineering job for the role HPC Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/hpc-engineer/33099/94961820400",
+    "id": "arm-hpc-engineer-austin"
   },
   {
     "employer_name": "ABB",
@@ -61,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "HSE Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Associate Hardware Project Engineer",
     "job_city": "Cleveland",
     "job_state": "Ohio",
@@ -101,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Ahmedabad",
-    "job_state": "Gujarāt",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer at Ahmedabad, Gujarāt, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030437/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-ahmedabad"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -118,6 +88,16 @@
     "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
     "id": "abb-80-100-r-d-hw-engineer-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer",
+    "job_city": "Ahmedabad",
+    "job_state": "Gujarāt",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Field Service Engineer at Ahmedabad, Gujarāt, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030437/Field-Service-Engineer",
+    "id": "abb-field-service-engineer-ahmedabad"
   },
   {
     "employer_name": "ABB",
