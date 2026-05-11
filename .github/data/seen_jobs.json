@@ -1,6 +1,4 @@
 [
-  "abb-internship-fpga-verification-engineer-krakow",
-  "abb-internship-fpga-verification-engineer-not-specific",
   "abb-internship-in-amr-navigation-not-specific",
   "abb-internship-in-computer-vision-and-ai-not-specific",
   "abb-internship-is-operations-support-krakow",
@@ -3876,6 +3874,7 @@
   "arm-gpu-modelling-intern-trondheim",
   "arm-gpu-software-applications-engineer-hsinchu",
   "arm-gpu-sw-infrastructure-development-intern-raanana",
+  "arm-gpu-verification-engineer-raanana",
   "arm-graduate-ai-ml-hardware-verification-engineer-raanana",
   "arm-graduate-cpu-microarchitecture-modelling-and-performance-analysis-sophia-antipolis",
   "arm-graduate-cpu-os-verification-software-hardware-engineer-sophia-antipolis",
@@ -5508,6 +5507,7 @@
   "google-cpu-architecture-and-performance-engineer-mountain-view",
   "google-cpu-architecture-lead-poughkeepsie",
   "google-cpu-cache-subsystem-design-manager-mountain-view",
+  "google-cpu-commodity-manager-austin",
   "google-cpu-commodity-manager-sunnyvale",
   "google-cpu-design-verification-engineer-mountain-view",
   "google-cpu-design-verification-engineer-poughkeepsie",
