@@ -1,47 +1,5 @@
 [
   {
-    "job_title": "Software Development Engineer, AWS Transactional Services",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Transactional Services at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10416198/software-development-engineer-aws-transactional-services",
-    "job_posted_at": "2026-05-11T16:58:04.991Z",
-    "job_posted_at_datetime_utc": "2026-05-11T16:58:04.991Z",
-    "id": "amazon-software-development-engineer-aws-transactional-services-seattle"
-  },
-  {
-    "job_title": "Design Technologist, Devices & Services Experience Design",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Design Technologist, Devices & Services Experience Design at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10416150/design-technologist-devices-services-experience-design",
-    "job_posted_at": "2026-05-11T16:58:04.991Z",
-    "job_posted_at_datetime_utc": "2026-05-11T16:58:04.991Z",
-    "id": "amazon-design-technologist-devices-services-experience-design-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager Business Development",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager Business Development at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-business-development/33099/84516812672",
-    "id": "arm-manager-business-development-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - Confluent DevProd",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Confluent DevProd at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114394&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-confluent-devprod-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -73,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Vice President Sales, C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -80,6 +48,16 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "HSE Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
+    "id": "abb-hse-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -160,6 +138,16 @@
     "job_description": "hardware engineering job for the role Automation Engineer (Pharma/Biotech/Chemical) at Cork, Cork, Ireland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021074/Automation-Engineer-Pharma-Biotech-Chemical",
     "id": "abb-automation-engineer-pharma-biotech-chemical-cork"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
+    "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
   },
   {
     "employer_name": "ABB",
