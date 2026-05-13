@@ -1,23 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer/ Senior Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Tech Lead Manager",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer/ Senior Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer-senior-software-engineer/33099/89611383968",
-    "id": "arm-software-engineer-senior-software-engineer-bengaluru"
+    "job_description": "55 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Tech Lead Manager, Kubernetes AI Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/118572156379374278-tech-lead-manager-kubernetes-ai-infrastructure?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-tech-lead-manager-kirkland"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Principal AMBA Architect",
-    "job_city": "Sheffield",
+    "job_title": "Security Business Analyst",
+    "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal AMBA Architect at Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/sheffield/senior-principal-amba-architect/33099/95039796160",
-    "id": "arm-principal-amba-architect-sheffield"
+    "job_description": "Hardware Engineering job for the role Security Business Analyst at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/security-business-analyst/33099/95043880928",
+    "id": "arm-security-business-analyst-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -171,16 +171,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior ICSS Lead Engineer (2 Years Contract Role)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior ICSS Lead Engineer (2 Years Contract Role) at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032351/Senior-ICSS-Lead-Engineer-2-Years-Contract-Role",
-    "id": "abb-senior-icss-lead-engineer-2-years-contract-role-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -241,16 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Engineer",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Project Engineer at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022783/Project-Engineer",
-    "id": "abb-project-engineer-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer - System 800xA (Safety)",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
@@ -298,5 +278,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director Product Marketing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Director Product Marketing at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Marketing_2601855?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-product-marketing-santa-clara"
   }
 ]
