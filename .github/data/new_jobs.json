@@ -1,33 +1,53 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "employer_name": "Arm",
+    "job_title": "Platform Security Architect -Firmware & Operating Systems",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Platform Security Architect -Firmware & Operating Systems at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-platform-security-architect-firmware-and-operating-systems/33099/94995520928",
+    "id": "arm-platform-security-architect-firmware-operating-systems-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Security Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Software Security Engineer at Sophia Antipolis, France, Cambridge, United Kingdom, Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-software-security-engineer/33099/95081028640",
+    "id": "arm-software-security-engineer-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Financial Analyst",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Financial Analyst at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-financial-analyst/33099/95013088896",
+    "id": "arm-financial-analyst-cambridge"
   },
   {
     "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
+    "job_title": "Business Controller, Distribution Centers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
+    "job_description": "hardware engineering job for the role Business Controller, Distribution Centers at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033198/Business-Controller-Distribution-Centers",
+    "id": "abb-business-controller-distribution-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -41,6 +61,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
+    "id": "abb-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,16 +78,6 @@
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
