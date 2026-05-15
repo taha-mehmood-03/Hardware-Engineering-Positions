@@ -1,14 +1,13 @@
 [
   {
-    "job_title": "Receiving Quality CMM Programmer, Amazon Leo - Quality Receiving",
-    "employer_name": "Amazon",
-    "job_city": "Everett",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Receiving Quality CMM Programmer, Amazon Leo - Quality Receiving at Everett, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10421237/receiving-quality-cmm-programmer-amazon-leo-quality-receiving",
-    "job_posted_at": "2026-05-15T17:23:00.813Z",
-    "job_posted_at_datetime_utc": "2026-05-15T17:23:00.813Z",
-    "id": "amazon-receiving-quality-cmm-programmer-amazon-leo-quality-receiving-everett"
+    "employer_name": "IBM",
+    "job_title": "Program Manager",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Program Manager at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115525&source=WEB_Search_NA",
+    "id": "ibm-program-manager-armonk"
   },
   {
     "employer_name": "ABB",
@@ -59,6 +58,16 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
     "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrification Services Application Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Electrification Services Application Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
+    "id": "abb-electrification-services-application-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -229,15 +238,5 @@
     "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
     "id": "abb-business-development-manager-la-metro-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Audio/DSP Systems Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Audio/DSP Systems Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Audio-DSP-Systems-Engineer_R262446?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-audio-dsp-systems-engineer-us"
   }
 ]
