@@ -1,33 +1,33 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Private Cloud Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Graduate Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Private Cloud Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-private-cloud-engineer/33099/95122380224",
-    "id": "arm-private-cloud-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Graduate Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-engineer/33099/95128344880",
+    "id": "arm-graduate-engineer-cambridge"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "employer_name": "Arm",
+    "job_title": "Application Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Application Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-application-engineer/33099/92634397424",
+    "id": "arm-application-engineer-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
+    "employer_name": "Micron",
+    "job_title": "Staff, Systems Software Engineer, SMS",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Staff, Systems Software Engineer, SMS at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40837117",
+    "id": "micron-staff-systems-software-engineer-sms-richardson"
   },
   {
     "employer_name": "ABB",
@@ -41,23 +41,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Machine Operator - ELSP",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
+    "job_description": "hardware engineering job for the role Machine Operator - ELSP at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033401/Machine-Operator-ELSP",
+    "id": "abb-machine-operator-elsp-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Category Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Category Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
+    "id": "abb-category-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024653/ELDS-MV-SWGR-Production-Operator-1st-shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026193/ELDS-MV-SWGR-Production-Operator-2nd-shift",
+    "id": "abb-elds-mv-swgr-production-operator-2nd-shift-mebane"
   },
   {
     "employer_name": "ABB",
@@ -81,16 +111,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Ahmedabad",
-    "job_state": "Gujarāt",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer at Ahmedabad, Gujarāt, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030437/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-ahmedabad"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 -100%) R&D HW Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -98,6 +118,16 @@
     "job_description": "hardware engineering job for the role (80 -100%) R&D HW Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028479/-80-100-R-D-HW-Engineer",
     "id": "abb-80-100-r-d-hw-engineer-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer",
+    "job_city": "Ahmedabad",
+    "job_state": "Gujarāt",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Field Service Engineer at Ahmedabad, Gujarāt, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030437/Field-Service-Engineer",
+    "id": "abb-field-service-engineer-ahmedabad"
   },
   {
     "employer_name": "ABB",
@@ -218,5 +248,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   }
 ]
