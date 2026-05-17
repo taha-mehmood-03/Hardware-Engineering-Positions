@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Micron",
+    "job_title": "DRAM Product Engineer Media Health Probe",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role DRAM Product Engineer Media Health Probe at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41848061",
+    "id": "micron-dram-product-engineer-media-health-probe-boise"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -21,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -41,6 +41,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,16 +58,6 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
     "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrification Services Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Electrification Services Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
-    "id": "abb-electrification-services-application-engineer-multiple"
   },
   {
     "employer_name": "ABB",
