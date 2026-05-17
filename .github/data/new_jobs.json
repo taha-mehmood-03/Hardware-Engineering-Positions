@@ -1,5 +1,16 @@
 [
   {
+    "job_title": "Hardware Development Engineer Co-op (FALL)",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer Co-op (FALL) at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10421947/hardware-development-engineer-co-op-fall",
+    "job_posted_at": "2026-05-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-05-17T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-co-op-fall-sunnyvale"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -8,6 +19,16 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -28,16 +49,6 @@
     "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
     "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
