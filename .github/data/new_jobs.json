@@ -11,16 +11,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,6 +28,16 @@
     "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
