@@ -1,16 +1,5 @@
 [
   {
-    "job_title": "Hardware Development Engineer Co-op (FALL)",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer Co-op (FALL) at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10421947/hardware-development-engineer-co-op-fall",
-    "job_posted_at": "2026-05-17T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-05-17T00:00:00.000Z",
-    "id": "amazon-hardware-development-engineer-co-op-fall-sunnyvale"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -32,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -49,6 +28,16 @@
     "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
     "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -149,16 +138,6 @@
     "job_description": "hardware engineering job for the role Associate Field Service Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026716/Associate-Field-Service-Engineer",
     "id": "abb-associate-field-service-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer (m/f/d) - Process Control Systems / Automation Technology",
-    "job_city": "Ratingen",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer (m/f/d) - Process Control Systems / Automation Technology at Ratingen, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029735/Field-Service-Engineer-m-f-d-Process-Control-Systems-Automation-Technology",
-    "id": "abb-field-service-engineer-m-f-d-process-control-systems-automation-technology-ratingen"
   },
   {
     "employer_name": "ABB",
