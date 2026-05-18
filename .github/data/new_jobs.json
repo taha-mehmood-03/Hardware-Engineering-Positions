@@ -1,13 +1,33 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 14 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "employer_name": "Arm",
+    "job_title": "Platform Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Platform Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-platform-engineer/33099/95251267648",
+    "id": "arm-platform-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Application Engineer (New York City)",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Field Application Engineer (New York City) at Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/waltham/principal-field-application-engineer-new-york-city/33099/84516810384",
+    "id": "arm-field-application-engineer-new-york-city-waltham"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Forward Deployed Engineer, Performance",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Forward Deployed Engineer, Performance at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-forward-deployed-engineer-performance/33099/89134883440",
+    "id": "arm-forward-deployed-engineer-performance-austin"
   },
   {
     "employer_name": "ABB",
@@ -21,6 +41,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030653/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -28,26 +58,6 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
     "id": "abb-data-center-coe-project-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Channel Director - KS, IA, NE, MO",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
-    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,23 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Data Centers",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Key Account Manager - Data Centers at Available in one of 12 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031397/Key-Account-Manager-Data-Centers",
-    "id": "abb-key-account-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +88,16 @@
     "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
     "id": "abb-business-development-manager-la-metro-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Adoption Lead for R&D",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
+    "id": "abb-ai-adoption-lead-for-r-d-multiple"
   },
   {
     "employer_name": "ABB",
