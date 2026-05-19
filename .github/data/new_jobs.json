@@ -1,14 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer — CI/CD, Trainium Manufacturing Test Infrastructure",
+    "job_title": "Global Supply Manager, AWS Infrastructure Services",
     "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer — CI/CD, Trainium Manufacturing Test Infrastructure at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10423116/software-development-engineer-ci-cd-trainium-manufacturing-test-infrastructure",
-    "job_posted_at": "2026-05-18T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-05-18T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ci-cd-trainium-manufacturing-test-infrastructure-cupertino"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Global Supply Manager, AWS Infrastructure Services at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10423206/global-supply-manager-aws-infrastructure-services",
+    "job_posted_at": "2026-05-19T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-05-19T00:00:00.000Z",
+    "id": "amazon-global-supply-manager-aws-infrastructure-services-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant - AI Engineer",
+    "job_city": "Denver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Consultant - AI Engineer at ProfessionalDenver, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112446&source=WEB_Search_NA",
+    "id": "ibm-consultant-ai-engineer-denver"
   },
   {
     "employer_name": "ABB",
@@ -55,7 +65,7 @@
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
     "id": "abb-business-process-manager-multiple"
@@ -175,7 +185,7 @@
     "job_title": "Field Service Engineer - System 800xA (Safety)",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Field Service Engineer - System 800xA (Safety) at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019557/Field-Service-Engineer-System-800xA-Safety",
     "id": "abb-field-service-engineer-system-800xa-safety-doha"
@@ -215,7 +225,7 @@
     "job_title": "Associate Field Service Technician",
     "job_city": "Cleveland",
     "job_state": "Ohio",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
     "id": "abb-associate-field-service-technician-cleveland"
