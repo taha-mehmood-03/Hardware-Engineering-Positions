@@ -1,83 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Lab Technician (Apprentice Conversion)",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Lab Technician (Apprentice Conversion) at ProfessionalTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116525&source=WEB_Search_NA",
-    "id": "ibm-lab-technician-apprentice-conversion-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "ServiceNow Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ServiceNow Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116182&source=WEB_Search_NA",
-    "id": "ibm-servicenow-architect-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "DevOps Engineer-AWS",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role DevOps Engineer-AWS at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113563&source=WEB_Search_NA",
-    "id": "ibm-devops-engineer-aws-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Adobe Fusion Developer",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Adobe Fusion Developer at ProfessionalNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115541&source=WEB_Search_NA",
-    "id": "ibm-adobe-fusion-developer-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum System Performance Senior Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum System Performance Senior Scientist at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115979&source=WEB_Search_NA",
-    "id": "ibm-quantum-system-performance-senior-scientist-yorktown-heights"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "Business Controller, Distribution Centers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "hardware engineering job for the role Business Controller, Distribution Centers at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033198/Business-Controller-Distribution-Centers",
+    "id": "abb-business-controller-distribution-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Marketing Manager, Data Centers",
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Consultant - Energy & Carbon Services",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
-    "id": "abb-strategic-marketing-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
+    "id": "abb-consultant-energy-carbon-services-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -111,13 +51,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -148,16 +88,6 @@
     "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
     "id": "abb-control-systems-specialist-brno"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Hardware Engineer Softstarter",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
-    "id": "abb-hardware-engineer-softstarter-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -211,6 +141,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineers",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Project Engineers at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024429/Project-Engineers",
+    "id": "abb-project-engineers-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Project Engineer at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022783/Project-Engineer",
+    "id": "abb-project-engineer-shanghai"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Engineer - System 800xA (Safety)",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
@@ -231,16 +181,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Beersel",
-    "job_state": "Flemish Brabant",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer at Beersel, Flemish Brabant, Belgium",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-beersel"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Electrical Hardware Engineer",
     "job_city": "Estonia",
     "job_state": "Estonia",
@@ -251,6 +191,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Field Service Engineer",
+    "job_city": "Beersel",
+    "job_state": "Flemish Brabant",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Field Service Engineer at Beersel, Flemish Brabant, Belgium",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer",
+    "id": "abb-field-service-engineer-beersel"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Automation HW Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -258,25 +208,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Consumer Applications Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Consumer Applications Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Consumer-Applications-Engineer_R262292?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-consumer-applications-engineer-us"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Mid-Level Electronics Lab Technician",
-    "job_city": "US-CA - Irvine",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Mid-Level Electronics Lab Technician at US-CA - Irvine",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---Irvine/Mid-Level-Electronics-Lab-Technician_2601779-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-mid-level-electronics-lab-technician-us-ca-irvine"
   }
 ]
