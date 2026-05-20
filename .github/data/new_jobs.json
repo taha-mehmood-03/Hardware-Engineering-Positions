@@ -1,85 +1,33 @@
 [
   {
-    "job_title": "Software Development Engineer, AWS Manufacturing Infrastructure Services",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Manufacturing Infrastructure Services at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10372460/software-development-engineer-aws-manufacturing-infrastructure-services",
-    "job_posted_at": "2026-05-20T00:04:00.993Z",
-    "job_posted_at_datetime_utc": "2026-05-20T00:04:00.993Z",
-    "id": "amazon-software-development-engineer-aws-manufacturing-infrastructure-services-cupertino"
-  },
-  {
-    "job_title": "UX Designer, Devices & Services Experience Design (DxD)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role UX Designer, Devices & Services Experience Design (DxD) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385687/ux-designer-devices-services-experience-design-dxd",
-    "job_posted_at": "2026-05-19T22:04:00.993Z",
-    "job_posted_at_datetime_utc": "2026-05-19T22:04:00.993Z",
-    "id": "amazon-ux-designer-devices-services-experience-design-dxd-seattle"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Hardware Acceleration Efficiency Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Finance Operations Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Acceleration Efficiency Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/hardware-acceleration-efficiency-architect/33099/95313598832",
-    "id": "arm-hardware-acceleration-efficiency-architect-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Signal and Power Integrity Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Signal and Power Integrity Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/staff-signal-and-power-integrity-engineer/33099/95313588336",
-    "id": "arm-signal-and-power-integrity-engineer-chandler"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "R & D Electrical Device Characterization Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 days ago",
-    "job_description": "hardware engineering job for the role R & D Electrical Device Characterization Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41749393",
-    "id": "micron-r-d-electrical-device-characterization-engineer-boise"
+    "job_description": "Hardware Engineering job for the role Finance Operations Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/finance-operations-analyst/33099/94956016624",
+    "id": "arm-finance-operations-analyst-bengaluru"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Agentic AI Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
-    "id": "abb-agentic-ai-intern-summer-san-jose"
+    "job_title": "Data Center COE Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 14 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Cloud and Edge Solutions Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
-    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -93,33 +41,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Named Account Manager - PG&E",
+    "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Named Account Manager - PG&E at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029802/Named-Account-Manager-PG-E",
-    "id": "abb-named-account-manager-pg-e-multiple"
+    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Hardware Project Engineer",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Hardware Project Engineer at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032415/Associate-Hardware-Project-Engineer",
-    "id": "abb-associate-hardware-project-engineer-cleveland"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Adoption Lead for R&D",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
+    "id": "abb-ai-adoption-lead-for-r-d-multiple"
   },
   {
     "employer_name": "ABB",
@@ -143,6 +121,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d)",
+    "job_city": "Ratingen",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) at Ratingen, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d",
+    "id": "abb-project-application-engineer-automation-engineer-dcs-and-protection-systems-f-m-d-ratingen"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -150,16 +138,6 @@
     "job_description": "hardware engineering job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -220,26 +198,6 @@
     "job_description": "hardware engineering job for the role Electrical Hardware Engineer at Estonia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024000/Electrical-Hardware-Engineer",
     "id": "abb-electrical-hardware-engineer-estonia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
-    "id": "abb-associate-field-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
