@@ -1,73 +1,63 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "System Hardware Reliability Engineer",
+    "job_title": "Senior Hardware Power Test Engineer",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "40 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: System Hardware Reliability Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128861315325141702-system-hardware-reliability-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-system-hardware-reliability-engineer-sunnyvale"
+    "job_description": "38 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Hardware Power Test Engineer, Platforms Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94374858242040518-senior-hardware-power-test-engineer-platforms-infrastructure?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-hardware-power-test-engineer-sunnyvale"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Field Applications Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
+    "job_title": "Software Engineer - Linux Kernel",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Field Applications Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/principal-field-applications-engineer/33099/95408453824",
-    "id": "arm-field-applications-engineer-taipei"
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Linux Kernel at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-software-engineer-linux-kernel/33099/94812113808",
+    "id": "arm-software-engineer-linux-kernel-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Linux Specialist - EUC",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Linux Specialist - EUC at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/linux-specialist-euc/33099/94812097584",
+    "id": "arm-linux-specialist-euc-bengaluru"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Proposal Engineer at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028517/Proposal-Engineer",
+    "id": "abb-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +68,36 @@
     "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
     "id": "abb-associate-project-engineer-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
@@ -268,15 +288,5 @@
     "job_description": "hardware engineering job for the role firmware intern at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035375/firmware-intern",
     "id": "abb-firmware-intern-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
   }
 ]
