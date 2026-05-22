@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "System Hardware Reliability Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "40 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: System Hardware Reliability Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128861315325141702-system-hardware-reliability-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-system-hardware-reliability-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Applications Engineer",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Field Applications Engineer at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/principal-field-applications-engineer/33099/95408453824",
+    "id": "arm-field-applications-engineer-taipei"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -21,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,13 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
+    "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +138,16 @@
     "job_description": "hardware engineering job for the role Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) at Ratingen, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d",
     "id": "abb-project-application-engineer-automation-engineer-dcs-and-protection-systems-f-m-d-ratingen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer-1",
+    "job_city": "Dubai",
+    "job_state": "Dubai",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Field Service Engineer-1 at Dubai, Dubai, United Arab Emirates",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026549/Field-Service-Engineer-1",
+    "id": "abb-field-service-engineer-1-dubai"
   },
   {
     "employer_name": "ABB",
