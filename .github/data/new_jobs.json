@@ -1,85 +1,5 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "SoC Design Engineer, HBM",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Principal SoC Design Engineer, HBM at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42023772",
-    "id": "micron-soc-design-engineer-hbm-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Professional",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Support Professional at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116542&source=WEB_Search_NA",
-    "id": "ibm-technical-support-professional-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Expert Labs Solution Architect – Power",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Expert Labs Solution Architect – Power at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116186&source=WEB_Search_NA",
-    "id": "ibm-expert-labs-solution-architect-power-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Architect",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Architect at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116533&source=WEB_Search_NA",
-    "id": "ibm-technical-architect-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Salesforce Technical Architect",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Salesforce Technical Architect at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116559&source=WEB_Search_NA",
-    "id": "ibm-salesforce-technical-architect-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Delivery Project Executive",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Delivery Project Executive at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116545&source=WEB_Search_NA",
-    "id": "ibm-delivery-project-executive-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP AVC/VC Lead",
-    "job_city": "PARAMUS",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP AVC/VC Lead at ProfessionalPARAMUS, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115864&source=WEB_Search_NA",
-    "id": "ibm-sap-avc-vc-lead-paramus"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. SAP Program Manager",
-    "job_city": "Atlanta",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. SAP Program Manager at ProfessionalAtlanta, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115866&source=WEB_Search_NA",
-    "id": "ibm-sr-sap-program-manager-atlanta"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -88,26 +8,6 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -128,6 +38,16 @@
     "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
     "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
