@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "employer_name": "Micron",
+    "job_title": "Shift Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Shift Equipment Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/42044100",
+    "id": "micron-shift-equipment-engineer-manassas"
   },
   {
     "employer_name": "ABB",
@@ -31,43 +21,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
+    "job_title": "Channel Director - California",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Channel Director - California at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-California",
+    "id": "abb-channel-director-california-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Adoption Lead for R&D",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
-    "id": "abb-ai-adoption-lead-for-r-d-multiple"
+    "job_title": "Associate Hardware Project Engineer",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Hardware Project Engineer at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032415/Associate-Hardware-Project-Engineer",
+    "id": "abb-associate-hardware-project-engineer-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -138,6 +118,16 @@
     "job_description": "hardware engineering job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -228,6 +218,26 @@
     "job_description": "hardware engineering job for the role Field Service Engineer at Beersel, Flemish Brabant, Belgium",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer",
     "id": "abb-field-service-engineer-beersel"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Field Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
+    "id": "abb-associate-field-service-technician-cleveland"
   },
   {
     "employer_name": "ABB",
