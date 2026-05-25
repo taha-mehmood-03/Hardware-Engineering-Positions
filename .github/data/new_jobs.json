@@ -1,5 +1,45 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Embedded & Platform Software Engineer, Workforce Development",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Embedded & Platform Software Engineer, Workforce Development at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-embedded-and-platform-software-engineer-workforce-development/33099/95551972768",
+    "id": "arm-embedded-platform-software-engineer-workforce-development-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "AI & Compute Systems Engineer, Workforce Development",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior AI & Compute Systems Engineer, Workforce Development at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-ai-and-compute-systems-engineer-workforce-development/33099/94590504976",
+    "id": "arm-ai-compute-systems-engineer-workforce-development-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Applied SoC & Hardware Engineer, Workforce Development",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Applied SoC & Hardware Engineer, Workforce Development at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-applied-soc-and-hardware-engineer-workforce-development/33099/94594386992",
+    "id": "arm-applied-soc-hardware-engineer-workforce-development-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Consultant - Apptio Premier Success",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Consultant - Apptio Premier Success at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116194&source=WEB_Search_NA",
+    "id": "ibm-technical-consultant-apptio-premier-success-multiple-cities"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
@@ -8,6 +48,26 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,6 +81,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Adoption Lead for R&D",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
+    "id": "abb-ai-adoption-lead-for-r-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Hardware Engineer Softstarter",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -28,16 +128,6 @@
     "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
     "id": "abb-hardware-engineer-softstarter-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Hardware Project Engineer",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Hardware Project Engineer at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032415/Associate-Hardware-Project-Engineer",
-    "id": "abb-associate-hardware-project-engineer-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +161,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d)",
     "job_city": "Ratingen",
     "job_state": "North Rhine-Westphalia",
@@ -98,16 +178,6 @@
     "job_description": "hardware engineering job for the role Associate Field Service Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026716/Associate-Field-Service-Engineer",
     "id": "abb-associate-field-service-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Sustainability Specialist Intern",
-    "job_city": "Bergamo",
-    "job_state": "Bergamo",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
-    "id": "abb-r-d-sustainability-specialist-intern-bergamo"
   },
   {
     "employer_name": "ABB",
@@ -141,16 +211,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022889/Associate-Field-Service-Technician",
-    "id": "abb-associate-field-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer",
     "job_city": "Beersel",
     "job_state": "Flemish Brabant",
@@ -171,16 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Electrical Hardware Engineer",
     "job_city": "Estonia",
     "job_state": "Estonia",
@@ -188,6 +238,16 @@
     "job_description": "hardware engineering job for the role Electrical Hardware Engineer at Estonia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024000/Electrical-Hardware-Engineer",
     "id": "abb-electrical-hardware-engineer-estonia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
