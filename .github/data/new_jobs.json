@@ -1,54 +1,23 @@
 [
   {
-    "job_title": "Integrated System Test Engineer, Leo Guidance Navigation and Control & Propulsion",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Integrated System Test Engineer, Leo Guidance Navigation and Control & Propulsion at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10430642/integrated-system-test-engineer-leo-guidance-navigation-and-control-propulsion",
-    "job_posted_at": "2026-05-26T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-05-26T00:00:00.000Z",
-    "id": "amazon-integrated-system-test-engineer-leo-guidance-navigation-and-control-propulsion-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director, Technical Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, Technical Program Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/director-technical-program-manager/33099/95593529344",
-    "id": "arm-director-technical-program-manager-austin"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Full Stack Software Developer – IBM Quantum",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Full Stack Software Developer – IBM Quantum at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116554&source=WEB_Search_NA",
-    "id": "ibm-full-stack-software-developer-ibm-quantum-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Technology Ecosystem Architect",
+    "job_title": "Software Engineer II - Confluent Secure Compute",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Technology Ecosystem Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116118&source=WEB_Search_NA",
-    "id": "ibm-ai-technology-ecosystem-architect-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer II - Confluent Secure Compute at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=117267&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-confluent-secure-compute-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "AI Partner GTM Lead",
-    "job_city": "No City",
+    "job_title": "MAS Delivery Consultant",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Partner GTM Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116111&source=WEB_Search_NA",
-    "id": "ibm-ai-partner-gtm-lead-no-city"
+    "job_description": "Hardware Engineering job for the role MAS Delivery Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=117574&source=WEB_Search_NA",
+    "id": "ibm-mas-delivery-consultant-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -279,5 +248,25 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Mechanical Design Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Mechanical Design Engineer at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Mechanical-Design-Engineer_2601621?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-mechanical-design-engineer-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Thermo-Mechanical Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Staff Thermo-Mechanical Engineer at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff-Thermo-Mechanical-Engineer_2601616?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-thermo-mechanical-engineer-3-locations"
   }
 ]
