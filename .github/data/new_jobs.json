@@ -1,13 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Global Account Manager - Strategic Accounts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role Global Account Manager - Strategic Accounts at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013878/Global-Account-Manager-Strategic-Accounts",
-    "id": "abb-global-account-manager-strategic-accounts-multiple"
+    "employer_name": "Arm",
+    "job_title": "Manager, Service Reliability & Experience",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Service Reliability & Experience at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-manager-service-reliability-and-experience/33099/92334086320",
+    "id": "arm-manager-service-reliability-experience-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SRE/DevOps Engineer (Data Storage)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SRE/DevOps Engineer (Data Storage) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-sre-devops-engineer-data-storage/33099/93728378032",
+    "id": "arm-sre-devops-engineer-data-storage-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -28,16 +38,6 @@
     "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
     "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Director of Sales PV and BESS Inverter",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
-    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,6 +68,16 @@
     "job_description": "hardware engineering job for the role Project Planning and Commissioning Engineer (m/f/d) – Functional Safety at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032573/Project-Planning-and-Commissioning-Engineer-m-f-d-Functional-Safety",
     "id": "abb-project-planning-and-commissioning-engineer-m-f-d-functional-safety-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Control Systems Specialist",
+    "job_city": "Brno",
+    "job_state": "Jihomoravský kraj",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
+    "id": "abb-control-systems-specialist-brno"
   },
   {
     "employer_name": "ABB",
