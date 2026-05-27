@@ -1,43 +1,33 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Business Controller, Distribution Centers",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Business Controller, Distribution Centers at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033198/Business-Controller-Distribution-Centers",
-    "id": "abb-business-controller-distribution-centers-multiple"
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Inventory Control Associate",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
-    "id": "abb-inventory-control-associate-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Associate Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Consultant - Energy & Carbon Services",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
-    "id": "abb-consultant-energy-carbon-services-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Associate Project Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034928/Associate-Project-Manager",
+    "id": "abb-associate-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -108,6 +98,26 @@
     "job_description": "hardware engineering job for the role Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) at Ratingen, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d",
     "id": "abb-project-application-engineer-automation-engineer-dcs-and-protection-systems-f-m-d-ratingen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034838/Internship-Master-Thesis-student-m-f-d-Simulation-Prototyping-and-Testing-of-Next-Generation-of-Agile-Actuator-Mechanisms",
+    "id": "abb-internship-master-thesis-student-m-f-d-simulation-prototyping-and-testing-of-next-generation-of-agile-actuator-mechanisms-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer (m/f/d) – Human System Interface",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Engineer (m/f/d) – Human System Interface at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034795/Project-Engineer-m-f-d-Human-System-Interface",
+    "id": "abb-project-engineer-m-f-d-human-system-interface-minden"
   },
   {
     "employer_name": "ABB",
