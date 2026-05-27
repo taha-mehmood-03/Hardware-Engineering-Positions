@@ -1,33 +1,105 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_title": "Technical Sourcing Recruiter , AGI",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Technical Sourcing Recruiter , AGI at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10405174/technical-sourcing-recruiter-agi",
+    "job_posted_at": "2026-05-27T15:36:30.277Z",
+    "job_posted_at_datetime_utc": "2026-05-27T15:36:30.277Z",
+    "id": "amazon-technical-sourcing-recruiter-agi-austin"
+  },
+  {
+    "job_title": "Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10420575/software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development",
+    "job_posted_at": "2026-05-27T14:36:30.277Z",
+    "job_posted_at_datetime_utc": "2026-05-27T14:36:30.277Z",
+    "id": "amazon-software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development-cupertino"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Staff Tech Lead",
+    "job_city": "Mountain View",
+    "job_state": "AR",
+    "job_posted_at": "Recently",
+    "job_description": "67 Category: Hardware Engineering. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Staff Tech Lead, YouTube Shorts",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78601569372644038-senior-staff-tech-lead-youtube-shorts?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-senior-staff-tech-lead-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Hardware Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Hardware Engineer at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-hardware-engineer/33099/95627626384",
+    "id": "arm-hardware-engineer-manchester"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "DevOps Engineer - FPGA",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff DevOps Engineer - FPGA at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-devops-engineer-fpga/33099/95627617472",
+    "id": "arm-devops-engineer-fpga-cambridge"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Manager",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Associate Project Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034928/Associate-Project-Manager",
-    "id": "abb-associate-project-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -218,5 +290,45 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Test Engineer - Power Interface",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Test Engineer - Power Interface at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010623/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-test-engineer-power-interface-dallas"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "AI Solutions Analyst - Early Career",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role AI Solutions Analyst - Early Career at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Solutions-Analyst---Early-Career_2601236?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-solutions-analyst-early-career-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Hardware & Silicon Validation Director",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Hardware & Silicon Validation Director at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware---Silicon-Validation-Director_2601592?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-silicon-validation-director-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Hardware Design Engineer - PCB layout and fabrication and mixed-signal design and ODSP and AEC and PCIe",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Staff Hardware Design Engineer - PCB layout and fabrication and mixed-signal design and ODSP and AEC and PCIe at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Hardware-Design-Engineer---PCB-layout-and-fabrication-and-mixed-signal-design-and-ODSP-and-AEC-and-PCIe_2602050?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-hardware-design-engineer-pcb-layout-and-fabrication-and-mixed-signal-design-and-odsp-and-aec-and-pcie-santa-clara"
   }
 ]
