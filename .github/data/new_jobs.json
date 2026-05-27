@@ -1,5 +1,27 @@
 [
   {
+    "job_title": "Hardware Development Engineer, AWS Board Core Design Team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, AWS Board Core Design Team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10432341/hardware-development-engineer-aws-board-core-design-team",
+    "job_posted_at": "2026-05-27T22:16:06.037Z",
+    "job_posted_at_datetime_utc": "2026-05-27T22:16:06.037Z",
+    "id": "amazon-hardware-development-engineer-aws-board-core-design-team-cupertino"
+  },
+  {
+    "job_title": "SDE II, ML Infra Services, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role SDE II, ML Infra Services, Annapurna Labs at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10432390/sde-ii-ml-infra-services-annapurna-labs",
+    "job_posted_at": "2026-05-27T22:16:06.037Z",
+    "job_posted_at_datetime_utc": "2026-05-27T22:16:06.037Z",
+    "id": "amazon-sde-ii-ml-infra-services-annapurna-labs-seattle"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
@@ -21,23 +43,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic KAM - eOEM",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Strategic KAM - eOEM at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
-    "id": "abb-strategic-kam-eoem-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -228,25 +240,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Firmware Engineer - design, verification, and, validation, integration of high speed optical components.",
-    "job_city": "Westlake Village",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Firmware Engineer - design, verification, and, validation, integration of high speed optical components. at Westlake Village, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Senior-Staff-Firmware-Engineer---design--verification--and--validation--integration-of-high-speed-optical-components_2602203?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-firmware-engineer-design-verification-and-validation-integration-of-high-speed-optical-components-westlake-village"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Reliability Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Reliability Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Reliability-Engineer_2601985?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-reliability-engineer-santa-clara"
   }
 ]

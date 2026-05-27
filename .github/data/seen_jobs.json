@@ -1,6 +1,4 @@
 [
-  "abb-r-d-manager-beersel",
-  "abb-r-d-mechanical-engineer-not-specific",
   "abb-r-d-program-manager-bartlesville",
   "abb-r-d-program-manager-not-specific",
   "abb-r-d-project-manager-bartlesville",
@@ -2196,6 +2194,7 @@
   "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-cupertino",
   "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-seattle",
   "amazon-hardware-development-engineer-aws-ai-ml-mainstream-accelerators-austin",
+  "amazon-hardware-development-engineer-aws-board-core-design-team-cupertino",
   "amazon-hardware-development-engineer-aws-mainstream-compute-cupertino",
   "amazon-hardware-development-engineer-aws-storage-and-accelerator-team-cupertino",
   "amazon-hardware-development-engineer-bespoke-solutions-arlington",
@@ -2529,6 +2528,7 @@
   "amazon-sde-firmware-aws-hardware-engineering-firmware-development-cupertino",
   "amazon-sde-ii-knfe-seattle",
   "amazon-sde-ii-life-sciences-applied-ai-seattle",
+  "amazon-sde-ii-ml-infra-services-annapurna-labs-seattle",
   "amazon-sde-kuiper-network-services-sunnyvale",
   "amazon-sde-raindrops-digital-signage-a-to-z-comms-seattle",
   "amazon-sdeii-sivi-seattle",
