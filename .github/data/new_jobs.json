@@ -1,33 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "High Volume Manufacturing Engineer (Staff/Principal)",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "Packaging Design Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role High Volume Manufacturing Engineer (Staff/Principal) at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/high-volume-manufacturing-engineer-staff-principal/33099/95656925264",
-    "id": "arm-high-volume-manufacturing-engineer-staff-principal-hsinchu"
+    "job_description": "15 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Packaging Design Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98698520214545094-packaging-design-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-packaging-design-engineer-sunnyvale"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "High Volume Manufacturing Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "MicroLED Display Reliability Engineer",
+    "job_city": "Fremont",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role High Volume Manufacturing Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/high-volume-manufacturing-engineer/33099/95656925232",
-    "id": "arm-high-volume-manufacturing-engineer-hsinchu"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Systems Engineer, AI Solutions",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 23 days ago",
-    "job_description": "hardware engineering job for the role Staff Systems Engineer, AI Solutions at San Jose, California, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41816631",
-    "id": "micron-systems-engineer-ai-solutions-san-jose"
+    "job_description": "70 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: MicroLED Display Reliability Engineer, Augmented Reality, Raxium",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95136514857411270-microled-display-reliability-engineer-augmented-reality-raxium?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-microled-display-reliability-engineer-fremont"
   },
   {
     "employer_name": "ABB",
@@ -41,26 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,26 +38,6 @@
     "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
     "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Adoption Lead for R&D",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
-    "id": "abb-ai-adoption-lead-for-r-d-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Hardware Engineer Softstarter",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
-    "id": "abb-hardware-engineer-softstarter-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +68,16 @@
     "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
     "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -211,6 +171,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Electrical Hardware Engineer",
     "job_city": "Estonia",
     "job_state": "Estonia",
@@ -248,5 +218,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Embedded Software Algorithm Developer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Embedded Software Algorithm Developer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development-Engineer_R255533-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-algorithm-developer-2-locations"
   }
 ]
