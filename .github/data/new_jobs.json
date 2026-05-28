@@ -1,23 +1,43 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Packaging Design Engineer",
+    "job_title": "NPI Engineer",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "15 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Packaging Design Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98698520214545094-packaging-design-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-packaging-design-engineer-sunnyvale"
+    "job_description": "61 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: NPI Engineer, Embedded Firmware and Software, Emerging Accelerator Software",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94877304991163078-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-npi-engineer-sunnyvale"
   },
   {
-    "employer_name": "Google",
-    "job_title": "MicroLED Display Reliability Engineer",
-    "job_city": "Fremont",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Sales Manager, Southern Europe",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "70 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: MicroLED Display Reliability Engineer, Augmented Reality, Raxium",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95136514857411270-microled-display-reliability-engineer-augmented-reality-raxium?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-microled-display-reliability-engineer-fremont"
+    "job_description": "Hardware Engineering job for the role Senior Sales Manager, Southern Europe at Sophia Antipolis, France,  France, Paris, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-sales-manager-southern-europe/33099/95052486736",
+    "id": "arm-sales-manager-southern-europe-sophia-antipolis"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SSR in Greater Richmond area",
+    "job_city": "Hampton",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SSR in Greater Richmond area at ProfessionalHampton, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=117755&source=WEB_Search_NA",
+    "id": "ibm-ssr-in-greater-richmond-area-hampton"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo MAS Developer/Data & Integration Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Maximo MAS Developer/Data & Integration Specialist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116969&source=WEB_Search_NA",
+    "id": "ibm-maximo-mas-developer-data-integration-specialist-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -218,15 +238,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Embedded Software Algorithm Developer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Embedded Software Algorithm Developer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development-Engineer_R255533-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-software-algorithm-developer-2-locations"
   }
 ]
