@@ -1,43 +1,34 @@
 [
   {
+    "job_title": "NPI Product Manager Technical – Manufacturing, Amazon Robotics",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role NPI Product Manager Technical – Manufacturing, Amazon Robotics at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10433267/npi-product-manager-technical-manufacturing-amazon-robotics",
+    "job_posted_at": "2026-05-28T16:10:48.902Z",
+    "job_posted_at_datetime_utc": "2026-05-28T16:10:48.902Z",
+    "id": "amazon-npi-product-manager-technical-manufacturing-amazon-robotics-north-reading"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "NPI Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Lead CPU Design Verification Engineer",
+    "job_city": "Portland",
+    "job_state": "OR",
     "job_posted_at": "Recently",
-    "job_description": "61 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: NPI Engineer, Embedded Firmware and Software, Emerging Accelerator Software",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94877304991163078-npi-engineer-embedded-firmware-and-software-emerging-accelerator-software?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-npi-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sales Manager, Southern Europe",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Sales Manager, Southern Europe at Sophia Antipolis, France,  France, Paris, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-sales-manager-southern-europe/33099/95052486736",
-    "id": "arm-sales-manager-southern-europe-sophia-antipolis"
+    "job_description": "38 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead CPU Design Verification Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/76481032349459142-lead-cpu-design-verification-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-lead-cpu-design-verification-engineer-portland"
   },
   {
     "employer_name": "IBM",
-    "job_title": "SSR in Greater Richmond area",
-    "job_city": "Hampton",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SSR in Greater Richmond area at ProfessionalHampton, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=117755&source=WEB_Search_NA",
-    "id": "ibm-ssr-in-greater-richmond-area-hampton"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Maximo MAS Developer/Data & Integration Specialist",
+    "job_title": "AI Architect - Confluent Business Systems (Remote)",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Maximo MAS Developer/Data & Integration Specialist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116969&source=WEB_Search_NA",
-    "id": "ibm-maximo-mas-developer-data-integration-specialist-multiple-cities"
+    "job_description": "Hardware Engineering job for the role AI Architect - Confluent Business Systems (Remote) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114398&source=WEB_Search_NA",
+    "id": "ibm-ai-architect-confluent-business-systems-remote-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -58,6 +49,56 @@
     "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
     "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Technician - Inspector",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Quality Control Technician - Inspector at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006077/Quality-Control-Technician-Inspector",
+    "id": "abb-quality-control-technician-inspector-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Adoption Lead for R&D",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
+    "id": "abb-ai-adoption-lead-for-r-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Hardware Engineer Softstarter",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
+    "id": "abb-hardware-engineer-softstarter-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -88,16 +129,6 @@
     "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
     "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -161,6 +192,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Lead Engineer - System 800xA",
+    "job_city": "Doha",
+    "job_state": "Ad Dawhah",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA at Doha, Ad Dawhah, Qatar",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA",
+    "id": "abb-project-lead-engineer-system-800xa-doha"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -171,13 +212,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Engineer",
-    "job_city": "Beersel",
-    "job_state": "Flemish Brabant",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer at Beersel, Flemish Brabant, Belgium",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015965/Field-Service-Engineer",
-    "id": "abb-field-service-engineer-beersel"
+    "job_title": "R&D Quality Assurance Specialist/Officer",
+    "job_city": "Genova",
+    "job_state": "Genova",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
+    "id": "abb-r-d-quality-assurance-specialist-officer-genova"
   },
   {
     "employer_name": "ABB",
@@ -188,16 +229,6 @@
     "job_description": "hardware engineering job for the role Control Electronics Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014669/Control-Electronics-Engineer",
     "id": "abb-control-electronics-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -238,5 +269,55 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Analog/Mixed Signal Design",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Analog/Mixed Signal Design at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Design-Verification-Engineering_R260594?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-analog-mixed-signal-design-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Systems Integration Engineer – Robotic",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Systems Integration Engineer – Robotic at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Systems-Integration-Engineer---Robotic_R262224?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-systems-integration-engineer-robotic-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Software Engineer - Optical Telemetry & Data Center Networking / Ethernet switching",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Staff Software Engineer - Optical Telemetry & Data Center Networking / Ethernet switching at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Sr-Staff-Software-Engineer-Embedded-System-Level-Firmware---BGP--OSPF--VXLAN--EVPN--SDN--network-virtualization_2601444?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-software-engineer-optical-telemetry-data-center-networking-ethernet-switching-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer - Operations Engineering Cost and Planning",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer - Operations Engineering Cost and Planning at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Engineer---Operations-Engineering-Cost-and-Planning_2602254?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-operations-engineering-cost-and-planning-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer, Software/Firmware - coherent optical module firmware/bootloader design/SoC-based embedded platforms",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Principal Engineer, Software/Firmware - coherent optical module firmware/bootloader design/SoC-based embedded platforms at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Software-Firmware---coherent-optical-module-firmware-bootloader-design-SoC-based-embedded-platforms_2602259?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-software-firmware-coherent-optical-module-firmware-bootloader-design-soc-based-embedded-platforms-2-locations"
   }
 ]
