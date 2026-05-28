@@ -1,14 +1,33 @@
 [
   {
-    "job_title": "Senior Financial Analyst, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Senior Financial Analyst, Amazon Leo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10432513/senior-financial-analyst-amazon-leo",
-    "job_posted_at": "2026-05-27T23:56:16.127Z",
-    "job_posted_at_datetime_utc": "2026-05-27T23:56:16.127Z",
-    "id": "amazon-senior-financial-analyst-amazon-leo-bellevue"
+    "employer_name": "Arm",
+    "job_title": "High Volume Manufacturing Engineer (Staff/Principal)",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role High Volume Manufacturing Engineer (Staff/Principal) at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/high-volume-manufacturing-engineer-staff-principal/33099/95656925264",
+    "id": "arm-high-volume-manufacturing-engineer-staff-principal-hsinchu"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "High Volume Manufacturing Engineer",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role High Volume Manufacturing Engineer at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/high-volume-manufacturing-engineer/33099/95656925232",
+    "id": "arm-high-volume-manufacturing-engineer-hsinchu"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Systems Engineer, AI Solutions",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 23 days ago",
+    "job_description": "hardware engineering job for the role Staff Systems Engineer, AI Solutions at San Jose, California, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/41816631",
+    "id": "micron-systems-engineer-ai-solutions-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -19,16 +38,6 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -52,13 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-minden"
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
