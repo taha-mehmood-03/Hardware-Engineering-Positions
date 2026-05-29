@@ -1,5 +1,26 @@
 [
   {
+    "job_title": "Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, Cloud AI/ML/storage server teams at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10433844/cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams",
+    "job_posted_at": "2026-05-29T00:00:04.569Z",
+    "job_posted_at_datetime_utc": "2026-05-29T00:00:04.569Z",
+    "id": "amazon-cloud-hardware-development-engineer-cloud-ai-ml-storage-server-teams-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Manager - Compute Subsystems (Physical AI)",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Product Manager - Compute Subsystems (Physical AI) at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-product-manager-compute-subsystems-physical-ai/33099/94526853472",
+    "id": "arm-product-manager-compute-subsystems-physical-ai-austin"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
@@ -11,13 +32,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Channel Director - KS, IA, NE, MO",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
+    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -34,7 +75,7 @@
     "job_title": "Hardware Engineer Softstarter",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
     "id": "abb-hardware-engineer-softstarter-vaesteras"
@@ -54,7 +95,7 @@
     "job_title": "Control Systems Specialist",
     "job_city": "Brno",
     "job_state": "Jihomoravský kraj",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
     "id": "abb-control-systems-specialist-brno"
@@ -64,7 +105,7 @@
     "job_title": "Field Service Engineer-1",
     "job_city": "Dubai",
     "job_state": "Dubai",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Field Service Engineer-1 at Dubai, Dubai, United Arab Emirates",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026549/Field-Service-Engineer-1",
     "id": "abb-field-service-engineer-1-dubai"
@@ -94,7 +135,7 @@
     "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034838/Internship-Master-Thesis-student-m-f-d-Simulation-Prototyping-and-Testing-of-Next-Generation-of-Agile-Actuator-Mechanisms",
     "id": "abb-internship-master-thesis-student-m-f-d-simulation-prototyping-and-testing-of-next-generation-of-agile-actuator-mechanisms-mannheim"
@@ -104,10 +145,20 @@
     "job_title": "Associate Field Service Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
+    "job_posted_at": "3 weeks ago",
     "job_description": "hardware engineering job for the role Associate Field Service Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026716/Associate-Field-Service-Engineer",
     "id": "abb-associate-field-service-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Sustainability Specialist Intern",
+    "job_city": "Bergamo",
+    "job_state": "Bergamo",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
+    "id": "abb-r-d-sustainability-specialist-intern-bergamo"
   },
   {
     "employer_name": "ABB",
@@ -124,7 +175,7 @@
     "job_title": "Project Lead Engineer - System 800xA",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA",
     "id": "abb-project-lead-engineer-system-800xa-doha"
@@ -144,7 +195,7 @@
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
     "id": "abb-r-d-quality-assurance-specialist-officer-genova"
@@ -198,35 +249,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Firmware Engineering",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer, Firmware Engineering at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Firmware-Engineering_2602256?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-firmware-engineering-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "AI Network Solutions Engineer - Early Career",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role AI Network Solutions Engineer - Early Career at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Solutions-Analyst---Early-Career_2601236?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ai-network-solutions-engineer-early-career-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Engineer, Software/Firmware - coherent optical module firmware/SoC-based embedded platforms/CPO",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal Engineer, Software/Firmware - coherent optical module firmware/SoC-based embedded platforms/CPO at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Software-Firmware---coherent-optical-module-firmware-bootloader-design-SoC-based-embedded-platforms_2602259?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-engineer-software-firmware-coherent-optical-module-firmware-soc-based-embedded-platforms-cpo-2-locations"
   }
 ]
