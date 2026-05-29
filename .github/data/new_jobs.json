@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/principal-engineer/33099/92879749088",
+    "id": "arm-engineer-lund"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Business Controller, Distribution Centers",
     "job_city": "Multiple",
@@ -31,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_title": "R&D Senior Engineer - Electronics Hardware",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer - Electronics Hardware at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035155/R-D-Senior-Engineer-Electronics-Hardware",
+    "id": "abb-r-d-senior-engineer-electronics-hardware-heidelberg"
   },
   {
     "employer_name": "ABB",
