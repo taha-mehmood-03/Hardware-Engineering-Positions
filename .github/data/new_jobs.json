@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Litigation Counsel",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Litigation Counsel at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-litigation-counsel/33099/95746199472",
-    "id": "arm-litigation-counsel-austin"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
@@ -31,13 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -278,5 +268,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr Principal Program Manager",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Sr Principal Program Manager at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Principal-Program-Manager_2602165?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-program-manager-2-locations"
   }
 ]
