@@ -1,25 +1,63 @@
 [
   {
-    "job_title": "ML Accelerator Performance Validation Engineer, Post Silicon Validation",
-    "employer_name": "Amazon",
+    "employer_name": "IBM",
+    "job_title": "Austin Tx. System Services Representative",
     "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role ML Accelerator Performance Validation Engineer, Post Silicon Validation at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10434988/ml-accelerator-performance-validation-engineer-post-silicon-validation",
-    "job_posted_at": "2026-05-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-05-29T00:00:00.000Z",
-    "id": "amazon-ml-accelerator-performance-validation-engineer-post-silicon-validation-austin"
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Austin Tx. System Services Representative at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118279&source=WEB_Search_NA",
+    "id": "ibm-austin-tx-system-services-representative-austin"
   },
   {
-    "job_title": "High-Speed Interface Validation Engineer, Post Silicon Validation",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role High-Speed Interface Validation Engineer, Post Silicon Validation at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10434989/high-speed-interface-validation-engineer-post-silicon-validation",
-    "job_posted_at": "2026-05-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-05-29T00:00:00.000Z",
-    "id": "amazon-high-speed-interface-validation-engineer-post-silicon-validation-austin"
+    "employer_name": "IBM",
+    "job_title": "AI Engineer - Agentic Systems",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior AI Engineer - Agentic Systems at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116572&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-agentic-systems-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Architect – Azure & Cloud AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior AI Architect – Azure & Cloud AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116574&source=WEB_Search_NA",
+    "id": "ibm-ai-architect-azure-cloud-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer - AI & Analytics Infrastructure",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Data Engineer - AI & Analytics Infrastructure at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116568&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-ai-analytics-infrastructure-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Ceph Performance Engineer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Ceph Performance Engineer at Entry LevelSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118130&source=WEB_Search_NA",
+    "id": "ibm-ceph-performance-engineer-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -30,36 +68,6 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -76,7 +84,7 @@
     "job_title": "R&D Senior Engineer - Electronics Hardware",
     "job_city": "Heidelberg",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role R&D Senior Engineer - Electronics Hardware at Heidelberg, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035155/R-D-Senior-Engineer-Electronics-Hardware",
     "id": "abb-r-d-senior-engineer-electronics-hardware-heidelberg"
@@ -116,7 +124,7 @@
     "job_title": "Control Systems Specialist",
     "job_city": "Brno",
     "job_state": "Jihomoravský kraj",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
     "id": "abb-control-systems-specialist-brno"
@@ -136,7 +144,7 @@
     "job_title": "Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Internship/Master Thesis student (m/f/d) Highly Dynamic Control of Electric Drives at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030518/Internship-Master-Thesis-student-m-f-d-Highly-Dynamic-Control-of-Electric-Drives",
     "id": "abb-internship-master-thesis-student-m-f-d-highly-dynamic-control-of-electric-drives-mannheim"
@@ -156,7 +164,7 @@
     "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034838/Internship-Master-Thesis-student-m-f-d-Simulation-Prototyping-and-Testing-of-Next-Generation-of-Agile-Actuator-Mechanisms",
     "id": "abb-internship-master-thesis-student-m-f-d-simulation-prototyping-and-testing-of-next-generation-of-agile-actuator-mechanisms-mannheim"
@@ -186,7 +194,7 @@
     "job_title": "R&D Sustainability Specialist Intern",
     "job_city": "Bergamo",
     "job_state": "Bergamo",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
     "id": "abb-r-d-sustainability-specialist-intern-bergamo"
@@ -206,7 +214,7 @@
     "job_title": "Project Lead Engineer - System 800xA",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA",
     "id": "abb-project-lead-engineer-system-800xa-doha"
@@ -226,7 +234,7 @@
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
     "id": "abb-r-d-quality-assurance-specialist-officer-genova"
@@ -280,15 +288,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Digital Design Verification Engineer | Precision ADC",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Digital Design Verification Engineer | Precision ADC at Tucson, AZ, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010922/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-digital-design-verification-engineer-precision-adc-tucson"
   }
 ]
