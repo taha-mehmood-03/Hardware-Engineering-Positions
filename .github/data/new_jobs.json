@@ -1,23 +1,13 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "New College Grad - Design Engineer, Circuit Design",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 6 mins ago",
-    "job_description": "hardware engineering job for the role New College Grad - Design Engineer, Circuit Design at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40981489",
-    "id": "micron-new-college-grad-design-engineer-circuit-design-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
+    "job_title": "DMTS Digital Design Engineer / Chip Lead",
+    "job_city": "Minneapolis",
+    "job_state": "Minnesota",
+    "job_posted_at": "Posted 21 days ago",
+    "job_description": "hardware engineering job for the role DMTS Digital Design Engineer / Chip Lead at Minneapolis, Minnesota, United States of America + 4 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/41709385",
+    "id": "micron-dmts-digital-design-engineer-chip-lead-minneapolis"
   },
   {
     "employer_name": "ABB",
@@ -31,6 +21,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Metallurgy Area Sales Manager - North America",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Metallurgy Area Sales Manager - North America at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Area-Sales-Manager-North-America",
+    "id": "abb-metallurgy-area-sales-manager-north-america-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,6 +48,16 @@
     "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
