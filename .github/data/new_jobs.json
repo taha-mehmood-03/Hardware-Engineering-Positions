@@ -1,23 +1,25 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "DMTS Digital Design Engineer / Chip Lead",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "Posted 21 days ago",
-    "job_description": "hardware engineering job for the role DMTS Digital Design Engineer / Chip Lead at Minneapolis, Minnesota, United States of America + 4 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/41709385",
-    "id": "micron-dmts-digital-design-engineer-chip-lead-minneapolis"
+    "job_title": "System Development Engineer, AWS Mainstream Compute",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role System Development Engineer, AWS Mainstream Compute at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10435423/system-development-engineer-aws-mainstream-compute",
+    "job_posted_at": "2026-06-01T10:53:33.340Z",
+    "job_posted_at_datetime_utc": "2026-06-01T10:53:33.340Z",
+    "id": "amazon-system-development-engineer-aws-mainstream-compute-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_title": "Hardware Development Engineer II, AWS Mainstream Compute",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer II, AWS Mainstream Compute at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10435424/hardware-development-engineer-ii-aws-mainstream-compute",
+    "job_posted_at": "2026-06-01T10:53:33.340Z",
+    "job_posted_at_datetime_utc": "2026-06-01T10:53:33.340Z",
+    "id": "amazon-hardware-development-engineer-ii-aws-mainstream-compute-austin"
   },
   {
     "employer_name": "ABB",
@@ -31,16 +33,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Metallurgy Area Sales Manager - North America",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Metallurgy Area Sales Manager - North America at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Area-Sales-Manager-North-America",
-    "id": "abb-metallurgy-area-sales-manager-north-america-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,23 +43,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-minden"
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
