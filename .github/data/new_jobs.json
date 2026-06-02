@@ -1,53 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "GPU Commodity Manager",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "IBM",
+    "job_title": "Customer Success Escalation Manager (Americas)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "2 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: GPU Commodity Manager, Global Strategic Sourcing and Silicon Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111590929806041798-gpu-commodity-manager-global-strategic-sourcing-and-silicon-operations?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-gpu-commodity-manager-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior ASIC Design Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "46 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior ASIC Design Engineer, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128568901167391430-senior-asic-design-engineer-google-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-senior-asic-design-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Imaging and Camera Module Architect",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "62 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Imaging and Camera Module Architect",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77714976554263238-imaging-and-camera-module-architect?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-imaging-and-camera-module-architect-mountain-view"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "DevOps Platform Developer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role DevOps Platform Developer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/devops-platform-developer/33099/95887344368",
-    "id": "arm-devops-platform-developer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "/ Principal Full Stack JavaScript Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff / Principal Full Stack JavaScript Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-full-stack-javascript-engineer/33099/95887328320",
-    "id": "arm-principal-full-stack-javascript-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Customer Success Escalation Manager (Americas) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116617&source=WEB_Search_NA",
+    "id": "ibm-customer-success-escalation-manager-americas-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -58,6 +18,26 @@
     "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
     "id": "abb-regional-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
+    "id": "abb-consultant-energy-carbon-services-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,43 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
-    "id": "abb-associate-project-engineer-houston"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
