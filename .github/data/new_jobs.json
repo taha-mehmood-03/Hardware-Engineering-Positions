@@ -1,33 +1,24 @@
 [
   {
+    "job_title": "Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10436465/cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers",
+    "job_posted_at": "2026-06-02T02:28:28.903Z",
+    "job_posted_at_datetime_utc": "2026-06-02T02:28:28.903Z",
+    "id": "amazon-cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers-cupertino"
+  },
+  {
     "employer_name": "Arm",
-    "job_title": "Engineer – Multi-Physics Sign-off (Timing, PDN & Thermal)",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Software Engineer",
+    "job_city": "Raanana",
+    "job_state": "Israel",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Engineer – Multi-Physics Sign-off (Timing, PDN & Thermal) at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-engineer-multi-physics-sign-off-timing-pdn-and-thermal/33099/95873992752",
-    "id": "arm-engineer-multi-physics-sign-off-timing-pdn-thermal-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Designer - HashiCorp Secure",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Designer - HashiCorp Secure at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118120&source=WEB_Search_NA",
-    "id": "ibm-product-designer-hashicorp-secure-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP BRIM, CFM & Oracle Performance Programs - GI - Loganathan Selvarangam",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SAP BRIM, CFM & Oracle Performance Programs - GI - Loganathan Selvarangam at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118299&source=WEB_Search_NA",
-    "id": "ibm-sap-brim-cfm-oracle-performance-programs-gi-loganathan-selvarangam-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/staff-software-engineer/33099/85208808304",
+    "id": "arm-software-engineer-raanana"
   },
   {
     "employer_name": "ABB",
@@ -81,12 +72,12 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -108,16 +99,6 @@
     "job_description": "hardware engineering job for the role R&D Senior Engineer - Electronics Hardware at Heidelberg, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035155/R-D-Senior-Engineer-Electronics-Hardware",
     "id": "abb-r-d-senior-engineer-electronics-hardware-heidelberg"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Adoption Lead for R&D",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role AI Adoption Lead for R&D at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034529/AI-Adoption-Lead-for-R-D",
-    "id": "abb-ai-adoption-lead-for-r-d-multiple"
   },
   {
     "employer_name": "ABB",
@@ -308,5 +289,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director of Design Verification",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Director of Design Verification at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Director-of-Design-Verification_2601898?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-of-design-verification-2-locations"
   }
 ]
