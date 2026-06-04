@@ -1,43 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Physical AI - GTM (China Market)",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "Google",
+    "job_title": "Senior Staff Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, Physical AI - GTM (China Market) at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-director-physical-ai-gtm-china-market/33099/95965188912",
-    "id": "arm-director-physical-ai-gtm-china-market-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director, Physical AI - GTM (China Market)",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Director, Physical AI - GTM (China Market) at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-director-physical-ai-gtm-china-market/33099/95965187776",
-    "id": "arm-director-physical-ai-gtm-china-market-austin"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Firmware & Product Test Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Senior Firmware & Product Test Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42203057",
-    "id": "micron-firmware-product-test-engineer-longmont"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "19 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Engineer, TPU Co-Design",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92794838658753222-senior-staff-engineer-tpu-codesign?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-staff-engineer-sunnyvale"
   },
   {
     "employer_name": "ABB",
@@ -48,6 +18,16 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,6 +48,26 @@
     "job_description": "hardware engineering job for the role Account Manager Laboratory Automation at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036539/Account-Manager-Laboratory-Automation",
     "id": "abb-account-manager-laboratory-automation-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
@@ -251,6 +251,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Lead Engineer - System 800xA",
+    "job_city": "Doha",
+    "job_state": "Ad Dawhah",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA at Doha, Ad Dawhah, Qatar",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA",
+    "id": "abb-project-lead-engineer-system-800xa-doha"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Engineer - System 800xA (Safety)",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
@@ -268,16 +278,6 @@
     "job_description": "hardware engineering job for the role Project Engineer to ABB Ports at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036993/Project-Engineer-to-ABB-Ports",
     "id": "abb-project-engineer-to-abb-ports-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Lead Engineer - System 800xA",
-    "job_city": "Doha",
-    "job_state": "Ad Dawhah",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA at Doha, Ad Dawhah, Qatar",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA",
-    "id": "abb-project-lead-engineer-system-800xa-doha"
   },
   {
     "employer_name": "ABB",
@@ -358,15 +358,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Project Manager",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Project Manager at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Project-Manager_R263005-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-project-manager-us"
   }
 ]
