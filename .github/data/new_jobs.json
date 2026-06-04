@@ -1,13 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "employer_name": "IBM",
+    "job_title": "International Trade Counsel",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role International Trade Counsel at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118005&source=WEB_Search_NA",
+    "id": "ibm-international-trade-counsel-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Red Hat Architect, Hybrid Cloud and Data, IBM Consulting Federal",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Red Hat Architect, Hybrid Cloud and Data, IBM Consulting Federal at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116148&source=WEB_Search_NA",
+    "id": "ibm-red-hat-architect-hybrid-cloud-and-data-ibm-consulting-federal-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -41,23 +51,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
+    "job_title": "Key Account Manager - Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Key Account Manager - Data Centers at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031397/Key-Account-Manager-Data-Centers",
+    "id": "abb-key-account-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Named Account Manager - NextEra/FPL",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Named Account Manager - NextEra/FPL at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Named-Account-Manager-NextEra-FPL",
-    "id": "abb-named-account-manager-nextera-fpl-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
