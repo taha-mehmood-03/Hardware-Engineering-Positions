@@ -1,23 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Returning Intern: Software Developer",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Returning Intern: Software Developer at InternshipLOWELL, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113755&source=WEB_Search_NA",
-    "id": "ibm-returning-intern-software-developer-lowell"
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Returning Intern: Software Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Returning Intern: Software Developer at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115594&source=WEB_Search_NA",
-    "id": "ibm-returning-intern-software-developer-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,26 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Account Manager Laboratory Automation",
     "job_city": "Remote",
     "job_state": "United States of America",
@@ -58,6 +38,36 @@
     "job_description": "hardware engineering job for the role Account Manager Laboratory Automation at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036539/Account-Manager-Laboratory-Automation",
     "id": "abb-account-manager-laboratory-automation-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -241,13 +251,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Commissioning Engineer",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
+    "job_title": "R&D Sustainability Specialist Intern",
+    "job_city": "Bergamo",
+    "job_state": "Bergamo",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Commissioning Engineer at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033959/Senior-Commissioning-Engineer",
-    "id": "abb-senior-commissioning-engineer-shanghai"
+    "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
+    "id": "abb-r-d-sustainability-specialist-intern-bergamo"
   },
   {
     "employer_name": "ABB",
@@ -258,6 +268,16 @@
     "job_description": "hardware engineering job for the role Senior Commissioning Engineer（PPA） at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033960/Senior-Commissioning-Engineer（PPA）",
     "id": "abb-senior-commissioning-engineer-ppa-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Commissioning Engineer",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Commissioning Engineer at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033959/Senior-Commissioning-Engineer",
+    "id": "abb-senior-commissioning-engineer-shanghai"
   },
   {
     "employer_name": "ABB",
