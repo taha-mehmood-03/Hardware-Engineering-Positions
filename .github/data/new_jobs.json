@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr. ASIC Design Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Sr. ASIC Design Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42211203",
-    "id": "micron-sr-asic-design-engineer-san-jose"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
@@ -28,26 +18,6 @@
     "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,13 +41,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager - Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
