@@ -1,63 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graphics Instrumentation Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "ASIC Power Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Graphics Instrumentation Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-graphics-instrumentation-engineer/33099/92692428272",
-    "id": "arm-graphics-instrumentation-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Strategic Regional Sales Manager– Cloud AI & Datacenter",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Strategic Regional Sales Manager– Cloud AI & Datacenter at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-strategic-regional-sales-manager-cloud-ai-and-datacenter/33099/94488911584",
-    "id": "arm-strategic-regional-sales-manager-cloud-ai-datacenter-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sr. Segment Marketing Lead - Arm Total Design for Physical AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Sr. Segment Marketing Lead - Arm Total Design for Physical AI at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/sr-segment-marketing-lead-arm-total-design-for-physical-ai/33099/96218591152",
-    "id": "arm-sr-segment-marketing-lead-arm-total-design-for-physical-ai-san-jose"
+    "job_description": "49 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Power Engineer, ML Accelerators",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78256696484340422-asic-power-engineer-ml-accelerators?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-asic-power-engineer-sunnyvale"
   },
   {
     "employer_name": "Micron",
-    "job_title": "LPDDR Product Architect",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role LPDDR Product Architect at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42253536",
-    "id": "micron-lpddr-product-architect-san-jose"
+    "job_title": "PROCT ADT Equipment Staff Engineer/ Principal (Dry Etch | Deposition CVD/PVD/Diffusion | CMP | Wet)",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role PROCT ADT Equipment Staff Engineer/ Principal (Dry Etch | Deposition CVD/PVD/Diffusion | CMP | Wet) at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/42291797",
+    "id": "micron-proct-adt-equipment-staff-engineer-principal-dry-etch-deposition-cvd-pvd-diffusion-cmp-wet-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Optics Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Optics Engineer at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118797&source=WEB_Search_NA",
-    "id": "ibm-optics-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Systems Service Representative",
-    "job_city": "Newark",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Systems Service Representative at ProfessionalNewark, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119955&source=WEB_Search_NA",
-    "id": "ibm-systems-service-representative-newark"
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
   },
   {
     "employer_name": "ABB",
@@ -81,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -111,6 +71,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Account Manager Laboratory Automation",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Account Manager Laboratory Automation at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036539/Account-Manager-Laboratory-Automation",
+    "id": "abb-account-manager-laboratory-automation-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -121,33 +101,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "job_title": "QCS Senior Resident Service Technician - Pine Bluff, AR",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - Pine Bluff, AR at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036766/QCS-Senior-Resident-Service-Technician-Pine-Bluff-AR",
+    "id": "abb-qcs-senior-resident-service-technician-pine-bluff-ar-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Power Electronics Scientist",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
-    "id": "abb-power-electronics-scientist-raleigh"
+    "job_title": "QCS Senior Resident Service Technician - St. Francisville, LA",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - St. Francisville, LA at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030504/QCS-Senior-Resident-Service-Technician-St-Francisville-LA",
+    "id": "abb-qcs-senior-resident-service-technician-st-francisville-la-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027587/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -168,6 +148,16 @@
     "job_description": "hardware engineering job for the role Named Account Manager - NextEra/FPL at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Named-Account-Manager-NextEra-FPL",
     "id": "abb-named-account-manager-nextera-fpl-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Business Development Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023328/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
