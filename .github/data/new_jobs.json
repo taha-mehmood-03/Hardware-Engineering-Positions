@@ -1,23 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Verification Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "IBM",
+    "job_title": "Customer Success Architect - Confluent",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Graduate Verification Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-verification-engineer/33099/96308897456",
-    "id": "arm-graduate-verification-engineer-sophia-antipolis"
+    "job_description": "Hardware Engineering job for the role Senior Customer Success Architect - Confluent at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120546&source=WEB_Search_NA",
+    "id": "ibm-customer-success-architect-confluent-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Implementation Consultant",
-    "job_city": "Armonk",
+    "job_title": "PROCESS INNOVATION PROFESSIONAL-MARKETING OPERATIONS",
+    "job_city": "Ashburn",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Implementation Consultant at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120304&source=WEB_Search_NA",
-    "id": "ibm-implementation-consultant-armonk"
+    "job_description": "Hardware Engineering job for the role PROCESS INNOVATION PROFESSIONAL-MARKETING OPERATIONS at ProfessionalAshburn, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118251&source=WEB_Search_NA",
+    "id": "ibm-process-innovation-professional-marketing-operations-ashburn"
   },
   {
     "employer_name": "ABB",
@@ -38,6 +38,16 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic KAM - eOEM",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic KAM - eOEM at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
+    "id": "abb-strategic-kam-eoem-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,13 +101,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -221,16 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Jinan",
     "job_state": "Shandong",
@@ -238,6 +238,16 @@
     "job_description": "hardware engineering job for the role Sales Specialist at Jinan, Shandong, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030539/Sales-Specialist",
     "id": "abb-sales-specialist-jinan"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -468,85 +478,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Quality & Reliability Engineer - Program Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Quality & Reliability Engineer - Program Manager at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Quality---Reliability-Engineering-Engineer_2601988?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-quality-reliability-engineer-program-manager-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Digital Design Engineer",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Digital Design Engineer at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Digital-Design-Engineer_2601896?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-digital-design-engineer-irvine"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, IP Program Management - CCS",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Principal Engineer, IP Program Management - CCS at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Principal-Engineer--IP-Program-Management---CCS_2602322?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-ip-program-management-ccs-3-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Silicon Validation Engineer (High-Speed SerDes)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Silicon Validation Engineer (High-Speed SerDes) at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Silicon-Validation-Engineer_2503738-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-silicon-validation-engineer-high-speed-serdes-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Design Verification",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Engineer, Design Verification at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Design-Verification_2602585?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-design-verification-westborough"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Design Verification",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Engineer, Design Verification at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Staff-Engineer--Design-Verification_2602586-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-design-verification-westborough"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Validation Engineer, Photonic Fabric",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "hardware engineering job for the role Staff Validation Engineer, Photonic Fabric at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Validation-Engineer--Photonic-Fabric_2602490-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-validation-engineer-photonic-fabric-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Engineer, Digital IC Design",
-    "job_city": "Morrisville",
-    "job_state": "NC",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Principal Engineer, Digital IC Design at Morrisville, NC",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Senior-Principal-Engineer--Digital-IC-Design_2602593?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-engineer-digital-ic-design-morrisville"
   }
 ]
