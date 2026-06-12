@@ -1,30 +1,20 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Customer Success Architect - Confluent",
+    "job_title": "Application Developer ServiceNow",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Customer Success Architect - Confluent at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120546&source=WEB_Search_NA",
-    "id": "ibm-customer-success-architect-confluent-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "PROCESS INNOVATION PROFESSIONAL-MARKETING OPERATIONS",
-    "job_city": "Ashburn",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role PROCESS INNOVATION PROFESSIONAL-MARKETING OPERATIONS at ProfessionalAshburn, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118251&source=WEB_Search_NA",
-    "id": "ibm-process-innovation-professional-marketing-operations-ashburn"
+    "job_description": "Hardware Engineering job for the role Application Developer ServiceNow at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119850&source=WEB_Search_NA",
+    "id": "ibm-application-developer-servicenow-multiple-cities"
   },
   {
     "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
     "id": "abb-service-manager-digital-automation-and-control-multiple"
@@ -34,7 +24,7 @@
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
@@ -74,7 +64,7 @@
     "job_title": "Protection and Control Engineer",
     "job_city": "West Sacramento",
     "job_state": "California",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Protection and Control Engineer at West Sacramento, California, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
     "id": "abb-protection-and-control-engineer-west-sacramento"
@@ -124,7 +114,7 @@
     "job_title": "R&D Senior Engineer - Electronics Hardware",
     "job_city": "Heidelberg",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role R&D Senior Engineer - Electronics Hardware at Heidelberg, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035155/R-D-Senior-Engineer-Electronics-Hardware",
     "id": "abb-r-d-senior-engineer-electronics-hardware-heidelberg"
@@ -164,7 +154,7 @@
     "job_title": "Project Lead Engineer - SIS",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Project Lead Engineer - SIS at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025174/Project-Lead-Engineer-SIS",
     "id": "abb-project-lead-engineer-sis-multiple"
@@ -254,7 +244,7 @@
     "job_title": "Power Electronics Scientist",
     "job_city": "Raleigh",
     "job_state": "North Carolina",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
     "id": "abb-power-electronics-scientist-raleigh"
@@ -264,7 +254,7 @@
     "job_title": "Senior ICSS Lead Engineer (2 Years Contract Role)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Senior ICSS Lead Engineer (2 Years Contract Role) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032351/Senior-ICSS-Lead-Engineer-2-Years-Contract-Role",
     "id": "abb-senior-icss-lead-engineer-2-years-contract-role-multiple"
@@ -284,7 +274,7 @@
     "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034838/Internship-Master-Thesis-student-m-f-d-Simulation-Prototyping-and-Testing-of-Next-Generation-of-Agile-Actuator-Mechanisms",
     "id": "abb-internship-master-thesis-student-m-f-d-simulation-prototyping-and-testing-of-next-generation-of-agile-actuator-mechanisms-mannheim"
@@ -304,7 +294,7 @@
     "job_title": "Service technician / service engineer (f/m/d) – automation technology",
     "job_city": "Frankfurt am Main",
     "job_state": "Germany",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Service technician / service engineer (f/m/d) – automation technology at Frankfurt am Main, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033299/Service-technician-service-engineer-f-m-d-automation-technology",
     "id": "abb-service-technician-service-engineer-f-m-d-automation-technology-frankfurt-am-main"
@@ -314,7 +304,7 @@
     "job_title": "Associate Demand Field Service Technician",
     "job_city": "Cleveland",
     "job_state": "Ohio",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
     "id": "abb-associate-demand-field-service-technician-cleveland"
@@ -324,7 +314,7 @@
     "job_title": "R&D Sustainability Specialist Intern",
     "job_city": "Bergamo",
     "job_state": "Bergamo",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
     "id": "abb-r-d-sustainability-specialist-intern-bergamo"
@@ -334,7 +324,7 @@
     "job_title": "Software Developer, ABB Robotics",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Software Developer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
     "id": "abb-software-developer-abb-robotics-vaesteras"
@@ -394,7 +384,7 @@
     "job_title": "R&D Associate Engineer",
     "job_city": "Vittuone",
     "job_state": "Milano",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role R&D Associate Engineer at Vittuone, Milano, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035978/R-D-Associate-Engineer",
     "id": "abb-r-d-associate-engineer-vittuone"
@@ -414,7 +404,7 @@
     "job_title": "Senior Field Service Engineer - Symphony Plus",
     "job_city": "Doha",
     "job_state": "Ad Dawhah",
-    "job_posted_at": "2 weeks ago",
+    "job_posted_at": "3 weeks ago",
     "job_description": "hardware engineering job for the role Senior Field Service Engineer - Symphony Plus at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015474/Senior-Field-Service-Engineer-Symphony-Plus",
     "id": "abb-senior-field-service-engineer-symphony-plus-doha"
@@ -424,7 +414,7 @@
     "job_title": "Key Account Manager - Utility",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Key Account Manager - Utility at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Key-Account-Manager-Utility",
     "id": "abb-key-account-manager-utility-multiple"
@@ -478,5 +468,35 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Design Engineer (AI/ML)",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Digital Design Engineer (AI/ML) at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Staff-Digital-Design-Engineer--AI-ML-_R263412?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-ai-ml-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Power IC Design Engineer",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Power IC Design Engineer at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Principal-Power-IC-Design-Engineer_R263413?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-power-ic-design-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Design Verification Engineer (AI/ML)",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Design Verification Engineer (AI/ML) at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Staff-Design-Verification-Engineer--AI-ML-_R263414?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-design-verification-engineer-ai-ml-us"
   }
 ]
