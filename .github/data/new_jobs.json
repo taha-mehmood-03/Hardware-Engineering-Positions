@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "ServiceNow Application Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ServiceNow Application Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120281&source=WEB_Search_NA",
-    "id": "ibm-servicenow-application-architect-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Field Service Technician",
     "job_city": "Remote",
@@ -81,13 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Metallurgy Area Sales Manager - North America",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Metallurgy Area Sales Manager - North America at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Area-Sales-Manager-North-America",
-    "id": "abb-metallurgy-area-sales-manager-north-america-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
