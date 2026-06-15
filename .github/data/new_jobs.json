@@ -1,43 +1,53 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "AI Content Producer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Principal System Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior AI Content Producer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-ai-content-producer/33099/96460796096",
-    "id": "arm-ai-content-producer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Principal System Architect at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-principal-system-architect/33099/81809923920",
+    "id": "arm-principal-system-architect-san-jose"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Debugger Software Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Debugger Software Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/debugger-software-engineer/33099/96460786960",
-    "id": "arm-debugger-software-engineer-manchester"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Hardware Performance Specialist",
+    "job_title": "Solution Architect",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Hardware Performance Specialist at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-hardware-performance-specialist/33099/76037061504",
-    "id": "arm-hardware-performance-specialist-cambridge"
+    "job_description": "Hardware Engineering job for the role Principal Solution Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-solution-architect/33099/96469296816",
+    "id": "arm-solution-architect-cambridge"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "employer_name": "IBM",
+    "job_title": "AI/Data Solutions Engineer TS/SCI (FSP)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI/Data Solutions Engineer TS/SCI (FSP) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120555&source=WEB_Search_NA",
+    "id": "ibm-ai-data-solutions-engineer-ts-sci-fsp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Semiconductor Design Enablement - Testsite Coordinator",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Semiconductor Design Enablement - Testsite Coordinator at ProfessionalAlbany, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119946&source=WEB_Search_NA",
+    "id": "ibm-semiconductor-design-enablement-testsite-coordinator-albany"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Operational Data Scientist TS/SCI (FSP)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Operational Data Scientist TS/SCI (FSP) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120557&source=WEB_Search_NA",
+    "id": "ibm-operational-data-scientist-ts-sci-fsp-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -48,6 +58,16 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
   },
   {
     "employer_name": "ABB",
