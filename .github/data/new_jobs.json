@@ -1,123 +1,233 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Pre-Silicon DFT/Design Verification Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Pre-Silicon DFT/Design Verification Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-pre-silicon-dft-design-verification-engineer/33099/96153587952",
-    "id": "arm-pre-silicon-dft-design-verification-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Engineer, SIG Electrical Design",
+    "job_title": "Physical Security Senior Manager",
     "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "Posted 12 hours ago",
-    "job_description": "hardware engineering job for the role Engineer, SIG Electrical Design at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42481685",
-    "id": "micron-engineer-sig-electrical-design-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Physical Security Senior Manager at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/physical-security-senior-manager/33099/96556543792",
+    "id": "arm-physical-security-senior-manager-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Category Manager -Corporate services",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Category Manager -Corporate services at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/category-manager-corporate-services/33099/96551874192",
+    "id": "arm-category-manager-corporate-services-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Java Software Engineer – Legacy Modernization",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Java Software Engineer – Legacy Modernization at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119683&source=WEB_Search_NA",
+    "id": "ibm-java-software-engineer-legacy-modernization-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer / UX Designer TS/SCI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer / UX Designer TS/SCI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=109245&source=WEB_Search_NA",
+    "id": "ibm-application-developer-ux-designer-ts-sci-multiple-cities"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
+    "job_title": "HUB Service Program Manager - DCS Modernization",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
+    "job_description": "hardware engineering job for the role HUB Service Program Manager - DCS Modernization at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034868/HUB-Service-Program-Manager-DCS-Modernization",
+    "id": "abb-hub-service-program-manager-dcs-modernization-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
+    "job_title": "Digital Solutions Engineer Terminal & Logistics",
+    "job_city": "Etten-Leur",
+    "job_state": "Netherlands",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Digital Solutions Engineer Terminal & Logistics at Etten-Leur, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018259/Digital-Solutions-Engineer-Terminal-Logistics",
+    "id": "abb-digital-solutions-engineer-terminal-logistics-etten-leur"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager Europe, High Power Solution Business Line (flexible location)",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_description": "hardware engineering job for the role Area Sales Manager Europe, High Power Solution Business Line (flexible location) at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036103/Area-Sales-Manager-Europe-High-Power-Solution-Business-Line-flexible-location",
+    "id": "abb-area-sales-manager-europe-high-power-solution-business-line-flexible-location-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic KAM - eOEM",
+    "job_title": "Human Rights & Sustainability Counsel",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Human Rights & Sustainability Counsel at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036691/Human-Rights-Sustainability-Counsel",
+    "id": "abb-human-rights-sustainability-counsel-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Manager, Hazardous Area Industries, IEC LV Motors",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Industry Sales Manager, Hazardous Area Industries, IEC LV Motors at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029574/Industry-Sales-Manager-Hazardous-Area-Industries-IEC-LV-Motors",
+    "id": "abb-industry-sales-manager-hazardous-area-industries-iec-lv-motors-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager, Marine Propulsion- Energy Segment",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Market Development Manager, Marine Propulsion- Energy Segment at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031641/Market-Development-Manager-Marine-Propulsion-Energy-Segment",
+    "id": "abb-market-development-manager-marine-propulsion-energy-segment-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Client Success Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Client Success Manager at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037444/Client-Success-Manager",
+    "id": "abb-client-success-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Stagiair Marktonderzoek Energyhubs",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic KAM - eOEM at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
-    "id": "abb-strategic-kam-eoem-multiple"
+    "job_description": "hardware engineering job for the role Stagiair Marktonderzoek Energyhubs at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031894/Stagiair-Marktonderzoek-Energyhubs",
+    "id": "abb-stagiair-marktonderzoek-energyhubs-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
+    "job_title": "Sales Specialist Distribution Automation",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Sales Specialist Distribution Automation at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007444/Sales-Specialist-Distribution-Automation",
+    "id": "abb-sales-specialist-distribution-automation-rotterdam"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Manager, Maritime Partners",
     "job_city": "Multiple",
     "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Sales Manager, Maritime Partners at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037440/Sales-Manager-Maritime-Partners",
+    "id": "abb-sales-manager-maritime-partners-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Trainee/Project Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "hardware engineering job for the role Trainee/Project Support at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support",
+    "id": "abb-trainee-project-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation HW Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
+    "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Vittuone",
+    "job_state": "Milano",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
+    "job_description": "hardware engineering job for the role R&D Associate Engineer at Vittuone, Milano, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035978/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-vittuone"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Named Account Manager - PG&E",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "R&D Sustainability Specialist Intern",
+    "job_city": "Bergamo",
+    "job_state": "Bergamo",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Named Account Manager - PG&E at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029802/Named-Account-Manager-PG-E",
-    "id": "abb-named-account-manager-pg-e-multiple"
+    "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
+    "id": "abb-r-d-sustainability-specialist-intern-bergamo"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "West Sacramento",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at West Sacramento, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-west-sacramento"
+    "job_title": "Control Systems Specialist",
+    "job_city": "Brno",
+    "job_state": "Jihomoravský kraj",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
+    "id": "abb-control-systems-specialist-brno"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Sales Specialist at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030006/Sales-Specialist",
-    "id": "abb-sales-specialist-remote"
+    "job_title": "Student Internship - Software Developer with C",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Student Internship - Software Developer with C at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012787/Student-Internship-Software-Developer-with-C",
+    "id": "abb-student-internship-software-developer-with-c-krakow"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer - Electronics Hardware",
-    "job_city": "Heidelberg",
-    "job_state": "Baden-Wurttemberg",
+    "job_title": "Software Developer, ABB Robotics",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Software Developer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
+    "id": "abb-software-developer-abb-robotics-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics AI & Embedded Software Engineer",
+    "job_city": "Madrigalejo del Monte",
+    "job_state": "Spain",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Senior Engineer - Electronics Hardware at Heidelberg, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035155/R-D-Senior-Engineer-Electronics-Hardware",
-    "id": "abb-r-d-senior-engineer-electronics-hardware-heidelberg"
+    "job_description": "hardware engineering job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
+    "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrical Hardware Engineer",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Electrical Hardware Engineer at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036629/Electrical-Hardware-Engineer",
+    "id": "abb-electrical-hardware-engineer-bartlesville"
   },
   {
     "employer_name": "ABB",
@@ -128,16 +238,6 @@
     "job_description": "hardware engineering job for the role SIS Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025062/SIS-Engineer",
     "id": "abb-sis-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Planning and Commissioning Engineer (m/f/d) – Functional Safety",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Project Planning and Commissioning Engineer (m/f/d) – Functional Safety at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032573/Project-Planning-and-Commissioning-Engineer-m-f-d-Functional-Safety",
-    "id": "abb-project-planning-and-commissioning-engineer-m-f-d-functional-safety-mannheim"
   },
   {
     "employer_name": "ABB",
@@ -171,23 +271,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 - 100%) Senior Technical Support Engineer",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role (80 - 100%) Senior Technical Support Engineer at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036446/-80-100-Senior-Technical-Support-Engineer",
-    "id": "abb-80-100-senior-technical-support-engineer-untersiggenthal"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Control Systems Specialist",
-    "job_city": "Brno",
-    "job_state": "Jihomoravský kraj",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Control Systems Specialist at Brno, Jihomoravský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032238/Control-Systems-Specialist",
-    "id": "abb-control-systems-specialist-brno"
+    "job_title": "R&D Project Manager",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
+    "id": "abb-r-d-project-manager-bartlesville"
   },
   {
     "employer_name": "ABB",
@@ -241,6 +331,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "QCS Senior Resident Service Technician - Pine Bluff, AR",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - Pine Bluff, AR at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036766/QCS-Senior-Resident-Service-Technician-Pine-Bluff-AR",
+    "id": "abb-qcs-senior-resident-service-technician-pine-bluff-ar-remote"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Power Electronics Scientist",
     "job_city": "Raleigh",
     "job_state": "North Carolina",
@@ -248,26 +348,6 @@
     "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
     "id": "abb-power-electronics-scientist-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Technology Specialist / Focus SAP (f/m/d)",
-    "job_city": "Sasbach",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
-    "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Student Internship - Software Developer with C",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Student Internship - Software Developer with C at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012787/Student-Internship-Software-Developer-with-C",
-    "id": "abb-student-internship-software-developer-with-c-krakow"
   },
   {
     "employer_name": "ABB",
@@ -281,26 +361,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d)",
-    "job_city": "Ratingen",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) at Ratingen, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/92948027/Project-Application-Engineer-Automation-Engineer-DCS-and-protection-systems-f-m-d",
-    "id": "abb-project-application-engineer-automation-engineer-dcs-and-protection-systems-f-m-d-ratingen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034838/Internship-Master-Thesis-student-m-f-d-Simulation-Prototyping-and-Testing-of-Next-Generation-of-Agile-Actuator-Mechanisms",
-    "id": "abb-internship-master-thesis-student-m-f-d-simulation-prototyping-and-testing-of-next-generation-of-agile-actuator-mechanisms-mannheim"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Testing & Lab Specialist- Electronics Hardware",
     "job_city": "Xinhui",
     "job_state": "Guangdong",
@@ -311,16 +371,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service technician / service engineer (f/m/d) – automation technology",
-    "job_city": "Frankfurt am Main",
-    "job_state": "Germany",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Service technician / service engineer (f/m/d) – automation technology at Frankfurt am Main, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033299/Service-technician-service-engineer-f-m-d-automation-technology",
-    "id": "abb-service-technician-service-engineer-f-m-d-automation-technology-frankfurt-am-main"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Associate Demand Field Service Technician",
     "job_city": "Cleveland",
     "job_state": "Ohio",
@@ -328,36 +378,6 @@
     "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
     "id": "abb-associate-demand-field-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Sustainability Specialist Intern",
-    "job_city": "Bergamo",
-    "job_state": "Bergamo",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role R&D Sustainability Specialist Intern at Bergamo, Bergamo, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035842/R-D-Sustainability-Specialist-Intern",
-    "id": "abb-r-d-sustainability-specialist-intern-bergamo"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Trainee/Project Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "hardware engineering job for the role Trainee/Project Support at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support",
-    "id": "abb-trainee-project-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Developer, ABB Robotics",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Software Developer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
-    "id": "abb-software-developer-abb-robotics-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -391,13 +411,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Associate Engineer",
-    "job_city": "Vittuone",
-    "job_state": "Milano",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role R&D Associate Engineer at Vittuone, Milano, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035978/R-D-Associate-Engineer",
-    "id": "abb-r-d-associate-engineer-vittuone"
+    "job_title": "Associate Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025313/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -411,6 +431,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Quality Assurance Specialist/Officer",
+    "job_city": "Genova",
+    "job_state": "Genova",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
+    "id": "abb-r-d-quality-assurance-specialist-officer-genova"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR)",
     "job_city": "Auburn Hills",
     "job_state": "Michigan",
@@ -418,6 +448,16 @@
     "job_description": "hardware engineering job for the role Applications & Solutions Engineer Autonomous Manipulative Mobile Robots (AMMR) at Auburn Hills, Michigan, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037398/Applications-Solutions-Engineer-Autonomous-Manipulative-Mobile-Robots-AMMR",
     "id": "abb-applications-solutions-engineer-autonomous-manipulative-mobile-robots-ammr-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
@@ -431,13 +471,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics AI & Embedded Software Engineer",
-    "job_city": "Madrigalejo del Monte",
-    "job_state": "Spain",
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Selmer",
+    "job_state": "Tennessee",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
-    "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
+    "job_description": "hardware engineering job for the role Production Engineering Specialist at Selmer, Tennessee, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032621/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-selmer"
   },
   {
     "employer_name": "ABB",
@@ -451,6 +491,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "firmware intern",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -461,12 +511,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Automation HW Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
-    "id": "abb-automation-hw-engineer-multiple"
+    "job_title": "Transportation Systems Support Leader",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Transportation Systems Support Leader at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020507/Transportation-Systems-Support-Leader",
+    "id": "abb-transportation-systems-support-leader-remote"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Signal Integrity/Power Integrity Principal Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Signal Integrity/Power Integrity Principal Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware---Silicon-Validation-Principal-Engineer_2600865?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-signal-integrity-power-integrity-principal-engineer-santa-clara"
   }
 ]
