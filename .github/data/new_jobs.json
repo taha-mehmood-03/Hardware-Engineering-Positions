@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "SoC Verification Engineer",
+    "job_city": "Bristol",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Verification Engineer at Bristol, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/bristol/soc-verification-engineer/33099/94451303312",
+    "id": "arm-soc-verification-engineer-bristol"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
@@ -91,13 +101,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
+    "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -274,7 +284,7 @@
     "job_title": "IS Technology Specialist / Focus SAP (f/m/d)",
     "job_city": "Sasbach",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "Today",
     "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
     "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
@@ -421,6 +431,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Robotics IT Admin - Cybersecurity",
+    "job_city": "Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Robotics IT Admin - Cybersecurity at Sant Quirze del Valles, Barcelona, Spain",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037552/Robotics-IT-Admin-Cybersecurity",
+    "id": "abb-robotics-it-admin-cybersecurity-sant-quirze-del-valles"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Robotics AI & Embedded Software Engineer",
     "job_city": "Madrigalejo del Monte",
     "job_state": "Spain",
@@ -438,45 +458,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Coherent DSP Applications Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Staff Coherent DSP Applications Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Coherent-DSP-Applications-Engineer_2602764?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-coherent-dsp-applications-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Program Inventory Ops/Analyst",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Program Inventory Ops/Analyst at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Program-Inventory-Ops-Analyst_2602618?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-program-inventory-ops-analyst-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Test Engineering Director",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Test Engineering Director at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Director_2602211?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-test-engineering-director-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Test Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Principal Test Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Test-Engineer_2602213?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-test-engineer-santa-clara"
   }
 ]
