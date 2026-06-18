@@ -1,43 +1,14 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software ML Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software ML Engineer at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/software-ml-engineer/33099/93485591936",
-    "id": "arm-software-ml-engineer-manchester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Packaged Solution Consultant",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Packaged Solution Consultant at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=121146&source=WEB_Search_NA",
-    "id": "ibm-packaged-solution-consultant-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Development Executive – IBM Technology Sales – Americas",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Development Executive – IBM Technology Sales – Americas at ProfessionalNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=121233&source=WEB_Search_NA",
-    "id": "ibm-business-development-executive-ibm-technology-sales-americas-new-york"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_title": "Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10449438/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-accelerator-servers",
+    "job_posted_at": "2026-06-18T21:06:32.640Z",
+    "job_posted_at_datetime_utc": "2026-06-18T21:06:32.640Z",
+    "id": "amazon-cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-accelerator-servers-austin"
   },
   {
     "employer_name": "ABB",
@@ -61,13 +32,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Vice President Sales, C&I",
+    "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
-    "id": "abb-vice-president-sales-c-i-multiple"
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +59,16 @@
     "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
     "id": "abb-oem-sales-director-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Vice President Sales, C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
   },
   {
     "employer_name": "ABB",
@@ -301,16 +282,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Student Internship - Software Developer with C",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Student Internship - Software Developer with C at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012787/Student-Internship-Software-Developer-with-C",
-    "id": "abb-student-internship-software-developer-with-c-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 -100%) Service Test Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -318,6 +289,16 @@
     "job_description": "hardware engineering job for the role (80 -100%) Service Test Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037287/-80-100-Service-Test-Engineer",
     "id": "abb-80-100-service-test-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Student Internship - Software Developer with C",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Student Internship - Software Developer with C at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012787/Student-Internship-Software-Developer-with-C",
+    "id": "abb-student-internship-software-developer-with-c-krakow"
   },
   {
     "employer_name": "ABB",
@@ -468,5 +449,35 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Digital Verification Engineering",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Digital Verification Engineering at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Principal-Engineer--Digital-Design-Engineering_R262402?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-verification-engineering-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Digital Design Engineering (AI/ML)",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Engineer, Digital Design Engineering (AI/ML) at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Staff-Engineer--Digital-Design-Engineering_R261739?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-design-engineering-ai-ml-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Digital Design Engineer (AI/ML)",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Engineer, Digital Design Engineer (AI/ML) at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Staff-Digital-Design-Engineer--AI-ML-_R263412?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-design-engineer-ai-ml-us"
   }
 ]
