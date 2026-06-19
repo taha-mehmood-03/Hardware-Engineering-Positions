@@ -1,33 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Cybersecurity Remediation Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Technical Ecosystem Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cybersecurity Remediation Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120534&source=WEB_Search_NA",
-    "id": "ibm-cybersecurity-remediation-manager-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Technical Ecosystem Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-ecosystem-engineer/33099/96158948400",
+    "id": "arm-technical-ecosystem-engineer-cambridge"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Account Executive - Digital Native & Enterprise Markets",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Accelerator Tools-Engineering",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Account Executive - Digital Native & Enterprise Markets at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=121212&source=WEB_Search_NA",
-    "id": "ibm-account-executive-digital-native-enterprise-markets-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer - Accelerator Tools-Engineering at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-software-engineer-accelerator-tools-engineering/33099/85244193712",
+    "id": "arm-software-engineer-accelerator-tools-engineering-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
+    "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,23 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
+    "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -111,23 +91,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_title": "ELSP Logistics Specialist",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role ELSP Logistics Specialist at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037032/ELSP-Logistics-Specialist",
+    "id": "abb-elsp-logistics-specialist-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
+    "job_title": "Associate Master Data Specialist",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Master Data Specialist at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031672/Associate-Master-Data-Specialist",
+    "id": "abb-associate-master-data-specialist-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026155/ELDS-MV-SWGR-Production-Operator-1st-Shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Selmer",
+    "job_state": "Tennessee",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Production Engineering Specialist at Selmer, Tennessee, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032621/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-selmer"
   },
   {
     "employer_name": "ABB",
@@ -178,6 +178,16 @@
     "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
     "id": "abb-r-d-project-manager-bartlesville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -458,15 +468,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sr. Distinguished Engineer, Data Center Management & Control Plane",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Sr. Distinguished Engineer, Data Center Management & Control Plane at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Solutions-Architect--Data-Center-Management---Control-Plane_2602331?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-distinguished-engineer-data-center-management-control-plane-santa-clara"
   }
 ]
