@@ -1,23 +1,56 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Senior/Staff Facilities SCADA Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Senior/Staff Facilities SCADA Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42565208",
-    "id": "micron-senior-staff-facilities-scada-engineer-boise"
+    "job_title": "Embedded Software Dev Engineer, Amazon Leo Antenna Development",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Embedded Software Dev Engineer, Amazon Leo Antenna Development at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10456093/embedded-software-dev-engineer-amazon-leo-antenna-development",
+    "job_posted_at": "2026-06-23T01:01:11.831Z",
+    "job_posted_at_datetime_utc": "2026-06-23T01:01:11.831Z",
+    "id": "amazon-embedded-software-dev-engineer-amazon-leo-antenna-development-redmond"
+  },
+  {
+    "job_title": "Hardware Reliability Engineer, Devices Reliability Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Reliability Engineer, Devices Reliability Engineering at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10456089/hardware-reliability-engineer-devices-reliability-engineering",
+    "job_posted_at": "2026-06-23T01:01:11.830Z",
+    "job_posted_at_datetime_utc": "2026-06-23T01:01:11.830Z",
+    "id": "amazon-hardware-reliability-engineer-devices-reliability-engineering-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineer I - Compiler, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Engineer I - Compiler, Annapurna Labs at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10438055/software-engineer-i-compiler-annapurna-labs",
+    "job_posted_at": "2026-06-23T00:01:11.831Z",
+    "job_posted_at_datetime_utc": "2026-06-23T00:01:11.831Z",
+    "id": "amazon-software-engineer-i-compiler-annapurna-labs-seattle"
   },
   {
     "employer_name": "Micron",
-    "job_title": "SSD Systems Design Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Principal SSD Systems Design Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42229295",
-    "id": "micron-ssd-systems-design-engineer-longmont"
+    "job_title": "Cloud Solutions Architect (Memory & Storage)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role Staff Cloud Solutions Architect (Memory & Storage) at San Jose, California, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/42005147",
+    "id": "micron-cloud-solutions-architect-memory-storage-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Search and Digital Content Experience Consultant - Client Solutions",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role AI Search and Digital Content Experience Consultant - Client Solutions at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122527&source=WEB_Search_NA",
+    "id": "ibm-ai-search-and-digital-content-experience-consultant-client-solutions-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -41,16 +74,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -58,6 +81,16 @@
     "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Sales Director-Machinery",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,13 +114,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
+    "job_title": "Market Development Manager - Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -101,23 +134,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
+    "job_title": "Sr Product Marketing Specialist Indoor Products",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
+    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
+    "job_title": "Service Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
