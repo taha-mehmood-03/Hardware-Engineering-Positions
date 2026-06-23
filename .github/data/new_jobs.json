@@ -1,56 +1,13 @@
 [
   {
-    "job_title": "Embedded Software Dev Engineer, Amazon Leo Antenna Development",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Embedded Software Dev Engineer, Amazon Leo Antenna Development at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10456093/embedded-software-dev-engineer-amazon-leo-antenna-development",
-    "job_posted_at": "2026-06-23T01:01:11.831Z",
-    "job_posted_at_datetime_utc": "2026-06-23T01:01:11.831Z",
-    "id": "amazon-embedded-software-dev-engineer-amazon-leo-antenna-development-redmond"
-  },
-  {
-    "job_title": "Hardware Reliability Engineer, Devices Reliability Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Hardware Reliability Engineer, Devices Reliability Engineering at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10456089/hardware-reliability-engineer-devices-reliability-engineering",
-    "job_posted_at": "2026-06-23T01:01:11.830Z",
-    "job_posted_at_datetime_utc": "2026-06-23T01:01:11.830Z",
-    "id": "amazon-hardware-reliability-engineer-devices-reliability-engineering-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer I - Compiler, Annapurna Labs",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Software Engineer I - Compiler, Annapurna Labs at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10438055/software-engineer-i-compiler-annapurna-labs",
-    "job_posted_at": "2026-06-23T00:01:11.831Z",
-    "job_posted_at_datetime_utc": "2026-06-23T00:01:11.831Z",
-    "id": "amazon-software-engineer-i-compiler-annapurna-labs-seattle"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Cloud Solutions Architect (Memory & Storage)",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "hardware engineering job for the role Staff Cloud Solutions Architect (Memory & Storage) at San Jose, California, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/42005147",
-    "id": "micron-cloud-solutions-architect-memory-storage-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Search and Digital Content Experience Consultant - Client Solutions",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Search and Digital Content Experience Consultant - Client Solutions at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122527&source=WEB_Search_NA",
-    "id": "ibm-ai-search-and-digital-content-experience-consultant-client-solutions-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +28,6 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -114,53 +61,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
-    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024347/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038827/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Account Manager - C&I at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037801/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-cleveland"
   },
   {
     "employer_name": "ABB",
@@ -174,43 +121,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "QCS Senior Resident Service Technician - St. Francisville, LA",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - St. Francisville, LA at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030504/QCS-Senior-Resident-Service-Technician-St-Francisville-LA",
-    "id": "abb-qcs-senior-resident-service-technician-st-francisville-la-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "QCS Senior Resident Service Technician - Pine Bluff, AR",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role QCS Senior Resident Service Technician - Pine Bluff, AR at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036766/QCS-Senior-Resident-Service-Technician-Pine-Bluff-AR",
-    "id": "abb-qcs-senior-resident-service-technician-pine-bluff-ar-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrical Hardware Engineer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Electrical Hardware Engineer at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036629/Electrical-Hardware-Engineer",
-    "id": "abb-electrical-hardware-engineer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Project Manager",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
-    "id": "abb-r-d-project-manager-bartlesville"
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Utility",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Key Account Manager - Utility at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Key-Account-Manager-Utility",
+    "id": "abb-key-account-manager-utility-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Scientist",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
+    "id": "abb-power-electronics-scientist-raleigh"
   },
   {
     "employer_name": "ABB",
