@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Silicon Power Performance Engineer (System Level Test & Characterization)",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Silicon Power Performance Engineer (System Level Test & Characterization) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/silicon-power-performance-engineer-system-level-test-and-characterization/33099/96899126992",
-    "id": "arm-silicon-power-performance-engineer-system-level-test-characterization-bengaluru"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Query Planner",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Query Planner at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=121509&source=WEB_Search_NA",
-    "id": "ibm-query-planner-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
@@ -28,16 +8,6 @@
     "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
     "id": "abb-service-manager-digital-automation-and-control-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,23 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Vice President Sales, C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
-    "id": "abb-vice-president-sales-c-i-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,33 +41,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
+    "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
-    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +68,36 @@
     "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
     "id": "abb-service-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager - Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -371,6 +351,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer KNX (m/f/d)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer KNX (m/f/d) at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038102/R-D-Engineer-KNX-m-f-d",
+    "id": "abb-r-d-engineer-knx-m-f-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Service technician / service engineer (f/m/d) – automation technology",
     "job_city": "Frankfurt am Main",
     "job_state": "Germany",
@@ -478,15 +468,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Systems Design/Architecture",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Engineer, Systems Design/Architecture at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Staff-Engineer--Systems-Design-Architecture_R263399?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-systems-design-architecture-us"
   }
 ]
