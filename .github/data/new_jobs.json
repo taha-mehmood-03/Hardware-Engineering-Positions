@@ -1,13 +1,45 @@
 [
   {
+    "job_title": "Hardware Design Engineer, One MHS - Electrical and Control Engineering, Arch and Design",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Hardware Design Engineer, One MHS - Electrical and Control Engineering, Arch and Design at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10460470/hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design",
+    "job_posted_at": "2026-06-27T00:53:00.741Z",
+    "job_posted_at_datetime_utc": "2026-06-27T00:53:00.741Z",
+    "id": "amazon-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design-arlington"
+  },
+  {
+    "job_title": "Power Systems Engineer, AWS Global Energy",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Power Systems Engineer, AWS Global Energy at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10460486/power-systems-engineer-aws-global-energy",
+    "job_posted_at": "2026-06-27T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-06-27T00:00:00.000Z",
+    "id": "amazon-power-systems-engineer-aws-global-energy-herndon"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "SoC Architecture and Design Engineer, Senior Member of Technical Staff (SMTS)",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role SoC Architecture and Design Engineer, Senior Member of Technical Staff (SMTS) at Richardson, Texas, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/42118521",
+    "id": "micron-soc-architecture-and-design-engineer-senior-member-of-technical-staff-smts-richardson"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
+    "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +53,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
+    "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
   },
   {
     "employer_name": "ABB",
@@ -428,25 +460,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Software Systems Design Engineering",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Software Systems Design Engineering at US, TX, Dallas, Tollway",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Software-Systems-Design-Engineering_R263762?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-software-systems-design-engineering-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, MEMS Test Engineering - Product Development",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, MEMS Test Engineering - Product Development at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--MEMS-Test-Engineering---Product-Development_R263761?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-mems-test-engineering-product-development-us"
   }
 ]
