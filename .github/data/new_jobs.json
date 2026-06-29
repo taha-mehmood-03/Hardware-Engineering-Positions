@@ -1,33 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-remote"
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer (Debug)",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Applications Engineer (Debug) at Hsinchu, Taiwan, Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-applications-engineer-debug/33099/91578530592",
+    "id": "arm-applications-engineer-debug-hsinchu"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Contractor Key Account Manager - West",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,63 +51,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-remote"
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
   },
   {
     "employer_name": "ABB",
-    "job_title": "EPM Field Application Engineer",
+    "job_title": "OEM Sales Director-Machinery",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role EPM Field Application Engineer at Available in one of 32 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038682/EPM-Field-Application-Engineer",
-    "id": "abb-epm-field-application-engineer-multiple"
+    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Project Manager",
+    "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Project Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036736/Associate-Project-Manager",
-    "id": "abb-associate-project-manager-multiple"
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024347/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "7 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Key Account Manager - Utility",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Key Account Manager - Utility at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Key-Account-Manager-Utility",
-    "id": "abb-key-account-manager-utility-multiple"
+    "job_title": "Account Manager - C&I",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Account Manager - C&I at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037801/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -128,6 +118,36 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Utility",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Key Account Manager - Utility at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036456/Key-Account-Manager-Utility",
+    "id": "abb-key-account-manager-utility-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Scientist",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036221/Power-Electronics-Scientist",
+    "id": "abb-power-electronics-scientist-raleigh"
   },
   {
     "employer_name": "ABB",
