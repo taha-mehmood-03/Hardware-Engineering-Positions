@@ -1,23 +1,24 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Developer",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Developer at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=123511&source=WEB_Search_NA",
-    "id": "ibm-developer-armonk"
+    "job_title": "Mechanical Engineer II, Hardware Engineering, Robotics Storage Technology",
+    "employer_name": "Amazon",
+    "job_city": "Westboro",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Mechanical Engineer II, Hardware Engineering, Robotics Storage Technology at Westboro, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10422613/mechanical-engineer-ii-hardware-engineering-robotics-storage-technology",
+    "job_posted_at": "2026-06-30T19:11:11.018Z",
+    "job_posted_at_datetime_utc": "2026-06-30T19:11:11.018Z",
+    "id": "amazon-mechanical-engineer-ii-hardware-engineering-robotics-storage-technology-westboro"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,33 +42,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Operations Leader - North",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
-    "id": "abb-regional-sales-operations-leader-north-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
+    "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +59,16 @@
     "job_description": "hardware engineering job for the role Vice President Sales, C&I at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
     "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
+    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
   },
   {
     "employer_name": "ABB",
@@ -108,6 +99,16 @@
     "job_description": "hardware engineering job for the role Market Development Manager - Data Centers at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
     "id": "abb-market-development-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Supervisor - 2nd Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Supervisor - 2nd Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037025/Warehouse-Internal-Logistics-Supervisor-2nd-Shift",
+    "id": "abb-warehouse-internal-logistics-supervisor-2nd-shift-mebane"
   },
   {
     "employer_name": "ABB",
@@ -398,5 +399,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI Accelerator Architect Lead",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal AI Accelerator Architect Lead at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Heterogenues-AI-Accelerator-Lead_R263269?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-accelerator-architect-lead-2-locations"
   }
 ]
