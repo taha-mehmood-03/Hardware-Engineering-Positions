@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer - System Test (GPU)",
-    "job_city": "Lund",
-    "job_state": "Sweden",
+    "job_title": "SAP Finance Specialist",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - System Test (GPU) at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/senior-software-engineer-system-test-gpu/33099/93909334224",
-    "id": "arm-software-engineer-system-test-gpu-lund"
+    "job_description": "Hardware Engineering job for the role Senior SAP Finance Specialist at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-sap-finance-specialist/33099/97135943184",
+    "id": "arm-sap-finance-specialist-bengaluru"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -78,6 +58,26 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
   },
   {
     "employer_name": "ABB",
@@ -301,6 +301,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer (f/m/d) – Energy Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Engineer (f/m/d) – Energy Industries at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027660/Project-Engineer-f-m-d-Energy-Industries",
+    "id": "abb-project-engineer-f-m-d-energy-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Testing & Lab Specialist- Electronics Hardware",
     "job_city": "Xinhui",
     "job_state": "Guangdong",
@@ -311,6 +321,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Project Engineer",
+    "job_city": "Plzen",
+    "job_state": "Plzeňský kraj",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Engineer at Plzen, Plzeňský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039588/Project-Engineer",
+    "id": "abb-project-engineer-plzen"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Engineer KNX (m/f/d)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -318,16 +338,6 @@
     "job_description": "hardware engineering job for the role R&D Engineer KNX (m/f/d) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038102/R-D-Engineer-KNX-m-f-d",
     "id": "abb-r-d-engineer-knx-m-f-d-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service technician / service engineer (f/m/d) – automation technology",
-    "job_city": "Frankfurt am Main",
-    "job_state": "Germany",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Service technician / service engineer (f/m/d) – automation technology at Frankfurt am Main, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033299/Service-technician-service-engineer-f-m-d-automation-technology",
-    "id": "abb-service-technician-service-engineer-f-m-d-automation-technology-frankfurt-am-main"
   },
   {
     "employer_name": "ABB",
@@ -374,7 +384,7 @@
     "job_title": "Automation Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "Today",
     "job_description": "hardware engineering job for the role Automation Engineer at Available in one of 4 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039892/Automation-Engineer",
     "id": "abb-automation-engineer-multiple"
@@ -408,25 +418,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "RF/Microwave Amplifier MMIC Design Engineer",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role RF/Microwave Amplifier MMIC Design Engineer at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Staff-Engineer--RF-Design_R263015?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-rf-microwave-amplifier-mmic-design-engineer-3-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Battery Test Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Senior Engineer, Battery Test Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Battery-Test-Engineering_R263793?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-battery-test-engineering-us"
   }
 ]
