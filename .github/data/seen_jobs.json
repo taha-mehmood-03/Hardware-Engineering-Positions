@@ -1,6 +1,4 @@
 [
-  "aijobs-compiler-engineer-compute-santa-clara",
-  "aijobs-compiler-engineer-dl-santa-clara",
   "aijobs-compiler-engineer-networking-compiler-technology-santa-clara",
   "aijobs-compiler-optimization-engineer-santa-clara",
   "aijobs-compliance-testing-technician-us",
@@ -3649,6 +3647,7 @@
   "arm-network-performance-engineer-austin",
   "arm-next-gen-platform-product-manager-cambridge",
   "arm-odm-field-quality-engineer-hsinchu",
+  "arm-odm-quality-engineer-hsinchu",
   "arm-operations-analyst-design-quality-bengaluru",
   "arm-operations-manager-budget-cost-optimization-semiconductor-austin",
   "arm-operations-manager-budget-cost-optimization-semiconductor-san-diego",
@@ -3821,6 +3820,7 @@
   "arm-product-manager-performance-tooling-and-analysis-cambridge",
   "arm-product-manager-seattle",
   "arm-product-owner-cambridge",
+  "arm-product-qre-hsinchu",
   "arm-product-security-architect-cambridge",
   "arm-product-security-engineer-cambridge",
   "arm-product-security-graduate-cambridge",
