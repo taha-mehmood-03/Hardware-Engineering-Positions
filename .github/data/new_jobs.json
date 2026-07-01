@@ -1,33 +1,14 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - Probe Card Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - Probe Card Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42830129",
-    "id": "micron-new-college-grad-probe-card-engineer-boise"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "job_title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer I, ML Infra Services, Annapurna Labs at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs",
+    "job_posted_at": "2026-07-01T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-07-01T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-i-ml-infra-services-annapurna-labs-seattle"
   },
   {
     "employer_name": "ABB",
@@ -38,16 +19,6 @@
     "job_description": "hardware engineering job for the role Regional Sales Operations Leader - West at Available in one of 18 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039801/Regional-Sales-Operations-Leader-West",
     "id": "abb-regional-sales-operations-leader-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,6 +39,36 @@
     "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
     "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -378,15 +379,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Applications Software Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Applications Software Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-applications-software-engineer-us"
   }
 ]
