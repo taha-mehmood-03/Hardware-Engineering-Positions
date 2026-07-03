@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -21,23 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Operations Leader - North",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
-    "id": "abb-regional-sales-operations-leader-north-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,23 +51,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
+    "job_title": "Regional Sales Operations Leader - North",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
+    "id": "abb-regional-sales-operations-leader-north-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +71,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "OEM Sales Director-Machinery",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
+    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,26 +98,6 @@
     "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Project Manager",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
-    "id": "abb-r-d-project-manager-bartlesville"
   },
   {
     "employer_name": "ABB",
