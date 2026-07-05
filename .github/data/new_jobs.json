@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,6 +8,16 @@
     "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
     "id": "abb-service-manager-digital-automation-and-control-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,6 +51,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Sr Product Marketing Specialist Indoor Products",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Channel Director - Northern California",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -91,13 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "Regional Sales Operations Leader - West",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - West at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039801/Regional-Sales-Operations-Leader-West",
+    "id": "abb-regional-sales-operations-leader-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -268,16 +268,6 @@
     "job_description": "hardware engineering job for the role Trainee/Project Support at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support",
     "id": "abb-trainee-project-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Developer, ABB Robotics",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Software Developer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036654/Software-Developer-ABB-Robotics",
-    "id": "abb-software-developer-abb-robotics-vaesteras"
   },
   {
     "employer_name": "ABB",
