@@ -1,73 +1,123 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "employer_name": "Arm",
+    "job_title": "Product Manager, Edge AI CPU",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Product Manager, Edge AI CPU at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-product-manager-edge-ai-cpu/33099/97470221856",
+    "id": "arm-product-manager-edge-ai-cpu-austin"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "EPM Field Application Engineer",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role EPM Field Application Engineer at Available in one of 32 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038682/EPM-Field-Application-Engineer",
-    "id": "abb-epm-field-application-engineer-multiple"
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Operations Leader - North",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
+    "id": "abb-regional-sales-operations-leader-north-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - KS, IA, NE, MO",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
-    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "job_description": "hardware engineering job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
+    "job_title": "OEM Sales Director-Machinery",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
+    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -308,25 +358,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer: Embedded Audio Software",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Engineer: Embedded Audio Software at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Engineer--Embedded-Audio-Software_R263782?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-embedded-audio-software-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Associate Engineer: Embedded Audio Software",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Associate Engineer: Embedded Audio Software at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-associate-engineer-embedded-audio-software-us"
   }
 ]
