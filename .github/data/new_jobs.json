@@ -1,53 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Wafer Test Hardware Engineer",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Wafer Test Hardware Engineer, Raxium",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77849049327116998-senior-wafer-test-hardware-engineer-raxium?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-wafer-test-hardware-engineer-fremont"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Principal Platform Security Architect",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
+    "job_title": "DFT Solutions Engineer – Chip Methodology & Automation (CMA)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal Platform Security Architect at Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/senior-principal-platform-security-architect/33099/92918577104",
-    "id": "arm-principal-platform-security-architect-bristol"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "ML Embedded Software Engineer",
-    "job_city": "Galway",
-    "job_state": "Ireland",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ML Embedded Software Engineer at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/ml-embedded-software-engineer/33099/97503493040",
-    "id": "arm-ml-embedded-software-engineer-galway"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Intellectual Property (IP) Attorney",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
-    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Operations Leader - North",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
-    "id": "abb-regional-sales-operations-leader-north-multiple"
+    "job_description": "Hardware Engineering job for the role Staff DFT Solutions Engineer – Chip Methodology & Automation (CMA) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-dft-solutions-engineer-chip-methodology-and-automation-cma/33099/89574732224",
+    "id": "arm-dft-solutions-engineer-chip-methodology-automation-cma-bengaluru"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +31,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Regional Sales Operations Leader - North",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
+    "id": "abb-regional-sales-operations-leader-north-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "OEM Sales Director-Machinery",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,16 +68,6 @@
     "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,12 +91,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -388,5 +368,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Emulation Lead, Senior Principal Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Emulation Lead, Senior Principal Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Emulation-Lead-Engineer_2600917?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-emulation-lead-senior-principal-engineer-santa-clara"
   }
 ]
