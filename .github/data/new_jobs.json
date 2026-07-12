@@ -31,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "OEM Sales Director-Machinery",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +78,16 @@
     "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
     "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
