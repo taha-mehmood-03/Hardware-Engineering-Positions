@@ -1,33 +1,14 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Interconnect Technology Team Lead",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Interconnect Technology Team Lead at San Diego, California, Austin, Texas, Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-interconnect-technology-team-lead/33099/97749775744",
-    "id": "arm-soc-interconnect-technology-team-lead-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SoC Interconnect Technology Team Lead",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SoC Interconnect Technology Team Lead at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-interconnect-technology-team-lead/33099/97749775744",
-    "id": "arm-soc-interconnect-technology-team-lead-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-phoenix"
+    "job_title": "Hardware Development Engineer, Design Engineering, Sort & Ultrafast Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Design Engineering, Sort & Ultrafast Engineering at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10473104/hardware-development-engineer-design-engineering-sort-ultrafast-engineering",
+    "job_posted_at": "2026-07-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-07-13T00:00:00.000Z",
+    "id": "amazon-hardware-development-engineer-design-engineering-sort-ultrafast-engineering-bellevue"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +32,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,16 +72,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Inventory Control Associate",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038827/Inventory-Control-Associate",
-    "id": "abb-inventory-control-associate-phoenix"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -108,6 +79,26 @@
     "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
     "id": "abb-protection-and-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,33 +112,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "7 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -411,6 +392,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Automation HW Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -418,15 +409,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sr. Principal Embedded Architect (Data center and Energy)",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Sr. Principal Embedded Architect (Data center and Energy) at US, TX, Austin, Plaza on the Lake",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Lead-Software-Architect_R261350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sr-principal-embedded-architect-data-center-and-energy-us"
   }
 ]
