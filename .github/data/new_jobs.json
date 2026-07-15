@@ -1,23 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Failure Analysis Methodology Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "Senior ASIC DFT Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Failure Analysis Methodology Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/senior-failure-analysis-methodology-engineer/33099/96854384112",
-    "id": "arm-failure-analysis-methodology-engineer-hsinchu"
+    "job_description": "44 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior ASIC DFT Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113820521417581254-senior-asic-dft-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-asic-dft-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Hardware Security Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Hardware Security Engineer at Cambridge, United Kingdom, Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-hardware-security-engineer/33099/95081028640",
+    "id": "arm-hardware-security-engineer-cambridge"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_title": "Contractor Key Account Manager - West",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
-    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,23 +71,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
+    "job_title": "Mining and Material Controls Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Mining and Material Controls Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040042/Mining-and-Material-Controls-Engineer",
+    "id": "abb-mining-and-material-controls-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040254/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
   },
   {
     "employer_name": "ABB",
@@ -91,23 +101,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "HSE Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
+    "id": "abb-hse-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +138,16 @@
     "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer (f/m/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d",
+    "id": "abb-r-d-engineer-f-m-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -331,16 +361,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Automation HW Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -348,5 +368,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal, IC Digital Design Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Principal, IC Digital Design Engineer at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/ASIC-Design-Engineer_2600835?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-ic-digital-design-engineer-irvine"
   }
 ]
