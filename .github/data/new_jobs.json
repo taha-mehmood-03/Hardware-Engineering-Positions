@@ -11,6 +11,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -28,6 +38,46 @@
     "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
     "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Mining and Material Controls Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Mining and Material Controls Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040042/Mining-and-Material-Controls-Engineer",
+    "id": "abb-mining-and-material-controls-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040254/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Director, Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
+    "id": "abb-senior-director-service-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,83 +101,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELSP Production Planning Technician",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Technical Support Specialist-1",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Technical Support Specialist-1 at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040987/Technical-Support-Specialist-1",
+    "id": "abb-technical-support-specialist-1-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role ELSP Production Planning Technician at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
-    "id": "abb-elsp-production-planning-technician-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Factory Project Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Factory Project Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031246/Factory-Project-Manager",
-    "id": "abb-factory-project-manager-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
-    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Production Operator 2nd shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026193/ELDS-MV-SWGR-Production-Operator-2nd-shift",
-    "id": "abb-elds-mv-swgr-production-operator-2nd-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Project Manager",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
-    "id": "abb-r-d-project-manager-bartlesville"
+    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-cleveland"
   },
   {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-houston"
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -341,16 +351,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics AI & Embedded Software Engineer",
-    "job_city": "Madrigalejo del Monte",
-    "job_state": "Spain",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
-    "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Control Electronics Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -358,16 +358,6 @@
     "job_description": "hardware engineering job for the role Control Electronics Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014669/Control-Electronics-Engineer",
     "id": "abb-control-electronics-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
