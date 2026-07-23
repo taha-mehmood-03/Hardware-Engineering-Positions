@@ -1,13 +1,65 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_title": "Hardware Development Engineer, AI/ML Server Development",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, AI/ML Server Development at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
+    "job_posted_at": "2026-07-23T18:13:49.616Z",
+    "job_posted_at_datetime_utc": "2026-07-23T18:13:49.616Z",
+    "id": "amazon-hardware-development-engineer-ai-ml-server-development-cupertino"
+  },
+  {
+    "job_title": "Hardware Engineer, Customer Terminals Hardware Design",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Engineer, Customer Terminals Hardware Design at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10482758/hardware-engineer-customer-terminals-hardware-design",
+    "job_posted_at": "2026-07-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-07-23T00:00:00.000Z",
+    "id": "amazon-hardware-engineer-customer-terminals-hardware-design-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Staff Engineer/Technical Lead",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "33 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Engineer/Technical Lead, Trusted Partner Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82349404106695366-senior-staff-engineertechnical-lead-trusted-partner-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-staff-engineer-technical-lead-new-york"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Functional Safety Manager",
+    "job_city": "Noida",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Functional Safety Manager at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/senior-functional-safety-manager/33099/98187553728",
+    "id": "arm-functional-safety-manager-noida"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Storage",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer - Storage at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-storage/33099/98187482512",
+    "id": "arm-software-engineer-storage-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Enginer - Display Drivers",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Enginer - Display Drivers at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-enginer-display-drivers/33099/98187472784",
+    "id": "arm-software-enginer-display-drivers-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -51,46 +103,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Mining and Material Controls Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Mining and Material Controls Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040042/Mining-and-Material-Controls-Engineer",
-    "id": "abb-mining-and-material-controls-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician (US-AZ)",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040254/Senior-Field-Service-Technician-US-AZ",
-    "id": "abb-senior-field-service-technician-us-az-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry & Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
-    "id": "abb-industry-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -101,43 +113,73 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Support Specialist-1",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Technical Support Specialist-1 at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040987/Technical-Support-Specialist-1",
-    "id": "abb-technical-support-specialist-1-remote"
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-cleveland"
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Project Manager",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
+    "id": "abb-r-d-project-manager-bartlesville"
   },
   {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "8 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -371,6 +413,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Automation HW Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -378,55 +430,5 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "System Architecture Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role System Architecture Engineer at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Architecture-Engineer_R264127?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-system-architecture-engineer-2-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "System Architecture Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role System Architecture Engineer at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/System-Architecture-Engineer_R264126?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-system-architecture-engineer-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "System Mechanical & Integration Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role System Mechanical & Integration Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-system-mechanical-integration-engineer-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Robotics & AI Applications Engineer (Tactile Sensing / Advanced Systems)",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Robotics & AI Applications Engineer (Tactile Sensing / Advanced Systems) at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Applications-Engineer---Sustainable-Automation-Business-Unit_R263006?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-robotics-ai-applications-engineer-tactile-sensing-advanced-systems-us"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sr. Staff, Hardware Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Sr. Staff, Hardware Design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sr-Staff--Hardware-Design-Engineer_2603083?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-staff-hardware-design-engineer-santa-clara"
   }
 ]
