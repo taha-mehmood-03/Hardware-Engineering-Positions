@@ -1,13 +1,134 @@
 [
   {
+    "job_title": "Robotics Systems Engineer II, Tech Deployment",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Robotics Systems Engineer II, Tech Deployment at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10483493/robotics-systems-engineer-ii-tech-deployment",
+    "job_posted_at": "2026-07-24T13:24:52.015Z",
+    "job_posted_at_datetime_utc": "2026-07-24T13:24:52.015Z",
+    "id": "amazon-robotics-systems-engineer-ii-tech-deployment-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Electrical Engineer",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "5 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Electrical Engineer, Laptops and Tablets Platform Enablement Hardware",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88352995292390086-electrical-engineer-laptops-and-tablets-platform-enablement-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-electrical-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "GPU Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior GPU Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-gpu-architect/33099/98226497040",
+    "id": "arm-gpu-architect-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - Confluent Traffic Team",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer II - Confluent Traffic Team at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=124028&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-confluent-traffic-team-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer at ProfessionalHouston, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127040&source=WEB_Search_NA",
+    "id": "ibm-software-developer-houston"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Systems Programmer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Systems Programmer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=125842&source=WEB_Search_NA",
+    "id": "ibm-systems-programmer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategic Account Manager - Confluent (Public)",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Strategic Account Manager - Confluent (Public) at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127167&source=WEB_Search_NA",
+    "id": "ibm-strategic-account-manager-confluent-public-no-city"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Channel Director - KS, IA, NE, MO",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
+    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,93 +142,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_title": "Senior Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Mining and Material Controls Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Mining and Material Controls Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040042/Mining-and-Material-Controls-Engineer",
-    "id": "abb-mining-and-material-controls-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician (US-AZ)",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040254/Senior-Field-Service-Technician-US-AZ",
-    "id": "abb-senior-field-service-technician-us-az-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry & Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
-    "id": "abb-industry-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-cleveland"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -121,13 +172,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "8 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
+    "job_title": "Business Development Manager - LA Metro",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
