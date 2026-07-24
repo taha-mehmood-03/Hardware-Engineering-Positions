@@ -71,16 +71,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry & Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
-    "id": "abb-industry-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Director, Service Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,6 +78,16 @@
     "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
     "id": "abb-senior-director-service-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry & Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
+    "id": "abb-industry-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
