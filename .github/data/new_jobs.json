@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -11,13 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
+    "job_title": "Service Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -38,16 +48,6 @@
     "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
     "id": "abb-program-leader-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +81,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Industry & Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
+    "id": "abb-industry-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,16 +98,6 @@
     "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
     "id": "abb-protection-and-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
@@ -241,16 +241,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Technology Specialist / Focus SAP (f/m/d)",
-    "job_city": "Sasbach",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
-    "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Inženýr Řídicích Systémů",
     "job_city": "Brno",
     "job_state": "Jihomoravský kraj",
@@ -344,7 +334,7 @@
     "job_title": "Data Science & AI Specialist",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Data Science & AI Specialist at Frosinone, Frosinone, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041118/Data-Science-AI-Specialist",
     "id": "abb-data-science-ai-specialist-frosinone"
@@ -354,7 +344,7 @@
     "job_title": "Control Electronics Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Control Electronics Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014669/Control-Electronics-Engineer",
     "id": "abb-control-electronics-engineer-beijing"
