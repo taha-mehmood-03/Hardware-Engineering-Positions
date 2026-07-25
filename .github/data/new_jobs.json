@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Software ML Engineer",
-    "job_city": "Lund",
-    "job_state": "Sweden",
+    "job_title": "People Hub Coordinator, APAC",
+    "job_city": "Shanghai",
+    "job_state": "China",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software ML Engineer at Lund, Sweden, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/lund/software-ml-engineer/33099/93485591936",
-    "id": "arm-software-ml-engineer-lund"
+    "job_description": "Hardware Engineering job for the role People Hub Coordinator, APAC at Shanghai, China",
+    "job_apply_link": "https://careers.arm.com/job/shanghai/people-hub-coordinator-apac/33099/88854186016",
+    "id": "arm-people-hub-coordinator-apac-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -91,23 +91,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
