@@ -51,13 +51,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
+    "job_title": "Channel Director - Northern California",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
+    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
+    "id": "abb-channel-director-northern-california-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "HSE Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
+    "id": "abb-hse-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,16 +78,6 @@
     "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
     "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Director of Sales PV and BESS Inverter",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
-    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
@@ -98,16 +98,6 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Support Specialist-1",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Technical Support Specialist-1 at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040987/Technical-Support-Specialist-1",
-    "id": "abb-technical-support-specialist-1-remote"
   },
   {
     "employer_name": "ABB",
@@ -311,6 +301,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Technical Support Specialist-1",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Technical Support Specialist-1 at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040987/Technical-Support-Specialist-1",
+    "id": "abb-technical-support-specialist-1-remote"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Technical Support (w/m/d)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -368,5 +368,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr. Staff Test Development Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Sr. Staff Test Development Engineer at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Sr-Staff-Test-Development-Engineer_2603448?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-test-development-engineer-irvine"
   }
 ]
