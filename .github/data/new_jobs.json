@@ -61,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Director of Sales PV and BESS Inverter",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
-    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Director, Service Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -78,6 +68,16 @@
     "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
     "id": "abb-senior-director-service-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Director of Sales PV and BESS Inverter",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
+    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
