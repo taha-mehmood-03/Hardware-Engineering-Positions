@@ -129,38 +129,34 @@
 
 </details>
 
-### 📦 **Amazon** (28 positions) ⭐ FAANG+
+### 📦 **Amazon** (24 positions) ⭐ FAANG+
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Mechanical Engineer II, Hardware Engineering, Robotics Storage Technology | Westboro, MA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10422613/mechanical-engineer-ii-hardware-engineering-robotics-storage-technology) |
-| Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers | Cupertino, CA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10436465/cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers) |
-| Software Dev Engineer, Antenna System Validation, Amazon Leo | Redmond, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10428379/software-dev-engineer-antenna-system-validation-amazon-leo) |
 | Robotics Systems Engineer II, Tech Deployment | Austin, TX | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10483493/robotics-systems-engineer-ii-tech-deployment) |
 | SDE - Embedded Linux, Amazon Leo | Redmond, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3174464/sde-embedded-linux-amazon-leo) |
 | Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10436331/software-development-engineer-kuiper-manufacturing-systems-engineering) |
 | Systems Development Engineer (AWS Generative AI & ML Servers), AWS HW Engineering | Austin, TX | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10407236/systems-development-engineer-aws-generative-ai-ml-servers-aws-hw-engineering) |
 | Supply Chain Product Manager, Robotics Supply Chain | N.reading, MA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10466296/supply-chain-product-manager-robotics-supply-chain) |
 | Software Development Engineer II, Post Silicon Validation | Austin, TX | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3196286/software-development-engineer-ii-post-silicon-validation) |
-| Hardware Engineer, Customer Terminals Hardware Design | Redmond, WA | 2d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482758/hardware-engineer-customer-terminals-hardware-design) |
+| Software Dev Engineer, Antenna System Validation, Amazon Leo | Redmond, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10428379/software-dev-engineer-antenna-system-validation-amazon-leo) |
 | Hardware Development Engineer, AI/ML Server Development | Cupertino, CA | 2d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482698/hardware-development-engineer-ai-ml-server-development) |
 | System Development Engineer, AI/ML (Accelerator) Server | Cupertino, CA | 2d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10481815/system-development-engineer-ai-ml-accelerator-server) |
 | Manufacturing Test Engineer, Manufacturing Test Engineer | Florence, KY | 2d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10413096/manufacturing-test-engineer-manufacturing-test-engineer) |
-| Customer Success Manager, Amazon Manufacturing Services | Seattle, WA | 3d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10455293/customer-success-manager-amazon-manufacturing-services) |
+| Hardware Engineer, Customer Terminals Hardware Design | Redmond, WA | 2d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482758/hardware-engineer-customer-terminals-hardware-design) |
 | Automation Mechanical Engineer, Manufacturing Automation Design & Engineering | Austin, TX | 3d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482003/automation-mechanical-engineer-manufacturing-automation-design-engineering) |
 | Manufacturing Test Engineer, AWS Manufacturing and Repair | Austin, TX | 3d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10448534/manufacturing-test-engineer-aws-manufacturing-and-repair) |
 | HW Test Development Engineer, Amazon LEO | Redmond, WA | 3d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482004/hw-test-development-engineer-amazon-leo) |
-| Embedded Software Development Engineer II, AWS Hardware Engineering Services | Austin, TX | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10446935/embedded-software-development-engineer-ii-aws-hardware-engineering-services) |
-| Hardware Development Engineer, Avionics Electrical Engineering, Amazon Leo | Redmond, WA | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10398685/hardware-development-engineer-avionics-electrical-engineering-amazon-leo) |
+| Customer Success Manager, Amazon Manufacturing Services | Seattle, WA | 3d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10455293/customer-success-manager-amazon-manufacturing-services) |
 | Supply Planning Manager, AWS Supply Chain - IPS | Herndon, VA | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10481043/supply-planning-manager-aws-supply-chain-ips) |
 | Electrical and Control Design Engineer, OneMHS - Electrical and Control Engineering, Arch and Design | Atlanta, GA | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10476811/electrical-and-control-design-engineer-onemhs-electrical-and-control-engineering-arch-and-design) |
 | Software Development Engineer - CV Test Infrastructure, Annapurna ML, CV Test Infrastructure | Austin, TX | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10481057/software-development-engineer-cv-test-infrastructure-annapurna-ml-cv-test-infrastructure) |
 | Post-Silicon Systems Validation Engineer I, Annapurna Labs | Austin, TX | 4d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs) |
-| Manufacturing hardware engineer, Cloud AI/ML/storage server teams | Cupertino, CA | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | Hardware Development Engineer II (Power Electronics), Prime Air Electric Propulsion Subsystem | Seattle, WA | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10442250/hardware-development-engineer-ii-power-electronics-prime-air-electric-propulsion-subsystem) |
 | Manufacturing System Development Engineer, Cloud AI/ML/storage server teams | Cupertino, CA | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477150/manufacturing-system-development-engineer-cloud-ai-ml-storage-server-teams) |
 | NPI Eng Program Manager, Amazon Devices Reverse Logistics | Sunnyvale, CA | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10418090/npi-eng-program-manager-amazon-devices-reverse-logistics) |
 | Power and Performance Validation Engineer, Annapurna Labs | Austin, TX | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10479590/power-and-performance-validation-engineer-annapurna-labs) |
+| Manufacturing hardware engineer, Cloud AI/ML/storage server teams | Cupertino, CA | 5d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 
 <details>
 <summary><h3>🏢 <strong>Arm</strong> (73 positions) 🏢 Top Tech</h3></summary>
@@ -243,20 +239,23 @@
 
 </details>
 
-### 🏢 **ABB** (32 positions) 🏢 Top Tech
+### 🏢 **ABB** (36 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Data Center CoE - Field Service Technician | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician) |
-| Data Center CoE - Sr. Field Service Technician | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician) |
-| Data Center COE Project Management Leader | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader) |
-| Channel Director - KS, IA, NE, MO | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO) |
-| Data Center COE Project Manager | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager) |
-| Data Center COE Project Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist) |
+| Senior Technical Business Developer – Grid Automation | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation) |
+| Program Leader Critical Industries | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries) |
+| Commercial Proposal Engineer | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer) |
+| Senior Technical Business Developer – Sub-transmission Products | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products) |
+| Protection and Control Engineer | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer) |
+| ELSP Production Planning Technician | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician) |
+| Manufacturing Quality Tester-2 | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) |
+| ELDS Special Processes Department- Production Operator 1st shift | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift) |
+| Factory Project Manager | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00031246/Factory-Project-Manager) |
+| ELDS MV SWGR Production Operator 1st shift | Mebane, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00040223/ELDS-MV-SWGR-Production-Operator-1st-shift) |
+| R&D Project Manager | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager) |
 | Senior Project Engineer | Houston, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer) |
-| PLC Programming Specialist | Ormond Beach, Florida | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist) |
-| Senior Project Engineer | Lake Mary, Florida | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer) |
-| Business Development Manager - LA Metro | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro) |
+| Contractor Key Account Manager - West | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West) |
 | R&D Engineer (f/m/d) | Minden, North Rhine-Westphalia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d) |
 | Embedded SW Engineer | San Fernando de Henares, Madrid | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042546/Embedded-SW-Engineer) |
 | R&D Senior Control Electronics Engineer | Beijing, Beijing | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer) |
@@ -278,6 +277,7 @@
 | Field Service Engineer - System 800xA (Safety) | Doha, Ad Dawhah | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00019557/Field-Service-Engineer-System-800xA-Safety) |
 | Software Test Automation Expert – Safety Technologies | Sarajevo, Bosnia and Herzegovina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042368/Software-Test-Automation-Expert-Safety-Technologies) |
 | Control Electronics Engineer | Beijing, Beijing | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00014669/Control-Electronics-Engineer) |
+| Business Development Manager - LA Metro | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro) |
 | Automation HW Engineer | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer) |
 
 ### 🏢 **TEXAS INSTRUMENTS** (27 positions) 🏢 Top Tech
@@ -319,24 +319,19 @@
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 69 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 63 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Stats**
-- **📁 Total Archived**: 69 positions
+- **📁 Total Archived**: 63 positions
 - **🏢 Companies**: 5 companies
-- **⭐ FAANG+ Archived**: 69 positions
+- **⭐ FAANG+ Archived**: 63 positions
 - **📅 Age**: 1+ weeks old
 
 <details>
-<summary><h3>📦 <strong>Amazon</strong> (69 positions) ⭐ FAANG+</h3></summary>
+<summary><h3>📦 <strong>Amazon</strong> (63 positions) ⭐ FAANG+</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3129967/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) |
-| Hardware Development Engineer, Design Engineering, Sort & Ultrafast Engineering | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10473104/hardware-development-engineer-design-engineering-sort-ultrafast-engineering) |
-| Electrical Hardware Development Engineer II, Bespoke Solutions | Arlington, VA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10464928/electrical-hardware-development-engineer-ii-bespoke-solutions) |
-| Hardware Development Engineer, Ground Gateway, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10470424/hardware-development-engineer-ground-gateway-amazon-leo) |
-| System Development Engineer, AWS Storage and Accelerator team | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team) |
 | System Development Engineer, AWS Mainstream Compute | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10472568/system-development-engineer-aws-mainstream-compute) |
 | Industrial Engineer-Automation, Manufacturing Automation Design & Engineering | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10447211/industrial-engineer-automation-manufacturing-automation-design-engineering) |
 | Senior Financial Analyst, Amazon Leo | Bellevue, WA | 1w ago | Senior | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10432513/senior-financial-analyst-amazon-leo) |
@@ -351,6 +346,8 @@
 | Embedded Software Dev Engineer, Amazon Leo Antenna Development | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10462894/embedded-software-dev-engineer-amazon-leo-antenna-development) |
 | Lab Engineer, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477809/lab-engineer-amazon-leo) |
 | Software Development Engineer, AWS Manufacturing Infrastructure Services | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10372460/software-development-engineer-aws-manufacturing-infrastructure-services) |
+| Hardware Development Engineer, Ground Gateway, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10470424/hardware-development-engineer-ground-gateway-amazon-leo) |
+| System Development Engineer, AWS Storage and Accelerator team | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team) |
 | Mechancial Sourcing Manager, Robotics Supply Chain | N.reading, MA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10476661/mechancial-sourcing-manager-robotics-supply-chain) |
 | Hardware Design Engineer, One MHS - Electrical and Control Engineering, Arch and Design | Arlington, VA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10460470/hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
 | RF Quality Engineering Project Manager, Amazon Devices, Quality & Lean | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10455538/rf-quality-engineering-project-manager-amazon-devices-quality-lean) |
@@ -369,7 +366,6 @@
 | Embedded Software Development Engineer II (C/C++), AWS EC2 VPC NX | Seattle, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10430580/embedded-software-development-engineer-ii-c-c-aws-ec2-vpc-nx) |
 | Technical Program Manager, Electrical Infrastructure Reliability, GFP Electrification & Infrastructure | Bellevue, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10443034/technical-program-manager-electrical-infrastructure-reliability-gfp-electrification-infrastructure) |
 | Software Development Engineer, Nitro SSD | Cupertino, CA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10460255/software-development-engineer-nitro-ssd) |
-| Robotics & Computer Vision Engineer, GES NA Ops Engineering | Bellevue, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10389168/robotics-computer-vision-engineer-ges-na-ops-engineering) |
 | ECAD Application Engineer, Design Technologies | Redmond, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10457960/ecad-application-engineer-design-technologies) |
 | Hardware Development Engineer II, AWS Mainstream Compute | Austin, TX | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10435424/hardware-development-engineer-ii-aws-mainstream-compute) |
 | Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper | Bellevue, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3176626/systems-development-engineer-manufacturing-test-infrastructure-project-kuiper) |
@@ -380,8 +376,7 @@
 | Infrastructure TPM, Infra Capacity Delivery | Herndon, VA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10439252/infrastructure-tpm-infra-capacity-delivery) |
 | AWS Technical Program Manager, Infrastructure, US West | Hermiston, OR | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10450670/aws-technical-program-manager-infrastructure-us-west) |
 | Applied Scientist - ML and Robotics | North Reading, MA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10434789/applied-scientist-ml-and-robotics) |
-| Software Development Engineer - BIOS/UEFI, AWS Hardware Engineering, Firmware Development | Cupertino, CA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10420575/software-development-engineer-bios-uefi-aws-hardware-engineering-firmware-development) |
-| Electrical Test Engineer II, Hardware Test Engineering | North Reading, MA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10445359/electrical-test-engineer-ii-hardware-test-engineering) |
+| Robotics & Computer Vision Engineer, GES NA Ops Engineering | Bellevue, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10389168/robotics-computer-vision-engineer-ges-na-ops-engineering) |
 | Software Development Engineer, AWS Transactional Services | Seattle, WA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10416198/software-development-engineer-aws-transactional-services) |
 | Embedded SDE | Sunnyvale, CA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3196237/embedded-sde) |
 | ECAD Application Development Engineer, Design Technologies | Sunnyvale, CA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10401995/ecad-application-development-engineer-design-technologies) |
@@ -394,12 +389,11 @@
 | Satellite Hardware Test Engineer, Integrated Vehicle Test Team | Redmond, WA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10421657/satellite-hardware-test-engineer-integrated-vehicle-test-team) |
 | High-Speed Interface Validation Engineer, Post Silicon Validation | Austin, TX | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10434989/high-speed-interface-validation-engineer-post-silicon-validation) |
 | Post-Silicon Systems Validation Engineer, Annapurna Labs | Austin, TX | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10444791/post-silicon-systems-validation-engineer-annapurna-labs) |
+| Robotics Systems Engineer I, Robotics Delivery and Packaging Innovation (RDPI) - Tech Deployment | Austin, TX | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10404418/robotics-systems-engineer-i-robotics-delivery-and-packaging-innovation-rdpi-tech-deployment) |
+| Robotics Systems Engineer, Tech Deployment | Austin, TX | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10410369/robotics-systems-engineer-tech-deployment) |
 | Robotics - Hardware Development Engineer Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Boston, MA | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10394153/robotics-hardware-development-engineer-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Boston, MA | 3mo ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Software Development Engineer, EC2 UltraServer Availability | Seattle, WA | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10388616/software-development-engineer-ec2-ultraserver-availability) |
-| Robotics Systems Engineer I, Robotics Delivery and Packaging Innovation (RDPI) - Tech Deployment | Austin, TX | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10404418/robotics-systems-engineer-i-robotics-delivery-and-packaging-innovation-rdpi-tech-deployment) |
-| Robotics Systems Engineer, Tech Deployment | Austin, TX | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10410369/robotics-systems-engineer-tech-deployment) |
-| Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services | Cupertino, CA | 4mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10386441/hardware-development-engineer-ec2-networking-and-outpost-hardware-team-hardware-engineering-services) |
 | Optical Network Development Engineer, Network Product Development | Cupertino, CA | 4mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3167949/optical-network-development-engineer-network-product-development) |
 
 </details>
@@ -427,9 +421,9 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 5 | 7% | Perfect for new grads |
-| 🟡 **Mid-Level** | 137 | 199% | 2-5 years experience |
-| 🔴 **Senior** | 94 | 136% | 5+ years experience |
+| 🟢 **Entry-Level** | 5 | 8% | Perfect for new grads |
+| 🟡 **Mid-Level** | 137 | 217% | 2-5 years experience |
+| 🔴 **Senior** | 94 | 149% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
@@ -441,7 +435,7 @@
 - **Austin, Texas**: 35 archived positions
 - **Sunnyvale, CA**: 30 archived positions
 - **Mountain View, CA**: 22 archived positions
-- **Austin, TX**: 15 archived positions
+- **Austin, TX**: 14 archived positions
 - **San Jose, California**: 14 archived positions
 - **Multiple, Locations**: 14 archived positions
 - **Multiple, Various**: 11 archived positions
@@ -456,10 +450,10 @@
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: 236 
 - **🏢 Companies**: 5 elite tech companies
-- **⭐ FAANG+ Jobs**: 104 premium opportunities  
-- **📅 Last Updated**: July 25, 2026
+- **⭐ FAANG+ Jobs**: 100 premium opportunities  
+- **📅 Last Updated**: July 26, 2026
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 69 (older than 1 week)
+- **📁 Archived Jobs**: 63 (older than 1 week)
 
 ---
 
@@ -504,7 +498,7 @@
 - **Austin, Texas**: 35 positions
 - **Sunnyvale, CA**: 30 positions
 - **Mountain View, CA**: 22 positions
-- **Austin, TX**: 15 positions
+- **Austin, TX**: 14 positions
 - **San Jose, California**: 14 positions
 - **Multiple, Locations**: 14 positions
 - **Multiple, Various**: 11 positions
@@ -557,6 +551,6 @@ Spotted an issue or want to suggest improvements?
 
 ---
 
-**Last Updated**: July 25, 2026 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: July 26, 2026 • **Next Update**: Daily at 9 AM UTC
 
 </div>
