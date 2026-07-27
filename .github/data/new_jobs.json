@@ -1,53 +1,63 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "ASIC Design Verification Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "84 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: ASIC Design Verification Manager, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117453503256765126-asic-design-verification-manager-google-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=5",
-    "id": "google-asic-design-verification-manager-sunnyvale"
+    "employer_name": "Micron",
+    "job_title": "Reticle Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Reticle Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/43318470",
+    "id": "micron-reticle-equipment-engineer-boise"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Strategic Sales - Financial Services & Cloud Infrastructure",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director, Strategic Sales - Financial Services & Cloud Infrastructure at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/director-strategic-sales-financial-services-and-cloud-infrastructure/33099/94742192720",
-    "id": "arm-director-strategic-sales-financial-services-cloud-infrastructure-waltham"
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Project Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040882/Project-Manager",
+    "id": "abb-project-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Generator Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Generator Sales Specialist at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
+    "id": "abb-generator-sales-specialist-remote"
   },
   {
     "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Territory Account Manager, Motion Service  –North Central",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Territory Account Manager, Motion Service  –North Central at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036572/Territory-Account-Manager-Motion-Service-North-Central",
-    "id": "abb-territory-account-manager-motion-service-north-central-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,6 +71,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,36 +88,6 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
     "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Power Delivery Field Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Senior Power Delivery Field Technician at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040532/Senior-Power-Delivery-Field-Technician",
-    "id": "abb-senior-power-delivery-field-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Project Manager",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role R&D Project Manager at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034273/R-D-Project-Manager",
-    "id": "abb-r-d-project-manager-bartlesville"
   },
   {
     "employer_name": "ABB",
@@ -111,13 +101,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - LA Metro",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
+    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
@@ -318,16 +328,6 @@
     "job_description": "hardware engineering job for the role Control Electronics Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014669/Control-Electronics-Engineer",
     "id": "abb-control-electronics-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - LA Metro",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - LA Metro at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025858/Business-Development-Manager-LA-Metro",
-    "id": "abb-business-development-manager-la-metro-multiple"
   },
   {
     "employer_name": "ABB",
