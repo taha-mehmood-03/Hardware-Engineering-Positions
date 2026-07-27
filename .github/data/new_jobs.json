@@ -11,6 +11,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Service Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
@@ -48,16 +58,6 @@
     "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
@@ -74,10 +74,20 @@
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -238,16 +248,6 @@
     "job_description": "hardware engineering job for the role PLC / Automation Engineer at Beersel, Flemish Brabant, Belgium",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039471/PLC-Automation-Engineer",
     "id": "abb-plc-automation-engineer-beersel"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer (f/m/d) – Energy Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Project Engineer (f/m/d) – Energy Industries at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027660/Project-Engineer-f-m-d-Energy-Industries",
-    "id": "abb-project-engineer-f-m-d-energy-industries-multiple"
   },
   {
     "employer_name": "ABB",
