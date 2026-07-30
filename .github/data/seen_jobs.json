@@ -1,6 +1,4 @@
 [
-  "aijobs-engineering-manager-search-product-infra-united-states",
-  "aijobs-engineering-manager-software-configuration-management-santa-clara",
   "aijobs-engineering-manager-youth-well-being-united-states",
   "aijobs-engineering-program-specialist-united-states",
   "aijobs-enterprise-mods-technical-program-manager-santa-clara",
@@ -5447,6 +5445,7 @@
   "google-senior-staff-engineer-technical-lead-new-york",
   "google-senior-staff-engineering-manager-sunnyvale",
   "google-senior-staff-hardware-engineer-sunnyvale",
+  "google-senior-staff-research-engineer-sunnyvale",
   "google-senior-staff-software-engineer-san-jose",
   "google-senior-staff-software-engineer-seattle",
   "google-senior-staff-tech-lead-manager-mountain-view",
@@ -5879,6 +5878,7 @@
   "ibm-back-end-engineer-ii-hashicorp-vault-multiple-cities",
   "ibm-back-end-senior-engineer-hashicorp-vault-multiple-cities",
   "ibm-back-end-software-developer-lowell",
+  "ibm-back-end-storage-developer-multiple-cities",
   "ibm-backend-developer-security-and-compliance-multiple-cities",
   "ibm-backend-engineer-cryptography-hashicorp-vault-multiple-cities",
   "ibm-backend-engineer-cryptography-team-hashicorp-vault-multiple-cities",
