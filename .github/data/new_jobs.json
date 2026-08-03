@@ -1,53 +1,33 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Senior Product Manager",
+    "job_title": "TPU Hardware Design Engineer",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, Google Global Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103622561807377094-senior-product-manager-google-global-networking?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-product-manager-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Staff Research Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "62 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Research Engineer, Cloud AI Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84811008777822918-senior-staff-research-engineer-cloud-ai-research?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-senior-staff-research-engineer-mountain-view"
+    "job_description": "25 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: TPU Hardware Design Engineer, Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97042809348858566-tpu-hardware-design-engineer-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-tpu-hardware-design-engineer-sunnyvale"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Manager, M&A Integration",
+    "job_title": "Efficiency Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager, M&A Integration at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-manager-m-and-a-integration/33099/98690682192",
-    "id": "arm-manager-m-a-integration-cambridge"
+    "job_description": "Hardware Engineering job for the role Efficiency Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/efficiency-engineer/33099/95251164880",
+    "id": "arm-efficiency-engineer-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer - Display Drivers",
+    "job_title": "Director, Project Management (Software)",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Display Drivers at Cambridge, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-display-drivers/33099/98187472784",
-    "id": "arm-software-engineer-display-drivers-cambridge"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_description": "Hardware Engineering job for the role Director, Project Management (Software) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/director-project-management-software/33099/98556840992",
+    "id": "arm-director-project-management-software-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -58,6 +38,16 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,13 +81,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Program Leader Critical Industries",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -348,5 +338,25 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Chip Lead",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Chip Lead at US, CA, Milpitas, Tasman",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-Milpitas-Tasman/Principal-Chip-Lead_R264205?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-chip-lead-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Marketing",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Product Marketing at US, CA, Milpitas, Tasman",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-Milpitas-Tasman/Senior-Engineer--Product-Marketing_R264358?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-marketing-us"
   }
 ]
