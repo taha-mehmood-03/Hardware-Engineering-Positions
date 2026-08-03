@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Program Leader Critical Industries",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -24,10 +14,20 @@
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
     "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,23 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
+    "job_title": "Director of Sales PV and BESS Inverter",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "HSE Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
+    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
+    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,13 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Territory Sales Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Robotics Territory Sales Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041190/Robotics-Territory-Sales-Manager",
-    "id": "abb-robotics-territory-sales-manager-remote"
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,16 +78,6 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -144,7 +124,7 @@
     "job_title": "Project Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Project Engineer at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040464/Project-Engineer",
     "id": "abb-project-engineer-shanghai"
@@ -154,7 +134,7 @@
     "job_title": "Hardware Engineer Softstarter",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Hardware Engineer Softstarter at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029649/Hardware-Engineer-Softstarter",
     "id": "abb-hardware-engineer-softstarter-vaesteras"
@@ -174,7 +154,7 @@
     "job_title": "(80 - 100%) Senior Technical Support Engineer",
     "job_city": "Untersiggenthal",
     "job_state": "Aargau",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role (80 - 100%) Senior Technical Support Engineer at Untersiggenthal, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036446/-80-100-Senior-Technical-Support-Engineer",
     "id": "abb-80-100-senior-technical-support-engineer-untersiggenthal"
@@ -234,7 +214,7 @@
     "job_title": "Senior ICSS Lead Engineer (2 Years Contract Role)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Senior ICSS Lead Engineer (2 Years Contract Role) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032351/Senior-ICSS-Lead-Engineer-2-Years-Contract-Role",
     "id": "abb-senior-icss-lead-engineer-2-years-contract-role-multiple"
@@ -264,7 +244,7 @@
     "job_title": "Project Engineer",
     "job_city": "Zagreb",
     "job_state": "Grad Zagreb",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Project Engineer at Zagreb, Grad Zagreb, Croatia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043146/Project-Engineer",
     "id": "abb-project-engineer-zagreb"
@@ -301,16 +281,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Support Specialist-1",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Technical Support Specialist-1 at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040987/Technical-Support-Specialist-1",
-    "id": "abb-technical-support-specialist-1-remote"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Technical Support (w/m/d)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -324,7 +294,7 @@
     "job_title": "Data Science & AI Specialist",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role Data Science & AI Specialist at Frosinone, Frosinone, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041118/Data-Science-AI-Specialist",
     "id": "abb-data-science-ai-specialist-frosinone"
