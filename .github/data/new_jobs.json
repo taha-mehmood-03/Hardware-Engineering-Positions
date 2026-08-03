@@ -1,52 +1,52 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-remote"
+    "employer_name": "Google",
+    "job_title": "Senior Product Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, Google Global Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103622561807377094-senior-product-manager-google-global-networking?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-product-manager-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Staff Research Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "62 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Research Engineer, Cloud AI Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84811008777822918-senior-staff-research-engineer-cloud-ai-research?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-senior-staff-research-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, M&A Integration",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, M&A Integration at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-manager-m-and-a-integration/33099/98690682192",
+    "id": "arm-manager-m-a-integration-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Display Drivers",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer - Display Drivers at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-display-drivers/33099/98187472784",
+    "id": "arm-software-engineer-display-drivers-cambridge"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Project Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040882/Project-Manager",
-    "id": "abb-project-manager-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Generator Sales Specialist",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Generator Sales Specialist at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
-    "id": "abb-generator-sales-specialist-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -61,13 +61,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "Channel Director - KS, IA, NE, MO",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
+    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
