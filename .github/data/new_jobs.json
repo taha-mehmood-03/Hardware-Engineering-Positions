@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Robotics Systems Engineer I, Robotics Delivery & Packaging Innovations (RDPI) Technology Deployment",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "hardware engineering job for the role Robotics Systems Engineer I, Robotics Delivery & Packaging Innovations (RDPI) Technology Deployment at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10496117/robotics-systems-engineer-i-robotics-delivery-packaging-innovations-rdpi-technology-deployment",
-    "job_posted_at": "2026-08-07T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-08-07T00:00:00.000Z",
-    "id": "amazon-robotics-systems-engineer-i-robotics-delivery-packaging-innovations-rdpi-technology-deployment-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "employer_name": "Arm",
+    "job_title": "CAD-Synthesis Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role CAD-Synthesis Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/cad-synthesis-engineer/33099/98893963888",
+    "id": "arm-cad-synthesis-engineer-bengaluru"
   },
   {
     "employer_name": "ABB",
@@ -32,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -42,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
+    "job_title": "Regional Sales Manager HVACR - West",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -62,23 +61,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "HSE Specialist",
+    "job_title": "Director of Sales PV and BESS Inverter",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
+    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Territory Sales Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Robotics Territory Sales Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041190/Robotics-Territory-Sales-Manager",
-    "id": "abb-robotics-territory-sales-manager-remote"
+    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
   },
   {
     "employer_name": "ABB",
@@ -86,18 +85,18 @@
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -212,16 +211,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Jinan",
-    "job_state": "Shandong",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "hardware engineering job for the role Sales Specialist at Jinan, Shandong, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030539/Sales-Specialist",
-    "id": "abb-sales-specialist-jinan"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "PLC Programming Specialist",
     "job_city": "Ormond Beach",
     "job_state": "Florida",
@@ -229,6 +218,16 @@
     "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
     "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinan",
+    "job_state": "Shandong",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "hardware engineering job for the role Sales Specialist at Jinan, Shandong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030539/Sales-Specialist",
+    "id": "abb-sales-specialist-jinan"
   },
   {
     "employer_name": "ABB",
@@ -369,5 +368,15 @@
     "job_description": "hardware engineering job for the role Automation HW Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025607/Automation-HW-Engineer",
     "id": "abb-automation-hw-engineer-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Bio-Optics Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Bio-Optics Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Bio-Optics-Engineer_R264158?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-bio-optics-engineer-us"
   }
 ]
