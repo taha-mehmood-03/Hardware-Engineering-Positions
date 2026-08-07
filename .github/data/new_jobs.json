@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Silicon Applications Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Silicon Applications Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-silicon-applications-engineer/33099/98884900608",
-    "id": "arm-silicon-applications-engineer-hsinchu"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "High NA EUV Track - Equipment Engineer",
-    "job_city": "Albany",
-    "job_state": "New York",
-    "job_posted_at": "Posted 18 days ago",
-    "job_description": "hardware engineering job for the role High NA EUV Track - Equipment Engineer at Albany, New York, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41817409",
-    "id": "micron-high-na-euv-track-equipment-engineer-albany"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_title": "Design Engineer- (Standard and Custom Cell Characterization) -HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Design Engineer- (Standard and Custom Cell Characterization) -HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/42577721",
+    "id": "micron-design-engineer-standard-and-custom-cell-characterization-hbm-richardson"
   },
   {
     "employer_name": "ABB",
@@ -41,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Warehouse/Internal Logistics Operator",
     "job_city": "Phoenix",
     "job_state": "Arizona",
@@ -48,16 +38,6 @@
     "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042719/Warehouse-Internal-Logistics-Operator",
     "id": "abb-warehouse-internal-logistics-operator-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +58,16 @@
     "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
     "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
