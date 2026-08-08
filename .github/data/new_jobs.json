@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Subsystem & SoC Design Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Subsystem & SoC Design Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-subsystem-and-soc-design-engineer/33099/98932450608",
+    "id": "arm-senior-staff-subsystem-soc-design-engineer-cambridge"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "OEM Account Manager",
     "job_city": "Remote",
@@ -51,23 +61,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "North Region Channel Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_description": "hardware engineering job for the role North Region Channel Development Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041631/North-Region-Channel-Development-Manager",
+    "id": "abb-north-region-channel-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Metallurgy Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Metallurgy Sales Manager at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager",
+    "id": "abb-metallurgy-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -258,16 +278,6 @@
     "job_description": "hardware engineering job for the role Project Engineer at Zagreb, Grad Zagreb, Croatia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043146/Project-Engineer",
     "id": "abb-project-engineer-zagreb"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Mining Application Specialist",
-    "job_city": "Perth",
-    "job_state": "Western Australia",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Mining Application Specialist at Perth, Western Australia, Australia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042535/Mining-Application-Specialist",
-    "id": "abb-mining-application-specialist-perth"
   },
   {
     "employer_name": "ABB",
