@@ -1,73 +1,73 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Entry-Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales Engineer - Entry-Level Sales Program 2027 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128340&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer Intern - Entry-Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technology Sales Engineer Intern - Entry-Level Sales Program 2027 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128345&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Data Scientist Intern",
+    "job_city": "Herndon",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Federal Data Scientist Intern 2027 at InternshipHerndon, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127795&source=WEB_Search_NA",
+    "id": "ibm-federal-data-scientist-intern-herndon"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Developer",
+    "job_city": "Herndon",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Federal Associate Developer 2027 at Entry LevelHerndon, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=127789&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-developer-herndon"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "HSE Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Territory Sales Manager",
+    "job_title": "OEM Account Manager",
     "job_city": "Remote",
     "job_state": "United States of America",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Robotics Territory Sales Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041190/Robotics-Territory-Sales-Manager",
-    "id": "abb-robotics-territory-sales-manager-remote"
+    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Generator Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Generator Sales Specialist at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
+    "id": "abb-generator-sales-specialist-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +88,66 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "North Region Channel Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role North Region Channel Development Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041631/North-Region-Channel-Development-Manager",
+    "id": "abb-north-region-channel-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Service Site Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Service Site Manager at Available in one of 53 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043721/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Southwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -201,16 +261,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "8 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Jinan",
     "job_state": "Shandong",
@@ -298,36 +348,6 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Cottbus, Brandenburg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043034/Field-Service-Engineer-Automation-Solutions-f-m-d",
     "id": "abb-field-service-engineer-automation-solutions-f-m-d-cottbus"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Plastic Case - Production Operator - 1st Shift",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043322/Plastic-Case-Production-Operator-1st-Shift",
-    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
   },
   {
     "employer_name": "ABB",
