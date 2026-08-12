@@ -1,6 +1,4 @@
 [
-  "aijobs-hpc-architect-santa-clara",
-  "aijobs-hpc-dev-ops-engineer-westford",
   "aijobs-hpc-performance-engineer-ai-for-science-at-scale-santa-clara",
   "aijobs-hpc-systems-engineer-consumer-products-united-states",
   "aijobs-hpc-technical-account-manager-santa-clara",
@@ -3194,6 +3192,7 @@
   "arm-grc-risk-manager-austin",
   "arm-grc-risk-manager-cambridge",
   "arm-hardware-acceleration-efficiency-architect-austin",
+  "arm-hardware-ai-engineer-cambridge",
   "arm-hardware-emulation-engineer-austin",
   "arm-hardware-emulation-engineer-multiple",
   "arm-hardware-emulation-engineer-san-diego",
@@ -4952,6 +4951,7 @@
   "google-cpu-commodity-manager-sunnyvale",
   "google-cpu-design-verification-engineer-mountain-view",
   "google-cpu-design-verification-engineer-poughkeepsie",
+  "google-cpu-emulation-engineer-austin",
   "google-cpu-execution-unit-rtl-designer-austin",
   "google-cpu-global-design-lead-austin",
   "google-cpu-lead-performance-architect-portland",
