@@ -1,283 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer Intern",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Engineer Intern 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128526&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-intern-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2027 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128750&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Business Transformation Consultant – Data Services",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Business Transformation Consultant – Data Services 2027 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128727&source=WEB_Search_NA",
-    "id": "ibm-associate-business-transformation-consultant-data-services-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128702&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2027 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129118&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2027 at Entry LevelDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128744&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Transformation Consultant Intern",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Transformation Consultant Intern 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128746&source=WEB_Search_NA",
-    "id": "ibm-business-transformation-consultant-intern-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Experience Consultant",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Experience Consultant 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128672&source=WEB_Search_NA",
-    "id": "ibm-associate-experience-consultant-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern - AWS Cloud",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Intern - AWS Cloud 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128729&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-aws-cloud-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Business Transformation Consultant",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Business Transformation Consultant 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128739&source=WEB_Search_NA",
-    "id": "ibm-associate-business-transformation-consultant-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Transformation Consultant Intern - Data Services",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Transformation Consultant Intern - Data Services 2027 at InternshipDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128535&source=WEB_Search_NA",
-    "id": "ibm-business-transformation-consultant-intern-data-services-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Strategy Consultant",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Strategy Consultant at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128538&source=WEB_Search_NA",
-    "id": "ibm-associate-strategy-consultant-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategy Consultant Intern",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Strategy Consultant Intern 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128644&source=WEB_Search_NA",
-    "id": "ibm-strategy-consultant-intern-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Transformation Consultant Intern - Data Services",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Business Transformation Consultant Intern - Data Services 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128523&source=WEB_Search_NA",
-    "id": "ibm-business-transformation-consultant-intern-data-services-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Experience Consultant Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Experience Consultant Intern 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128697&source=WEB_Search_NA",
-    "id": "ibm-experience-consultant-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Consultant - AWS Cloud",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Consultant - AWS Cloud 2027 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128623&source=WEB_Search_NA",
-    "id": "ibm-associate-application-consultant-aws-cloud-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Experience Consultant Intern",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Experience Consultant Intern 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128689&source=WEB_Search_NA",
-    "id": "ibm-experience-consultant-intern-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategy Consultant Intern",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Strategy Consultant Intern 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128648&source=WEB_Search_NA",
-    "id": "ibm-strategy-consultant-intern-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Business Transformation Consultant",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Business Transformation Consultant 2027 at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128733&source=WEB_Search_NA",
-    "id": "ibm-associate-business-transformation-consultant-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Consultant - AWS Cloud",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Consultant - AWS Cloud 2027 at Entry LevelDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128633&source=WEB_Search_NA",
-    "id": "ibm-associate-application-consultant-aws-cloud-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Consultant – Workday",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Consultant – Workday 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128647&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-workday-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern – Workday",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Intern – Workday 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128657&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-workday-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Data Engineer – AI & Analytics -",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Data Engineer – AI & Analytics - 2027 at Entry LevelBuffalo, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128809&source=WEB_Search_NA",
-    "id": "ibm-associate-data-engineer-ai-analytics-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern – Workday",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Intern – Workday 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128674&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-workday-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern – Workday",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Intern – Workday 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128705&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-workday-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
+    "job_title": "Contractor Key Account Manager - West",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Regional Sales Manager HVACR - West",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
+    "job_title": "Business Development Manager - Southwest",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -291,23 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Service Site Manager at Available in one of 53 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043721/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042719/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -331,6 +71,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038827/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "PLC Programming Specialist",
     "job_city": "Ormond Beach",
     "job_state": "Florida",
@@ -341,13 +111,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
+    "job_title": "Plastic Case - Production Operator - 1st Shift",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
+    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043322/Plastic-Case-Production-Operator-1st-Shift",
+    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
   },
   {
     "employer_name": "ABB",
