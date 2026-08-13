@@ -1,133 +1,103 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal AI Performance Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Principal AI Performance Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-principal-ai-performance-engineer/33099/96788867712",
-    "id": "arm-principal-ai-performance-engineer-san-jose"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Project Planning & Control Specialist",
-    "job_city": "Merida",
-    "job_state": "Mexico",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Project Planning & Control Specialist at Merida, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042402/Project-Planning-Control-Specialist",
-    "id": "abb-project-planning-control-specialist-merida"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Local Business Line Manager – Process Industries",
-    "job_city": "Merida",
-    "job_state": "Mexico",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Local Business Line Manager – Process Industries at Merida, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037189/Local-Business-Line-Manager-Process-Industries",
-    "id": "abb-local-business-line-manager-process-industries-merida"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Sales Support Specialist",
-    "job_city": "Merida",
-    "job_state": "Mexico",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Service Sales Support Specialist at Merida, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042633/Service-Sales-Support-Specialist",
-    "id": "abb-service-sales-support-specialist-merida"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Service Sales Specialist - Center Region",
-    "job_city": "Ciudad de Mexico",
-    "job_state": "Ciudad de Mexico",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Robotics Service Sales Specialist - Center Region at Ciudad de Mexico, Ciudad de Mexico, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039357/Robotics-Service-Sales-Specialist-Center-Region",
-    "id": "abb-robotics-service-sales-specialist-center-region-ciudad-de-mexico"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer (Marine & Ports)",
-    "job_city": "Ciudad de Mexico",
-    "job_state": "Ciudad de Mexico",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Field Service Engineer (Marine & Ports) at Ciudad de Mexico, Ciudad de Mexico, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038186/Field-Service-Engineer-Marine-Ports",
-    "id": "abb-field-service-engineer-marine-ports-ciudad-de-mexico"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Security, Compliance and Controls Services Consultant",
-    "job_city": "Remote",
-    "job_state": "Mexico",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role IS Security, Compliance and Controls Services Consultant at Remote, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040018/IS-Security-Compliance-and-Controls-Services-Consultant",
-    "id": "abb-is-security-compliance-and-controls-services-consultant-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Service Specialist",
-    "job_city": "Remote",
-    "job_state": "Mexico",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Technical Service Specialist at Remote, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042297/Technical-Service-Specialist",
-    "id": "abb-technical-service-specialist-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer - Transformers Design",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role R&D Senior Engineer - Transformers Design at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043638/R-D-Senior-Engineer-Transformers-Design",
-    "id": "abb-r-d-senior-engineer-transformers-design-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "WAREHOUSE INTERNAL LOGISTICS OPERATOR-1",
-    "job_city": "San Luis Potosi",
-    "job_state": "San Luis Potosí",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role WAREHOUSE INTERNAL LOGISTICS OPERATOR-1 at San Luis Potosi, San Luis Potosí, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037478/WAREHOUSE-INTERNAL-LOGISTICS-OPERATOR-1",
-    "id": "abb-warehouse-internal-logistics-operator-1-san-luis-potosi"
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Infrastructure Monitoring Specialist",
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role IS Infrastructure Monitoring Specialist at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036663/IS-Infrastructure-Monitoring-Specialist",
-    "id": "abb-is-infrastructure-monitoring-specialist-multiple"
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-cleveland"
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Test Engineer",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Test Engineer at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038014/Test-Engineer",
-    "id": "abb-test-engineer-new-berlin"
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
   },
   {
     "employer_name": "ABB",
