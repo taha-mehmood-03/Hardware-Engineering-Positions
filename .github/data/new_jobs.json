@@ -1,235 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern Data Engineer - Data Services -",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Data Engineer - Data Services - 2027 at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128824&source=WEB_Search_NA",
-    "id": "ibm-intern-data-engineer-data-services-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Data Engineer - Data Services -",
-    "job_city": "MONROE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Data Engineer - Data Services - 2027 at InternshipMONROE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128823&source=WEB_Search_NA",
-    "id": "ibm-intern-data-engineer-data-services-monroe"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Data Engineers - AI & Analytics -",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Data Engineers - AI & Analytics - 2027 at InternshipBuffalo, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128819&source=WEB_Search_NA",
-    "id": "ibm-intern-data-engineers-ai-analytics-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Data Engineer - Data Services -",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Data Engineer - Data Services - 2027 at InternshipBuffalo, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128827&source=WEB_Search_NA",
-    "id": "ibm-intern-data-engineer-data-services-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Data Scientist 2027 - Advanced Analytics",
-    "job_city": "Buffalo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Data Scientist 2027 - Advanced Analytics at InternshipBuffalo, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129314&source=WEB_Search_NA",
-    "id": "ibm-intern-data-scientist-2027-advanced-analytics-buffalo"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Co-Op Developer Digital Product -",
-    "job_city": "University Park",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Co-Op Developer Digital Product - 2027 at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129227&source=WEB_Search_NA",
-    "id": "ibm-co-op-developer-digital-product-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hacker Intern",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hacker Intern 2027 at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129253&source=WEB_Search_NA",
-    "id": "ibm-hacker-intern-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant Intern",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Security Consultant Intern 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128712&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-intern-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Security Consultant",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Security Consultant 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128546&source=WEB_Search_NA",
-    "id": "ibm-associate-security-consultant-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern – SAP",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Consultant Intern – SAP 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128767&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-sap-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant Intern",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Security Consultant Intern 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128730&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-intern-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Developer – Adobe",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Developer – Adobe 2027 at Entry LevelSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128778&source=WEB_Search_NA",
-    "id": "ibm-associate-developer-adobe-san-francisco"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Package Consultant - Salesforce",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Package Consultant - Salesforce 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128547&source=WEB_Search_NA",
-    "id": "ibm-intern-package-consultant-salesforce-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Package Consultant - Salesforce",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Package Consultant - Salesforce 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128646&source=WEB_Search_NA",
-    "id": "ibm-intern-package-consultant-salesforce-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Co-op Application Consultant – Microsoft",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Co-op Application Consultant – Microsoft 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128527&source=WEB_Search_NA",
-    "id": "ibm-co-op-application-consultant-microsoft-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Consultant - Microsoft",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Consultant - Microsoft 2027 at Entry LevelDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128579&source=WEB_Search_NA",
-    "id": "ibm-associate-application-consultant-microsoft-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Security Consultant 2027 - Cyber Strategy & Risk",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Security Consultant 2027 - Cyber Strategy & Risk at Entry LevelDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128743&source=WEB_Search_NA",
-    "id": "ibm-associate-security-consultant-2027-cyber-strategy-risk-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Oracle Cloud",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Oracle Cloud 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128563&source=WEB_Search_NA",
-    "id": "ibm-intern-oracle-cloud-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Consultant - Microsoft",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Consultant - Microsoft 2027 at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128584&source=WEB_Search_NA",
-    "id": "ibm-associate-application-consultant-microsoft-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern Application Consultant 2027 – DPE",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Intern Application Consultant 2027 – DPE at InternshipDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128742&source=WEB_Search_NA",
-    "id": "ibm-intern-application-consultant-2027-dpe-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Package Consultant - Microsoft",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Package Consultant - Microsoft 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128776&source=WEB_Search_NA",
-    "id": "ibm-associate-package-consultant-microsoft-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Consultant 2027 – IBM Tech",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Application Consultant 2027 – IBM Tech at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128718&source=WEB_Search_NA",
-    "id": "ibm-associate-application-consultant-2027-ibm-tech-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "X-Force Associate Hacker",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role X-Force Associate Hacker 2027 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129247&source=WEB_Search_NA",
-    "id": "ibm-x-force-associate-hacker-austin"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
@@ -301,33 +71,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "HSE Specialist",
+    "job_title": "Regional Sales Manager HVACR - West",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Director of Sales PV and BESS Inverter",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
+    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
   },
   {
     "employer_name": "ABB",
@@ -628,15 +398,5 @@
     "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
     "id": "abb-associate-resident-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Navigation Systems Architect (PN&T)",
-    "job_city": "21 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Navigation Systems Architect (PN&T) at 21 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Principal-Navigation-Systems-Architect--PN-T-_R260123?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-navigation-systems-architect-pn-t-21-locations"
   }
 ]
