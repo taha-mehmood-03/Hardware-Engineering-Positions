@@ -1,5 +1,185 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Consultant - Salesforce",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Package Consultant - Salesforce 2027 at Entry LevelNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128908&source=WEB_Search_NA",
+    "id": "ibm-associate-package-consultant-salesforce-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant Intern 2027 – Enterprise Application Integration (EAI)",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Consultant Intern 2027 – Enterprise Application Integration (EAI) at InternshipChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128709&source=WEB_Search_NA",
+    "id": "ibm-consultant-intern-2027-enterprise-application-integration-eai-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Engineer - AI & Analytics -",
+    "job_city": "MONROE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Engineer - AI & Analytics - 2027 at Entry LevelMONROE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129114&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-ai-analytics-monroe"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Engineer 2027 – AI & Analytics",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Engineer 2027 – AI & Analytics at Entry LevelLansing, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128804&source=WEB_Search_NA",
+    "id": "ibm-associate-data-engineer-2027-ai-analytics-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)",
+    "job_city": "COLUMBIA",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI) at InternshipCOLUMBIA, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128717&source=WEB_Search_NA",
+    "id": "ibm-strategy-consultant-intern-2027-enterprise-application-integration-eai-columbia"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Threat Analyst Researcher and Consultant",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Threat Analyst Researcher and Consultant 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128676&source=WEB_Search_NA",
+    "id": "ibm-associate-threat-analyst-researcher-and-consultant-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI) at InternshipDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128720&source=WEB_Search_NA",
+    "id": "ibm-strategy-consultant-intern-2027-enterprise-application-integration-eai-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist 2027 - AI & Data Analytics",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Scientist 2027 - AI & Data Analytics at Entry LevelDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129126&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-2027-ai-data-analytics-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Co-Op Security Consultant",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Co-Op Security Consultant 2027 at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128765&source=WEB_Search_NA",
+    "id": "ibm-co-op-security-consultant-university-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist 2027 - AI & Data Analytics",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Data Scientist 2027 - AI & Data Analytics at Entry LevelSan Francisco, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128537&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-2027-ai-data-analytics-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Application Developer 2027 – DPE",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Application Developer 2027 – DPE at InternshipChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128825&source=WEB_Search_NA",
+    "id": "ibm-intern-application-developer-2027-dpe-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer 2027 - DPE",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Application Developer 2027 - DPE at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128789&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-2027-dpe-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Data Scientist 2027 – AI & Data Analytics",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Data Scientist 2027 – AI & Data Analytics at InternshipDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128613&source=WEB_Search_NA",
+    "id": "ibm-intern-data-scientist-2027-ai-data-analytics-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Data Scientist 2027 – AI & Data Analytics",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Data Scientist 2027 – AI & Data Analytics at InternshipChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128611&source=WEB_Search_NA",
+    "id": "ibm-intern-data-scientist-2027-ai-data-analytics-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Application Developer 2027 – DPE",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Application Developer 2027 – DPE at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128772&source=WEB_Search_NA",
+    "id": "ibm-intern-application-developer-2027-dpe-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package specialist 2026 - Oracle HCM Talent Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Package specialist 2026 - Oracle HCM Talent Management at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=96752&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-oracle-hcm-talent-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Developer 2027 – Adobe",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Developer 2027 – Adobe at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128716&source=WEB_Search_NA",
+    "id": "ibm-intern-developer-2027-adobe-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Co-Op Application Developer – Adobe",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Co-Op Application Developer – Adobe 2027 at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128711&source=WEB_Search_NA",
+    "id": "ibm-co-op-application-developer-adobe-university-park"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
@@ -11,13 +191,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,6 +211,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -41,13 +231,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,33 +261,73 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager HVACR - West",
+    "job_title": "Local Division Manager IEC Motors, North America",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
-    "id": "abb-regional-sales-manager-hvacr-west-multiple"
+    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Director of Sales PV and BESS Inverter",
+    "job_title": "Mechanical Project Engineer",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Mechanical Project Engineer at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042381/Mechanical-Project-Engineer",
+    "id": "abb-mechanical-project-engineer-bartlesville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Southwest",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
-    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
+    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -201,16 +431,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Infrastructure Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
-    "id": "abb-is-infrastructure-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Service Test Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -218,16 +438,6 @@
     "job_description": "hardware engineering job for the role Service Test Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043919/Service-Test-Engineer",
     "id": "abb-service-test-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "8 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -281,16 +491,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ICSS Lead Engineer Offshore Solution, EHouse (JB)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role ICSS Lead Engineer Offshore Solution, EHouse (JB) at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044110/ICSS-Lead-Engineer-Offshore-Solution-EHouse-JB",
-    "id": "abb-icss-lead-engineer-offshore-solution-ehouse-jb-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 - 100%) R&D Senior Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -308,6 +508,16 @@
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
     "id": "abb-80-100-r-d-engineer-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ICSS Lead Engineer Offshore Solution, EHouse (JB)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role ICSS Lead Engineer Offshore Solution, EHouse (JB) at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044110/ICSS-Lead-Engineer-Offshore-Solution-EHouse-JB",
+    "id": "abb-icss-lead-engineer-offshore-solution-ehouse-jb-multiple"
   },
   {
     "employer_name": "ABB",
@@ -351,16 +561,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Plastic Case - Production Operator - 1st Shift",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043322/Plastic-Case-Production-Operator-1st-Shift",
-    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Field Service Engineer - Automation Solutions (f/m/d)",
     "job_city": "Cottbus",
     "job_state": "Brandenburg",
@@ -371,16 +571,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Software Senior Engineer - Desktop",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -388,15 +578,5 @@
     "job_description": "hardware engineering job for the role Software Senior Engineer - Desktop at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041646/Software-Senior-Engineer-Desktop",
     "id": "abb-software-senior-engineer-desktop-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-cleveland"
   }
 ]
