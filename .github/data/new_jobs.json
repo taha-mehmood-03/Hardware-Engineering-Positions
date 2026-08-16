@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Manager Revenue Forecasting",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Manager Revenue Forecasting at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-revenue-forecasting/33099/99292988448",
-    "id": "arm-manager-revenue-forecasting-san-jose"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
@@ -31,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,6 +28,16 @@
     "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
