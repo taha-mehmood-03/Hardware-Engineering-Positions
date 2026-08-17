@@ -1,13 +1,14 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Platform Architect - AGI CPU",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Platform Architect - AGI CPU at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/platform-architect-agi-cpu/33099/93958008512",
-    "id": "arm-platform-architect-agi-cpu-austin"
+    "job_title": "New Product Lead - Tech, Robotics Supply Chain",
+    "employer_name": "Amazon",
+    "job_city": "N.Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role New Product Lead - Tech, Robotics Supply Chain at N.Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10503988/new-product-lead-tech-robotics-supply-chain",
+    "job_posted_at": "2026-08-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-08-17T00:00:00.000Z",
+    "id": "amazon-new-product-lead-tech-robotics-supply-chain-n-reading"
   },
   {
     "employer_name": "ABB",
