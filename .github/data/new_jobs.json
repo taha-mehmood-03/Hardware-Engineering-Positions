@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "FPGA Prototyping Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Verification Engineer (CPU group)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role FPGA Prototyping Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/fpga-prototyping-engineer/33099/98426130992",
-    "id": "arm-fpga-prototyping-engineer-bengaluru"
+    "job_description": "Hardware Engineering job for the role Senior Verification Engineer (CPU group) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-cpu-group/33099/99342097984",
+    "id": "arm-verification-engineer-cpu-group-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -41,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales Specialist at Available in one of 31 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043092/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -58,6 +48,16 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician II at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
     "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sales Specialist at Available in one of 31 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043092/Sales-Specialist",
+    "id": "abb-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -98,6 +88,16 @@
     "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
     "id": "abb-utility-sales-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
