@@ -1,34 +1,33 @@
 [
   {
-    "job_title": "Hardware Reliability Engineer, Amazon Leo - Optical Inter-Satellite Link (OISL)",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Hardware Reliability Engineer, Amazon Leo - Optical Inter-Satellite Link (OISL) at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10507337/hardware-reliability-engineer-amazon-leo-optical-inter-satellite-link-oisl",
-    "job_posted_at": "2026-08-19T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-08-19T00:00:00.000Z",
-    "id": "amazon-hardware-reliability-engineer-amazon-leo-optical-inter-satellite-link-oisl-redmond"
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Engineer, SoC Verification",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff Engineer, SoC Verification at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-engineer-soc-verification/33099/95845691664",
+    "id": "arm-senior-staff-engineer-soc-verification-bengaluru"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "SR ENGINEER, DPG ARCHITECTURE STRATEGY",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role SR ENGINEER, DPG ARCHITECTURE STRATEGY at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/43938500",
-    "id": "micron-sr-engineer-dpg-architecture-strategy-san-jose"
+    "employer_name": "Arm",
+    "job_title": "Project / Program Manager",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Project / Program Manager at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/project-program-manager/33099/99161653312",
+    "id": "arm-project-program-manager-manchester"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Sr Engineer, FW & Product Test",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Sr Engineer, FW & Product Test at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/43934547",
-    "id": "micron-sr-engineer-fw-product-test-longmont"
+    "employer_name": "Arm",
+    "job_title": "Quality & Safety Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Quality & Safety Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-quality-and-safety-engineer/33099/99449494176",
+    "id": "arm-quality-safety-engineer-austin"
   },
   {
     "employer_name": "ABB",
@@ -39,6 +38,16 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -62,13 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
+    "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
+    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -79,16 +88,6 @@
     "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
     "id": "abb-strategic-segment-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -122,13 +121,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Sales Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Sales Support Specialist at Available in one of 42 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044465/Sales-Support-Specialist",
+    "id": "abb-sales-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -419,5 +418,15 @@
     "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
     "id": "abb-associate-resident-service-technician-cleveland"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Applications Engineer | HSDC",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Applications Engineer | HSDC at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25011586/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-applications-engineer-hsdc-dallas"
   }
 ]
