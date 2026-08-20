@@ -1,13 +1,14 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Wet Process Fab 4 EDE",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Intern - Wet Process Fab 4 EDE at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/43943831",
-    "id": "micron-intern-wet-process-fab-4-ede-boise"
+    "job_title": "Software Dev Eng, Payload Phased Arrays, Amazon Leo, Antenna System Validation, Amazon Leo",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Dev Eng, Payload Phased Arrays, Amazon Leo, Antenna System Validation, Amazon Leo at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10509637/software-dev-eng-payload-phased-arrays-amazon-leo-antenna-system-validation-amazon-leo",
+    "job_posted_at": "2026-08-20T22:23:46.826Z",
+    "job_posted_at_datetime_utc": "2026-08-20T22:23:46.826Z",
+    "id": "amazon-software-dev-eng-payload-phased-arrays-amazon-leo-antenna-system-validation-amazon-leo-redmond"
   },
   {
     "employer_name": "ABB",
@@ -31,16 +32,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,6 +39,16 @@
     "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
     "id": "abb-utility-sales-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -101,13 +102,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Support Specialist",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Sales Support Specialist at Available in one of 42 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044465/Sales-Support-Specialist",
-    "id": "abb-sales-support-specialist-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
