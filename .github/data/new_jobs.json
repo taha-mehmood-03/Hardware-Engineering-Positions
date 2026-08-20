@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Head of gUP Platforms and Devices",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Recently",
-    "job_description": "82 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Head of gUP Platforms and Devices",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100565719229309638-head-of-gup-platforms-and-devices?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=5",
-    "id": "google-head-of-gup-platforms-and-devices-atlanta"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Online Training Advisor - 12 month FTC",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Online Training Advisor - 12 month FTC at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/online-training-advisor-12-month-ftc/33099/99449494128",
-    "id": "arm-online-training-advisor-12-month-ftc-cambridge"
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager HVACR - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -28,16 +18,6 @@
     "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
     "id": "abb-business-development-manager-southwest-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager HVACR - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
-    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,6 +58,16 @@
     "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
