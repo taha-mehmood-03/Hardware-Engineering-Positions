@@ -1,24 +1,153 @@
 [
   {
-    "job_title": "Cloud Hardware Development Engineer II, AI/ML/Storage Server Team",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer II, AI/ML/Storage Server Team at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10477147/cloud-hardware-development-engineer-ii-ai-ml-storage-server-team",
-    "job_posted_at": "2026-08-20T16:26:31.858Z",
-    "job_posted_at_datetime_utc": "2026-08-20T16:26:31.858Z",
-    "id": "amazon-cloud-hardware-development-engineer-ii-ai-ml-storage-server-team-cupertino"
+    "employer_name": "Arm",
+    "job_title": "IP Verification Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IP Verification Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/ip-verification-engineer/33099/99500560928",
+    "id": "arm-ip-verification-engineer-bengaluru"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "ENGINEER, FW & PRODUCT TEST ENGINEERING",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role ENGINEER, FW & PRODUCT TEST ENGINEERING at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/43930623",
-    "id": "micron-engineer-fw-product-test-engineering-longmont"
+    "employer_name": "IBM",
+    "job_title": "Intern Application Developer – Azure and Microsoft -",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Application Developer – Azure and Microsoft - 2027 at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128784&source=WEB_Search_NA",
+    "id": "ibm-intern-application-developer-azure-and-microsoft-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Senior Software Engineer - Backend",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Senior Software Engineer - Backend at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128543&source=WEB_Search_NA",
+    "id": "ibm-confluent-senior-software-engineer-backend-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - Confluent",
+    "job_city": "Columbus",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer II - Confluent at ProfessionalColumbus, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128174&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-confluent-columbus"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Co-Op Data Scientist - AI & Analytics",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Co-Op Data Scientist - AI & Analytics 2027 at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128649&source=WEB_Search_NA",
+    "id": "ibm-co-op-data-scientist-ai-analytics-university-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Security Consultant - Cyber Strategy & Risk",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Security Consultant - Cyber Strategy & Risk 2027 at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128544&source=WEB_Search_NA",
+    "id": "ibm-intern-security-consultant-cyber-strategy-risk-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Security Consultant - Cyber Strategy & Risk",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Security Consultant - Cyber Strategy & Risk 2027 at InternshipDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128524&source=WEB_Search_NA",
+    "id": "ibm-intern-security-consultant-cyber-strategy-risk-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern 2027 at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129778&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Business Transformation Consultant - Supply Chain",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Business Transformation Consultant - Supply Chain 2027 at InternshipDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128913&source=WEB_Search_NA",
+    "id": "ibm-intern-business-transformation-consultant-supply-chain-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant - Strategy, Risk & Compliance",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Security Consultant - Strategy, Risk & Compliance 2027 at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128546&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-strategy-risk-compliance-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant - Cyber Strategy & Risk",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Associate Security Consultant - Cyber Strategy & Risk 2027 at Entry LevelDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128743&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-cyber-strategy-risk-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern Developer – Microsoft",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Intern Developer – Microsoft 2027 at InternshipChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128574&source=WEB_Search_NA",
+    "id": "ibm-intern-developer-microsoft-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Spring Co-op",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Spring Co-op 2027 at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129787&source=WEB_Search_NA",
+    "id": "ibm-software-developer-spring-co-op-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer Intern – Strategy & Transformation",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Developer Intern – Strategy & Transformation 2027 at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129220&source=WEB_Search_NA",
+    "id": "ibm-application-developer-intern-strategy-transformation-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Co-Op Data Engineer - Data Services",
+    "job_city": "University Park",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Co-Op Data Engineer - Data Services 2027 at InternshipUniversity Park, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128562&source=WEB_Search_NA",
+    "id": "ibm-co-op-data-engineer-data-services-university-park"
   },
   {
     "employer_name": "ABB",
@@ -62,6 +191,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "VFD Technical Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
+    "id": "abb-vfd-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -72,23 +211,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -102,13 +231,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -439,5 +568,25 @@
     "job_description": "hardware engineering job for the role Software Senior Engineer - Desktop at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041646/Software-Senior-Engineer-Desktop",
     "id": "abb-software-senior-engineer-desktop-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate Digital Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Associate Digital Design Engineer at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-digital-design-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Associate System Integration Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Associate System Integration Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Associate-System-Integration-Engineer_R265285?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-associate-system-integration-engineer-2-locations"
   }
 ]
