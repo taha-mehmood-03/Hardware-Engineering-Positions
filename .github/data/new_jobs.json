@@ -1,5 +1,135 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Technical Support - Hardware and Software Products ELH -",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Technical Support - Hardware and Software Products ELH - 2027 at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129918&source=WEB_Search_NA",
+    "id": "ibm-technical-support-hardware-and-software-products-elh-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "DevOps Intern",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role DevOps Intern at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130068&source=WEB_Search_NA",
+    "id": "ibm-devops-intern-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist & AI ELH - RTP",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Scientist & AI ELH - RTP 2027 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129923&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-ai-elh-rtp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern-Rochester, MN",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern-Rochester, MN at InternshipROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130103&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern-Austin-TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern-Austin-TX at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130116&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern/Tucson-AZ",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern/Tucson-AZ at InternshipTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130092&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-tucson-az-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back End Developer Intern 2027 - Poughkeepsie",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back End Developer Intern 2027 - Poughkeepsie at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129781&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-intern-2027-poughkeepsie-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern-Poughkeepsie, NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Intern-Poughkeepsie, NY at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130113&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA/Test Engineer Intern-Poughkeepsie, NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA/Test Engineer Intern-Poughkeepsie, NY at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130043&source=WEB_Search_NA",
+    "id": "ibm-qa-test-engineer-intern-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA/Test Engineer Intern-Tucson, AZ",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA/Test Engineer Intern-Tucson, AZ at InternshipTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130074&source=WEB_Search_NA",
+    "id": "ibm-qa-test-engineer-intern-tucson-az-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Designer Intern",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Designer Intern at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130084&source=WEB_Search_NA",
+    "id": "ibm-designer-intern-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "[Confluent] Senior Software Engineer II - Stream Processing & Analytics",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role [Confluent] Senior Software Engineer II - Stream Processing & Analytics at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128640&source=WEB_Search_NA",
+    "id": "ibm-confluent-senior-software-engineer-ii-stream-processing-analytics-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -18,36 +148,6 @@
     "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +171,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -81,6 +191,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,16 +218,6 @@
     "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
     "id": "abb-protection-and-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -398,5 +518,25 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Cottbus, Brandenburg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043034/Field-Service-Engineer-Automation-Solutions-f-m-d",
     "id": "abb-field-service-engineer-automation-solutions-f-m-d-cottbus"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer Equipment - PVD/Thin Films",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer Equipment - PVD/Thin Films at US, WA, Camas",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Senior-Engineer-Equipment---PVD-Thin-Films_R265284?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-equipment-pvd-thin-films-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "AI Security Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role AI Security Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Security-Engineer_2603452?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-security-engineer-2-locations"
   }
 ]
