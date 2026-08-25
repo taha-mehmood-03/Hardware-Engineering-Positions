@@ -1,195 +1,5 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - ENGINEER, ELECTRICAL DESIGN",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - ENGINEER, ELECTRICAL DESIGN at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/44138822",
-    "id": "micron-new-college-grad-engineer-electrical-design-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - ENGINEER, SIG ELECTRICAL DESIGN",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - ENGINEER, SIG ELECTRICAL DESIGN at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/44138859",
-    "id": "micron-new-college-grad-engineer-sig-electrical-design-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern 2027 -Poughkeepsie",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Poughkeepsie at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130026&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-2027-poughkeepsie-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern 2027 -Austin",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Austin at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129936&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-2027-austin-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware and Systems Developer Intern 2027 -Rochester, MN",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware and Systems Developer Intern 2027 -Rochester, MN at InternshipROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130107&source=WEB_Search_NA",
-    "id": "ibm-hardware-and-systems-developer-intern-2027-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware and Systems Developer Intern 2027 -New York",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware and Systems Developer Intern 2027 -New York at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130114&source=WEB_Search_NA",
-    "id": "ibm-hardware-and-systems-developer-intern-2027-new-york-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware and Systems Developer Intern 2027 -Austin, TX",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware and Systems Developer Intern 2027 -Austin, TX at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130110&source=WEB_Search_NA",
-    "id": "ibm-hardware-and-systems-developer-intern-2027-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2027 Software Engineering Intern – Agentic AI & Workflow Automation",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 2027 Software Engineering Intern – Agentic AI & Workflow Automation at InternshipArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129919&source=WEB_Search_NA",
-    "id": "ibm-2027-software-engineering-intern-agentic-ai-workflow-automation-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Firmware and Systems Developer Intern 2027 -Poughkeepsie",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Firmware and Systems Developer Intern 2027 -Poughkeepsie at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130059&source=WEB_Search_NA",
-    "id": "ibm-firmware-and-systems-developer-intern-2027-poughkeepsie-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager Intern - RTP",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Manager Intern - RTP 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129913&source=WEB_Search_NA",
-    "id": "ibm-product-manager-intern-rtp-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level QA/Test Engineer-Poughkeepsie-NY",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level QA/Test Engineer-Poughkeepsie-NY at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130379&source=WEB_Search_NA",
-    "id": "ibm-entry-level-qa-test-engineer-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Technical Support Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Technical Support Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130080&source=WEB_Search_NA",
-    "id": "ibm-confluent-technical-support-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Integration Strategy Consultant – 2027 Full Time ELH",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Integration Strategy Consultant – 2027 Full Time ELH at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130070&source=WEB_Search_NA",
-    "id": "ibm-integration-strategy-consultant-2027-full-time-elh-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Global Facility Management Process Intern",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Global Facility Management Process Intern 2027 at InternshipArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129920&source=WEB_Search_NA",
-    "id": "ibm-global-facility-management-process-intern-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Management Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Management Intern 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129752&source=WEB_Search_NA",
-    "id": "ibm-product-management-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Designer-Austin-TX",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Designer-Austin-TX at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130387&source=WEB_Search_NA",
-    "id": "ibm-entry-level-designer-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Back End Developer Intern 2027 - Tucson",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Back End Developer Intern 2027 - Tucson at InternshipTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129783&source=WEB_Search_NA",
-    "id": "ibm-back-end-developer-intern-2027-tucson-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software QA Development (Apprentice Conversion)",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software QA Development (Apprentice Conversion) at ProfessionalLOWELL, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130776&source=WEB_Search_NA",
-    "id": "ibm-software-qa-development-apprentice-conversion-lowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "User Experience Design, Research and Content Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role User Experience Design, Research and Content Intern 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130118&source=WEB_Search_NA",
-    "id": "ibm-user-experience-design-research-and-content-intern-poughkeepsie"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -221,36 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -258,6 +38,16 @@
     "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -271,6 +61,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -281,63 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Lead Engineer - System 800xA - Based in Qatar",
+    "job_title": "Channel Director - Northern California",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA - Based in Qatar at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA-Based-in-Qatar",
-    "id": "abb-project-lead-engineer-system-800xa-based-in-qatar-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Southwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
-    "id": "abb-business-development-manager-southwest-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043427/R-D-Senior-Engineer",
-    "id": "abb-r-d-senior-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "FPGA Engineer (m/f/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
-    "id": "abb-fpga-engineer-m-f-d-minden"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer (f/m/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d",
-    "id": "abb-r-d-engineer-f-m-d-minden"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
+    "id": "abb-channel-director-northern-california-multiple"
   },
   {
     "employer_name": "ABB",
@@ -381,6 +141,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96413472/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Xi'An",
     "job_state": "Shanxi",
@@ -411,6 +181,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "IS Infrastructure Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
+    "id": "abb-is-infrastructure-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Service Test Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -418,6 +198,16 @@
     "job_description": "hardware engineering job for the role Service Test Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043919/Service-Test-Engineer",
     "id": "abb-service-test-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "9 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -551,6 +341,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Plastic Case - Production Operator - 1st Shift",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043322/Plastic-Case-Production-Operator-1st-Shift",
+    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Software Developer to ABB",
     "job_city": "Malmo",
     "job_state": "Skane County",
@@ -568,5 +368,25 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Cottbus, Brandenburg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043034/Field-Service-Engineer-Automation-Solutions-f-m-d",
     "id": "abb-field-service-engineer-automation-solutions-f-m-d-cottbus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Lake Mary",
+    "job_state": "Florida",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Resident Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
+    "id": "abb-associate-resident-service-technician-cleveland"
   }
 ]
