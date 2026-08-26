@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -21,13 +31,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
+    "job_title": "VFD Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
+    "id": "abb-vfd-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -38,16 +58,6 @@
     "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,23 +81,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Local Division Manager IEC Motors, North America",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
   },
   {
     "employer_name": "ABB",
