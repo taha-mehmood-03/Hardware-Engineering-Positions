@@ -1,403 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129926&source=WEB_Search_NA",
-    "id": "ibm-ibm-z-engineering-system-test-hardware-developer-poughkeepsie-ny-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Quantum Hardware Assembly R&D Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Quantum Hardware Assembly R&D Engineer at Entry LevelYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130456&source=WEB_Search_NA",
-    "id": "ibm-associate-quantum-hardware-assembly-r-d-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Quantum Hardware Mechanical Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Quantum Hardware Mechanical Engineer at Entry LevelYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130457&source=WEB_Search_NA",
-    "id": "ibm-associate-quantum-hardware-mechanical-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer-Tucson-AZ at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131016&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern 2027 -Tucson, AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Tucson, AZ at InternshipTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130928&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-2027-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129927&source=WEB_Search_NA",
-    "id": "ibm-ibm-z-engineering-system-test-qa-test-developer-intern-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Client Solutions Engineering Intern 2027- North Carolina",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Client Solutions Engineering Intern 2027- North Carolina at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130129&source=WEB_Search_NA",
-    "id": "ibm-storage-client-solutions-engineering-intern-2027-north-carolina-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Scientist Intern - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Data Scientist Intern - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130037&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-intern-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129929&source=WEB_Search_NA",
-    "id": "ibm-ibm-z-engineering-system-test-back-end-developer-systems-assurance-kernel-sak-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Device Characterization Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Device Characterization Engineer at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130856&source=WEB_Search_NA",
-    "id": "ibm-device-characterization-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "HW Developer Intern: Systems Assurance - Rochester, MN -",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role HW Developer Intern: Systems Assurance - Rochester, MN - 2027 at InternshipROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130760&source=WEB_Search_NA",
-    "id": "ibm-hw-developer-intern-systems-assurance-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM System Test SW Developer Intern - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130049&source=WEB_Search_NA",
-    "id": "ibm-ibm-system-test-sw-developer-intern-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back End Developer - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Back End Developer - Poughkeepsie, NY - 2027 at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130872&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN -",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN - 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130762&source=WEB_Search_NA",
-    "id": "ibm-sw-developer-intern-systems-assurance-austin-tx-rochester-mn-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager - ELH - RTP",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Product Manager - ELH - RTP 2027 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131184&source=WEB_Search_NA",
-    "id": "ibm-product-manager-elh-rtp-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Product Management Intern 2027 -Tucson, AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Product Management Intern 2027 -Tucson, AZ at InternshipTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130390&source=WEB_Search_NA",
-    "id": "ibm-storage-product-management-intern-2027-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back-End Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Back-End Developer-Tucson-AZ at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131023&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Back-End Developer-Houston-TX",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Back-End Developer-Houston-TX at Entry LevelHouston, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131025&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-houston-tx-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Product Management Intern 2027 -North Carolina",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Product Management Intern 2027 -North Carolina at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130374&source=WEB_Search_NA",
-    "id": "ibm-storage-product-management-intern-2027-north-carolina-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cost & Asset Optimization - Data Science Analyst Intern - Austin, TX -",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cost & Asset Optimization - Data Science Analyst Intern - Austin, TX - 2027 at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130112&source=WEB_Search_NA",
-    "id": "ibm-cost-asset-optimization-data-science-analyst-intern-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer ELH - OneIT - Rochester, MN -",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineer ELH - OneIT - Rochester, MN - 2027 at Entry LevelROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131294&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-elh-oneit-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130104&source=WEB_Search_NA",
-    "id": "ibm-cost-asset-optimization-data-science-analyst-intern-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Enablement Specialist Intern - New York, NY -",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Enablement Specialist Intern - New York, NY - 2027 at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130097&source=WEB_Search_NA",
-    "id": "ibm-technical-enablement-specialist-intern-new-york-ny-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cost & Asset Optimization - Data Science Analyst - Austin, TX -",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cost & Asset Optimization - Data Science Analyst - Austin, TX - 2027 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130109&source=WEB_Search_NA",
-    "id": "ibm-cost-asset-optimization-data-science-analyst-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cost & Asset Optimization - Data Science Analyst - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Cost & Asset Optimization - Data Science Analyst - Poughkeepsie, NY - 2027 at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130062&source=WEB_Search_NA",
-    "id": "ibm-cost-asset-optimization-data-science-analyst-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Enablement Specialist Intern - Austin, TX -",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Enablement Specialist Intern - Austin, TX - 2027 at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130029&source=WEB_Search_NA",
-    "id": "ibm-technical-enablement-specialist-intern-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Site Reliability Engineer - Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Site Reliability Engineer - Tucson-AZ at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130921&source=WEB_Search_NA",
-    "id": "ibm-entry-level-site-reliability-engineer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130759&source=WEB_Search_NA",
-    "id": "ibm-compliance-sw-developer-intern-systems-assurance-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Intern -Tucson, AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineer Intern -Tucson, AZ at InternshipTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130927&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-intern-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130792&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineer-intern-oneit-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Intern - OneIT - Rochester, MN -",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer Intern - OneIT - Rochester, MN - 2027 at InternshipROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130900&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-oneit-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Software Developer-Tucston-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Software Developer-Tucston-AZ at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130916&source=WEB_Search_NA",
-    "id": "ibm-entry-level-software-developer-tucston-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level QA/Test Developer-Tucson-AZ",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level QA/Test Developer-Tucson-AZ at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130924&source=WEB_Search_NA",
-    "id": "ibm-entry-level-qa-test-developer-tucson-az-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Enablement Specialist Intern - Dallas, TX -",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Enablement Specialist Intern - Dallas, TX - 2027 at InternshipDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130023&source=WEB_Search_NA",
-    "id": "ibm-technical-enablement-specialist-intern-dallas-tx-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Storage Client Solutions Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Storage Client Solutions Engineer 2027 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130391&source=WEB_Search_NA",
-    "id": "ibm-entry-level-storage-client-solutions-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Enablement Specialist Intern - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Technical Enablement Specialist Intern - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130088&source=WEB_Search_NA",
-    "id": "ibm-technical-enablement-specialist-intern-poughkeepsie-ny-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "{Confluent} Senior Software Engineer II - Confluent Fleet Management / Unified Deployment",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role {Confluent} Senior Software Engineer II - Confluent Fleet Management / Unified Deployment at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128138&source=WEB_Search_NA",
-    "id": "ibm-confluent-senior-software-engineer-ii-confluent-fleet-management-unified-deployment-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY -",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130758&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-intern-systems-assurance-poughkeepsie-ny-poughkeepsie"
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045447/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Physical AI Robotics Simulation Intern- Fall",
-    "job_city": "Milpitas",
-    "job_state": "California",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Physical AI Robotics Simulation Intern- Fall 2026 at Milpitas, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044848/Physical-AI-Robotics-Simulation-Intern-Fall-2026",
-    "id": "abb-physical-ai-robotics-simulation-intern-fall-milpitas"
+    "job_title": "Regional Sales Manager HVACR - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Robotics UI/UX Intern- Fall",
-    "job_city": "Milpitas",
-    "job_state": "California",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role AI Robotics UI/UX Intern- Fall 2026 at Milpitas, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044847/AI-Robotics-UI-UX-Intern-Fall-2026",
-    "id": "abb-ai-robotics-ui-ux-intern-fall-milpitas"
+    "job_title": "Business Development Manager - Southwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -431,6 +61,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "VFD Technical Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
+    "id": "abb-vfd-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -438,16 +88,6 @@
     "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
     "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -461,23 +101,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "IS Infrastructure Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
+    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
+    "id": "abb-is-infrastructure-specialist-pinetops"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_title": "Plastic Case - Production Operator - 1st Shift",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift",
+    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043427/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer (f/m/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d",
+    "id": "abb-r-d-engineer-f-m-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -518,16 +188,6 @@
     "job_description": "hardware engineering job for the role R&D Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044058/R-D-Manager",
     "id": "abb-r-d-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "7 months ago",
-    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96413472/R-D-Senior-Engineer",
-    "id": "abb-r-d-senior-engineer-beijing"
   },
   {
     "employer_name": "ABB",
@@ -581,16 +241,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Infrastructure Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
-    "id": "abb-is-infrastructure-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Service Test Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -598,16 +248,6 @@
     "job_description": "hardware engineering job for the role Service Test Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043919/Service-Test-Engineer",
     "id": "abb-service-test-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "9 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -758,55 +398,5 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Cottbus, Brandenburg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043034/Field-Service-Engineer-Automation-Solutions-f-m-d",
     "id": "abb-field-service-engineer-automation-solutions-f-m-d-cottbus"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Plastic Case - Production Operator - 1st Shift",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift",
-    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Lake Mary",
-    "job_state": "Florida",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-lake-mary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Resident Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Resident Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042718/Associate-Resident-Service-Technician",
-    "id": "abb-associate-resident-service-technician-cleveland"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Digital Design Engineer (FPGA)",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Digital Design Engineer (FPGA) at US, MA, Chelmsford, Elizabeth",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Staff-Digital-Design-Engineer--FPGA-_R263239?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-digital-design-engineer-fpga-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Biomedical Engineering Intern",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Biomedical Engineering Intern at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-biomedical-engineering-intern-us"
   }
 ]
