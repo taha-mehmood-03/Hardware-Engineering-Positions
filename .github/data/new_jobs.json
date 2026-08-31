@@ -1,22 +1,132 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Hardware Reliability Engineer",
-    "job_city": "San Jose",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "GPU Hardware Analysis and Automation Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "22 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Hardware Reliability Engineer, Android XR Hardware",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129726440487690950-staff-hardware-reliability-engineer-android-xr-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-staff-hardware-reliability-engineer-san-jose"
+    "job_description": "Hardware Engineering job for the role GPU Hardware Analysis and Automation Engineer at Trondheim, Norway, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/gpu-hardware-analysis-and-automation-engineer/33099/94973985632",
+    "id": "arm-gpu-hardware-analysis-and-automation-engineer-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer – CI/CD, Release & Automation",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer – CI/CD, Release & Automation at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer-ci-cd-release-and-automation/33099/99971290032",
+    "id": "arm-software-engineer-ci-cd-release-automation-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Engineer (Apprentice Conversion)",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Engineer (Apprentice Conversion) at ProfessionalROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131351&source=WEB_Search_NA",
+    "id": "ibm-hardware-engineer-apprentice-conversion-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "(Confluent) Senior Principal Engineer II, Kafka",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role (Confluent) Senior Principal Engineer II, Kafka at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128946&source=WEB_Search_NA",
+    "id": "ibm-confluent-senior-principal-engineer-ii-kafka-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "(Confluent) Senior Software Engineer - Product Security Access Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role (Confluent) Senior Software Engineer - Product Security Access Management at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131196&source=WEB_Search_NA",
+    "id": "ibm-confluent-senior-software-engineer-product-security-access-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer Intern - OneIT - Rochester, MN -",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer Intern - OneIT - Rochester, MN - 2027 at InternshipROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130895&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-intern-oneit-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Software Engineer II - Secure Compute",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Staff Software Engineer II - Secure Compute at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130917&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-software-engineer-ii-secure-compute-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA/Test Developer (Apprentice conversion)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role QA/Test Developer (Apprentice conversion) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131019&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-apprentice-conversion-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045447/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator - (Reach Truck)",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator - (Reach Truck) at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045837/Warehouse-Internal-Logistics-Operator-Reach-Truck",
+    "id": "abb-warehouse-internal-logistics-operator-reach-truck-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager HVACR - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
+    "id": "abb-regional-sales-manager-hvacr-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Southwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
   },
   {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043315/Senior-Project-Engineer",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
   },
   {
@@ -41,26 +151,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,13 +161,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Sales Partner Effectiveness Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,53 +181,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Key Account Manager - Critical Industries at Available in one of 25 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044363/Key-Account-Manager-Critical-Industries",
-    "id": "abb-key-account-manager-critical-industries-multiple"
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "9 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Mechanical Project Engineer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
+    "job_title": "IS Infrastructure Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
+    "id": "abb-is-infrastructure-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Plastic Case - Production Operator - 1st Shift",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Mechanical Project Engineer at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042381/Mechanical-Project-Engineer",
-    "id": "abb-mechanical-project-engineer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Lead Engineer - System 800xA - Based in Qatar",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA - Based in Qatar at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA-Based-in-Qatar",
-    "id": "abb-project-lead-engineer-system-800xa-based-in-qatar-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Southwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Southwest at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
-    "id": "abb-business-development-manager-southwest-multiple"
+    "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift",
+    "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -261,16 +331,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Test Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Service Test Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043919/Service-Test-Engineer",
-    "id": "abb-service-test-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Jinan",
     "job_state": "Shandong",
@@ -308,6 +368,16 @@
     "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
     "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Electronic Designer",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Senior Electronic Designer at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer",
+    "id": "abb-senior-electronic-designer-quebec"
   },
   {
     "employer_name": "ABB",
