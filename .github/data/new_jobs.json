@@ -1,23 +1,33 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "employer_name": "Google",
+    "job_title": "Hardware Engineering Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Engineering Manager, Fleet Analysis and Central Triage, PIE",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124961861467546310-hardware-engineering-manager-fleet-analysis-and-central-triage-pie?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-engineering-manager-sunnyvale"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "employer_name": "Google",
+    "job_title": "Staff Software Engineer",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "5 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Software Engineer, Pixel",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116588668105171654-staff-software-engineer-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-software-engineer-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Supplier Quality Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Supplier Quality Engineer, OEM Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84105796085785286-supplier-quality-engineer-oem-networking?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-supplier-quality-engineer-sunnyvale"
   },
   {
     "employer_name": "ABB",
@@ -31,13 +41,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
-    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
+    "job_title": "Sales Partner Effectiveness Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,23 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Partner Effectiveness Leader",
+    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
-    "id": "abb-sales-partner-effectiveness-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
+    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
   },
   {
     "employer_name": "ABB",
@@ -98,6 +108,26 @@
     "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
     "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -261,6 +291,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Engineer",
+    "job_city": "Napier",
+    "job_state": "Hawke's Bay",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer at Napier, Hawke's Bay, New Zealand",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044487/R-D-Engineer",
+    "id": "abb-r-d-engineer-napier"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Internship / Master Thesis student (m/f/d) - Simulation, Prototyping and Testing of Next Generation of Agile Actuator Mechanisms",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
@@ -361,6 +401,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Field Service Engineer - System 800xA Safety",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Field Service Engineer - System 800xA Safety at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016782/Senior-Field-Service-Engineer-System-800xA-Safety",
+    "id": "abb-senior-field-service-engineer-system-800xa-safety-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Software Developer to ABB",
     "job_city": "Malmo",
     "job_state": "Skane County",
@@ -368,6 +418,16 @@
     "job_description": "hardware engineering job for the role Software Developer to ABB at Malmo, Skane County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024031/Software-Developer-to-ABB",
     "id": "abb-software-developer-to-abb-malmo"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Automation Solutions (f/m/d)",
+    "job_city": "Cottbus",
+    "job_state": "Brandenburg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Cottbus, Brandenburg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043034/Field-Service-Engineer-Automation-Solutions-f-m-d",
+    "id": "abb-field-service-engineer-automation-solutions-f-m-d-cottbus"
   },
   {
     "employer_name": "ABB",
