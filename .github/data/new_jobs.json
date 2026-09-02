@@ -1,43 +1,84 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Engineering Manager",
-    "job_city": "Sunnyvale",
+    "job_title": "Automation Hardware Dev Engineer, OneMHS",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Engineering Manager, Fleet Analysis and Central Triage, PIE",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124961861467546310-hardware-engineering-manager-fleet-analysis-and-central-triage-pie?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-hardware-engineering-manager-sunnyvale"
+    "job_description": "hardware engineering job for the role Automation Hardware Dev Engineer, OneMHS at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10525795/automation-hardware-dev-engineer-onemhs",
+    "job_posted_at": "2026-09-02T13:59:07.747Z",
+    "job_posted_at_datetime_utc": "2026-09-02T13:59:07.747Z",
+    "id": "amazon-automation-hardware-dev-engineer-onemhs-austin"
   },
   {
     "employer_name": "Google",
-    "job_title": "Staff Software Engineer",
-    "job_city": "San Francisco",
+    "job_title": "Opto-Mechanical Module Quality Lead",
+    "job_city": "Fremont",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "5 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Software Engineer, Pixel",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116588668105171654-staff-software-engineer-pixel?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-software-engineer-san-francisco"
+    "job_description": "2 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Opto-Mechanical Module Quality Lead, XR",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85399508954817222-optomechanical-module-quality-lead-xr?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-opto-mechanical-module-quality-lead-fremont"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Supplier Quality Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Platform and Application Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Supplier Quality Engineer, OEM Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84105796085785286-supplier-quality-engineer-oem-networking?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-supplier-quality-engineer-sunnyvale"
+    "job_description": "Hardware Engineering job for the role Platform and Application Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/platform-and-application-engineer/33099/99763341920",
+    "id": "arm-platform-and-application-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Physical Implementation Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Physical Implementation Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/principal-physical-implementation-engineer/33099/100075309584",
+    "id": "arm-physical-implementation-engineer-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Secure Engineering Enablement",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Manager, Secure Engineering Enablement at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-secure-engineering-enablement/33099/95678479584",
+    "id": "arm-manager-secure-engineering-enablement-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - TSE R&D Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 4 days ago",
+    "job_description": "hardware engineering job for the role New College Grad - TSE R&D Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44247223",
+    "id": "micron-new-college-grad-tse-r-d-equipment-engineer-boise"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "job_title": "AI Robotics UI/UX Intern- Fall",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role AI Robotics UI/UX Intern- Fall 2026 at Milpitas, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044847/AI-Robotics-UI-UX-Intern-Fall-2026",
+    "id": "abb-ai-robotics-ui-ux-intern-fall-milpitas"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Physical AI Robotics Simulation Intern- Fall",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Physical AI Robotics Simulation Intern- Fall 2026 at Milpitas, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044848/Physical-AI-Robotics-Simulation-Intern-Fall-2026",
+    "id": "abb-physical-ai-robotics-simulation-intern-fall-milpitas"
   },
   {
     "employer_name": "ABB",
@@ -48,6 +89,16 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +132,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -101,33 +162,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043427/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-beijing"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "FPGA Engineer (m/f/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
+    "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
+    "id": "abb-fpga-engineer-m-f-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -188,16 +239,6 @@
     "job_description": "hardware engineering job for the role R&D Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044058/R-D-Manager",
     "id": "abb-r-d-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "7 months ago",
-    "job_description": "hardware engineering job for the role R&D Senior Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96413472/R-D-Senior-Engineer",
-    "id": "abb-r-d-senior-engineer-beijing"
   },
   {
     "employer_name": "ABB",
@@ -381,16 +422,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Lead Engineer - System 800xA - Based in Qatar",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA - Based in Qatar at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA-Based-in-Qatar",
-    "id": "abb-project-lead-engineer-system-800xa-based-in-qatar-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Technical Support (w/m/d)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -398,16 +429,6 @@
     "job_description": "hardware engineering job for the role Technical Support (w/m/d) at Available in one of 5 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037872/Technical-Support-w-m-d",
     "id": "abb-technical-support-w-m-d-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Engineer - System 800xA Safety",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Field Service Engineer - System 800xA Safety at Available in one of 10 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016782/Senior-Field-Service-Engineer-System-800xA-Safety",
-    "id": "abb-senior-field-service-engineer-system-800xa-safety-multiple"
   },
   {
     "employer_name": "ABB",
