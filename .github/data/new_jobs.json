@@ -1,32 +1,402 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "Group Product Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "12 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Group Product Manager, AI Infra Hardware",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142949906057700038-group-product-manager-ai-infra-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-group-product-manager-sunnyvale"
+  },
+  {
     "employer_name": "Arm",
-    "job_title": "Digital Product Developer",
+    "job_title": "Talent Acquisition Manager - EMEA",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Digital Product Developer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/digital-product-developer/33099/100116773552",
-    "id": "arm-digital-product-developer-cambridge"
+    "job_description": "Hardware Engineering job for the role Senior Talent Acquisition Manager - EMEA at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-talent-acquisition-manager-emea/33099/100122547040",
+    "id": "arm-talent-acquisition-manager-emea-cambridge"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Embedded Systems Engineer – Power Applications",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Staff Embedded Systems Engineer – Power Applications at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Embedded-Systems-Engineer---Power-Applications_R265666?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-embedded-systems-engineer-power-applications-us"
+    "employer_name": "Micron",
+    "job_title": "/ Distinguished Member of Technical Staff — Silicon Photonics Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "hardware engineering job for the role Senior / Distinguished Member of Technical Staff — Silicon Photonics Engineer at Boise, Idaho, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/44247235",
+    "id": "micron-distinguished-member-of-technical-staff-silicon-photonics-engineer-boise"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Post-Silicon Automation Engineer (PAM4 DSP)",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Staff Post-Silicon Automation Engineer (PAM4 DSP) at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Post-Silicon-Automation-Engineer--PAM4-DSP-_2603058?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-post-silicon-automation-engineer-pam4-dsp-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer 2027 -New York",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer 2027 -New York at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131201&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-2027-new-york-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern 2027 -Austin, TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Austin, TX at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130774&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-2027-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern 2027 -Rochester, MN",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Rochester, MN at InternshipROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131192&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-2027-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern 2027  -Poughkeepsie, NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027  -Poughkeepsie, NY at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130772&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-2027-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern 2027 -Houston, TX",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -Houston, TX at InternshipHouston, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131087&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-2027-houston-tx-houston"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Hardware Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Supply Chain Hardware Developer Intern 2027 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131135&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-hardware-developer-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer - Return Intern 2026/2027",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer - Return Intern 2026/2027 at InternshipTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129263&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-return-intern-2026-2027-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer - Return Intern 2026-2027",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer - Return Intern 2026-2027 at InternshipSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128707&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-return-intern-2026-2027-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer 2027 -Poughkeepsie, NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer 2027 -Poughkeepsie, NY at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130784&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-2027-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern 2027 -San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Developer Intern 2027 -San Jose, CA at InternshipSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130931&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-2027-san-jose-ca-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer 2027 -Rochester, MN",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer 2027 -Rochester, MN at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131208&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-2027-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer - Intern Conversion 2026-2027",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Hardware Developer - Intern Conversion 2026-2027 at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128529&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-intern-conversion-2026-2027-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Product Manager at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131540&source=WEB_Search_NA",
+    "id": "ibm-product-manager-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative  Grand Rapids Michigan",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role System Services Representative  Grand Rapids Michigan at ProfessionalLansing, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131564&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-grand-rapids-michigan-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Qubit Characterization Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Qubit Characterization Engineer at Entry LevelYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131383&source=WEB_Search_NA",
+    "id": "ibm-qubit-characterization-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Project Manager-Tucson-AZ",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Project Manager-Tucson-AZ at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131557&source=WEB_Search_NA",
+    "id": "ibm-entry-level-project-manager-tucson-az-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back-End Developer Intern 2027 -Tucson, AZ",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back-End Developer Intern 2027 -Tucson, AZ at InternshipTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131072&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-intern-2027-tucson-az-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Back-End Developer Intern 2027 -Houston, TX",
+    "job_city": "Houston",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Back-End Developer Intern 2027 -Houston, TX at InternshipHouston, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131076&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-intern-2027-houston-tx-houston"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Developer Intern - Storage - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud Developer Intern - Storage - Austin, TX - 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131207&source=WEB_Search_NA",
+    "id": "ibm-cloud-developer-intern-storage-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027 at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131195&source=WEB_Search_NA",
+    "id": "ibm-sw-developer-intern-enterprise-platform-as-a-service-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "(Confluent) Senior Principal Engineer, Kafka",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role (Confluent) Senior Principal Engineer, Kafka at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128946&source=WEB_Search_NA",
+    "id": "ibm-confluent-senior-principal-engineer-kafka-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SW Developer | AI Center of Excellence - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SW Developer | AI Center of Excellence - Austin, TX - 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131165&source=WEB_Search_NA",
+    "id": "ibm-sw-developer-ai-center-of-excellence-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SW Developer Intern | AI Center of Excellence - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SW Developer Intern | AI Center of Excellence - Austin, TX - 2027 at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131176&source=WEB_Search_NA",
+    "id": "ibm-sw-developer-intern-ai-center-of-excellence-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Power Product Management Intern - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Power Product Management Intern - Austin, TX - 2027 at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130908&source=WEB_Search_NA",
+    "id": "ibm-ibm-power-product-management-intern-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer Network Intern - OneIT - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineer Network Intern - OneIT - Austin, TX - 2027 at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130786&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-network-intern-oneit-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Experience Designer/Engineer - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Product Experience Designer/Engineer - Austin, TX - 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131040&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-experience-designer-engineer-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Management",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Product Management 2027 at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130794&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-management-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer-Different locations",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Software Developer-Different locations at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130369&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-different-locations-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Operations Project Manager Internship -",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Operations Project Manager Internship - 2027 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131301&source=WEB_Search_NA",
+    "id": "ibm-operations-project-manager-internship-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Back-End Developer - Dallas, TX -",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Back-End Developer - Dallas, TX - 2027 at Entry LevelDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131027&source=WEB_Search_NA",
+    "id": "ibm-entry-level-back-end-developer-dallas-tx-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Research Intern 2027: AI Systems",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role IBM Research Intern 2027: AI Systems at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131598&source=WEB_Search_NA",
+    "id": "ibm-ibm-research-intern-2027-ai-systems-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Architect - AI Integration",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Application Architect - AI Integration at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131779&source=WEB_Search_NA",
+    "id": "ibm-application-architect-ai-integration-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry-Level Product Manager | Infrastructure Growth & Innovation - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry-Level Product Manager | Infrastructure Growth & Innovation - Austin, TX - 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131053&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-infrastructure-growth-innovation-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Operations Center Analyst",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security Operations Center Analyst at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131037&source=WEB_Search_NA",
+    "id": "ibm-security-operations-center-analyst-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sustainability & Business Transformation Intern",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sustainability & Business Transformation Intern 2027 at InternshipRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131537&source=WEB_Search_NA",
+    "id": "ibm-sustainability-business-transformation-intern-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager - RTP -",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Product Manager - RTP - 2027 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131031&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-rtp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Designer Intern-Austin-TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Designer Intern-Austin-TX at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130084&source=WEB_Search_NA",
+    "id": "ibm-designer-intern-austin-tx-austin"
   }
 ]
