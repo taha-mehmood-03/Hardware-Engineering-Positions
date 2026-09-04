@@ -1,13 +1,73 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "High-Speed I/O Architect (PCIe, CXL, UA Link)",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineering Professional Intern - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal High-Speed I/O Architect (PCIe, CXL, UA Link) at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-high-speed-i-o-architect-pcie-cxl-ua-link/33099/79892773616",
-    "id": "arm-high-speed-i-o-architect-pcie-cxl-ua-link-multiple"
+    "job_description": "Hardware Engineering job for the role Site Reliability Engineering Professional Intern - Austin, TX - 2027 at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131810&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineering-professional-intern-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Site Reliability Engineering Professional - Austin, TX -",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Site Reliability Engineering Professional - Austin, TX - 2027 at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131820&source=WEB_Search_NA",
+    "id": "ibm-entry-level-site-reliability-engineering-professional-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "DevOps Intern-Poughkeepsie, NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role DevOps Intern-Poughkeepsie, NY at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130068&source=WEB_Search_NA",
+    "id": "ibm-devops-intern-poughkeepsie-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Staff Software Engineer - Confluent Kafka Storage (Remote)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Staff Software Engineer - Confluent Kafka Storage (Remote) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131606&source=WEB_Search_NA",
+    "id": "ibm-staff-software-engineer-confluent-kafka-storage-remote-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Cloud Developer - Chicago, IL -",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Cloud Developer - Chicago, IL - 2027 at Entry LevelChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131212&source=WEB_Search_NA",
+    "id": "ibm-entry-level-cloud-developer-chicago-il-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Developer Intern - Chicago, IL -",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Cloud Developer Intern - Chicago, IL - 2027 at InternshipChicago, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131816&source=WEB_Search_NA",
+    "id": "ibm-cloud-developer-intern-chicago-il-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Front End Software Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Front End Software Developer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129264&source=WEB_Search_NA",
+    "id": "ibm-front-end-software-developer-tucson"
   },
   {
     "employer_name": "ABB",
@@ -418,15 +478,5 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Symphony Plus at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015474/Field-Service-Engineer-Symphony-Plus",
     "id": "abb-field-service-engineer-symphony-plus-doha"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Validation Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Validation Engineer at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017505/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-validation-engineer-dallas"
   }
 ]
