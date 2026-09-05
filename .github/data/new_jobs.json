@@ -31,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,33 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
-    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Partner Effectiveness Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
-    "id": "abb-sales-partner-effectiveness-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,6 +61,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Sales Partner Effectiveness Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -98,6 +78,26 @@
     "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
+    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
   },
   {
     "employer_name": "ABB",
@@ -331,26 +331,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 - 100%) R&D Senior Engineer",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role (80 - 100%) R&D Senior Engineer at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042991/-80-100-R-D-Senior-Engineer",
-    "id": "abb-80-100-r-d-senior-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 - 100%) R&D Engineer",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
-    "id": "abb-80-100-r-d-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Trainee/Project Support",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -358,16 +338,6 @@
     "job_description": "hardware engineering job for the role Trainee/Project Support at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support",
     "id": "abb-trainee-project-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Associate Project Engineer to ABB Ports",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Associate Project Engineer to ABB Ports at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044290/Associate-Project-Engineer-to-ABB-Ports",
-    "id": "abb-associate-project-engineer-to-abb-ports-vaesteras"
   },
   {
     "employer_name": "ABB",
