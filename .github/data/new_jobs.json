@@ -1,93 +1,24 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Robotics Engineer",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Robotics Engineer at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/staff-robotics-engineer/33099/100399721520",
-    "id": "arm-robotics-engineer-seattle"
+    "job_title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+    "job_posted_at": "2026-09-09T20:56:20.153Z",
+    "job_posted_at_datetime_utc": "2026-09-09T20:56:20.154Z",
+    "id": "amazon-hardware-development-engineer-intern-co-op-robotics-2027-north-reading"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Perception Scientist",
+    "job_title": "Controls Engineer",
     "job_city": "Seattle",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Perception Scientist at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/staff-perception-scientist/33099/100399721616",
-    "id": "arm-perception-scientist-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, AI Inference Runtime",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Software Engineer, AI Inference Runtime at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-software-engineer-ai-inference-runtime/33099/100399715424",
-    "id": "arm-software-engineer-ai-inference-runtime-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, Physical AI",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer, Physical AI at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/staff-software-engineer-physical-ai/33099/100399721568",
-    "id": "arm-software-engineer-physical-ai-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, AI Compute Infrastructure",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Software Engineer, AI Compute Infrastructure at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-software-engineer-ai-compute-infrastructure/33099/100399715872",
-    "id": "arm-software-engineer-ai-compute-infrastructure-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, AI Compute Platform",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Software Engineer, AI Compute Platform at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-software-engineer-ai-compute-platform/33099/100399715888",
-    "id": "arm-software-engineer-ai-compute-platform-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer, AI Inference Cloud",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Software Engineer, AI Inference Cloud at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-software-engineer-ai-inference-cloud/33099/100399715616",
-    "id": "arm-software-engineer-ai-inference-cloud-seattle"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - IC Package Layout Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role New College Grad - IC Package Layout Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/44125757",
-    "id": "micron-new-college-grad-ic-package-layout-engineer-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Engineer - HBM Design for Test (DFT)",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "hardware engineering job for the role Senior Engineer - HBM Design for Test (DFT) at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42208943",
-    "id": "micron-engineer-hbm-design-for-test-dft-richardson"
+    "job_description": "Hardware Engineering job for the role Staff Controls Engineer at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/staff-controls-engineer/33099/100399721488",
+    "id": "arm-controls-engineer-seattle"
   },
   {
     "employer_name": "ABB",
@@ -95,8 +26,8 @@
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043315/Senior-Project-Engineer",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
   },
   {
@@ -111,33 +42,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Partner Effectiveness Leader",
+    "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
-    "id": "abb-sales-partner-effectiveness-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
-    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
+    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -151,43 +62,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
+    "job_description": "hardware engineering job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
+    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Sales Partner Effectiveness Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "ELSP Warehouse/Internal Logistics Operator",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
+    "job_description": "hardware engineering job for the role ELSP Warehouse/Internal Logistics Operator at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044462/ELSP-Warehouse-Internal-Logistics-Operator",
+    "id": "abb-elsp-warehouse-internal-logistics-operator-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Electronic Designer",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Electronic Designer at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer",
-    "id": "abb-senior-electronic-designer-quebec"
+    "job_title": "ELDS Fabrication Machine Operator 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS Fabrication Machine Operator 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044842/ELDS-Fabrication-Machine-Operator-1st-Shift",
+    "id": "abb-elds-fabrication-machine-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role ELDS MV SWGR Production Operator 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044820/ELDS-MV-SWGR-Production-Operator-1st-shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
   },
   {
     "employer_name": "ABB",
@@ -208,6 +139,16 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-lake-mary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Electronic Designer",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Electronic Designer at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer",
+    "id": "abb-senior-electronic-designer-quebec"
   },
   {
     "employer_name": "ABB",
@@ -331,16 +272,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Control Electronics Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role R&D Senior Control Electronics Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer",
-    "id": "abb-r-d-senior-control-electronics-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Project Manager / Release Owner - Hardware Development (f/m/d)",
     "job_city": "Minden",
     "job_state": "North Rhine-Westphalia",
@@ -348,6 +279,16 @@
     "job_description": "hardware engineering job for the role R&D Project Manager / Release Owner - Hardware Development (f/m/d) at Minden, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044752/R-D-Project-Manager-Release-Owner-Hardware-Development-f-m-d",
     "id": "abb-r-d-project-manager-release-owner-hardware-development-f-m-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Control Electronics Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role R&D Senior Control Electronics Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer",
+    "id": "abb-r-d-senior-control-electronics-engineer-beijing"
   },
   {
     "employer_name": "ABB",
