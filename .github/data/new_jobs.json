@@ -1,136 +1,5 @@
 [
   {
-    "job_title": "Systems Engineer, Amazon LEO - Mission Operations",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Systems Engineer, Amazon LEO - Mission Operations at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10536502/systems-engineer-amazon-leo-mission-operations",
-    "job_posted_at": "2026-09-10T18:24:47.255Z",
-    "job_posted_at_datetime_utc": "2026-09-10T18:24:47.255Z",
-    "id": "amazon-systems-engineer-amazon-leo-mission-operations-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director of Product Marketing – Cloud AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Director of Product Marketing – Cloud AI at San Jose, California, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-product-marketing-cloud-ai/33099/99821370368",
-    "id": "arm-director-of-product-marketing-cloud-ai-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Memory Controller Performance Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff  Memory Controller Performance Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-memory-controller-performance-architect/33099/100445444208",
-    "id": "arm-memory-controller-performance-architect-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Software Engineer",
-    "job_city": "Raleigh",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Software Engineer at Entry LevelRaleigh, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131804&source=WEB_Search_NA",
-    "id": "ibm-associate-software-engineer-raleigh"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Software Engineer",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Software Engineer at Entry LevelLOWELL, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132165&source=WEB_Search_NA",
-    "id": "ibm-associate-software-engineer-lowell"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Software Engineer",
-    "job_city": "Boston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Associate Software Engineer at Entry LevelBoston, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131797&source=WEB_Search_NA",
-    "id": "ibm-associate-software-engineer-boston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Network Engineer (TS/SCI)",
-    "job_city": "Annapolis Junction",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Security Network Engineer (TS/SCI) at ProfessionalAnnapolis Junction, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131303&source=WEB_Search_NA",
-    "id": "ibm-security-network-engineer-ts-sci-annapolis-junction"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer TS/SCI",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Engineer TS/SCI at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129236&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-ts-sci-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant, Data Architecture",
-    "job_city": "Kansas City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Consultant, Data Architecture at ProfessionalKansas City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132400&source=WEB_Search_NA",
-    "id": "ibm-consultant-data-architecture-kansas-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Intern-Different Locations",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer Intern-Different Locations at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130346&source=WEB_Search_NA",
-    "id": "ibm-software-developer-intern-different-locations-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Microarchitecture / Software Intern  2027 - AI Accelerators Research",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Microarchitecture / Software Intern  2027 - AI Accelerators Research at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132416&source=WEB_Search_NA",
-    "id": "ibm-microarchitecture-software-intern-2027-ai-accelerators-research-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Native Systems Research Scientist Intern",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Native Systems Research Scientist Intern 2027 at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132423&source=WEB_Search_NA",
-    "id": "ibm-ai-native-systems-research-scientist-intern-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Architect",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Enterprise Architect at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132415&source=WEB_Search_NA",
-    "id": "ibm-enterprise-architect-armonk"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -139,16 +8,6 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Partner Effectiveness Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
-    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -172,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -182,13 +51,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Sales Partner Effectiveness Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -462,16 +331,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Technology Specialist / Focus SAP (f/m/d)",
-    "job_city": "Sasbach",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
-    "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Electronic Designer",
     "job_city": "Quebec",
     "job_state": "Quebec",
@@ -592,16 +451,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Cybersecurity Verification & Validation Engineer to ABB Robotics",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Product Cybersecurity Verification & Validation Engineer to ABB Robotics at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045094/Product-Cybersecurity-Verification-Validation-Engineer-to-ABB-Robotics",
-    "id": "abb-product-cybersecurity-verification-validation-engineer-to-abb-robotics-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Plastic Case - Production Operator - 1st Shift",
     "job_city": "Pinetops",
     "job_state": "North Carolina",
@@ -609,6 +458,16 @@
     "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift",
     "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Cybersecurity Verification & Validation Engineer to ABB Robotics",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Product Cybersecurity Verification & Validation Engineer to ABB Robotics at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045094/Product-Cybersecurity-Verification-Validation-Engineer-to-ABB-Robotics",
+    "id": "abb-product-cybersecurity-verification-validation-engineer-to-abb-robotics-vaesteras"
   },
   {
     "employer_name": "ABB",
