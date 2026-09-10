@@ -46,7 +46,7 @@
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
 <details>
-<summary><h3>🟢 <strong>Google</strong> (73 positions) ⭐ FAANG+</h3></summary>
+<summary><h3>🟢 <strong>Google</strong> (72 positions) ⭐ FAANG+</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -95,8 +95,8 @@
 | CPU Emulation Engineer | Austin, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/75104178141045446-cpu-emulation-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | ASIC Design Verification Engineer | Sunnyvale, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/106267759855182534-asic-design-verification-engineer-machine-learning?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | Solutions Engineer | Sunnyvale, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/85046320909165254-solutions-engineer-program-management-gup?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
-| Senior ASIC Cloud Design Verification Engineer | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120012165061976774-senior-asic-cloud-design-verification-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | DFT Engineer | Sunnyvale, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/82258597223768774-dft-engineer-google-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
+| Senior ASIC Cloud Design Verification Engineer | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120012165061976774-senior-asic-cloud-design-verification-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | Senior ASIC Design Verification Engineer | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/98231494698246854-senior-asic-design-verification-engineer-google-cloud?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | Senior Design Engineer | Mountain View, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/134483630016602822-senior-design-engineer-rtl?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
 | Engineering Manager | Sunnyvale, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/142092768561242822-engineering-manager-ssd-storage?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3) |
@@ -111,7 +111,6 @@
 | CPU Power Modeling Engineer | Austin, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/93193888902062790-cpu-power-modeling-engineer?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
 | Senior Hardware Power Test Engineer | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/126971422978253510-senior-hardware-power-test-engineer-platforms-infrastructure?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
 | Tech Lead Manager | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/108202963503063750-tech-lead-manager-ml-accelerator-fleet-efficiency?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
-| Senior Engineering Manager | Sunnyvale, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/99730584313438918-senior-engineering-manager-autocloud-agentic-systems?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
 | Engineering Manager | Mountain View, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/74063110280749766-engineering-manager-ml-efficiency-ai-rapid-response-team?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
 | Senior Engineering Manager | Pittsburgh, PA | Recently | Senior | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/88118296804500166-senior-engineering-manager-ml-infrastructure-for-ads-safety?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
 | Engineering Manager | San Francisco, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/111087601514881734-engineering-manager-agentic-policies-platform?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4) |
@@ -130,20 +129,20 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Electrical Engineer II | N.reading, MA | 7h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10488818/electrical-engineer-ii) |
-| Hardware Reliability Engineer, Devices Reliability Engineering | Sunnyvale, CA | 8h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10456089/hardware-reliability-engineer-devices-reliability-engineering) |
-| Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 | North Reading, MA | 9h ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
-| Hardware Dev Engineer I, Prime Air Electric Propulsion Subsystem | Seattle, WA | 9h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507503/hardware-dev-engineer-i-prime-air-electric-propulsion-subsystem) |
-| Automation Hardware Dev Engineer, OneMHS | Austin, TX | 9h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10525795/automation-hardware-dev-engineer-onemhs) |
-| Reliability Engineer, Amazon Leo | Redmond, WA | 11h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10534906/reliability-engineer-amazon-leo) |
-| Hardware Reliability Engineer, Amazon Leo - Optical Inter-Satellite Link (OISL) | Redmond, WA | 12h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507337/hardware-reliability-engineer-amazon-leo-optical-inter-satellite-link-oisl) |
-| Mechanical Engineer II, RDPI | Westboro, MA | 17h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10435126/mechanical-engineer-ii-rdpi) |
-| Electrical Engineer, RDPI | Westboro, MA | 17h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10399668/electrical-engineer-rdpi) |
+| Electrical Engineer II | N.reading, MA | 12h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10488818/electrical-engineer-ii) |
+| Hardware Reliability Engineer, Devices Reliability Engineering | Sunnyvale, CA | 13h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10456089/hardware-reliability-engineer-devices-reliability-engineering) |
+| Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 | North Reading, MA | 14h ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
+| Hardware Dev Engineer I, Prime Air Electric Propulsion Subsystem | Seattle, WA | 14h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507503/hardware-dev-engineer-i-prime-air-electric-propulsion-subsystem) |
+| Automation Hardware Dev Engineer, OneMHS | Austin, TX | 14h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10525795/automation-hardware-dev-engineer-onemhs) |
+| Reliability Engineer, Amazon Leo | Redmond, WA | 16h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10534906/reliability-engineer-amazon-leo) |
+| Hardware Reliability Engineer, Amazon Leo - Optical Inter-Satellite Link (OISL) | Redmond, WA | 17h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507337/hardware-reliability-engineer-amazon-leo-optical-inter-satellite-link-oisl) |
+| Mechanical Engineer II, RDPI | Westboro, MA | 22h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10435126/mechanical-engineer-ii-rdpi) |
+| Electrical Engineer, RDPI | Westboro, MA | 22h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10399668/electrical-engineer-rdpi) |
 | Full Life Cycle Recruiter, Amazon Leo | Bellevue, WA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10462674/full-life-cycle-recruiter-amazon-leo) |
-| New Product Lead - Tech, Robotics Supply Chain | N.Reading, MA | 5d ago | Senior | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10503988/new-product-lead-tech-robotics-supply-chain) |
-| Cloud Hardware Development Engineer, AWS - Early Career (2026) | Cupertino, CA | 5d ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026) |
+| Cloud Hardware Development Engineer, AWS - Early Career (2026) | Cupertino, CA | 6d ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026) |
 | Manufacturing hardware engineer, Cloud AI/ML/storage server teams | Cupertino, CA | 6d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | Manufacturing System Development Engineer, Cloud AI/ML/storage server teams | Cupertino, CA | 6d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477150/manufacturing-system-development-engineer-cloud-ai-ml-storage-server-teams) |
+| New Product Lead - Tech, Robotics Supply Chain | N.Reading, MA | 6d ago | Senior | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10503988/new-product-lead-tech-robotics-supply-chain) |
 
 <details>
 <summary><h3>🏢 <strong>Micron</strong> (88 positions) 🏢 Top Tech</h3></summary>
@@ -159,13 +158,13 @@
 | Staff/Principal Hardware System Design Engineer | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30764689) |
 | SSD Hardware PCIe Engineer | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43071868) |
 | HBM Hardware Emulation Architect - SMTS | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43692908) |
-| Intern - Dry Etch Equipment Development Engineering | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247241) |
 | MTS, Systems Software Engineering | San Jose, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44143665) |
+| Intern - Dry Etch Equipment Development Engineering | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247241) |
 | Engineering Execution Manager, HIG High Bandwidth Memory (HBM) | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41678647) |
-| SMTS/DMTS in Process Equipment Engineering | Taichung City, Taichung City | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/21938787) |
+| Engineer, FW & Product Test Engineering | Longmont, Colorado | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43934551) |
 | Intern - AI Systems and Infrastructure Engineering | Austin, Texas | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247238) |
-| ENGINEER, FW & PRODUCT TEST ENGINEERING | Longmont, Colorado | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43930623) |
 | Intern - EDE Thin Films Equipment Engineering | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43943856) |
+| SMTS/DMTS in Process Equipment Engineering | Taichung City, Taichung City | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/21938787) |
 | Engineer, SSD Validation | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40710643) |
 | Technical Sales Development Representative | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43830541) |
 | Sr Design Engineer, DEG Design Method | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43146681) |
@@ -177,49 +176,49 @@
 | Electrical Failure Analysis Engineer - Storage Systems | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41847813) |
 | Engineer, Customer Validation | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44179440) |
 | Sr. Platform Integration Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43529400) |
-| DRAM Product Applications Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39161475) |
 | Senior/Staff Facilities SCADA Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42565208) |
+| DRAM Product Applications Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39161475) |
 | R&D Equipment Development Engineer-Photolithography Track | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43182106) |
 | Intern - Process Development Engineer, Planar DRAM CMP | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43814569) |
 | Security Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43830546) |
 | Engineer, FW & Product Test Eng | Longmont, Colorado | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43931378) |
-| HIG Product Engineer - Media Health | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41830333) |
 | Metrology Overlay Process Engineer, DRAM | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43878163) |
-| Metrology Engineer - DRAM | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39783702) |
+| HIG Product Engineer - Media Health | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41830333) |
 | Cloud Solutions Architect (Memory & Storage) | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42005147) |
+| Metrology Engineer - DRAM | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39783702) |
 | Engineer-Wet Process Equipment Development | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42120372) |
 | ENGINEER, SIG ELECTRICAL DESIGN | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43531112) |
 | PCB Layout Designer | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43569481) |
 | Semiconductor Design Engineer, DRAM: Senior, Staff, or Principal | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43320273) |
-| New College Grad - IC Package Layout Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44125757) |
 | Design Engineer | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41980081) |
+| New College Grad - IC Package Layout Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44125757) |
 | Physical Design | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43669537) |
-| New College Grad - Design Engineer, Circuit Design | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40981489) |
 | Design Verification Engineer | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41980073) |
+| New College Grad - Design Engineer, Circuit Design | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40981489) |
 | Sr Digital Design Engineer | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43669623) |
-| Engineer - HBM Design for Test (DFT) | Richardson, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42208943) |
 | Design Engineer- (Standard and Custom Cell Characterization) -HBM | Richardson, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42577721) |
-| GenAI Engineer - Silicon Design | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43321051) |
+| Engineer - HBM Design for Test (DFT) | Richardson, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42208943) |
 | HBM SOC Design Engineer | Richardson, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27271525) |
+| GenAI Engineer - Silicon Design | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43321051) |
 | SR RTL DESIGN | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41234610) |
 | MTS, AI Optimized Memory Digital Design Engineer | Folsom, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43666921) |
 | Senior/Staff/Principal/MTS Engineer, Etch - Procurement and Operations Central Team Advanced Development | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43594136) |
 | PROCT ADT Equipment Staff Engineer/ Principal (Dry Etch | Deposition CVD/PVD/Diffusion | CMP | Wet) | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44069341) |
-| Dry Etch Module Technical Staff- MTS/SMTS | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40100233) |
 | Customer Technology & Solutions Architecture | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41172445) |
+| Dry Etch Module Technical Staff- MTS/SMTS | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40100233) |
 | / Distinguished Member of Technical Staff — Silicon Photonics Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247235) |
-| SSD Systems Design Engineer | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42229295) |
 | PCVD Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41862477) |
 | DMTS Design Engineer | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43722016) |
-| HBM SoC RTL Design Engineer | Folsom, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43626671) |
-| Analog Design Engineer — Mixed-Signal PHY (Clocking / High-Speed I/O) | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43934940) |
-| Mixed-signal Design Architect, HBM Architecture | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44345742) |
+| SSD Systems Design Engineer | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42229295) |
 | Diffusion Process Development Engineer, DRAM | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40962816) |
 | Field Applications Engineer-Data Center DRAM | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42328549) |
-| Semiconductor Equipment Maintenance Technician | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39953835) |
-| Director, CVD/Diffusion - Advanced DRAM Process Development | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44143640) |
+| Mixed-signal Design Architect, HBM Architecture | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44345742) |
+| Analog Design Engineer — Mixed-Signal PHY (Clocking / High-Speed I/O) | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43934940) |
+| HBM SoC RTL Design Engineer | Folsom, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43626671) |
 | ENGINEER - HIG HBM PSE | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44327750) |
 | Engineer - HIG HBM PSE - Design Validation | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44330651) |
+| Director, CVD/Diffusion - Advanced DRAM Process Development | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44143640) |
+| Semiconductor Equipment Maintenance Technician | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/39953835) |
 | Embedded Software Lead | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/40530944) |
 | Intern - Wet Process Fab 4 EDE | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43943831) |
 | Embedded Firmware Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/42846415) |
@@ -237,12 +236,12 @@
 | Engineer, FW & Product Test | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/43930641) |
 | New College Grad - Product Test Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247226) |
 | Intern - DRAM Product Test Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247230) |
-| Intern - Systems Performance Engineer | Longmont, Colorado | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/44247213) |
+| Senior/Principal Dry Etch Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/41152473) |
 
 </details>
 
 <details>
-<summary><h3>🏢 <strong>Arm</strong> (77 positions) 🏢 Top Tech</h3></summary>
+<summary><h3>🏢 <strong>Arm</strong> (82 positions) 🏢 Top Tech</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -266,11 +265,11 @@
 | Sabbatical Stories | Multiple, Locations | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/sabbatical-stories) |
 | Wesley’s Intern Journey | Multiple, Locations | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/wesley-intern-story) |
 | Arm Austin Office | Multiple, Locations | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/usa-austin-office) |
-| Theorem Proving Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/theorem-proving-engineer/33099/97584421536) |
-| Embedded Compiler Engineer (Machine Learning) | Lund, Sweden | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/lund/embedded-compiler-engineer-machine-learning/33099/94847322016) |
-| SoC Offensive Security Staff Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/soc-offensive-security-staff-engineer/33099/97492009136) |
-| SoC Verification Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-soc-verification-engineer/33099/99734778464) |
+| Compiler Engineer (Machine Learning) | Lund, Sweden | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/lund/compiler-engineer-machine-learning/33099/94847322016) |
+| AI Software Engineer — ExecuTorch | Lund, Sweden | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/lund/ai-software-engineer-executorch/33099/100031426432) |
+| Software Machine Learning Engineer | Manchester, United Kingdom | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/manchester/software-machine-learning-engineer/33099/100424250704) |
 | Controls Engineer | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/staff-controls-engineer/33099/100399721488) |
+| SoC Verification Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-soc-verification-engineer/33099/99734778464) |
 | SoC Performance Architect – Next-Generation Server Platforms | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-soc-performance-architect-next-generation-server-platforms/33099/96232032144) |
 | SoC Performance Architect – Next-Generation Server Platforms | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/principal-soc-performance-architect-next-generation-server-platforms/33099/96232032112) |
 | Power Integrity Engineer | Chandler, Arizona | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/chandler/staff-power-integrity-engineer/33099/95313588032) |
@@ -278,10 +277,11 @@
 | DevOps Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-devops-engineer/33099/100122542736) |
 | PCIe Design Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-pcie-design-engineer/33099/99807984800) |
 | GPU Architect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-gpu-architect/33099/98226497040) |
+| SoC Offensive Security Staff Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/soc-offensive-security-staff-engineer/33099/97492009136) |
 | Software Engineer, AI Inference Runtime | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/principal-software-engineer-ai-inference-runtime/33099/100399715424) |
 | Board - Package co-design Engineer | Chandler, Arizona | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/chandler/staff-board-package-co-design-engineer/33099/99030825440) |
-| Software Engineer, Physical AI | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/staff-software-engineer-physical-ai/33099/100399721568) |
 | SoC RAS Architect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-soc-ras-architect/33099/80327386912) |
+| Software Engineer, Physical AI | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/staff-software-engineer-physical-ai/33099/100399721568) |
 | RTL Design Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-rtl-design-engineer/33099/91351745680) |
 | Director, SoC Power and Clocking Technology | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/senior-director-soc-power-and-clocking-technology/33099/93501890720) |
 | Director, SoC Power and Clocking Technology | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-director-soc-power-and-clocking-technology/33099/93501874192) |
@@ -291,8 +291,11 @@
 | OS Application Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-os-application-engineer/33099/99075378640) |
 | CPU Performance – Principal Microarchitecture Exploration Engineer | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/cpu-performance-principal-microarchitecture-exploration-engineer/33099/92102976272) |
 | Software Developer – Physical & Edge AI Platforms | Seattle, Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/software-developer-physical-and-edge-ai-platforms/33099/97448306384) |
+| SoC Verification Engineer | Raleigh, North Carolina | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/raleigh/staff-soc-verification-engineer/33099/99734775232) |
+| Manager, Segment Marketing  — XR & Wearables | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/senior-manager-segment-marketing-xr-and-wearables/33099/98200818832) |
 | DFT Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-dft-engineer/33099/99691516816) |
 | STA Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-sta-engineer/33099/98395519648) |
+| Theorem Proving Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/theorem-proving-engineer/33099/97584421536) |
 | Quality & Safety Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-quality-and-safety-engineer/33099/99449494176) |
 | Private Cloud Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-private-cloud-engineer/33099/95052485728) |
 | Package Layout Engineer | Chandler, Arizona | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/chandler/senior-package-layout-engineer/33099/100146367360) |
@@ -306,12 +309,13 @@
 | Perception Scientist | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/staff-perception-scientist/33099/100399721616) |
 | Project Manager | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/project-manager/33099/98187464416) |
 | Software Product Manager | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-software-product-manager/33099/99122520960) |
-| Design Engineer – High-Speed Interconnect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-design-engineer-high-speed-interconnect/33099/98068118288) |
 | SoC Functional Safety and Cybersecurity Manager | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/soc-functional-safety-and-cybersecurity-manager/33099/95385115104) |
+| Design Engineer – High-Speed Interconnect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-design-engineer-high-speed-interconnect/33099/98068118288) |
 | SoC Interconnect Technology Team Lead | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/soc-interconnect-technology-team-lead/33099/98068118064) |
 | SoC Interconnect Technology Team Lead | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/soc-interconnect-technology-team-lead/33099/97749775744) |
 | SoC Architect | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/soc-architect/33099/97434935008) |
 | SoC Architect | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/soc-architect/33099/97255846816) |
+| Project Manger, AI & Developer Platforms | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/principal-project-manger-ai-and-developer-platforms/33099/96332855008) |
 | Customer Success Manager (Silicon) | San Jose, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/customer-success-manager-silicon/33099/98353972432) |
 | Principal Product Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-principal-product-engineer/33099/98153222256) |
 | Robotics Research Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-robotics-research-engineer/33099/94877580144) |
@@ -330,22 +334,22 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Project Engineer | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00043315/Senior-Project-Engineer) |
-| VFD Technical Support Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist) |
-| Regional Sales Manager - Traction - Americas | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas) |
-| Commercial Proposal Engineer | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer) |
-| Technical Inside Sales Specialist – EPC and Industrial | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial) |
-| Sales Partner Effectiveness Leader | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader) |
-| Senior Leader, U.S. Trade Compliance Program | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program) |
-| HSE Program Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00031552/HSE-Program Specialist) |
-| Local Division Manager IEC Motors, North America | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America) |
+| OEM Account Manager 🏠 | Remote 🏠 | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager) |
+| Generator Sales Specialist 🏠 | Remote 🏠 | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist) |
+| Data Center CoE - Sr. Field Service Technician | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician) |
+| Senior Project Engineer | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer) |
+| Sales Support Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00044465/Sales-Support-Specialist) |
+| Sr. Technical Trainer | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00041801/Sr-Technical-Trainer) |
+| Data Center CoE - Field Service Technician | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician) |
+| Metallurgy Sales Manager | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager) |
+| Data Center COE Project Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist) |
+| R&D Hardware Engineer (80 -100%)  f/m/d | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00045264/R-D-Hardware-Engineer-80-100-f-m-d) |
+| IS Infrastructure Specialist | Pinetops, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist) |
+| Plastic Case - Production Operator - 1st Shift | Pinetops, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift) |
 | Senior Electronic Designer | Quebec, Quebec | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer) |
+| Senior Project Engineer | Houston, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer) |
 | PLC Programming Specialist | Ormond Beach, Florida | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist) |
 | Senior Project Engineer | Lake Mary, Florida | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer) |
-| Electrical Hardware Engineer | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00036629/Electrical-Hardware-Engineer) |
-| Application Engineer | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00045711/Application-Engineer) |
-| Mechanical Project Engineer | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00042381/Mechanical-Project-Engineer) |
-| Senior Project Engineer | Houston, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer) |
 | Senior Field Service Engineer - System 800xA Safety | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00016782/Senior-Field-Service-Engineer-System-800xA-Safety) |
 | Working student (m/f/d) R&D Embedded Electronics - CoE PLC Products | Heidelberg, Baden-Wurttemberg | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00045055/Working-student-m-f-d-R-D-Embedded-Electronics-CoE-PLC-Products) |
 | R&D Senior Engineer | Beijing, Beijing | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00043427/R-D-Senior-Engineer) |
@@ -435,77 +439,77 @@
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 71 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 72 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Stats**
-- **📁 Total Archived**: 71 positions
+- **📁 Total Archived**: 72 positions
 - **🏢 Companies**: 6 companies
-- **⭐ FAANG+ Archived**: 71 positions
+- **⭐ FAANG+ Archived**: 72 positions
 - **📅 Age**: 1+ weeks old
 
 <details>
-<summary><h3>📦 <strong>Amazon</strong> (71 positions) ⭐ FAANG+</h3></summary>
+<summary><h3>📦 <strong>Amazon</strong> (72 positions) ⭐ FAANG+</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Robotics Systems Engineer II, Amazon Robotics - Tech Deployment | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10471131/robotics-systems-engineer-ii-amazon-robotics-tech-deployment) |
 | Battery Pack Mechanical Design Engineer II, Amazon Prime Air - Electric Propulsion Subsystem | Seattle, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10523339/battery-pack-mechanical-design-engineer-ii-amazon-prime-air-electric-propulsion-subsystem) |
-| Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3176626/systems-development-engineer-manufacturing-test-infrastructure-project-kuiper) |
 | RF Test System Development Engineer, Avionics Verification and Test, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10514434/rf-test-system-development-engineer-avionics-verification-and-test-amazon-leo) |
 | Interdisciplinary RF System Test and Hardware Development Engineer, Avionics Verification and Test, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10514426/interdisciplinary-rf-system-test-and-hardware-development-engineer-avionics-verification-and-test-amazon-leo) |
 | Software Dev Engineer, Amazon Leo Customer Terminals | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10526922/software-dev-engineer-amazon-leo-customer-terminals) |
+| Critical Infrastructure Controls Engineer, Data Center Field Engineering | Umatilla, OR | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10497219/critical-infrastructure-controls-engineer-data-center-field-engineering) |
 | Reliability Engineer, Amazon Leo Satellite Engineering | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10524962/reliability-engineer-amazon-leo-satellite-engineering) |
+| Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3176626/systems-development-engineer-manufacturing-test-infrastructure-project-kuiper) |
 | Supply Chain Manager, Electrical Assemblies | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10504506/supply-chain-manager-electrical-assemblies) |
 | Systems Development Engineer, AWS Generative AI & ML Servers | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10525890/systems-development-engineer-aws-generative-ai-ml-servers) |
 | Data Center Logistics Technician, DCC Communities | Sparks, NV | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3175807/data-center-logistics-technician-dcc-communities) |
-| Cloud Hardware Development Engineer , Network Product Development | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10522481/cloud-hardware-development-engineer-network-product-development) |
 | Hardware Development Engineer, AI/ML Server Development | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482698/hardware-development-engineer-ai-ml-server-development) |
-| Power & Hardware Design Engineer, One MHS - Electrical and Control Engineering, Arch and Design | Atlanta, GA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
 | Hardware Development Engineer II, AWS Mainstream Compute | Austin, TX | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10435424/hardware-development-engineer-ii-aws-mainstream-compute) |
+| Power & Hardware Design Engineer, One MHS - Electrical and Control Engineering, Arch and Design | Atlanta, GA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
+| Cloud Hardware Development Engineer , Network Product Development | Cupertino, CA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10522481/cloud-hardware-development-engineer-network-product-development) |
 | Hardware Development Engineer II (Power Electronics), Prime Air Electric Propulsion Subsystem | Seattle, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10442250/hardware-development-engineer-ii-power-electronics-prime-air-electric-propulsion-subsystem) |
 | Satellite Hardware Development Engineer, Amazon Leo | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10470424/satellite-hardware-development-engineer-amazon-leo) |
-| ECAD Application Engineer, Design Technologies | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10457960/ecad-application-engineer-design-technologies) |
 | Optical Engineer, Amazon Leo - OISL | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10517688/optical-engineer-amazon-leo-oisl) |
+| ECAD Application Engineer, Design Technologies | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10457960/ecad-application-engineer-design-technologies) |
 | Infrastructure TPM, Infra Capacity Delivery | Herndon, VA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10518021/infrastructure-tpm-infra-capacity-delivery) |
+| Process Engineer, Reverse Logistics Operations | Florence, KY | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10506378/process-engineer-reverse-logistics-operations) |
 | Systems Engineer, Prime Air | Seattle, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10497118/systems-engineer-prime-air) |
 | Mechanical Engineer, Satellite Hardware | Redmond, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10513157/mechanical-engineer-satellite-hardware) |
-| Process Engineer, Reverse Logistics Operations | Florence, KY | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10506378/process-engineer-reverse-logistics-operations) |
 | Manufacturing Engineer, Amazon Leo | Redmond, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10514619/manufacturing-engineer-amazon-leo) |
 | Robotics Control Engineer, Amazon Robotics Vulcan Stow | Seattle, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10421822/robotics-control-engineer-amazon-robotics-vulcan-stow) |
 | HW Test Development Engineer, Amazon LEO | Redmond, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10482004/hw-test-development-engineer-amazon-leo) |
-| Robotics Systems Engineer II, Tech Deployment | Bellevue, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507477/robotics-systems-engineer-ii-tech-deployment) |
 | Software Dev Eng, Payload Phased Arrays, Amazon Leo, Antenna System Validation, Amazon Leo | Redmond, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10509637/software-dev-eng-payload-phased-arrays-amazon-leo-antenna-system-validation-amazon-leo) |
+| Robotics Systems Engineer II, Tech Deployment | Bellevue, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10507477/robotics-systems-engineer-ii-tech-deployment) |
 | Software Dev Engineer, Firmware Builder Services | Seattle, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10445428/software-dev-engineer-firmware-builder-services) |
 | Software Development Engineer, EC2 Trainium AI Infra | Seattle, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10510280/software-development-engineer-ec2-trainium-ai-infra) |
-| RF Engineer (WiFi), Amazon Leo - Customer Terminals | Redmond, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10509646/rf-engineer-wifi-amazon-leo-customer-terminals) |
 | Software Development Engineer, AWS Transactional Services | Seattle, WA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10416198/software-development-engineer-aws-transactional-services) |
 | Manufacturing Engineer, Amazon Leo for Government (ALG), SEIT | MFG | Northridge, CA | 2w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10469095/manufacturing-engineer-amazon-leo-for-government-alg-seit-mfg) |
 | Full Lifecycle Recruiter, Amazon Leo | Bellevue, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10505394/full-lifecycle-recruiter-amazon-leo) |
+| RF Engineer (WiFi), Amazon Leo - Customer Terminals | Redmond, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10509646/rf-engineer-wifi-amazon-leo-customer-terminals) |
 | Software Dev Engineer, Antenna Calibration, Amazon Leo | Redmond, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10501122/software-dev-engineer-antenna-calibration-amazon-leo) |
 | ECAD Application Development Engineer, Design Technologies | Sunnyvale, CA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10401995/ecad-application-development-engineer-design-technologies) |
 | Robotics Systems Engineer I, Tech Deployment | Austin, TX | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10503213/robotics-systems-engineer-i-tech-deployment) |
 | SDE - Embedded Linux, Amazon Leo | Redmond, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3174464/sde-embedded-linux-amazon-leo) |
 | Loads and Dynamics Engineer, Amazon Leo | Redmond, WA | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10489886/loads-and-dynamics-engineer-amazon-leo) |
-| Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services | Austin, TX | 3w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10396844/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-hardware-engineering-services) |
+| Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services | Austin, TX | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10396844/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-hardware-engineering-services) |
 | Manufacturing Test Engineer, Manufacturing Test Engineer | Florence, KY | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10413096/manufacturing-test-engineer-manufacturing-test-engineer) |
 | Manufacturing Test Engineer, AWS Manufacturing and Repair | Austin, TX | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10448534/manufacturing-test-engineer-aws-manufacturing-and-repair) |
-| Embedded Software Dev Engineer, Amazon Leo Antenna Development | Redmond, WA | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10462894/embedded-software-dev-engineer-amazon-leo-antenna-development) |
 | SDE - Embedded Networking, Amazon Leo | Austin, TX | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3145644/sde-embedded-networking-amazon-leo) |
 | SDE - CPLD / FPGA | Seattle, WA | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10488714/sde-cpld-fpga) |
-| Mechanical Sourcing Manager, Robotics Supply Chain | N.reading, MA | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10450143/mechanical-sourcing-manager-robotics-supply-chain) |
+| Embedded Software Dev Engineer, Amazon Leo Antenna Development | Redmond, WA | 4w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10462894/embedded-software-dev-engineer-amazon-leo-antenna-development) |
+| Mechanical Sourcing Manager, Robotics Supply Chain | N.reading, MA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10450143/mechanical-sourcing-manager-robotics-supply-chain) |
 | Hardware Dev Engineer, Amazon Leo Customer Terminal Hardware Design | Redmond, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10495307/hardware-dev-engineer-amazon-leo-customer-terminal-hardware-design) |
 | Software Development Engineer II, AWS Firmware Builder Services | Cupertino, CA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10446946/software-development-engineer-ii-aws-firmware-builder-services) |
 | Hardware Development Engineer - Storage, AWS Nitro SSD | Cupertino, CA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10493502/hardware-development-engineer-storage-aws-nitro-ssd) |
 | Software Development Engineer, Nitro SSD | Cupertino, CA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10460255/software-development-engineer-nitro-ssd) |
+| Robotics Systems Engineer II, Tech Deployment | Austin, TX | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10483493/robotics-systems-engineer-ii-tech-deployment) |
 | SSD Mfg NPI Product Engineer, Nitro SSD | Cupertino, CA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10493501/ssd-mfg-npi-product-engineer-nitro-ssd) |
 | Robotics Systems Engineer I, Robotics Delivery & Packaging Innovations (RDPI) Technology Deployment | Austin, TX | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10496117/robotics-systems-engineer-i-robotics-delivery-packaging-innovations-rdpi-technology-deployment) |
-| Robotics Systems Engineer II, Tech Deployment | Austin, TX | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10483493/robotics-systems-engineer-ii-tech-deployment) |
 | Power Test Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo | Redmond, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10498000/power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo) |
 | Robotics Systems Engineer , Tech Deployment | Austin, TX | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10496120/robotics-systems-engineer-tech-deployment) |
 | Flight Director, Amazon LEO - Mission Operations | Redmond, WA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10492298/flight-director-amazon-leo-mission-operations) |
 | AWS Technical Program Manager, Infrastructure, US West | Hermiston, OR | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10492238/aws-technical-program-manager-infrastructure-us-west) |
-| Critical Infrastructure Controls Engineer, Data Center Field Engineering | Umatilla, OR | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10497221/critical-infrastructure-controls-engineer-data-center-field-engineering) |
-| Critical Infrastructure Controls Engineer, Data Center Field Engineering | Herndon, VA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10497225/critical-infrastructure-controls-engineer-data-center-field-engineering) |
+| Critical Infrastructure Controls Engineer, Data Center Field Engineering | Herndon, VA | 1mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10497228/critical-infrastructure-controls-engineer-data-center-field-engineering) |
 | System Development Engineer, AWS Storage and Accelerator team | Cupertino, CA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3152751/system-development-engineer-aws-storage-and-accelerator-team) |
 | System Development Engineer, AWS Mainstream Compute | Austin, TX | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10435422/system-development-engineer-aws-mainstream-compute) |
 | Robotics Systems Engineer I | Seattle, WA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10393830/robotics-systems-engineer-i) |
@@ -516,9 +520,10 @@
 | Global Category Manager, Amazon Leo | Bellevue, WA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10470436/global-category-manager-amazon-leo) |
 | Supply Planning Manager, AWS Supply Chain - IPS | Herndon, VA | 2mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10481043/supply-planning-manager-aws-supply-chain-ips) |
 | Electrical Test Engineer II, Hardware Test Engineering | North Reading, MA | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10445359/electrical-test-engineer-ii-hardware-test-engineering) |
-| Optical Network Development Engineer, Network Product Development | Cupertino, CA | 5mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3167949/optical-network-development-engineer-network-product-development) |
+| Applied Scientist - ML and Robotics | North Reading, MA | 3mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10434789/applied-scientist-ml-and-robotics) |
 | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Boston, MA | 5mo ago | Entry-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Robotics Systems Engineer I, Robotics Delivery and Packaging Innovation (RDPI) - Tech Deployment | Austin, TX | 5mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/10404418/robotics-systems-engineer-i-robotics-delivery-and-packaging-innovation-rdpi-tech-deployment) |
+| Optical Network Development Engineer, Network Product Development | Cupertino, CA | 5mo ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3167949/optical-network-development-engineer-network-product-development) |
 
 </details>
 
@@ -545,25 +550,25 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 22 | 31% | Perfect for new grads |
-| 🟡 **Mid-Level** | 154 | 217% | 2-5 years experience |
-| 🔴 **Senior** | 161 | 227% | 5+ years experience |
+| 🟢 **Entry-Level** | 21 | 29% | Perfect for new grads |
+| 🟡 **Mid-Level** | 156 | 217% | 2-5 years experience |
+| 🔴 **Senior** | 164 | 228% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
-#### 💻 **Hardware Engineering** (337 archived positions)
+#### 💻 **Hardware Engineering** (341 archived positions)
 📦 Amazon
 
 ### 🌍 **Top Archived Locations**
 
-- **Boise, Idaho**: 50 archived positions
+- **Boise, Idaho**: 51 archived positions
 - **Austin, Texas**: 36 archived positions
-- **Sunnyvale, CA**: 31 archived positions
+- **Sunnyvale, CA**: 30 archived positions
 - **Dallas, TX**: 23 archived positions
 - **Mountain View, CA**: 20 archived positions
-- **San Jose, California**: 17 archived positions
+- **San Jose, California**: 18 archived positions
 - **Multiple, Locations**: 14 archived positions
-- **Multiple, Various**: 14 archived positions
+- **Multiple, Various**: 13 archived positions
 
 </details>
 
@@ -572,12 +577,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 337 
+- **🔥 Active Positions**: 341 
 - **🏢 Companies**: 6 elite tech companies
-- **⭐ FAANG+ Jobs**: 87 premium opportunities  
+- **⭐ FAANG+ Jobs**: 86 premium opportunities  
 - **📅 Last Updated**: September 10, 2026
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 71 (older than 1 week)
+- **📁 Archived Jobs**: 72 (older than 1 week)
 
 ---
 
@@ -604,29 +609,29 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 22 | 7% | Perfect for new grads |
-| 🟡 **Mid-Level** | 154 | 46% | 2-5 years experience |
-| 🔴 **Senior** | 161 | 48% | 5+ years experience |
+| 🟢 **Entry-Level** | 21 | 6% | Perfect for new grads |
+| 🟡 **Mid-Level** | 156 | 46% | 2-5 years experience |
+| 🔴 **Senior** | 164 | 48% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (337 positions)
+### 💻 **Hardware Engineering** (341 positions)
 📦 Amazon
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Boise, Idaho**: 50 positions
+- **Boise, Idaho**: 51 positions
 - **Austin, Texas**: 36 positions
-- **Sunnyvale, CA**: 31 positions
+- **Sunnyvale, CA**: 30 positions
 - **Dallas, TX**: 23 positions
 - **Mountain View, CA**: 20 positions
-- **San Jose, California**: 17 positions
+- **San Jose, California**: 18 positions
 - **Multiple, Locations**: 14 positions
-- **Multiple, Various**: 14 positions
+- **Multiple, Various**: 13 positions
 
 ---
 
@@ -667,7 +672,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 337 current opportunities from 6 elite companies**
+**🎯 341 current opportunities from 6 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
