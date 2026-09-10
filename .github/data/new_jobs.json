@@ -1,43 +1,23 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Compiler Engineer (Machine Learning)",
+    "job_title": "Machine Learning - Software Project Manager",
     "job_city": "Lund",
     "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Compiler Engineer (Machine Learning) at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/compiler-engineer-machine-learning/33099/94847322016",
-    "id": "arm-compiler-engineer-machine-learning-lund"
+    "job_description": "Hardware Engineering job for the role Machine Learning - Software Project Manager at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/machine-learning-software-project-manager/33099/100434513664",
+    "id": "arm-machine-learning-software-project-manager-lund"
   },
   {
     "employer_name": "Arm",
-    "job_title": "AI Software Engineer — ExecuTorch",
-    "job_city": "Lund",
-    "job_state": "Sweden",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI Software Engineer — ExecuTorch at Lund, Sweden, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/lund/ai-software-engineer-executorch/33099/100031426432",
-    "id": "arm-ai-software-engineer-executorch-lund"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Machine Learning Engineer",
-    "job_city": "Manchester",
+    "job_title": "Creative Designer",
+    "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Machine Learning Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/software-machine-learning-engineer/33099/100424250704",
-    "id": "arm-software-machine-learning-engineer-manchester"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Project Manger, AI & Developer Platforms",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Principal Project Manger, AI & Developer Platforms at Seattle, Washington",
-    "job_apply_link": "https://careers.arm.com/job/seattle/principal-project-manger-ai-and-developer-platforms/33099/96332855008",
-    "id": "arm-project-manger-ai-developer-platforms-seattle"
+    "job_description": "Hardware Engineering job for the role Creative Designer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/creative-designer/33099/100339098880",
+    "id": "arm-creative-designer-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -61,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Sales Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sales Support Specialist at Available in one of 42 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044465/Sales-Support-Specialist",
+    "id": "abb-sales-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,23 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Sales Support Specialist at Available in one of 42 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044465/Sales-Support-Specialist",
-    "id": "abb-sales-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Technical Trainer",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Sr. Technical Trainer at Available in one of 33 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041801/Sr-Technical-Trainer",
-    "id": "abb-sr-technical-trainer-multiple"
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -111,6 +81,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Sr. Technical Trainer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Sr. Technical Trainer at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041801/Sr-Technical-Trainer",
+    "id": "abb-sr-technical-trainer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Metallurgy Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -121,13 +101,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
+    "job_title": "HSE Program Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role HSE Program Specialist at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031552/HSE-Program Specialist",
+    "id": "abb-hse-program-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -238,6 +218,16 @@
     "job_description": "hardware engineering job for the role FPGA Engineer (m/f/d) at Minden, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025434/FPGA-Engineer-m-f-d",
     "id": "abb-fpga-engineer-m-f-d-minden"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer (f/m/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d",
+    "id": "abb-r-d-engineer-f-m-d-minden"
   },
   {
     "employer_name": "ABB",
@@ -528,5 +518,15 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Symphony Plus at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015474/Field-Service-Engineer-Symphony-Plus",
     "id": "abb-field-service-engineer-symphony-plus-doha"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Dry/Plasma Etch GaN Process Development Engineer (SM1)",
+    "job_city": "Sherman",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Dry/Plasma Etch GaN Process Development Engineer (SM1) at Sherman, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017639/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-dry-plasma-etch-gan-process-development-engineer-sm1-sherman"
   }
 ]
