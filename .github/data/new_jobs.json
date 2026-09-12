@@ -1,295 +1,123 @@
 [
   {
-    "job_title": "Quality Assurance Engineer II, RDPI Global Engineering Hardware Development",
-    "employer_name": "Amazon",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Quality Assurance Engineer II, RDPI Global Engineering Hardware Development at Westborough, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10538035/quality-assurance-engineer-ii-rdpi-global-engineering-hardware-development",
-    "job_posted_at": "2026-09-11T20:16:09.597Z",
-    "job_posted_at_datetime_utc": "2026-09-11T20:16:09.597Z",
-    "id": "amazon-quality-assurance-engineer-ii-rdpi-global-engineering-hardware-development-westborough"
-  },
-  {
-    "job_title": "Quality Assurance Engineer I, RDPI Global Engineering Hardware Development",
-    "employer_name": "Amazon",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role Quality Assurance Engineer I, RDPI Global Engineering Hardware Development at Westborough, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10538034/quality-assurance-engineer-i-rdpi-global-engineering-hardware-development",
-    "job_posted_at": "2026-09-11T20:16:09.597Z",
-    "job_posted_at_datetime_utc": "2026-09-11T20:16:09.597Z",
-    "id": "amazon-quality-assurance-engineer-i-rdpi-global-engineering-hardware-development-westborough"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Member of Technical Staff — Silicon Photonics Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Senior Member of Technical Staff — Silicon Photonics Engineer at Boise, Idaho, United States of America + 3 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/44247235",
-    "id": "micron-member-of-technical-staff-silicon-photonics-engineer-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "DMTS",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role DMTS at Boise, Idaho, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/44443864",
-    "id": "micron-dmts-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Silicon Technology Research and Development Hardware Engineering Intern",
-    "job_city": "Albany",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Post-Silicon Infrastructure",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Silicon Technology Research and Development Hardware Engineering Intern 2027 at InternshipAlbany, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132432&source=WEB_Search_NA",
-    "id": "ibm-silicon-technology-research-and-development-hardware-engineering-intern-albany"
+    "job_description": "Hardware Engineering job for the role Staff Software Engineer - Post-Silicon Infrastructure at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-software-engineer-post-silicon-infrastructure/33099/100509410352",
+    "id": "arm-software-engineer-post-silicon-infrastructure-chandler"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Silicon Technology Research and Development Software Engineering Intern -",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Post-Silicon DDR Characterization Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Silicon Technology Research and Development Software Engineering Intern - 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132407&source=WEB_Search_NA",
-    "id": "ibm-silicon-technology-research-and-development-software-engineering-intern-multiple-cities"
+    "job_description": "Hardware Engineering job for the role Senior Post-Silicon DDR Characterization Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-post-silicon-ddr-characterization-engineer/33099/100509410672",
+    "id": "arm-post-silicon-ddr-characterization-engineer-chandler"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "System Service Representative - Wisconsin",
-    "job_city": "MILWAUKEE",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Post-Silicon Validation Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Service Representative - Wisconsin at ProfessionalMILWAUKEE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132702&source=WEB_Search_NA",
-    "id": "ibm-system-service-representative-wisconsin-milwaukee"
+    "job_description": "Hardware Engineering job for the role Senior Post-Silicon Validation Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-post-silicon-validation-engineer/33099/100509410704",
+    "id": "arm-post-silicon-validation-engineer-chandler"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "ML/AI Engineer – Senior Managing Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Post-Silicon PCIe Characterization Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ML/AI Engineer – Senior Managing Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131401&source=WEB_Search_NA",
-    "id": "ibm-ml-ai-engineer-senior-managing-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Designer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Designer at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131983&source=WEB_Search_NA",
-    "id": "ibm-designer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Principal Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Principal Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131935&source=WEB_Search_NA",
-    "id": "ibm-confluent-principal-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Systems Research Scientist Intern",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Storage Systems Research Scientist Intern 2027 at InternshipSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132567&source=WEB_Search_NA",
-    "id": "ibm-storage-systems-research-scientist-intern-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer - Security - Intern",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer - Security - Intern 2027 at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131988&source=WEB_Search_NA",
-    "id": "ibm-software-developer-security-intern-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Service Representative - Columbus OH",
-    "job_city": "Columbus",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Service Representative - Columbus OH at ProfessionalColumbus, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131552&source=WEB_Search_NA",
-    "id": "ibm-system-service-representative-columbus-oh-columbus"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Research Intern — AI and Quantum Algorithms for Optimization",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Research Intern — AI and Quantum Algorithms for Optimization 2027 at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132434&source=WEB_Search_NA",
-    "id": "ibm-research-intern-ai-and-quantum-algorithms-for-optimization-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Storage Client Solutions Engineer 2027 - NC",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Storage Client Solutions Engineer 2027 - NC at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130391&source=WEB_Search_NA",
-    "id": "ibm-entry-level-storage-client-solutions-engineer-2027-nc-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Algorithms and Quantum Machine Learning Intern",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Algorithms and Quantum Machine Learning Intern 2027 at InternshipChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132433&source=WEB_Search_NA",
-    "id": "ibm-quantum-algorithms-and-quantum-machine-learning-intern-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Silicon Technology Research and Development Research Scientist Intern -",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Silicon Technology Research and Development Research Scientist Intern - 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132430&source=WEB_Search_NA",
-    "id": "ibm-silicon-technology-research-and-development-research-scientist-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Research AI Engineer Intern",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Research AI Engineer Intern 2027 at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132569&source=WEB_Search_NA",
-    "id": "ibm-research-ai-engineer-intern-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SW Developer Intern- Austin TX",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SW Developer Intern- Austin TX 2027 at InternshipAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131828&source=WEB_Search_NA",
-    "id": "ibm-sw-developer-intern-austin-tx-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "ML/AI Engineer – Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role ML/AI Engineer – Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131375&source=WEB_Search_NA",
-    "id": "ibm-ml-ai-engineer-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA -",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027 at Entry LevelSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131308&source=WEB_Search_NA",
-    "id": "ibm-entry-level-cloud-infrastructure-network-monitoring-and-automation-software-engineer-san-jose-ca-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Senior Software Engineer II - Fleet Management Unified Deployment",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Senior Software Engineer II - Fleet Management Unified Deployment at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131607&source=WEB_Search_NA",
-    "id": "ibm-confluent-senior-software-engineer-ii-fleet-management-unified-deployment-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Machine Learning & AI Engineer – Managing Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Machine Learning & AI Engineer – Managing Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131405&source=WEB_Search_NA",
-    "id": "ibm-machine-learning-ai-engineer-managing-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Algorithms Theory Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Algorithms Theory Intern 2027 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131809&source=WEB_Search_NA",
-    "id": "ibm-quantum-algorithms-theory-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SFDC Technical Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role SFDC Technical Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132413&source=WEB_Search_NA",
-    "id": "ibm-sfdc-technical-architect-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry level Backend Developer - San Jose, CA -",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry level Backend Developer - San Jose, CA - 2027 at Entry LevelSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131805&source=WEB_Search_NA",
-    "id": "ibm-entry-level-backend-developer-san-jose-ca-san-jose"
+    "job_description": "Hardware Engineering job for the role Senior Post-Silicon PCIe Characterization Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-post-silicon-pcie-characterization-engineer/33099/100509410720",
+    "id": "arm-post-silicon-pcie-characterization-engineer-chandler"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Generator Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Generator Sales Specialist at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
+    "id": "abb-generator-sales-specialist-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
+    "job_title": "Resident Field Service Technician (Gary, IN)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
+    "job_title": "Metallurgy Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Metallurgy Sales Manager at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager",
+    "id": "abb-metallurgy-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Services Operations Leader \"Central West\"",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Field Services Operations Leader \"Central West\" at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042207/Field-Services-Operations-Leader-\"Central-West\"",
+    "id": "abb-field-services-operations-leader-central-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Mechatronics Sales Lead",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Mechatronics Sales Lead at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038331/Mechatronics-Sales-Lead",
+    "id": "abb-mechatronics-sales-lead-multiple"
   },
   {
     "employer_name": "ABB",
@@ -303,56 +131,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045562/Field-Service-Technician",
-    "id": "abb-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Business Development Manager, Consumer Industries Mid-West US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Robotics Business Development Manager, Consumer Industries Mid-West US at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043612/Robotics-Business-Development-Manager-Consumer-Industries-Mid-West-US",
-    "id": "abb-robotics-business-development-manager-consumer-industries-mid-west-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045059/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Data Center CoE - Field Service Technician II at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Hardware Engineer (80 -100%)  f/m/d",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role R&D Hardware Engineer (80 -100%)  f/m/d at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045264/R-D-Hardware-Engineer-80-100-f-m-d",
-    "id": "abb-r-d-hardware-engineer-80-100-f-m-d-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Plastic Case - Production Operator - 1st Shift",
     "job_city": "Pinetops",
     "job_state": "North Carolina",
@@ -360,6 +138,16 @@
     "job_description": "hardware engineering job for the role Plastic Case - Production Operator - 1st Shift at Pinetops, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044771/Plastic-Case-Production-Operator-1st-Shift",
     "id": "abb-plastic-case-production-operator-1st-shift-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -383,16 +171,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Electronic Designer",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Electronic Designer at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/96155792/Senior-Electronic-Designer",
-    "id": "abb-senior-electronic-designer-quebec"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Field Service Engineer - System 800xA Safety",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -406,7 +184,7 @@
     "job_title": "Working student (m/f/d) R&D Embedded Electronics - CoE PLC Products",
     "job_city": "Heidelberg",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Working student (m/f/d) R&D Embedded Electronics - CoE PLC Products at Heidelberg, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045055/Working-student-m-f-d-R-D-Embedded-Electronics-CoE-PLC-Products",
     "id": "abb-working-student-m-f-d-r-d-embedded-electronics-coe-plc-products-heidelberg"
@@ -436,7 +214,7 @@
     "job_title": "R&D Engineer (f/m/d)",
     "job_city": "Minden",
     "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) at Minden, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028844/R-D-Engineer-f-m-d",
     "id": "abb-r-d-engineer-f-m-d-minden"
@@ -476,7 +254,7 @@
     "job_title": "Field Service Engineer, ELSE Oman",
     "job_city": "Al Hamriya",
     "job_state": "Masqaţ",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role Field Service Engineer, ELSE Oman at Al Hamriya, Masqaţ, Oman",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045527/Field-Service-Engineer-ELSE-Oman",
     "id": "abb-field-service-engineer-else-oman-al-hamriya"
@@ -546,7 +324,7 @@
     "job_title": "Senior Power Electronic Engineer SSCB Platform",
     "job_city": "Bergamo",
     "job_state": "Bergamo",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Senior Power Electronic Engineer SSCB Platform at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045695/Senior-Power-Electronic-Engineer-SSCB-Platform",
     "id": "abb-senior-power-electronic-engineer-sscb-platform-bergamo"
@@ -556,7 +334,7 @@
     "job_title": "Project Technical Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Project Technical Engineer at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046866/Project-Technical-Engineer",
     "id": "abb-project-technical-engineer-shanghai"
@@ -576,7 +354,7 @@
     "job_title": "R&D Senior System Engineer (80 -100 %)  f/m/d",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role R&D Senior System Engineer (80 -100 %)  f/m/d at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046041/R-D-Senior-System-Engineer-80-100-f-m-d",
     "id": "abb-r-d-senior-system-engineer-80-100-f-m-d-quartino"
@@ -616,7 +394,7 @@
     "job_title": "(80 - 100%) R&D Senior Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Senior Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042991/-80-100-R-D-Senior-Engineer",
     "id": "abb-80-100-r-d-senior-engineer-quartino"
@@ -626,7 +404,7 @@
     "job_title": "(80 - 100%) R&D Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
     "id": "abb-80-100-r-d-engineer-quartino"
@@ -636,7 +414,7 @@
     "job_title": "Senior Embedded Software Developer, Industrial Automation",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Senior Embedded Software Developer, Industrial Automation at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045038/Senior-Embedded-Software-Developer-Industrial-Automation",
     "id": "abb-senior-embedded-software-developer-industrial-automation-vaesteras"
@@ -676,7 +454,7 @@
     "job_title": "Global Team Leader Production Validation, ABB Robotics",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Global Team Leader Production Validation, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046657/Global-Team-Leader-Production-Validation-ABB-Robotics",
     "id": "abb-global-team-leader-production-validation-abb-robotics-vaesteras"
@@ -716,7 +494,7 @@
     "job_title": "Product Cybersecurity Verification & Validation Engineer to ABB Robotics",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Product Cybersecurity Verification & Validation Engineer to ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045094/Product-Cybersecurity-Verification-Validation-Engineer-to-ABB-Robotics",
     "id": "abb-product-cybersecurity-verification-validation-engineer-to-abb-robotics-vaesteras"
@@ -726,7 +504,7 @@
     "job_title": "Thesis Work – Investigating the environmental impact of AI & Future Technologies at ABB Robotics",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "hardware engineering job for the role Thesis Work – Investigating the environmental impact of AI & Future Technologies at ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046791/Thesis-Work-Investigating-the-environmental-impact-of-AI-Future-Technologies-at-ABB-Robotics",
     "id": "abb-thesis-work-investigating-the-environmental-impact-of-ai-future-technologies-at-abb-robotics-vaesteras"
@@ -740,135 +518,5 @@
     "job_description": "hardware engineering job for the role Field Service Engineer - Symphony Plus at Doha, Ad Dawhah, Qatar",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015474/Field-Service-Engineer-Symphony-Plus",
     "id": "abb-field-service-engineer-symphony-plus-doha"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Product Engineering Section Manager (SM1)",
-    "job_city": "Sherman",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Product Engineering Section Manager (SM1) at Sherman, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25017359/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-product-engineering-section-manager-sm1-sherman"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "SM PDE Engineer",
-    "job_city": "Sherman",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role SM PDE Engineer at Sherman, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009039/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-sm-pde-engineer-sherman"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Digital Design Engineer",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "hardware engineering job for the role Staff Digital Design Engineer at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Digital-Design-Engineer_R264004-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-digital-design-engineer-3-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI/ML Engineer, Time-Series & Sensor Reasoning Models (Lorenz Labs)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal AI/ML Engineer, Time-Series & Sensor Reasoning Models (Lorenz Labs) at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-AI-ML-Engineer--Time-Series---Sensor-Reasoning-Models--Lorenz-Labs-_R265560?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-ml-engineer-time-series-sensor-reasoning-models-lorenz-labs-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Principal AI/ML Engineer, Time-Series & Sensor Reasoning Models (Lorenz Labs)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Principal AI/ML Engineer, Time-Series & Sensor Reasoning Models (Lorenz Labs) at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Senior-Principal-AI-ML-Engineer--Time-Series---Sensor-Reasoning-Models--Lorenz-Labs-_R265561?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-principal-ai-ml-engineer-time-series-sensor-reasoning-models-lorenz-labs-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineering Lead - Software Defined Radio & RF Systems",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Engineering Lead - Software Defined Radio & RF Systems at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NJ-Somerset/Staff-Level-Product-Engineer---SDR_R258247?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineering-lead-software-defined-radio-rf-systems-3-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Product Manager, Physical AI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Product Manager, Physical AI at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Product-Manager--Physical-AI_R265801?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-product-manager-physical-ai-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Ph.D. Intern - Architecture, DSP & Systems Architecture",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Ph.D. Intern - Architecture, DSP & Systems Architecture at 6 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Architecture--DSP---Systems-Architecture_2604415?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ph-d-intern-architecture-dsp-systems-architecture-6-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Ph.D. Intern - Silicon Photonics & Optical Communications",
-    "job_city": "9 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Ph.D. Intern - Silicon Photonics & Optical Communications at 9 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ph-d-intern-silicon-photonics-optical-communications-9-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Ph.D. Intern - AI/ML & Design Automation",
-    "job_city": "9 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Ph.D. Intern - AI/ML & Design Automation at 9 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ph-d-intern-ai-ml-design-automation-9-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sr. Staff Test Development Engineer (ATE)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role Sr. Staff Test Development Engineer (ATE) at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Test-Development-Engineer--ATE-_2602802?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-staff-test-development-engineer-ate-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Test Solutions Engineering Intern, BS - Summer",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "hardware engineering job for the role Test Solutions Engineering Intern, BS - Summer 2027 at Burlington, VT",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-test-solutions-engineering-intern-bs-summer-burlington"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Advanced Packaging Intern, BS - Summer",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_posted_at": "Posted 3 Days Ago",
-    "job_description": "hardware engineering job for the role Advanced Packaging Intern, BS - Summer 2027 at Burlington, VT",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-advanced-packaging-intern-bs-summer-burlington"
   }
 ]
