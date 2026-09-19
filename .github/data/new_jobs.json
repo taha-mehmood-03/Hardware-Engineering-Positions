@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager HVACR - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
-    "id": "abb-regional-sales-manager-hvacr-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,16 +8,6 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042719/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +31,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry & Account Manager",
+    "job_title": "Key Account Manager - Critical Industries",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Industry & Account Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
-    "id": "abb-industry-account-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Key Account Manager - Critical Industries at Available in one of 25 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044363/Key-Account-Manager-Critical-Industries",
+    "id": "abb-key-account-manager-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,73 +71,73 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel/OEM Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Channel/OEM Sales Manager at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046544/Channel-OEM-Sales-Manager",
-    "id": "abb-channel-oem-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
+    "job_title": "Data Center Tender/Quotation Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
+    "job_description": "hardware engineering job for the role Data Center Tender/Quotation Specialist at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046314/Data-Center-Tender-Quotation-Specialist",
+    "id": "abb-data-center-tender-quotation-specialist-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "PLC Programming Specialist",
-    "job_city": "Ormond Beach",
-    "job_state": "Florida",
-    "job_posted_at": "10 months ago",
-    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
-    "id": "abb-plc-programming-specialist-ormond-beach"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Power Electronics Scientist",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046300/Power-Electronics-Scientist",
-    "id": "abb-power-electronics-scientist-raleigh"
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Infrastructure Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
-    "id": "abb-is-infrastructure-specialist-pinetops"
+    "job_title": "Staff Application Engineer",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Staff Application Engineer at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047287/Staff-Application-Engineer",
+    "id": "abb-staff-application-engineer-bartlesville"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Hardware Engineer (80 - 100%)  f/m/d",
+    "job_title": "Application Engineer",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Application Engineer at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045711/Application-Engineer",
+    "id": "abb-application-engineer-bartlesville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Lead Engineer - System 800xA - Based in Qatar",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role R&D Senior Hardware Engineer (80 - 100%)  f/m/d at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045269/R-D-Senior-Hardware-Engineer-80-100-f-m-d",
-    "id": "abb-r-d-senior-hardware-engineer-80-100-f-m-d-multiple"
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA - Based in Qatar at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA-Based-in-Qatar",
+    "id": "abb-project-lead-engineer-system-800xa-based-in-qatar-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Hardware Engineer (80 -100%)  f/m/d",
+    "job_title": "Senior Field Service Engineer - System 800xA Safety",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role R&D Hardware Engineer (80 -100%)  f/m/d at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045264/R-D-Hardware-Engineer-80-100-f-m-d",
-    "id": "abb-r-d-hardware-engineer-80-100-f-m-d-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Engineer - System 800xA Safety at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016782/Senior-Field-Service-Engineer-System-800xA-Safety",
+    "id": "abb-senior-field-service-engineer-system-800xa-safety-multiple"
   },
   {
     "employer_name": "ABB",
