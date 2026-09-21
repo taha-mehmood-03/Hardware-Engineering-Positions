@@ -1,6 +1,4 @@
 [
-  "airbnb-staff-machine-learning-engineer-payments-united-states",
-  "airbnb-staff-machine-learning-engineer-trust-united-states",
   "airbnb-staff-prompt-engineer-chatbot-united-states",
   "airbnb-staff-security-engineer-emea-united-kingdom",
   "airbnb-staff-software-engineer-adaptive-risk-investigations-remote-usa",
@@ -2521,6 +2519,7 @@
   "arm-grc-risk-manager-cambridge",
   "arm-hardware-acceleration-efficiency-architect-austin",
   "arm-hardware-ai-engineer-cambridge",
+  "arm-hardware-ai-engineer-sophia-antipolis",
   "arm-hardware-emulation-engineer-austin",
   "arm-hardware-emulation-engineer-multiple",
   "arm-hardware-emulation-engineer-san-diego",
@@ -2660,6 +2659,7 @@
   "arm-machine-learning-framework-runtime-software-engineer-cambridge",
   "arm-machine-learning-hardware-verification-intern-lund",
   "arm-machine-learning-performance-kernel-engineer-cambridge",
+  "arm-machine-learning-software-engineer-lund",
   "arm-machine-learning-software-engineer-manchester",
   "arm-machine-learning-software-intern-galway",
   "arm-machine-learning-software-project-manager-lund",
