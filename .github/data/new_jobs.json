@@ -1,13 +1,114 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Product Manager",
-    "job_city": "San Jose",
-    "job_state": "CA",
+    "job_title": "Hardware Compliance Engineer, Product Compliance Engineering, GTPC",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Hardware Compliance Engineer, Product Compliance Engineering, GTPC at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10555043/hardware-compliance-engineer-product-compliance-engineering-gtpc",
+    "job_posted_at": "2026-09-21T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-09-21T00:00:00.000Z",
+    "id": "amazon-hardware-compliance-engineer-product-compliance-engineering-gtpc-arlington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Control Systems FPGA Developer Internship",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "23 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, XR Hardware",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135497586969584326-senior-product-manager-xr-hardware?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-product-manager-san-jose"
+    "job_description": "Hardware Engineering job for the role Quantum Control Systems FPGA Developer Internship 2027 at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133140&source=WEB_Search_NA",
+    "id": "ibm-quantum-control-systems-fpga-developer-internship-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Data Scientist Intern -",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Data Scientist Intern - 2027 at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132776&source=WEB_Search_NA",
+    "id": "ibm-quantum-data-scientist-intern-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Cloud Services Software Development Intern -",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Cloud Services Software Development Intern - 2027 at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132699&source=WEB_Search_NA",
+    "id": "ibm-quantum-cloud-services-software-development-intern-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Control Systems Modeling Internship",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Control Systems Modeling Internship 2027 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133141&source=WEB_Search_NA",
+    "id": "ibm-quantum-control-systems-modeling-internship-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research Intern 2027 - Superconducting Circuit Design for Quantum Computing",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Research Intern 2027 - Superconducting Circuit Design for Quantum Computing at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133129&source=WEB_Search_NA",
+    "id": "ibm-research-intern-2027-superconducting-circuit-design-for-quantum-computing-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Summer Research Intern 2027 - Edge communications processing with AI accelerators",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Summer Research Intern 2027 - Edge communications processing with AI accelerators at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133124&source=WEB_Search_NA",
+    "id": "ibm-summer-research-intern-2027-edge-communications-processing-with-ai-accelerators-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Lab Assistant - Intern",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Lab Assistant - Intern 2027 at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133089&source=WEB_Search_NA",
+    "id": "ibm-quantum-lab-assistant-intern-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Security Intern 2027 - Cloud Compliance & Security Tooling",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Security Intern 2027 - Cloud Compliance & Security Tooling at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132708&source=WEB_Search_NA",
+    "id": "ibm-quantum-security-intern-2027-cloud-compliance-security-tooling-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Control Distributed Runtime Internship",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Control Distributed Runtime Internship 2027 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133145&source=WEB_Search_NA",
+    "id": "ibm-quantum-control-distributed-runtime-internship-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Runtime Framework Intern",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Runtime Framework Intern 2027 at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133669&source=WEB_Search_NA",
+    "id": "ibm-quantum-runtime-framework-intern-yorktown-heights"
   },
   {
     "employer_name": "ABB",
@@ -21,16 +122,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Partner Effectiveness Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
-    "id": "abb-sales-partner-effectiveness-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,6 +129,16 @@
     "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Partner Effectiveness Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Sales Partner Effectiveness Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045581/Sales-Partner-Effectiveness-Leader",
+    "id": "abb-sales-partner-effectiveness-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,23 +162,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_title": "Channel Director - Northern California",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
-    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
+    "job_description": "hardware engineering job for the role Channel Director - Northern California at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
+    "id": "abb-channel-director-northern-california-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Director, Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Director, Service Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
+    "id": "abb-senior-director-service-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Data Centers",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Key Account Manager - Data Centers at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045995/Key-Account-Manager-Data-Centers",
+    "id": "abb-key-account-manager-data-centers-remote"
   },
   {
     "employer_name": "ABB",
@@ -91,63 +202,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Application Engineering Manager, Electrification Services",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Application Engineering Manager, Electrification Services at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044374/Application-Engineering-Manager-Electrification-Services",
-    "id": "abb-application-engineering-manager-electrification-services-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Staff Application Engineer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Staff Application Engineer at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047287/Staff-Application-Engineer",
-    "id": "abb-staff-application-engineer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Engineer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
+    "job_title": "Project Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Application Engineer at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045711/Application-Engineer",
-    "id": "abb-application-engineer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039554/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Lead Engineer - System 800xA - Based in Qatar",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Project Lead Engineer - System 800xA - Based in Qatar at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015473/Project-Lead-Engineer-System-800xA-Based-in-Qatar",
-    "id": "abb-project-lead-engineer-system-800xa-based-in-qatar-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Working student (m/f/d) R&D Embedded Electronics - CoE PLC Products",
-    "job_city": "Heidelberg",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Working student (m/f/d) R&D Embedded Electronics - CoE PLC Products at Heidelberg, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045055/Working-student-m-f-d-R-D-Embedded-Electronics-CoE-PLC-Products",
-    "id": "abb-working-student-m-f-d-r-d-embedded-electronics-coe-plc-products-heidelberg"
+    "job_description": "hardware engineering job for the role Project Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045415/Project-Manager",
+    "id": "abb-project-manager-remote"
   },
   {
     "employer_name": "ABB",
@@ -211,16 +272,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Project Manager / Release Owner - Hardware Development (f/m/d)",
-    "job_city": "Minden",
-    "job_state": "North Rhine-Westphalia",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Project Manager / Release Owner - Hardware Development (f/m/d) at Minden, North Rhine-Westphalia, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044752/R-D-Project-Manager-Release-Owner-Hardware-Development-f-m-d",
-    "id": "abb-r-d-project-manager-release-owner-hardware-development-f-m-d-minden"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Senior Control Electronics Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -231,6 +282,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Project Manager / Release Owner - Hardware Development (f/m/d)",
+    "job_city": "Minden",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role R&D Project Manager / Release Owner - Hardware Development (f/m/d) at Minden, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044752/R-D-Project-Manager-Release-Owner-Hardware-Development-f-m-d",
+    "id": "abb-r-d-project-manager-release-owner-hardware-development-f-m-d-minden"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -238,6 +299,36 @@
     "job_description": "hardware engineering job for the role Project Engineer at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040464/Project-Engineer",
     "id": "abb-project-engineer-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "QCS Project Engineer",
+    "job_city": "Westerville",
+    "job_state": "Ohio",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role QCS Project Engineer at Westerville, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044843/QCS-Project-Engineer",
+    "id": "abb-qcs-project-engineer-westerville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Hardware Engineer (80 - 100%)  f/m/d",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role R&D Senior Hardware Engineer (80 - 100%)  f/m/d at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045269/R-D-Senior-Hardware-Engineer-80-100-f-m-d",
+    "id": "abb-r-d-senior-hardware-engineer-80-100-f-m-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Hardware Engineer (80 -100%)  f/m/d",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role R&D Hardware Engineer (80 -100%)  f/m/d at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045264/R-D-Hardware-Engineer-80-100-f-m-d",
+    "id": "abb-r-d-hardware-engineer-80-100-f-m-d-multiple"
   },
   {
     "employer_name": "ABB",
@@ -308,6 +399,26 @@
     "job_description": "hardware engineering job for the role R&D Senior System Engineer (80 -100 %)  f/m/d at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046041/R-D-Senior-System-Engineer-80-100-f-m-d",
     "id": "abb-r-d-senior-system-engineer-80-100-f-m-d-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Infrastructure Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
+    "id": "abb-is-infrastructure-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "PLC Programming Specialist",
+    "job_city": "Ormond Beach",
+    "job_state": "Florida",
+    "job_posted_at": "10 months ago",
+    "job_description": "hardware engineering job for the role PLC Programming Specialist at Ormond Beach, Florida, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist",
+    "id": "abb-plc-programming-specialist-ormond-beach"
   },
   {
     "employer_name": "ABB",
@@ -488,6 +599,16 @@
     "job_description": "hardware engineering job for the role Thesis Work – Investigating the environmental impact of AI & Future Technologies at ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046791/Thesis-Work-Investigating-the-environmental-impact-of-AI-Future-Technologies-at-ABB-Robotics",
     "id": "abb-thesis-work-investigating-the-environmental-impact-of-ai-future-technologies-at-abb-robotics-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Scientist",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Power Electronics Scientist at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046300/Power-Electronics-Scientist",
+    "id": "abb-power-electronics-scientist-raleigh"
   },
   {
     "employer_name": "ABB",
