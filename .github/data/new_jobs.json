@@ -1,23 +1,33 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Manager",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Arm",
+    "job_title": "ML HW Modelling Engineer",
+    "job_city": "Raanana",
+    "job_state": "Israel",
     "job_posted_at": "Recently",
-    "job_description": "87 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, Applied AI, Cloud Support Intelligence",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/102831006314046150-engineering-manager-applied-ai-cloud-support-intelligence?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=5",
-    "id": "google-engineering-manager-austin"
+    "job_description": "Hardware Engineering job for the role Staff ML HW Modelling Engineer at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/staff-ml-hw-modelling-engineer/33099/100031426656",
+    "id": "arm-ml-hw-modelling-engineer-raanana"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer– AI Networking",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer– AI Networking at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/principal-software-engineer-ai-networking/33099/100980904800",
+    "id": "arm-software-engineer-ai-networking-sophia-antipolis"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
+    "job_title": "Business Development Manager – Mining and Aggregates (VFDs)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Business Development Manager – Mining and Aggregates (VFDs) at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046572/Business-Development-Manager-Mining-and-Aggregates-VFDs",
+    "id": "abb-business-development-manager-mining-and-aggregates-vfds-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager – Mining and Aggregates (VFDs)",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Business Development Manager – Mining and Aggregates (VFDs) at Available in one of 9 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046572/Business-Development-Manager-Mining-and-Aggregates-VFDs",
-    "id": "abb-business-development-manager-mining-and-aggregates-vfds-multiple"
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -448,6 +458,16 @@
     "job_description": "hardware engineering job for the role 硬件测试-机器人研发校招 at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046167/硬件测试-机器人研发校招",
     "id": "abb--shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Support (w/m/d)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Technical Support (w/m/d) at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037872/Technical-Support-w-m-d",
+    "id": "abb-technical-support-w-m-d-multiple"
   },
   {
     "employer_name": "ABB",

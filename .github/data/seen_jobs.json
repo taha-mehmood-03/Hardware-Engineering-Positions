@@ -1,6 +1,4 @@
 [
-  "airbnb-staff-security-engineer-emea-united-kingdom",
-  "airbnb-staff-software-engineer-adaptive-risk-investigations-remote-usa",
   "airbnb-staff-software-engineer-ai-enablement-united-states",
   "airbnb-staff-software-engineer-analytics-infrastructure-united-states",
   "airbnb-staff-software-engineer-checkout-united-states",
@@ -2716,6 +2714,7 @@
   "arm-ml-engineer-bengaluru",
   "arm-ml-engineer-developer-tools-cambridge",
   "arm-ml-hw-modelling-engineer-lund",
+  "arm-ml-hw-modelling-engineer-raanana",
   "arm-ml-software-engineer-vulkan-cambridge",
   "arm-ml-system-integration-and-test-engineer-lund",
   "arm-modeling-engineer-bengaluru",
@@ -3223,6 +3222,7 @@
   "arm-software-engineer-ai-enablement-cambridge",
   "arm-software-engineer-ai-inference-cloud-seattle",
   "arm-software-engineer-ai-inference-runtime-seattle",
+  "arm-software-engineer-ai-networking-sophia-antipolis",
   "arm-software-engineer-application-runtime-munich",
   "arm-software-engineer-austin",
   "arm-software-engineer-automotive-munich",
