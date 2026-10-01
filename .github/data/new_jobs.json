@@ -1,5 +1,115 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer (Instrumentation)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer (Instrumentation) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-instrumentation/33099/92692428272",
+    "id": "arm-software-engineer-instrumentation-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SOC Verification Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior SOC Verification Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-soc-verification-engineer/33099/97861779392",
+    "id": "arm-soc-verification-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Power and Performance Engineer, PAI Platforms and Performance Analysis",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Power and Performance Engineer, PAI Platforms and Performance Analysis at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/power-and-performance-engineer-pai-platforms-and-performance-analysis/33099/77390277488",
+    "id": "arm-power-and-performance-engineer-pai-platforms-and-performance-analysis-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr Design Enablement, CAD",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Sr Design Enablement, CAD at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44633172",
+    "id": "micron-sr-design-enablement-cad-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Intern 2027: Advanced Solder Processes",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Hardware Intern 2027: Advanced Solder Processes at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134618&source=WEB_Search_NA",
+    "id": "ibm-hardware-intern-2027-advanced-solder-processes-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry level Hardware Developer - Rochester, MN -",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry level Hardware Developer - Rochester, MN - 2027 at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134990&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Principal Engineer - Cloud Infrastructure and Platform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Principal Engineer - Cloud Infrastructure and Platform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133985&source=WEB_Search_NA",
+    "id": "ibm-confluent-principal-engineer-cloud-infrastructure-and-platform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Product Manager, Cloud Networking",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Staff Product Manager, Cloud Networking at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132380&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-product-manager-cloud-networking-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Software Engineer - WarpStream",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Staff Software Engineer - WarpStream at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132722&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-software-engineer-warpstream-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Service Support Rep - Dallas Texas MVS",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Service Support Rep - Dallas Texas MVS at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134616&source=WEB_Search_NA",
+    "id": "ibm-service-support-rep-dallas-texas-mvs-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Spring Co-Op 2027 (Bellevue)",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Developer Spring Co-Op 2027 (Bellevue) at InternshipBellevue, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135256&source=WEB_Search_NA",
+    "id": "ibm-software-developer-spring-co-op-2027-bellevue-bellevue"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -21,13 +131,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center Tender/Quotation Specialist",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center Tender/Quotation Specialist at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046314/Data-Center-Tender-Quotation-Specialist",
-    "id": "abb-data-center-tender-quotation-specialist-multiple"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +161,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -78,6 +178,26 @@
     "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center Tender/Quotation Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center Tender/Quotation Specialist at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046314/Data-Center-Tender-Quotation-Specialist",
+    "id": "abb-data-center-tender-quotation-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -191,16 +311,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Control Electronics Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role R&D Senior Control Electronics Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer",
-    "id": "abb-r-d-senior-control-electronics-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Project Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -288,6 +398,16 @@
     "job_description": "hardware engineering job for the role Project Lead Engineer - Process Automation, Cheonan at Cheonan-si, Chungcheongnam-do, Republic of Korea",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047451/Project-Lead-Engineer-Process-Automation-Cheonan",
     "id": "abb-project-lead-engineer-process-automation-cheonan-cheonan-si"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Engineer (f/m/d) 80-100%",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Engineer (f/m/d) 80-100% at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046744/R-D-Engineer-f-m-d-80-100",
+    "id": "abb-r-d-engineer-f-m-d-80-100-quartino"
   },
   {
     "employer_name": "ABB",
@@ -381,6 +501,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Testing & Laboratory Specialist (f/m/d) 80-100%",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Testing & Laboratory Specialist (f/m/d) 80-100% at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046750/Testing-Laboratory-Specialist-f-m-d-80-100",
+    "id": "abb-testing-laboratory-specialist-f-m-d-80-100-quartino"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Trainee/Project Support",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -418,6 +548,16 @@
     "job_description": "hardware engineering job for the role Thesis Work – Investigating the environmental impact of AI & Future Technologies at ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046791/Thesis-Work-Investigating-the-environmental-impact-of-AI-Future-Technologies-at-ABB-Robotics",
     "id": "abb-thesis-work-investigating-the-environmental-impact-of-ai-future-technologies-at-abb-robotics-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Scrum Master 800xA Core Team",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Scrum Master 800xA Core Team at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047976/Scrum-Master-800xA-Core-Team",
+    "id": "abb-scrum-master-800xa-core-team-multiple"
   },
   {
     "employer_name": "ABB",
