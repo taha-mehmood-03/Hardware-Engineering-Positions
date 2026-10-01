@@ -1,123 +1,73 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer (Instrumentation)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Engineer (Instrumentation) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-instrumentation/33099/92692428272",
-    "id": "arm-software-engineer-instrumentation-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SOC Verification Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior SOC Verification Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-soc-verification-engineer/33099/97861779392",
-    "id": "arm-soc-verification-engineer-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power and Performance Engineer, PAI Platforms and Performance Analysis",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power and Performance Engineer, PAI Platforms and Performance Analysis at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/power-and-performance-engineer-pai-platforms-and-performance-analysis/33099/77390277488",
-    "id": "arm-power-and-performance-engineer-pai-platforms-and-performance-analysis-san-jose"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Sr Design Enablement, CAD",
-    "job_city": "Richardson",
+    "job_title": "Manager, IP Management",
+    "job_city": "Austin",
     "job_state": "Texas",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Sr Design Enablement, CAD at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/44633172",
-    "id": "micron-sr-design-enablement-cad-richardson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Intern 2027: Advanced Solder Processes",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Hardware Intern 2027: Advanced Solder Processes at InternshipYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134618&source=WEB_Search_NA",
-    "id": "ibm-hardware-intern-2027-advanced-solder-processes-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry level Hardware Developer - Rochester, MN -",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry level Hardware Developer - Rochester, MN - 2027 at Entry LevelROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134990&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-rochester-mn-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Principal Engineer - Cloud Infrastructure and Platform",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Principal Engineer - Cloud Infrastructure and Platform at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133985&source=WEB_Search_NA",
-    "id": "ibm-confluent-principal-engineer-cloud-infrastructure-and-platform-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Staff Product Manager, Cloud Networking",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Staff Product Manager, Cloud Networking at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132380&source=WEB_Search_NA",
-    "id": "ibm-confluent-staff-product-manager-cloud-networking-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Confluent - Staff Software Engineer - WarpStream",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Confluent - Staff Software Engineer - WarpStream at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132722&source=WEB_Search_NA",
-    "id": "ibm-confluent-staff-software-engineer-warpstream-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Service Support Rep - Dallas Texas MVS",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Service Support Rep - Dallas Texas MVS at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134616&source=WEB_Search_NA",
-    "id": "ibm-service-support-rep-dallas-texas-mvs-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Developer Spring Co-Op 2027 (Bellevue)",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Software Developer Spring Co-Op 2027 (Bellevue) at InternshipBellevue, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135256&source=WEB_Search_NA",
-    "id": "ibm-software-developer-spring-co-op-2027-bellevue-bellevue"
+    "job_description": "Hardware Engineering job for the role Senior Manager, IP Management at Austin, Texas, San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-ip-management/33099/101406206336",
+    "id": "arm-manager-ip-management-austin"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Project Engineer at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043315/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Country Corporate Counsel - US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Country Corporate Counsel - US at Available in one of 37 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US",
+    "id": "abb-country-corporate-counsel-us-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician-Gary, IN",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician-Gary, IN at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031520/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Sales Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047891/Sales-Engineer",
+    "id": "abb-sales-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Metallurgy Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Metallurgy Sales Manager at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager",
+    "id": "abb-metallurgy-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -131,83 +81,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Training & Capability Development Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Training & Capability Development Specialist at Available in one of 53 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047714/Training-Capability-Development-Specialist",
+    "id": "abb-training-capability-development-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "VFD Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
+    "id": "abb-vfd-technical-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Key Account Manager - Critical Industries at Available in one of 25 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00044363/Key-Account-Manager-Critical-Industries",
-    "id": "abb-key-account-manager-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Local Division Manager IEC Motors, North America",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
-    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center Tender/Quotation Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "IS Infrastructure Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center Tender/Quotation Specialist at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046314/Data-Center-Tender-Quotation-Specialist",
-    "id": "abb-data-center-tender-quotation-specialist-multiple"
+    "job_description": "hardware engineering job for the role IS Infrastructure Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00044078/IS-Infrastructure-Specialist",
+    "id": "abb-is-infrastructure-specialist-pinetops"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_title": "Senior Project Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Project Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048563/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -228,16 +138,6 @@
     "job_description": "hardware engineering job for the role Senior Project Engineer at Lake Mary, Florida, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037040/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-lake-mary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Staff Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Staff Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047287/Staff-Application-Engineer",
-    "id": "abb-staff-application-engineer-multiple"
   },
   {
     "employer_name": "ABB",
