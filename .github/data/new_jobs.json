@@ -1,5 +1,115 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems)",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems) at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135839&source=WEB_Search_NA",
+    "id": "ibm-quantum-control-systems-engineer-hardware-fpga-embedded-systems-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Compliance EMC HW Developer - Rochester, MN -",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Entry Level Compliance EMC HW Developer - Rochester, MN - 2027 at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131991&source=WEB_Search_NA",
+    "id": "ibm-entry-level-compliance-emc-hw-developer-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security & Compliance Engineer, Quantum",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Security & Compliance Engineer, Quantum at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134449&source=WEB_Search_NA",
+    "id": "ibm-security-compliance-engineer-quantum-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer-Data Platforms-Google -",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Data Engineer-Data Platforms-Google - 4 at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134982&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-data-platforms-google-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Advanced DRAM Lithography Engineer",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Advanced DRAM Lithography Engineer at ProfessionalAlbany, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134611&source=WEB_Search_NA",
+    "id": "ibm-advanced-dram-lithography-engineer-albany"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security Engineer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Security Engineer at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135532&source=WEB_Search_NA",
+    "id": "ibm-security-engineer-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Security Engineer (Sr. AppSec)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Staff Security Engineer (Sr. AppSec) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128542&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-security-engineer-sr-appsec-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Complex Project Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Complex Project Manager-Hybrid Cloud & Data - 2 at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135377&source=WEB_Search_NA",
+    "id": "ibm-complex-project-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Software Engineer - Control Plane Core Infrastructure",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Confluent - Staff Software Engineer - Control Plane Core Infrastructure at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135232&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-software-engineer-control-plane-core-infrastructure-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Interposer Technologist",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Quantum Interposer Technologist at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135813&source=WEB_Search_NA",
+    "id": "ibm-quantum-interposer-technologist-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Advanced DRAM Process Technologist",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Advanced DRAM Process Technologist at ProfessionalAlbany, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134621&source=WEB_Search_NA",
+    "id": "ibm-advanced-dram-process-technologist-albany"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
@@ -8,6 +118,16 @@
     "job_description": "hardware engineering job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Force Measurement Sales Specialist - Midwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Force Measurement Sales Specialist - Midwest at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049757/Force-Measurement-Sales-Specialist-Midwest",
+    "id": "abb-force-measurement-sales-specialist-midwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +171,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Senior PLC Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Data Center COE Senior PLC Technician at Available in one of 24 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049348/Data-Center-COE-Senior-PLC-Technician",
-    "id": "abb-data-center-coe-senior-plc-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Country Corporate Counsel - US",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,13 +181,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Industrial Machinery",
+    "job_title": "Data Center COE Senior PLC Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Industrial Machinery at Available in one of 47 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047109/Business-Development-Manager-Industrial-Machinery",
-    "id": "abb-business-development-manager-industrial-machinery-multiple"
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Data Center COE Senior PLC Technician at Available in one of 24 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049348/Data-Center-COE-Senior-PLC-Technician",
+    "id": "abb-data-center-coe-senior-plc-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -558,5 +668,75 @@
     "job_description": "hardware engineering job for the role 供应商质量经理 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046607/供应商质量经理",
     "id": "abb--beijing"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Design Verification Engineer (Digital Mixed Signal)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Design Verification Engineer (Digital Mixed Signal) at Santa Clara, CA, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25018295/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-design-verification-engineer-digital-mixed-signal-santa-clara"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Digital Verification",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Digital Verification at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Senior-Engineer--Digital-Verification_R266818?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-digital-verification-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Director, Analog Design",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Director, Analog Design at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Director--Analog-Design_R266814?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-director-analog-design-3-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog Design Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog Design Engineer at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Staff-Analog-Design-Engineer_R266815?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-design-engineer-3-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Central Applications",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Central Applications at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Central-Applications_R266993?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-central-applications-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Product Applications - Sensor Fusion/GNSS",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Product Applications - Sensor Fusion/GNSS at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Product-Applications---Sensor-Fusion-GNSS_R266023?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-product-applications-sensor-fusion-gnss-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Validation and Hardware Design Engineer (SerDes)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Principal Validation and Hardware Design Engineer (SerDes) at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Validation-and-Hardware-Design-Engineer_2602206?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-validation-and-hardware-design-engineer-serdes-santa-clara"
   }
 ]
