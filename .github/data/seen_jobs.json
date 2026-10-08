@@ -1,6 +1,4 @@
 [
-  "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-aurora",
-  "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-denver",
   "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering-aurora",
   "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-field-engineering-hilliard",
   "amazon-cleared-data-center-mechanical-field-engineer-adc-field-engineering-san-antonio",
@@ -25,6 +23,7 @@
   "amazon-cloud-hardware-development-engineer-ii-ai-ml-storage-server-team-cupertino",
   "amazon-cloud-hardware-development-engineer-ii-aws-hardware-engineering-services-specialized-platforms-and-servers-cupertino",
   "amazon-cloud-hardware-development-engineer-ii-bespoke-solutions-arlington",
+  "amazon-cloud-hardware-development-engineer-manufacturing-test-engineering-annapurna-labs-manufacturing-test-engineering-austin",
   "amazon-cloud-hardware-development-engineer-network-product-development-cupertino",
   "amazon-cloud-hardware-development-engineer-thermal-mechanical-seattle",
   "amazon-cloud-hardware-development-optics-cupertino",
@@ -4413,6 +4412,7 @@
   "google-hardware-reliability-engineer-mountain-view",
   "google-hardware-reliability-technologist-mountain-view",
   "google-hardware-signal-integrity-test-engineer-sunnyvale",
+  "google-hardware-software-co-design-engineer-sunnyvale",
   "google-hardware-system-architect-mountain-view",
   "google-hardware-system-design-engineer-sunnyvale",
   "google-hardware-system-integration-lab-generalist-goleta",
