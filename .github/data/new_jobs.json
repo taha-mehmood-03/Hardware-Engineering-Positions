@@ -1,55 +1,54 @@
 [
   {
-    "job_title": "Systems Development Engineer, EC2 Core Platforms Engineering",
+    "job_title": "Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Systems Development Engineer, EC2 Core Platforms Engineering at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10574736/systems-development-engineer-ec2-core-platforms-engineering",
-    "job_posted_at": "2026-10-09T15:20:17.161Z",
-    "job_posted_at_datetime_utc": "2026-10-09T15:20:17.161Z",
-    "id": "amazon-systems-development-engineer-ec2-core-platforms-engineering-seattle"
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10516878/cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers",
+    "job_posted_at": "2026-10-04T22:16:31.398Z",
+    "job_posted_at_datetime_utc": "2026-10-04T22:16:31.398Z",
+    "id": "amazon-cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers-cupertino"
   },
   {
-    "job_title": "Robotics Systems Engineer I, Tech Deployment",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Robotics Systems Engineer I, Tech Deployment at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10574564/robotics-systems-engineer-i-tech-deployment",
-    "job_posted_at": "2026-10-09T13:20:17.161Z",
-    "job_posted_at_datetime_utc": "2026-10-09T13:20:17.161Z",
-    "id": "amazon-robotics-systems-engineer-i-tech-deployment-seattle"
+    "employer_name": "Micron",
+    "job_title": "Intern - SSD Firmware - CICD",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - SSD Firmware - CICD at Longmont, Colorado, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44892749",
+    "id": "micron-intern-ssd-firmware-cicd-longmont"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior CPU RTL Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "26 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior CPU RTL Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95657833256624838-senior-cpu-rtl-engineer-silicon?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-cpu-rtl-engineer-austin"
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Design Engineer, DRAM Technology and Products",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 days ago",
+    "job_description": "hardware engineering job for the role New College Grad - Design Engineer, DRAM Technology and Products at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/43025735",
+    "id": "micron-new-college-grad-design-engineer-dram-technology-and-products-boise"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Design Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-design-engineer/33099/100784483152",
-    "id": "arm-design-engineer-san-diego"
+    "employer_name": "Micron",
+    "job_title": "Digital Circuit Design Engineer - DRAM Design",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Digital Circuit Design Engineer - DRAM Design at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44866450",
+    "id": "micron-digital-circuit-design-engineer-dram-design-boise"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Physical Design Intern",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Physical Design Intern at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272",
-    "id": "arm-physical-design-intern-sophia-antipolis"
+    "employer_name": "Micron",
+    "job_title": "Technical Program Manager, AI Strategic Initiatives",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager, AI Strategic Initiatives at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44717347",
+    "id": "micron-technical-program-manager-ai-strategic-initiatives-boise"
   },
   {
     "employer_name": "ABB",
@@ -93,6 +92,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "VFD Technical Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
+    "id": "abb-vfd-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -113,36 +122,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Industrial Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Industrial Machinery at Available in one of 47 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047109/Business-Development-Manager-Industrial-Machinery",
-    "id": "abb-business-development-manager-industrial-machinery-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Inventory Control Associate",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038827/Inventory-Control-Associate",
-    "id": "abb-inventory-control-associate-phoenix"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Warehouse/Internal Logistics Operator - (Reach Truck)",
     "job_city": "Phoenix",
     "job_state": "Arizona",
@@ -150,6 +129,26 @@
     "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator - (Reach Truck) at Phoenix, Arizona, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00044578/Warehouse-Internal-Logistics-Operator-Reach-Truck",
     "id": "abb-warehouse-internal-logistics-operator-reach-truck-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Hoisting Service Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Hoisting Service Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047818/Hoisting-Service-Engineer",
+    "id": "abb-hoisting-service-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
   },
   {
     "employer_name": "ABB",
