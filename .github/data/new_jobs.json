@@ -1,103 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Performance –Staff Microarchitecture  Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role CPU Performance –Staff Microarchitecture  Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/cpu-performance-staff-microarchitecture-engineer/33099/101706497232",
-    "id": "arm-cpu-performance-staff-microarchitecture-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solution Sales Engineer - Confluent",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Solution Sales Engineer - Confluent at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135928&source=WEB_Search_NA",
-    "id": "ibm-solution-sales-engineer-confluent-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Interposer Integration Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Quantum Interposer Integration Engineer at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135833&source=WEB_Search_NA",
-    "id": "ibm-quantum-interposer-integration-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI/ML Engineer Intern 2027 - SAN JOSE",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role AI/ML Engineer Intern 2027 - SAN JOSE at InternshipSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135597&source=WEB_Search_NA",
-    "id": "ibm-ai-ml-engineer-intern-2027-san-jose-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Applied AI Specialist-Application Operations",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Applied AI Specialist-Application Operations at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135184&source=WEB_Search_NA",
-    "id": "ibm-applied-ai-specialist-application-operations-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2027 Entry-Level — Software Developer, AI & Marketing Platforms",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 2027 Entry-Level — Software Developer, AI & Marketing Platforms at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133448&source=WEB_Search_NA",
-    "id": "ibm-2027-entry-level-software-developer-ai-marketing-platforms-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2027 Intern — Software Developer, AI & Marketing Platforms",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role 2027 Intern — Software Developer, AI & Marketing Platforms at InternshipNew York, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133462&source=WEB_Search_NA",
-    "id": "ibm-2027-intern-software-developer-ai-marketing-platforms-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Supply Chain Operations",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Supply Chain Operations 2027 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133111&source=WEB_Search_NA",
-    "id": "ibm-entry-level-supply-chain-operations-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Forward Deployed Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Forward Deployed Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135367&source=WEB_Search_NA",
-    "id": "ibm-forward-deployed-architect-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Product Manager 2027 - LOWELL",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Entry Level Product Manager 2027 - LOWELL at Entry LevelLOWELL, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134884&source=WEB_Search_NA",
-    "id": "ibm-entry-level-product-manager-2027-lowell-lowell"
+    "employer_name": "ABB",
+    "job_title": "Force Measurement Sales Specialist - Midwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Force Measurement Sales Specialist - Midwest at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049757/Force-Measurement-Sales-Specialist-Midwest",
+    "id": "abb-force-measurement-sales-specialist-midwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -108,16 +18,6 @@
     "job_description": "hardware engineering job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Force Measurement Sales Specialist - Midwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Force Measurement Sales Specialist - Midwest at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049757/Force-Measurement-Sales-Specialist-Midwest",
-    "id": "abb-force-measurement-sales-specialist-midwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -178,6 +78,16 @@
     "job_description": "hardware engineering job for the role Data Center COE Senior PLC Technician at Available in one of 24 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00049348/Data-Center-COE-Senior-PLC-Technician",
     "id": "abb-data-center-coe-senior-plc-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Country Corporate Counsel - US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Country Corporate Counsel - US at Available in one of 37 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US",
+    "id": "abb-country-corporate-counsel-us-multiple"
   },
   {
     "employer_name": "ABB",
@@ -548,6 +458,16 @@
     "job_description": "hardware engineering job for the role Field Service Engineer at Ratingen, North Rhine-Westphalia, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043571/Field-Service-Engineer",
     "id": "abb-field-service-engineer-ratingen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Engineer – Control and Drive Technology (f/m/d)",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Project Engineer – Control and Drive Technology (f/m/d) at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047812/Project-Engineer-Control-and-Drive-Technology-f-m-d",
+    "id": "abb-project-engineer-control-and-drive-technology-f-m-d-mannheim"
   },
   {
     "employer_name": "ABB",
