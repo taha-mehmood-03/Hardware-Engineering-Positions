@@ -6,8 +6,8 @@
     "job_state": "WA",
     "job_description": "hardware engineering job for the role Cloud HW Development Engineer, AWS Nitro SSD at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580356/cloud-hw-development-engineer-aws-nitro-ssd",
-    "job_posted_at": "2026-10-15T19:13:27.949Z",
-    "job_posted_at_datetime_utc": "2026-10-15T19:13:27.949Z",
+    "job_posted_at": "2026-10-16T16:19:42.386Z",
+    "job_posted_at_datetime_utc": "2026-10-16T16:19:42.386Z",
     "id": "amazon-cloud-hw-development-engineer-aws-nitro-ssd-seattle"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-15T17:13:27.949Z",
-    "job_posted_at_datetime_utc": "2026-10-15T17:13:27.949Z",
+    "job_posted_at": "2026-10-15T19:19:42.386Z",
+    "job_posted_at_datetime_utc": "2026-10-15T19:19:42.386Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
   },
   {
@@ -28,9 +28,29 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS - Early Career (2026) at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
-    "job_posted_at": "2026-10-14T15:13:27.949Z",
-    "job_posted_at_datetime_utc": "2026-10-14T15:13:27.949Z",
+    "job_posted_at": "2026-10-14T19:19:42.386Z",
+    "job_posted_at_datetime_utc": "2026-10-14T19:19:42.386Z",
     "id": "amazon-cloud-hardware-development-engineer-aws-early-career-2026-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director, Technical Sourcing",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director, Technical Sourcing at San Jose, California, San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-technical-sourcing/33099/101274739136",
+    "id": "arm-director-technical-sourcing-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineering Intern – Workflow Monitoring and Analytics",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineering Intern – Workflow Monitoring and Analytics at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/software-engineering-intern-workflow-monitoring-and-analytics/33099/102035670144",
+    "id": "arm-software-engineering-intern-workflow-monitoring-and-analytics-sophia-antipolis"
   },
   {
     "employer_name": "ABB",
@@ -54,16 +74,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Quality Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050046/Quality-Engineer",
-    "id": "abb-quality-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,6 +81,16 @@
     "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
     "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Quality Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050046/Quality-Engineer",
+    "id": "abb-quality-engineer-multiple"
   },
   {
     "employer_name": "ABB",
