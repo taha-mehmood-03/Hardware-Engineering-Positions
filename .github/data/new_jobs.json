@@ -6,8 +6,8 @@
     "job_state": "WA",
     "job_description": "hardware engineering job for the role Cloud HW Development Engineer, AWS Nitro SSD at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580356/cloud-hw-development-engineer-aws-nitro-ssd",
-    "job_posted_at": "2026-10-17T00:39:40.266Z",
-    "job_posted_at_datetime_utc": "2026-10-17T00:39:40.266Z",
+    "job_posted_at": "2026-10-17T05:26:28.541Z",
+    "job_posted_at_datetime_utc": "2026-10-17T05:26:28.541Z",
     "id": "amazon-cloud-hw-development-engineer-aws-nitro-ssd-seattle"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-16T00:39:40.266Z",
-    "job_posted_at_datetime_utc": "2026-10-16T00:39:40.266Z",
+    "job_posted_at": "2026-10-16T05:26:28.541Z",
+    "job_posted_at_datetime_utc": "2026-10-16T05:26:28.541Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
   },
   {
@@ -28,8 +28,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS - Early Career (2026) at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
-    "job_posted_at": "2026-10-15T00:39:40.266Z",
-    "job_posted_at_datetime_utc": "2026-10-15T00:39:40.266Z",
+    "job_posted_at": "2026-10-14T05:26:28.541Z",
+    "job_posted_at_datetime_utc": "2026-10-14T05:26:28.541Z",
     "id": "amazon-cloud-hardware-development-engineer-aws-early-career-2026-cupertino"
   },
   {
@@ -44,16 +44,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,6 +51,16 @@
     "job_description": "hardware engineering job for the role Data Center COE Project Specialist at Available in one of 11 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
     "id": "abb-data-center-coe-project-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Data Center COE Project Manager at Available in one of 15 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -124,13 +124,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -661,5 +661,85 @@
     "job_description": "hardware engineering job for the role 供应商质量经理 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046607/供应商质量经理",
     "id": "abb--beijing"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director - Platform Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Director - Platform Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Director---Platform-Engineering_2604906?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-platform-engineering-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Network Engineer/AI Fabrics Architect, AI Solutions Lab",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Network Engineer/AI Fabrics Architect, AI Solutions Lab at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Network-Engineer-AI-Fabrics-Architect--AI-Solutions-Lab_2604957?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-network-engineer-ai-fabrics-architect-ai-solutions-lab-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, System Diagnostics",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Principal Engineer, System Diagnostics at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--System-Diagnostics_2604970-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-system-diagnostics-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Signal Integrity",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Principal Engineer, Signal Integrity at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Signal-Integrity_2604961?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-signal-integrity-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Power Integrity",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Principal Engineer, Power Integrity at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Power-Integrity_2604962?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-power-integrity-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Firmware Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer_2604966?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Photonics System Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Principal Engineer, Photonics System Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Photonics-System-Engineering_2604965-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-photonics-system-engineering-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "System Diagnostics Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Principal  System Diagnostics Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal--System-Diagnostics-Engineer_2604971?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-system-diagnostics-engineer-santa-clara"
   }
 ]
