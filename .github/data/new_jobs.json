@@ -6,8 +6,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-15T12:08:13.642Z",
-    "job_posted_at_datetime_utc": "2026-10-15T12:08:13.642Z",
+    "job_posted_at": "2026-10-19T16:01:39.554Z",
+    "job_posted_at_datetime_utc": "2026-10-19T16:01:39.554Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
   },
   {
@@ -17,49 +17,9 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS - Early Career (2026) at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
-    "job_posted_at": "2026-10-14T12:08:13.642Z",
-    "job_posted_at_datetime_utc": "2026-10-14T12:08:13.642Z",
+    "job_posted_at": "2026-10-14T19:01:39.554Z",
+    "job_posted_at_datetime_utc": "2026-10-14T19:01:39.554Z",
     "id": "amazon-cloud-hardware-development-engineer-aws-early-career-2026-cupertino"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer – DSP & AI Optimisation",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Software Engineer – DSP & AI Optimisation at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-dsp-and-ai-optimisation/33099/102151874032",
-    "id": "arm-software-engineer-dsp-ai-optimisation-cambridge"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Coordinator",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Field Service Coordinator at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047839/Field-Service-Coordinator",
-    "id": "abb-field-service-coordinator-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior PLC Field Service Technician – Data Center Power Systems",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Senior PLC Field Service Technician – Data Center Power Systems at Available in one of 26 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049351/Senior-PLC-Field-Service-Technician-Data-Center-Power-Systems",
-    "id": "abb-senior-plc-field-service-technician-data-center-power-systems-multiple"
   },
   {
     "employer_name": "ABB",
@@ -73,6 +33,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Field Service Coordinator",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Field Service Coordinator at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047839/Field-Service-Coordinator",
+    "id": "abb-field-service-coordinator-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Development Manager - Southwest",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -83,6 +53,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior PLC Field Service Technician – Data Center Power Systems",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role Senior PLC Field Service Technician – Data Center Power Systems at Available in one of 26 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049351/Senior-PLC-Field-Service-Technician-Data-Center-Power-Systems",
+    "id": "abb-senior-plc-field-service-technician-data-center-power-systems-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Contractor Key Account Manager - West",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Contractor Key Account Manager - West at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
+    "id": "abb-contractor-key-account-manager-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Warehouse/Internal Logistics Operator",
     "job_city": "Phoenix",
     "job_state": "Arizona",
@@ -90,26 +80,6 @@
     "job_description": "hardware engineering job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042719/Warehouse-Internal-Logistics-Operator",
     "id": "abb-warehouse-internal-logistics-operator-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -130,6 +100,26 @@
     "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
     "id": "abb-vfd-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -313,6 +303,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Control Hardware Team Lead (f/m/d) 80-100%",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Control Hardware Team Lead (f/m/d) 80-100% at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047852/R-D-Control-Hardware-Team-Lead-f-m-d-80-100",
+    "id": "abb-r-d-control-hardware-team-lead-f-m-d-80-100-untersiggenthal"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -493,6 +493,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Field Service Engineer - Automation Solutions (f/m/d)",
+    "job_city": "Ratingen",
+    "job_state": "North Rhine-Westphalia",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Field Service Engineer - Automation Solutions (f/m/d) at Ratingen, North Rhine-Westphalia, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043571/Field-Service-Engineer-Automation-Solutions-f-m-d",
+    "id": "abb-field-service-engineer-automation-solutions-f-m-d-ratingen"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Engineer – Control and Drive Technology (f/m/d)",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
@@ -500,6 +510,16 @@
     "job_description": "hardware engineering job for the role Project Engineer – Control and Drive Technology (f/m/d) at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047812/Project-Engineer-Control-and-Drive-Technology-f-m-d",
     "id": "abb-project-engineer-control-and-drive-technology-f-m-d-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation Project Lead Engineer (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
+    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
@@ -520,16 +540,6 @@
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
     "id": "abb-80-100-r-d-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Project Lead Engineer (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
-    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
@@ -570,6 +580,16 @@
     "job_description": "hardware engineering job for the role Senior R&D Firmware Engineer (m/f/d) at Heidelberg, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047770/Senior-R-D-Firmware-Engineer-m-f-d",
     "id": "abb-senior-r-d-firmware-engineer-m-f-d-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Master´s thesis – Bridging the protocol gap: Network independent industrial drive configuration",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Master´s thesis – Bridging the protocol gap: Network independent industrial drive configuration at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050884/Master´s-thesis-Bridging-the-protocol-gap-Network-independent-industrial-drive-configuration",
+    "id": "abb-master-s-thesis-bridging-the-protocol-gap-network-independent-industrial-drive-configuration-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -630,15 +650,5 @@
     "job_description": "hardware engineering job for the role Senior Power Electronics Engineer at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043827/Senior-Power-Electronics-Engineer",
     "id": "abb-senior-power-electronics-engineer-bergamo"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "供应商质量经理",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "hardware engineering job for the role 供应商质量经理 at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00046607/供应商质量经理",
-    "id": "abb--beijing"
   }
 ]
