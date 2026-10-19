@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Cloud HW Development Engineer, AWS Nitro SSD",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Cloud HW Development Engineer, AWS Nitro SSD at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580356/cloud-hw-development-engineer-aws-nitro-ssd",
-    "job_posted_at": "2026-10-17T00:50:11.057Z",
-    "job_posted_at_datetime_utc": "2026-10-17T00:50:11.057Z",
-    "id": "amazon-cloud-hw-development-engineer-aws-nitro-ssd-seattle"
-  },
-  {
     "job_title": "Applied Scientist, Center for Quantum Computing, Physical Design and Simulation",
     "employer_name": "Amazon",
     "job_city": "San Francisco",
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-16T00:50:11.057Z",
-    "job_posted_at_datetime_utc": "2026-10-16T00:50:11.057Z",
+    "job_posted_at": "2026-10-15T05:44:29.401Z",
+    "job_posted_at_datetime_utc": "2026-10-15T05:44:29.401Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
   },
   {
@@ -28,8 +17,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS - Early Career (2026) at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
-    "job_posted_at": "2026-10-15T00:50:11.057Z",
-    "job_posted_at_datetime_utc": "2026-10-15T00:50:11.057Z",
+    "job_posted_at": "2026-10-14T05:44:29.401Z",
+    "job_posted_at_datetime_utc": "2026-10-14T05:44:29.401Z",
     "id": "amazon-cloud-hardware-development-engineer-aws-early-career-2026-cupertino"
   },
   {
@@ -94,16 +83,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Country Corporate Counsel - US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Country Corporate Counsel - US at Available in one of 37 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US",
-    "id": "abb-country-corporate-counsel-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center COE Senior PLC Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -111,6 +90,16 @@
     "job_description": "hardware engineering job for the role Data Center COE Senior PLC Technician at Available in one of 24 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00049348/Data-Center-COE-Senior-PLC-Technician",
     "id": "abb-data-center-coe-senior-plc-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Country Corporate Counsel - US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Country Corporate Counsel - US at Available in one of 37 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US",
+    "id": "abb-country-corporate-counsel-us-multiple"
   },
   {
     "employer_name": "ABB",
@@ -411,6 +400,16 @@
     "job_description": "hardware engineering job for the role Sales Specialist at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033111/Sales-Specialist",
     "id": "abb-sales-specialist-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "硬件研发实习生",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role 硬件研发实习生 at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050279/硬件研发实习生",
+    "id": "abb--xiamen"
   },
   {
     "employer_name": "ABB",
