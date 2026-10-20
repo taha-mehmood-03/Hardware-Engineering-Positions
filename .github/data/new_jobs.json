@@ -1,14 +1,25 @@
 [
   {
-    "job_title": "Hardware Development Engineer Intern , Winter 2027",
+    "job_title": "Automation Hardware Dev Engineer, OneMHS",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer Intern , Winter 2027 at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10584121/hardware-development-engineer-intern-winter-2027",
-    "job_posted_at": "2026-10-20T16:21:34.611Z",
-    "job_posted_at_datetime_utc": "2026-10-20T16:21:34.611Z",
-    "id": "amazon-hardware-development-engineer-intern-winter-2027-bellevue"
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "hardware engineering job for the role Automation Hardware Dev Engineer, OneMHS at Atlanta, GA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10584517/automation-hardware-dev-engineer-onemhs",
+    "job_posted_at": "2026-10-20T20:07:17.041Z",
+    "job_posted_at_datetime_utc": "2026-10-20T20:07:17.041Z",
+    "id": "amazon-automation-hardware-dev-engineer-onemhs-atlanta"
+  },
+  {
+    "job_title": "SDE II, AWS Firmware Builder Services",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role SDE II, AWS Firmware Builder Services at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10584499/sde-ii-aws-firmware-builder-services",
+    "job_posted_at": "2026-10-20T19:07:17.041Z",
+    "job_posted_at_datetime_utc": "2026-10-20T19:07:17.041Z",
+    "id": "amazon-sde-ii-aws-firmware-builder-services-cupertino"
   },
   {
     "job_title": "Cloud Hardware Development Engineer - Manufacturing Test Engineering, Annapurna Labs, Manufacturing Test Engineering",
@@ -17,8 +28,8 @@
     "job_state": "TX",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer - Manufacturing Test Engineering, Annapurna Labs, Manufacturing Test Engineering at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10572925/cloud-hardware-development-engineer-manufacturing-test-engineering-annapurna-labs-manufacturing-test-engineering",
-    "job_posted_at": "2026-10-19T21:21:34.611Z",
-    "job_posted_at_datetime_utc": "2026-10-19T21:21:34.611Z",
+    "job_posted_at": "2026-10-19T22:07:17.041Z",
+    "job_posted_at_datetime_utc": "2026-10-19T22:07:17.041Z",
     "id": "amazon-cloud-hardware-development-engineer-manufacturing-test-engineering-annapurna-labs-manufacturing-test-engineering-austin"
   },
   {
@@ -28,8 +39,8 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-19T18:21:34.611Z",
-    "job_posted_at_datetime_utc": "2026-10-19T18:21:34.611Z",
+    "job_posted_at": "2026-10-19T22:07:17.041Z",
+    "job_posted_at_datetime_utc": "2026-10-19T22:07:17.041Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
   },
   {
@@ -39,39 +50,19 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS - Early Career (2026) at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
-    "job_posted_at": "2026-10-14T18:21:34.611Z",
-    "job_posted_at_datetime_utc": "2026-10-14T18:21:34.611Z",
+    "job_posted_at": "2026-10-14T22:07:17.041Z",
+    "job_posted_at_datetime_utc": "2026-10-14T22:07:17.041Z",
     "id": "amazon-cloud-hardware-development-engineer-aws-early-career-2026-cupertino"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Application Developer/Tester",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Application Developer/Tester at ProfessionalHouston, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137277&source=WEB_Search_NA",
-    "id": "ibm-application-developer-tester-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - OREGON",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representative - OREGON at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137493&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-oregon-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - IDAHO",
-    "job_city": "BOISE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role System Services Representative - IDAHO at ProfessionalBOISE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137489&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-idaho-boise"
+    "employer_name": "ABB",
+    "job_title": "Field Service Coordinator",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Field Service Coordinator at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047839/Field-Service-Coordinator",
+    "id": "abb-field-service-coordinator-multiple"
   },
   {
     "employer_name": "ABB",
@@ -95,16 +86,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Coordinator",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Field Service Coordinator at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047839/Field-Service-Coordinator",
-    "id": "abb-field-service-coordinator-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager HVACR - West",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -125,16 +106,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "VFD Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -142,16 +113,6 @@
     "job_description": "hardware engineering job for the role VFD Technical Support Specialist at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
     "id": "abb-vfd-technical-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Industrial Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Industrial Machinery at Available in one of 47 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047109/Business-Development-Manager-Industrial-Machinery",
-    "id": "abb-business-development-manager-industrial-machinery-multiple"
   },
   {
     "employer_name": "ABB",
@@ -165,6 +126,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Commercial Proposal Engineer at Available in one of 172 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Industrial Machinery",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Industrial Machinery at Available in one of 47 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047109/Business-Development-Manager-Industrial-Machinery",
+    "id": "abb-business-development-manager-industrial-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Hoisting Service Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -172,6 +153,16 @@
     "job_description": "hardware engineering job for the role Hoisting Service Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047818/Hoisting-Service-Engineer",
     "id": "abb-hoisting-service-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Resident Field Service Technician-Gary, IN",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Resident Field Service Technician-Gary, IN at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
+    "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
@@ -545,16 +536,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Automation Project Lead Engineer (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
-    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "(80 - 100%) R&D Senior Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -572,6 +553,16 @@
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
     "id": "abb-80-100-r-d-engineer-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation Project Lead Engineer (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
+    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
@@ -682,5 +673,15 @@
     "job_description": "hardware engineering job for the role Senior Power Electronics Engineer at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043827/Senior-Power-Electronics-Engineer",
     "id": "abb-senior-power-electronics-engineer-bergamo"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Facilities Controls Engineer | PLC/SCADA Application Developer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Facilities Controls Engineer | PLC/SCADA Application Developer at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25018836/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-facilities-controls-engineer-plc-scada-application-developer-dallas"
   }
 ]

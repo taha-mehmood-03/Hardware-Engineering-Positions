@@ -1,6 +1,4 @@
 [
-  "amazon-data-center-technician-dcc-communities-berwick",
-  "amazon-data-center-technician-dcc-communities-louisa",
   "amazon-data-engineer-amazon-ads-identity-aip-new-york",
   "amazon-data-engineer-amazon-business-flywheel-inputs-seattle",
   "amazon-data-engineer-aws-infrastructure-supply-chain-intelligence-bellevue",
@@ -603,6 +601,7 @@
   "amazon-sde-embedded-linux-amazon-leo-redmond",
   "amazon-sde-embedded-networking-amazon-leo-austin",
   "amazon-sde-firmware-aws-hardware-engineering-firmware-development-cupertino",
+  "amazon-sde-ii-aws-firmware-builder-services-cupertino",
   "amazon-sde-ii-knfe-seattle",
   "amazon-sde-ii-life-sciences-applied-ai-seattle",
   "amazon-sde-ii-ml-infra-services-annapurna-labs-seattle",
@@ -9844,6 +9843,7 @@
   "texas-instruments-early-career-ai-for-analog-design-engineer-dallas",
   "texas-instruments-embedded-systems-engineer-aerospace-defense-dallas",
   "texas-instruments-epi-process-engineer-lehi",
+  "texas-instruments-facilities-controls-engineer-plc-scada-application-developer-dallas",
   "texas-instruments-facilities-technician-dallas",
   "texas-instruments-field-applications-engineer-microcontrollers-",
   "texas-instruments-field-applications-engineer-microcontrollers-novi-michigan-southfield",
