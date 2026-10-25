@@ -1,24 +1,36 @@
 [
   {
+    "job_title": "Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer, AWS Hardware Engineering Services, Specialized Platforms and Servers at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10516878/cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers",
+    "job_posted_at": "2026-10-21T23:48:54.891Z",
+    "job_posted_at_datetime_utc": "2026-10-21T23:48:54.891Z",
+    "id": "amazon-cloud-hardware-development-engineer-aws-hardware-engineering-services-specialized-platforms-and-servers-cupertino"
+  },
+  {
+    "job_title": "Cloud Hardware Development Engineer - Manufacturing Test Engineering, Annapurna Labs, Manufacturing Test Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "hardware engineering job for the role Cloud Hardware Development Engineer - Manufacturing Test Engineering, Annapurna Labs, Manufacturing Test Engineering at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10572925/cloud-hardware-development-engineer-manufacturing-test-engineering-annapurna-labs-manufacturing-test-engineering",
+    "job_posted_at": "2026-10-19T23:48:54.892Z",
+    "job_posted_at_datetime_utc": "2026-10-19T23:48:54.892Z",
+    "id": "amazon-cloud-hardware-development-engineer-manufacturing-test-engineering-annapurna-labs-manufacturing-test-engineering-austin"
+  },
+  {
     "job_title": "Applied Scientist, Center for Quantum Computing, Physical Design and Simulation",
     "employer_name": "Amazon",
     "job_city": "San Francisco",
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Applied Scientist, Center for Quantum Computing, Physical Design and Simulation at San Francisco, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10580290/applied-scientist-center-for-quantum-computing-physical-design-and-simulation",
-    "job_posted_at": "2026-10-19T21:26:32.020Z",
-    "job_posted_at_datetime_utc": "2026-10-19T21:26:32.020Z",
+    "job_posted_at": "2026-10-19T23:48:54.892Z",
+    "job_posted_at_datetime_utc": "2026-10-19T23:48:54.892Z",
     "id": "amazon-applied-scientist-center-for-quantum-computing-physical-design-and-simulation-san-francisco"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer - CPU group",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer - CPU group at Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/senior-verification-engineer-cpu-group/33099/102430422896",
-    "id": "arm-verification-engineer-cpu-group-bristol"
   },
   {
     "employer_name": "ABB",
@@ -32,16 +44,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -52,13 +54,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Oil & Gas/Chemical Segment Leader",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Oil & Gas/Chemical Segment Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050056/Oil-Gas-Chemical-Segment-Leader",
-    "id": "abb-oil-gas-chemical-segment-leader-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -69,16 +71,6 @@
     "job_description": "hardware engineering job for the role Quality Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050046/Quality-Engineer",
     "id": "abb-quality-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -102,6 +94,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
+    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Oil & Gas/Chemical Segment Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Oil & Gas/Chemical Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050056/Oil-Gas-Chemical-Segment-Leader",
+    "id": "abb-oil-gas-chemical-segment-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -112,13 +124,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
+    "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
-    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -502,6 +514,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Automation Project Lead Engineer (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
+    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(80 - 100%) R&D Senior Engineer",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -519,16 +541,6 @@
     "job_description": "hardware engineering job for the role (80 - 100%) R&D Engineer at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042999/-80-100-R-D-Engineer",
     "id": "abb-80-100-r-d-engineer-quartino"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Project Lead Engineer (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Automation Project Lead Engineer (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047677/Automation-Project-Lead-Engineer-80-100",
-    "id": "abb-automation-project-lead-engineer-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
@@ -572,16 +584,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior R&D Firmware Engineer (m/f/d)",
-    "job_city": "Heidelberg",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior R&D Firmware Engineer (m/f/d) at Heidelberg, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00047770/Senior-R-D-Firmware-Engineer-m-f-d",
-    "id": "abb-senior-r-d-firmware-engineer-m-f-d-heidelberg"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -589,6 +591,16 @@
     "job_description": "hardware engineering job for the role Project Engineer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050194/Project-Engineer",
     "id": "abb-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior R&D Firmware Engineer (m/f/d)",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior R&D Firmware Engineer (m/f/d) at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00047770/Senior-R-D-Firmware-Engineer-m-f-d",
+    "id": "abb-senior-r-d-firmware-engineer-m-f-d-heidelberg"
   },
   {
     "employer_name": "ABB",
