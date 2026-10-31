@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Hardware Dev Engineer I, Prime Air, Drone Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Hardware Dev Engineer I, Prime Air, Drone Engineering at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
-    "job_posted_at": "2026-10-31T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-10-31T00:00:00.000Z",
-    "id": "amazon-hardware-dev-engineer-i-prime-air-drone-engineering-seattle"
-  },
-  {
     "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast",
     "employer_name": "Amazon",
     "job_city": "Atlanta",
     "job_state": "GA",
     "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast at Atlanta, GA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
-    "job_posted_at": "2026-10-30T16:01:22.318Z",
-    "job_posted_at_datetime_utc": "2026-10-30T16:01:22.318Z",
+    "job_posted_at": "2026-10-30T15:20:34.708Z",
+    "job_posted_at_datetime_utc": "2026-10-30T15:20:34.708Z",
     "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast-atlanta"
   },
   {
@@ -28,39 +17,19 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role ECAD Application Development Engineer, Design Technologies at Sunnyvale, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10519810/ecad-application-development-engineer-design-technologies",
-    "job_posted_at": "2026-10-30T02:01:22.317Z",
-    "job_posted_at_datetime_utc": "2026-10-30T02:01:22.317Z",
+    "job_posted_at": "2026-10-30T08:20:34.707Z",
+    "job_posted_at_datetime_utc": "2026-10-30T08:20:34.707Z",
     "id": "amazon-ecad-application-development-engineer-design-technologies-sunnyvale"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Gas Insulated Switchgear Commissioning Engineer",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Gas Insulated Switchgear Commissioning Engineer at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049613/Gas-Insulated-Switchgear-Commissioning-Engineer",
-    "id": "abb-gas-insulated-switchgear-commissioning-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Director, International Business Transformation & Strategy Execution (flexible location)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Director, International Business Transformation & Strategy Execution (flexible location) at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049173/Director-International-Business-Transformation-Strategy-Execution-flexible-location",
-    "id": "abb-director-international-business-transformation-strategy-execution-flexible-location-multiple"
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -74,6 +43,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Gas Insulated Switchgear Commissioning Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Gas Insulated Switchgear Commissioning Engineer at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049613/Gas-Insulated-Switchgear-Commissioning-Engineer",
+    "id": "abb-gas-insulated-switchgear-commissioning-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Operations Manager — Data Center Division",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -84,13 +63,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_title": "Director, International Business Transformation & Strategy Execution (flexible location)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Director, International Business Transformation & Strategy Execution (flexible location) at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049173/Director-International-Business-Transformation-Strategy-Execution-flexible-location",
+    "id": "abb-director-international-business-transformation-strategy-execution-flexible-location-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
   },
   {
     "employer_name": "ABB",
@@ -124,13 +113,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
+    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
+    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
+    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -631,15 +620,5 @@
     "job_description": "hardware engineering job for the role 供应商质量经理 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046607/供应商质量经理",
     "id": "abb--beijing"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "PCB Layout Engineer",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role PCB Layout Engineer at US, NC, Durham",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/PCB-Design-Engineer_R263848?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-pcb-layout-engineer-us"
   }
 ]
