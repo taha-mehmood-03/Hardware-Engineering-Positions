@@ -1,25 +1,25 @@
 [
   {
-    "job_title": "ECAD Application Development Engineer, Design Technologies",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "hardware engineering job for the role ECAD Application Development Engineer, Design Technologies at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10519810/ecad-application-development-engineer-design-technologies",
-    "job_posted_at": "2026-10-30T11:41:11.824Z",
-    "job_posted_at_datetime_utc": "2026-10-30T11:41:11.824Z",
-    "id": "amazon-ecad-application-development-engineer-design-technologies-sunnyvale"
-  },
-  {
     "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast",
     "employer_name": "Amazon",
     "job_city": "Atlanta",
     "job_state": "GA",
     "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast at Atlanta, GA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
-    "job_posted_at": "2026-10-30T11:41:11.824Z",
-    "job_posted_at_datetime_utc": "2026-10-30T11:41:11.824Z",
+    "job_posted_at": "2026-10-30T17:39:35.220Z",
+    "job_posted_at_datetime_utc": "2026-10-30T17:39:35.220Z",
     "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast-atlanta"
+  },
+  {
+    "job_title": "ECAD Application Development Engineer, Design Technologies",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role ECAD Application Development Engineer, Design Technologies at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10519810/ecad-application-development-engineer-design-technologies",
+    "job_posted_at": "2026-10-29T17:39:35.220Z",
+    "job_posted_at_datetime_utc": "2026-10-29T17:39:35.220Z",
+    "id": "amazon-ecad-application-development-engineer-design-technologies-sunnyvale"
   },
   {
     "employer_name": "ABB",
@@ -73,16 +73,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Director, International Business Transformation & Strategy Execution (flexible location)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -90,6 +80,16 @@
     "job_description": "hardware engineering job for the role Director, International Business Transformation & Strategy Execution (flexible location) at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00049173/Director-International-Business-Transformation-Strategy-Execution-flexible-location",
     "id": "abb-director-international-business-transformation-strategy-execution-flexible-location-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
