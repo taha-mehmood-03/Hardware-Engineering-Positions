@@ -1,36 +1,54 @@
 [
   {
-    "job_title": "Mechanical Engineer, Electronics Packaging, Avionics Mechanical",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Mechanical Engineer, Electronics Packaging, Avionics Mechanical at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10598401/mechanical-engineer-electronics-packaging-avionics-mechanical",
-    "job_posted_at": "2026-11-06T01:09:30.646Z",
-    "job_posted_at_datetime_utc": "2026-11-06T01:09:30.646Z",
-    "id": "amazon-mechanical-engineer-electronics-packaging-avionics-mechanical-redmond"
-  },
-  {
     "job_title": "Electrical Engineer, RDPI",
     "employer_name": "Amazon",
     "job_city": "Westboro",
     "job_state": "MA",
     "job_description": "hardware engineering job for the role Electrical Engineer, RDPI at Westboro, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10399668/electrical-engineer-rdpi",
-    "job_posted_at": "2026-11-05T19:09:30.647Z",
-    "job_posted_at_datetime_utc": "2026-11-05T19:09:30.647Z",
+    "job_posted_at": "2026-11-05T18:49:25.349Z",
+    "job_posted_at_datetime_utc": "2026-11-05T18:49:25.349Z",
     "id": "amazon-electrical-engineer-rdpi-westboro"
   },
   {
-    "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast",
-    "employer_name": "Amazon",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast at Atlanta, GA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
-    "job_posted_at": "2026-10-31T03:09:30.647Z",
-    "job_posted_at_datetime_utc": "2026-10-31T03:09:30.647Z",
-    "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast-atlanta"
+    "employer_name": "Google",
+    "job_title": "Staff Hardware Engineer (Fixed-Term Contract)",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "20 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Hardware Engineer (Fixed-Term Contract)",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127517867103920838-staff-hardware-engineer-fixedterm-contract?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-staff-hardware-engineer-fixed-term-contract-san-francisco"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Signal Integrity Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Signal Integrity Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-signal-integrity-engineer/33099/102572359776",
+    "id": "arm-signal-integrity-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer, SoC SW Productization",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer, SoC SW Productization at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-software-engineer-soc-sw-productization/33099/100266710832",
+    "id": "arm-software-engineer-soc-sw-productization-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer, Infrastructure SoC Software",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Software Engineer, Infrastructure SoC Software at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-software-engineer-infrastructure-soc-software/33099/100381237328",
+    "id": "arm-software-engineer-infrastructure-soc-software-bengaluru"
   },
   {
     "employer_name": "ABB",
@@ -54,16 +72,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
-    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,6 +79,16 @@
     "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
     "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
+    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -171,6 +189,16 @@
     "job_description": "hardware engineering job for the role Process & Toolchain Expert (f/m/d) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043672/Process-Toolchain-Expert-f-m-d",
     "id": "abb-process-toolchain-expert-f-m-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Control Electronics Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role R&D Senior Control Electronics Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer",
+    "id": "abb-r-d-senior-control-electronics-engineer-beijing"
   },
   {
     "employer_name": "ABB",
@@ -374,16 +402,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Digital Solution Specialist",
-    "job_city": "Lima",
-    "job_state": "Lima",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Senior Digital Solution Specialist at Lima, Lima, Peru",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045803/Senior-Digital-Solution-Specialist",
-    "id": "abb-senior-digital-solution-specialist-lima"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "QCS Field Service Technician -Spring Grove PA",
     "job_city": "Remote",
     "job_state": "United States of America",
@@ -391,6 +409,16 @@
     "job_description": "hardware engineering job for the role QCS Field Service Technician -Spring Grove PA at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050777/QCS-Field-Service-Technician-Spring-Grove-PA",
     "id": "abb-qcs-field-service-technician-spring-grove-pa-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Digital Solution Specialist",
+    "job_city": "Lima",
+    "job_state": "Lima",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Senior Digital Solution Specialist at Lima, Lima, Peru",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045803/Senior-Digital-Solution-Specialist",
+    "id": "abb-senior-digital-solution-specialist-lima"
   },
   {
     "employer_name": "ABB",
@@ -444,16 +472,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Automation IT/OT Infrastructure Engineer",
-    "job_city": "Santiago",
-    "job_state": "Region Metropolitana de Santiago",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Automation IT/OT Infrastructure Engineer at Santiago, Region Metropolitana de Santiago, Chile",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050764/Automation-IT-OT-Infrastructure-Engineer",
-    "id": "abb-automation-it-ot-infrastructure-engineer-santiago"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Field Service Engineer - System 800xA Safety",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -481,6 +499,16 @@
     "job_description": "hardware engineering job for the role Research Scientist - Industrial communication networks at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051195/Research-Scientist-Industrial-communication-networks",
     "id": "abb-research-scientist-industrial-communication-networks-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation IT/OT Infrastructure Engineer",
+    "job_city": "Santiago",
+    "job_state": "Region Metropolitana de Santiago",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Automation IT/OT Infrastructure Engineer at Santiago, Region Metropolitana de Santiago, Chile",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050764/Automation-IT-OT-Infrastructure-Engineer",
+    "id": "abb-automation-it-ot-infrastructure-engineer-santiago"
   },
   {
     "employer_name": "ABB",
