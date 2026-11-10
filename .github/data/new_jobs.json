@@ -1,13 +1,24 @@
 [
   {
+    "job_title": "Manufacturing Engineer , AWS Board Core Design Team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "hardware engineering job for the role Manufacturing Engineer , AWS Board Core Design Team at Cupertino, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600432/manufacturing-engineer-aws-board-core-design-team",
+    "job_posted_at": "2026-11-09T20:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:54:13.920Z",
+    "id": "amazon-manufacturing-engineer-aws-board-core-design-team-cupertino"
+  },
+  {
     "job_title": "Hardware Systems Engineer, Prime Air, Avionics Hardware",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "hardware engineering job for the role Hardware Systems Engineer, Prime Air, Avionics Hardware at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10560495/hardware-systems-engineer-prime-air-avionics-hardware",
-    "job_posted_at": "2026-11-08T18:19:02.114Z",
-    "job_posted_at_datetime_utc": "2026-11-08T18:19:02.114Z",
+    "job_posted_at": "2026-11-09T01:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-09T01:54:13.920Z",
     "id": "amazon-hardware-systems-engineer-prime-air-avionics-hardware-seattle"
   },
   {
@@ -17,8 +28,8 @@
     "job_state": "WA",
     "job_description": "hardware engineering job for the role ECAD Application Engineer, Design Technologies at Redmond, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10599088/ecad-application-engineer-design-technologies",
-    "job_posted_at": "2026-11-06T18:19:02.114Z",
-    "job_posted_at_datetime_utc": "2026-11-06T18:19:02.114Z",
+    "job_posted_at": "2026-11-07T01:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-07T01:54:13.920Z",
     "id": "amazon-ecad-application-engineer-design-technologies-redmond"
   },
   {
@@ -28,8 +39,8 @@
     "job_state": "WA",
     "job_description": "hardware engineering job for the role Battery Pack Mechanical Design Engineer II, Amazon Prime Air - Electric Propulsion Subsystem at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10523339/battery-pack-mechanical-design-engineer-ii-amazon-prime-air-electric-propulsion-subsystem",
-    "job_posted_at": "2026-11-06T18:19:02.114Z",
-    "job_posted_at_datetime_utc": "2026-11-06T18:19:02.114Z",
+    "job_posted_at": "2026-11-07T01:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-07T01:54:13.920Z",
     "id": "amazon-battery-pack-mechanical-design-engineer-ii-amazon-prime-air-electric-propulsion-subsystem-seattle"
   },
   {
@@ -39,8 +50,8 @@
     "job_state": "TX",
     "job_description": "hardware engineering job for the role Hardware Development Engineer, AWS Board Core Design Team at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10598887/hardware-development-engineer-aws-board-core-design-team",
-    "job_posted_at": "2026-11-06T18:19:02.114Z",
-    "job_posted_at_datetime_utc": "2026-11-06T18:19:02.114Z",
+    "job_posted_at": "2026-11-07T01:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-07T01:54:13.920Z",
     "id": "amazon-hardware-development-engineer-aws-board-core-design-team-austin"
   },
   {
@@ -50,29 +61,19 @@
     "job_state": "MA",
     "job_description": "hardware engineering job for the role Electrical Engineer, RDPI at Westboro, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10399668/electrical-engineer-rdpi",
-    "job_posted_at": "2026-11-05T18:19:02.115Z",
-    "job_posted_at_datetime_utc": "2026-11-05T18:19:02.115Z",
+    "job_posted_at": "2026-11-06T01:54:13.920Z",
+    "job_posted_at_datetime_utc": "2026-11-06T01:54:13.920Z",
     "id": "amazon-electrical-engineer-rdpi-westboro"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Engineer – AI/ML-Driven ASIC Test and Operations Automation",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Platform Architect - AGI CPU",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Engineer – AI/ML-Driven ASIC Test and Operations Automation at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-engineer-ai-ml-driven-asic-test-and-operations-automation/33099/98153222256",
-    "id": "arm-engineer-ai-ml-driven-asic-test-and-operations-automation-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "job_description": "Hardware Engineering job for the role Principal Platform Architect - AGI CPU at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-platform-architect-agi-cpu/33099/93958008512",
+    "id": "arm-platform-architect-agi-cpu-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -86,6 +87,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior PLC Field Service Technician – Data Center Power Systems",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Senior PLC Field Service Technician – Data Center Power Systems at Available in one of 26 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049351/Senior-PLC-Field-Service-Technician-Data-Center-Power-Systems",
+    "id": "abb-senior-plc-field-service-technician-data-center-power-systems-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Order-to-Delivery Business Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -93,6 +104,26 @@
     "job_description": "hardware engineering job for the role Order-to-Delivery Business Lead at Available in one of 186 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051503/Order-to-Delivery-Business-Lead",
     "id": "abb-order-to-delivery-business-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Food and Beverage OEM",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Business Development Manager - Food and Beverage OEM at Available in one of 47 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052291/Business-Development-Manager-Food-and-Beverage-OEM",
+    "id": "abb-business-development-manager-food-and-beverage-oem-multiple"
   },
   {
     "employer_name": "ABB",
@@ -106,16 +137,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Food and Beverage OEM",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "hardware engineering job for the role Business Development Manager - Food and Beverage OEM at Available in one of 47 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00052291/Business-Development-Manager-Food-and-Beverage-OEM",
-    "id": "abb-business-development-manager-food-and-beverage-oem-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Quality Electrical Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -123,26 +144,6 @@
     "job_description": "hardware engineering job for the role Quality Electrical Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050046/Quality-Electrical-Engineer",
     "id": "abb-quality-electrical-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Utility Sales Support at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00051647/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
-    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -156,10 +157,20 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
+    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
     "id": "abb-strategic-segment-proposal-engineer-multiple"
@@ -176,10 +187,20 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Test Engineer",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Test Engineer at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038014/Test-Engineer",
+    "id": "abb-test-engineer-new-berlin"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Category Specialist - Procurement and Supply Chain",
     "job_city": "Quebec",
     "job_state": "Quebec",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Category Specialist - Procurement and Supply Chain at Quebec, Quebec, Canada",
     "job_apply_link": "https://careers.abb/global/en/job/JR00049452/Category-Specialist-Procurement-and-Supply-Chain",
     "id": "abb-category-specialist-procurement-and-supply-chain-quebec"
@@ -219,7 +240,7 @@
     "job_title": "Associate Project Engineer",
     "job_city": "Houston",
     "job_state": "Texas",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "hardware engineering job for the role Associate Project Engineer at Houston, Texas, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050950/Associate-Project-Engineer",
     "id": "abb-associate-project-engineer-houston"
@@ -299,7 +320,7 @@
     "job_title": "Test Engineering Specialist (80 - 100%)",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role Test Engineering Specialist (80 - 100%) at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051444/Test-Engineering-Specialist-80-100",
     "id": "abb-test-engineering-specialist-80-100-quartino"
@@ -319,17 +340,27 @@
     "job_title": "R&D Senior Control Electronics Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "hardware engineering job for the role R&D Senior Control Electronics Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013905/R-D-Senior-Control-Electronics-Engineer",
     "id": "abb-r-d-senior-control-electronics-engineer-beijing"
   },
   {
     "employer_name": "ABB",
+    "job_title": "Electronic Engineer 电子研发工程师 (SSCB方向）",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Electronic Engineer 电子研发工程师 (SSCB方向） at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052090/Electronic-Engineer-电子研发工程师-SSCB方向）",
+    "id": "abb-electronic-engineer-sscb-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Automation Engineer - B&R Automation",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "hardware engineering job for the role Automation Engineer - B&R Automation at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051983/Automation-Engineer-B-R-Automation",
     "id": "abb-automation-engineer-b-r-automation-krakow"
@@ -369,10 +400,20 @@
     "job_title": "Power Electronic Engineer SSCB Platform",
     "job_city": "Bergamo",
     "job_state": "Bergamo",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role Power Electronic Engineer SSCB Platform at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045695/Power-Electronic-Engineer-SSCB-Platform",
     "id": "abb-power-electronic-engineer-sscb-platform-bergamo"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Power Electronic RD engineer",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Power Electronic RD engineer at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00051962/Power-Electronic-RD-engineer",
+    "id": "abb-power-electronic-rd-engineer-xiamen"
   },
   {
     "employer_name": "ABB",
@@ -399,7 +440,7 @@
     "job_title": "Project Technical Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "hardware engineering job for the role Project Technical Engineer at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046866/Project-Technical-Engineer",
     "id": "abb-project-technical-engineer-shanghai"
@@ -439,7 +480,7 @@
     "job_title": "Trainee/Project Support - Talent Pool",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
+    "job_posted_at": "5 weeks ago",
     "job_description": "hardware engineering job for the role Trainee/Project Support - Talent Pool at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025610/Trainee-Project-Support-Talent-Pool",
     "id": "abb-trainee-project-support-talent-pool-multiple"
@@ -459,7 +500,7 @@
     "job_title": "Project Lead Engineer - Process Automation, Cheonan",
     "job_city": "Cheonan-si",
     "job_state": "Chungcheongnam-do",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role Project Lead Engineer - Process Automation, Cheonan at Cheonan-si, Chungcheongnam-do, Republic of Korea",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047451/Project-Lead-Engineer-Process-Automation-Cheonan",
     "id": "abb-project-lead-engineer-process-automation-cheonan-cheonan-si"
@@ -479,7 +520,7 @@
     "job_title": "IS Technology Specialist / Focus SAP (f/m/d)",
     "job_city": "Sasbach",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "3 weeks ago",
+    "job_posted_at": "4 weeks ago",
     "job_description": "hardware engineering job for the role IS Technology Specialist / Focus SAP (f/m/d) at Sasbach, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035647/IS-Technology-Specialist-Focus-SAP-f-m-d",
     "id": "abb-is-technology-specialist-focus-sap-f-m-d-sasbach"
@@ -509,7 +550,7 @@
     "job_title": "Segment Marketing",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Segment Marketing at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00045197/Segment-Marketing",
     "id": "abb-segment-marketing-multiple"
@@ -559,7 +600,7 @@
     "job_title": "Research Scientist - Industrial communication networks",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Research Scientist - Industrial communication networks at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051195/Research-Scientist-Industrial-communication-networks",
     "id": "abb-research-scientist-industrial-communication-networks-vaesteras"
@@ -569,7 +610,7 @@
     "job_title": "Automation IT/OT Infrastructure Engineer",
     "job_city": "Santiago",
     "job_state": "Region Metropolitana de Santiago",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "hardware engineering job for the role Automation IT/OT Infrastructure Engineer at Santiago, Region Metropolitana de Santiago, Chile",
     "job_apply_link": "https://careers.abb/global/en/job/JR00050764/Automation-IT-OT-Infrastructure-Engineer",
     "id": "abb-automation-it-ot-infrastructure-engineer-santiago"
@@ -589,7 +630,7 @@
     "job_title": "Thesis Work for Seeing Is Verifying: Simulation-in-the-Loop Development of AI-Generated Robot Programs with Local Vision-Language Models",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "hardware engineering job for the role Thesis Work for Seeing Is Verifying: Simulation-in-the-Loop Development of AI-Generated Robot Programs with Local Vision-Language Models at Not Specific",
     "job_apply_link": "https://careers.abb/global/en/job/JR00052638/Thesis-Work-for-Seeing-Is-Verifying-Simulation-in-the-Loop-Development-of-AI-Generated-Robot-Programs-with-Local-Vision-Language-Models",
     "id": "abb-thesis-work-for-seeing-is-verifying-simulation-in-the-loop-development-of-ai-generated-robot-programs-with-local-vision-language-models-not-specific"
@@ -599,7 +640,7 @@
     "job_title": "Senior Power Electronics Engineer",
     "job_city": "Bergamo",
     "job_state": "Bergamo",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "hardware engineering job for the role Senior Power Electronics Engineer at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043827/Senior-Power-Electronics-Engineer",
     "id": "abb-senior-power-electronics-engineer-bergamo"
@@ -609,19 +650,9 @@
     "job_title": "供应商质量经理",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "hardware engineering job for the role 供应商质量经理 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046607/供应商质量经理",
     "id": "abb--beijing"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Applications Engineer | MPP",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Applications Engineer | MPP at Austin, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25018490/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-applications-engineer-mpp-austin"
   }
 ]
