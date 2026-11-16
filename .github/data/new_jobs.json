@@ -1,36 +1,25 @@
 [
   {
+    "job_title": "Infrastructure TPM, Infra Capacity Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Infrastructure TPM, Infra Capacity Delivery at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10605919/infrastructure-tpm-infra-capacity-delivery",
+    "job_posted_at": "2026-11-16T15:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-16T15:56:58.038Z",
+    "id": "amazon-infrastructure-tpm-infra-capacity-delivery-arlington"
+  },
+  {
     "job_title": "Drone Battery Pack Design Engineer II, Prime Air",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "hardware engineering job for the role Drone Battery Pack Design Engineer II, Prime Air at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10603974/drone-battery-pack-design-engineer-ii-prime-air",
-    "job_posted_at": "2026-11-16T06:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-16T06:39:53.881Z",
+    "job_posted_at": "2026-11-16T05:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-16T05:56:58.038Z",
     "id": "amazon-drone-battery-pack-design-engineer-ii-prime-air-seattle"
-  },
-  {
-    "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - East at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
-    "job_posted_at": "2026-11-14T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-14T07:39:53.881Z",
-    "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-east-herndon"
-  },
-  {
-    "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
-    "employer_name": "Amazon",
-    "job_city": "Boardman",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast at Boardman, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
-    "job_posted_at": "2026-11-14T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-14T07:39:53.881Z",
-    "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-west-coast-boardman"
   },
   {
     "job_title": "Global Category Manager, Compute and Network, Electro-Mechanical Strategic Sourcing Team",
@@ -39,8 +28,8 @@
     "job_state": "MA",
     "job_description": "hardware engineering job for the role Global Category Manager, Compute and Network, Electro-Mechanical Strategic Sourcing Team at N.reading, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10603864/global-category-manager-compute-and-network-electro-mechanical-strategic-sourcing-team",
-    "job_posted_at": "2026-11-13T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-13T07:39:53.881Z",
+    "job_posted_at": "2026-11-13T17:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:56:58.038Z",
     "id": "amazon-global-category-manager-compute-and-network-electro-mechanical-strategic-sourcing-team-n-reading"
   },
   {
@@ -50,9 +39,31 @@
     "job_state": "OR",
     "job_description": "hardware engineering job for the role Critical Infrastructure Controls Engineer, Data Center Field Engineering at Umatilla, OR, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10497221/critical-infrastructure-controls-engineer-data-center-field-engineering",
-    "job_posted_at": "2026-11-13T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-13T07:39:53.881Z",
+    "job_posted_at": "2026-11-13T17:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:56:58.038Z",
     "id": "amazon-critical-infrastructure-controls-engineer-data-center-field-engineering-umatilla"
+  },
+  {
+    "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - East at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+    "job_posted_at": "2026-11-13T17:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:56:58.038Z",
+    "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-east-herndon"
+  },
+  {
+    "job_title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+    "employer_name": "Amazon",
+    "job_city": "Boardman",
+    "job_state": "OR",
+    "job_description": "hardware engineering job for the role Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast at Boardman, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
+    "job_posted_at": "2026-11-13T17:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:56:58.038Z",
+    "id": "amazon-data-center-infrastructure-engineer-intern-summer-2027-west-coast-boardman"
   },
   {
     "job_title": "Manufacturing Engineer, AWS Power Electronics",
@@ -61,20 +72,19 @@
     "job_state": "CA",
     "job_description": "hardware engineering job for the role Manufacturing Engineer, AWS Power Electronics at Cupertino, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600462/manufacturing-engineer-aws-power-electronics",
-    "job_posted_at": "2026-11-11T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-11T07:39:53.881Z",
+    "job_posted_at": "2026-11-11T17:56:58.038Z",
+    "job_posted_at_datetime_utc": "2026-11-11T17:56:58.038Z",
     "id": "amazon-manufacturing-engineer-aws-power-electronics-cupertino"
   },
   {
-    "job_title": "Manufacturing Engineer , AWS Board Core Design Team",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
+    "employer_name": "Google",
+    "job_title": "Lead CPU Design Verification Engineer",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_description": "hardware engineering job for the role Manufacturing Engineer , AWS Board Core Design Team at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600432/manufacturing-engineer-aws-board-core-design-team",
-    "job_posted_at": "2026-11-10T07:39:53.881Z",
-    "job_posted_at_datetime_utc": "2026-11-10T07:39:53.881Z",
-    "id": "amazon-manufacturing-engineer-aws-board-core-design-team-cupertino"
+    "job_posted_at": "Recently",
+    "job_description": "32 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead CPU Design Verification Engineer, gCPU",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104348367525421766-lead-cpu-design-verification-engineer-gcpu?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-lead-cpu-design-verification-engineer-mountain-view"
   },
   {
     "employer_name": "ABB",
@@ -108,26 +118,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Quality Electrical Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -148,43 +138,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Inside Sales Specialist",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician (West Region)",
     "job_city": "Remote",
     "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Inside Sales Specialist at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048154/Inside-Sales-Specialist",
-    "id": "abb-inside-sales-specialist-remote"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (West Region) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045452/Senior-Field-Service-Technician-West-Region",
+    "id": "abb-senior-field-service-technician-west-region-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
+    "job_title": "Senior Field Service Technician (West Region)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Senior Field Service Technician at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048313/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Technician (West Region) at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045454/Senior-Field-Service-Technician-West-Region",
+    "id": "abb-senior-field-service-technician-west-region-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Operations Manager — Data Center Division",
+    "job_title": "Gas Insulated Switchgear Commissioning Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Field Service Operations Manager — Data Center Division at Available in one of 54 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049611/Field-Service-Operations-Manager-—-Data-Center-Division",
-    "id": "abb-field-service-operations-manager-data-center-division-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician-Gary, IN",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Resident Field Service Technician-Gary, IN at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Gas Insulated Switchgear Commissioning Engineer at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00049613/Gas-Insulated-Switchgear-Commissioning-Engineer",
+    "id": "abb-gas-insulated-switchgear-commissioning-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -195,6 +195,46 @@
     "job_description": "hardware engineering job for the role System Drives Field Service Technician at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034560/System-Drives-Field-Service-Technician",
     "id": "abb-system-drives-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Technical Support Specialist",
+    "job_city": "Auburn Hills",
+    "job_state": "Michigan",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Robotics Technical Support Specialist at Auburn Hills, Michigan, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00051650/Robotics-Technical-Support-Specialist",
+    "id": "abb-robotics-technical-support-specialist-auburn-hills"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Demand Field Service Technician",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
+    "id": "abb-associate-demand-field-service-technician-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "QCS Field Service Technician -Spring Grove PA",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role QCS Field Service Technician -Spring Grove PA at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050777/QCS-Field-Service-Technician-Spring-Grove-PA",
+    "id": "abb-qcs-field-service-technician-spring-grove-pa-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Engineer - System 800xA Safety",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Field Service Engineer - System 800xA Safety at Available in one of 10 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016782/Senior-Field-Service-Engineer-System-800xA-Safety",
+    "id": "abb-senior-field-service-engineer-system-800xa-safety-multiple"
   },
   {
     "employer_name": "ABB",
@@ -448,13 +488,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Demand Field Service Technician",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Associate Demand Field Service Technician at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037045/Associate-Demand-Field-Service-Technician",
-    "id": "abb-associate-demand-field-service-technician-cleveland"
+    "job_title": "(80 - 100%) Senior Technical Specialist",
+    "job_city": "Baden",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role (80 - 100%) Senior Technical Specialist at Baden, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050926/-80-100-Senior-Technical-Specialist",
+    "id": "abb-80-100-senior-technical-specialist-baden"
   },
   {
     "employer_name": "ABB",
@@ -485,16 +525,6 @@
     "job_description": "hardware engineering job for the role Project Engineer – Control and Drive Technology (f/m/d) at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047812/Project-Engineer-Control-and-Drive-Technology-f-m-d",
     "id": "abb-project-engineer-control-and-drive-technology-f-m-d-mannheim"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "QCS Field Service Technician -Spring Grove PA",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role QCS Field Service Technician -Spring Grove PA at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050777/QCS-Field-Service-Technician-Spring-Grove-PA",
-    "id": "abb-qcs-field-service-technician-spring-grove-pa-remote"
   },
   {
     "employer_name": "ABB",
@@ -545,6 +575,16 @@
     "job_description": "hardware engineering job for the role MV Final - Production Operator - 3rd Shift at Pinetops, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00052051/MV-Final-Production-Operator-3rd-Shift",
     "id": "abb-mv-final-production-operator-3rd-shift-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Support (w/m/d)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Technical Support (w/m/d) at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037872/Technical-Support-w-m-d",
+    "id": "abb-technical-support-w-m-d-multiple"
   },
   {
     "employer_name": "ABB",
@@ -688,16 +728,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Technical Support Specialist",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "4 days ago",
-    "job_description": "hardware engineering job for the role Robotics Technical Support Specialist at Auburn Hills, Michigan, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00051650/Robotics-Technical-Support-Specialist",
-    "id": "abb-robotics-technical-support-specialist-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Power System Control Engineer",
     "job_city": "Richmond",
     "job_state": "Virginia",
@@ -705,5 +735,35 @@
     "job_description": "hardware engineering job for the role R&D Power System Control Engineer at Richmond, Virginia, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00047750/R-D-Power-System-Control-Engineer",
     "id": "abb-r-d-power-system-control-engineer-richmond"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Systems Engineer — Sensor Prototyping",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Systems Engineer — Sensor Prototyping at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Systems-Engineer---Sensor-Prototyping_R268536?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-systems-engineer-sensor-prototyping-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Algorithms/ML Modeling Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Algorithms/ML Modeling Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithms-ML-Modeling-Engineer_R268535?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithms-ml-modeling-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Software Engineering Intern (Medical Device & Healthcare Integration)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Software Engineering Intern (Medical Device & Healthcare Integration) at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-software-engineering-intern-medical-device-healthcare-integration-us"
   }
 ]
