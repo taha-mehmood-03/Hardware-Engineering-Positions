@@ -1,6 +1,4 @@
 [
-  "amazon-power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
-  "amazon-power-test-liaison-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
   "amazon-pre-construction-manager-amer-southeast-ml-data-center-pre-construction-atlanta",
   "amazon-pre-construction-manager-amer-west-data-center-construction-dallas",
   "amazon-pre-construction-manager-d-c-bellevue",
@@ -4768,7 +4766,9 @@
   "ibm-application-developer-mainframe-modernization-zos-hcam-no-city",
   "ibm-application-developer-multiple-cities",
   "ibm-application-developer-no-city",
+  "ibm-application-developer-oracle-ebs-bellevue",
   "ibm-application-developer-oracle-ebs-dallas",
+  "ibm-application-developer-oracle-ebs-tempe",
   "ibm-application-developer-paramus",
   "ibm-application-developer-portals-dallas",
   "ibm-application-developer-portals-paramus",
