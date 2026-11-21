@@ -1,6 +1,4 @@
 [
-  "amazon-power-systems-engineer-aws-global-energy-herndon",
-  "amazon-power-systems-test-engineer-amazon-leo-redmond",
   "amazon-power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
   "amazon-power-test-liaison-engineer-satellite-power-hardware-in-the-loop-amazon-leo-redmond",
   "amazon-pre-construction-manager-amer-southeast-ml-data-center-pre-construction-atlanta",
@@ -4777,6 +4775,7 @@
   "ibm-application-developer-richardson",
   "ibm-application-developer-sap-abap-hana-multiple-cities",
   "ibm-application-developer-sap-abap-hana-paramus",
+  "ibm-application-developer-sap-abap-no-city",
   "ibm-application-developer-sap-abap-paramus",
   "ibm-application-developer-sap-abap-philadelphia",
   "ibm-application-developer-sap-abap-san-francisco",
@@ -6958,6 +6957,7 @@
   "ibm-systems-architect-no-city",
   "ibm-systems-engineer-multiple-cities",
   "ibm-systems-engineer-ts-sci-fsp-annapolis-junction",
+  "ibm-systems-engineer-ts-sci-with-full-scope-poly-annapolis-junction",
   "ibm-systems-integration-engineer-multiple-cities",
   "ibm-systems-programmer-multiple-cities",
   "ibm-systems-service-representative-bethesda",
